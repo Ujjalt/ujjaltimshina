@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "MTH204: ODE/PDEs and Numerical Methods"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2025-spring-mth204
+venue: "IIIT Delhi, School of Mathematics"
+date: 2025-01-01
+location: "New Delhi, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As a Teaching Assistant for the undergraduate course **MTH204: ODE/PDEs and Numerical Methods** in Spring 2025 at IIIT Delhi, I was involved in assisting with tutorials, grading assignments, solving student queries, and helping with exam preparation. 
 
-Heading 1
-======
+### Responsibilities
+- Conducted weekly tutorial sessions.
+- Supported students in understanding theoretical and computational aspects.
+- Evaluated quizzes, assignments, and mid-semester exams.
+- Held regular office hours for doubt clearing.
 
-Heading 2
-======
-
-Heading 3
-======
+### Course Overview
+This course covered ordinary and partial differential equations and their numerical solutions. Students were introduced to various analytical and computational methods used to solve real-world problems in applied mathematics and engineering.
