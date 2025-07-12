@@ -9,50 +9,44 @@ redirect_from:
 
 Hello! Welcome to my homepage!
 
+---
+permalink: /
+title: "Ujjal Timshina"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+Hello! Welcome to my homepage!
 
+I am a PhD scholar in the Department of Mathematics at the [Indraprastha Institute of Information Technology Delhi (IIIT Delhi)](https://www.iiitd.ac.in/people/phd/current), working under the supervision of [Dr. Prahllad Deb](https://www.iiitd.ac.in/prahllad). I joined IIIT Delhi after receiving the prestigious **INSPIRE Research Fellowship** from the Department of Science and Technology, Government of India.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+---
+My primary research interests lie in **functional analysis**, particularly the **Cowen-Douglas class of operators**, with connections to **complex analysis** and **non-commutative function theory**. In addition, I am interested in:
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- **[Differential geometry](https://en.wikipedia.org/wiki/Differential_geometry)** — the study of smooth manifolds and geometric structures using calculus and linear algebra,
+- **[Differential topology](https://en.wikipedia.org/wiki/Differential_topology)** — focusing on properties of smooth manifolds that are invariant under diffeomorphisms, and
+- **[Algebraic topology](https://en.wikipedia.org/wiki/Algebraic_topology)** — which uses algebraic tools to study topological spaces and continuous mappings.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I completed my M.Sc. in Mathematics from [Sikkim University](https://cus.ac.in/), a central university established under an Act of Parliament, Government of India. I graduated with a **CGPA of 9.81** and received the **University Gold Medal**. My M.Sc. thesis, titled *"Nets & Filters in Topology"*, was carried out under the supervision of [Dr. Namita Behera](https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2).
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+Outside of mathematics, I enjoy teaching, academic outreach, and writing. I am the author of the book *Beyond Answers: Beauty of Mathematical Questions*, available on Amazon and Notion Press.  
+I regularly participate in Olympiad training camps, lecture series, and workshops to promote mathematics among students.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+In my spare time, I engage with writing, web customization, and exploring educational tools. You can find my **talks and presentations** (some with slides) [here](https://sites.google.com/iiitd.ac.in/ujjal-timshina/about).  
+📄 My updated **CV** is available [here](https://drive.google.com/file/d/16XAuhtTij6adKfIaDxyOQ4UesiZiRTZ3/view?usp=sharing) *(last updated: 20 April 2025)*.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+---
+For me, research is a quiet and deliberate journey into abstraction—an exploration shaped not only by logic but also by creativity, persistence, and a willingness to embrace uncertainty. I view mathematics as both a tool for discovering truth and a language of elegant expression.  
+I see research not as the pursuit of immediate answers, but as a recursive process: definitions evolve, intuitions are tested, and understanding emerges—**layer by layer**—through reflection and refinement.
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Above all, I believe research is sustained by **patience**, **humility**, and **wonder**. It is in revisiting ideas—not in repetition, but in renewal—that true insight begins to take form.
 
-**Markdown generator**
+> *"To think deeply is to return continuously, never in repetition, but in renewal."*
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+> *"Lifelong learning is not a path you walk to a destination —  
+it is the path that keeps you moving, growing, and discovering who you truly are.  
+We forget, falter, and return — not in failure, but in pursuit.  
+For in the recursive rhythm of thought,  
+understanding does not appear fully formed,  
+but emerges — layer by layer — through the patient erosion of illusion."*
