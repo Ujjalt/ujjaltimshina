@@ -8,18 +8,18 @@
 
 # Basic Site Settings
 # Basic Site Settings
+# Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Ujjal Timshina"
 title_separator          : "-"
 name                     : &name "Ujjal Timshina"
 description              : &description "personal description"
-url                      : "https://ujjalt.github.io"  # ✅ your correct GitHub Pages URL
+url                      : "https://ujjalt.github.io"  # ✅ Your site URL
+baseurl                  : ""  # ✅ Leave this blank unless it's a project page
+repository               : "ujjalt/ujjaltimshina"  # ✅ Your GitHub repo name
 
-Resources
- # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : ""  # ✅ leave empty unless it's a project site
-repository               : "ujjalt/ujjaltimshina"  # ✅ your actual repo
+
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
