@@ -82,4 +82,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* ### Departmental Representative, Department of Mathematics  
+**Sikkim University Students' Association**, Sikkim University (2022–2023)
+
+As the elected Departmental Representative, I actively contributed to fostering academic dialogue and a sense of community within the Department of Mathematics. I chaired multiple meetings of the **Sikkim University Mathematical Society (SUMS)** and led the drafting of the **SUMS Constitution**—a first-of-its-kind initiative at the university. This constitution laid the foundation for the society’s structure and activities, promoting long-term engagement in mathematical discussions, events, and peer-led initiatives.
