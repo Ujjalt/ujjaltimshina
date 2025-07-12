@@ -2,7 +2,7 @@
 title: "MTH204: ODE/PDEs and Numerical Methods"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-spring-mth204
+permalink: "https://iiitd.ac.in/courserepo/course-full-description.php?course_number=MTH204"
 venue: "IIIT Delhi, School of Mathematics"
 date: 2025-01-01
 location: "New Delhi, India"
