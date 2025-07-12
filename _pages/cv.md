@@ -8,38 +8,59 @@ redirect_from:
 ---
 
 {% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **Ph.D. in Mathematics**, IIIT Delhi — *2024–Present*  
+  Advisor: Dr. Prahllad Deb  
+  Research Areas: Functional Analysis (Cowen-Douglas Theory), Complex Analysis, Non-commutative Analysis
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **M.Sc. in Mathematics**, Sikkim University — *2021–2023*  
+  CGPA: 9.81 *(University Gold Medalist)*  
+  Thesis: *Nets & Filters in Topology*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **B.Sc. in Mathematics (Hons.)**, Nar Bahadur Bhandari Government College — *2018–2021*  
+  CGPA: 8.0
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Higher Secondary (XII)**, Central Pendam (CBSE) — *2018*  
+  Percentage: 74.4%
+
+- **Secondary (X)**, Central Pendam (CBSE) — *2016*  
+  CGPA: 7.6
+
+---
+
+## Work Experience
+
+- **Teaching Assistant**, IIIT Delhi — *Spring 2025*  
+  Course: MTH204 ODE/PDEs and Numerical Methods  
+  Responsibilities: Conducted tutorials, evaluated assignments, supported course logistics.
+
+- **Teaching Assistant**, IIIT Delhi — *Fall 2024*  
+  Course: MTH100 Linear Algebra  
+  Responsibilities: Tutorial instruction, assignment checking, and student mentoring.
+
+- **Guest Lecturer**, Sikkim Global Technical University — *Oct 2023 – Mar 2024*  
+  Delivered lectures in undergraduate mathematics.
+
+---
+
+## Skills
+
+- **Pure Mathematics**
+  - Functional Analysis
+  - Complex Analysis
+  - Topology
+
+- **Teaching & Communication**
+  - Academic Presentations
+  - Undergraduate Instruction
+
+- **Technical**
+  - LaTeX
+  - GitHub for academic collaboration
+  - Google Sites for academic profiles
+
+
 
 Publications
 ======
