@@ -16,6 +16,9 @@ title_separator          : "-"
 name                     : &name "Ujjal Timshina"
 description              : &description "personal description"
 url                      : "https://ujjalt.github.io"  # ✅ Your site URL
+
+Resources
+
 baseurl                  : ""  # ✅ Leave this blank unless it's a project page
 repository               : "ujjalt/ujjaltimshina"  # ✅ Your GitHub repo name
 
