@@ -10,7 +10,6 @@ I have completed doctoral-level coursework in **Functional Analysis**, **Complex
 
 ---
 
-### Mathematical Philosophy
 
 For me, research is a quiet and deliberate journey into abstraction—an exploration shaped not only by logic but also by creativity, persistence, and a willingness to embrace uncertainty. I view mathematics as both a tool for discovering truth and a language of elegant expression.  
 
