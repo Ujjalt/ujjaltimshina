@@ -33,31 +33,31 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "IIIT, Delhi",
+      "area": "Ph.D in Complex Analysis and Operator Theory",
+      "studyType": "Regualar",
+      "startDate": "2024",
+      "endDate": "2019",
+      "gpa": "A",
+      
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "institution": "Sikkim University",
+      "area": "M.Sc. in Mathematics",
+      "studyType": "Regular",
+      "startDate": "2021",
+      "endDate": "2023",
+      "gpa": "9.81",
+
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Sikkim University",
+      "area": "B.Sc. in Mathematics",
+      "studyType": "Regular",
+      "startDate": "2018",
+      "endDate": "2021",
+      "gpa": "8",
+      
     }
   ],
   "skills": [],
