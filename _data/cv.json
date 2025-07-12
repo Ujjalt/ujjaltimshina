@@ -1,152 +1,167 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Ujjal Timshina",
+    "email": "ujjalt@iiitd.ac.in",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://sites.google.com/iiitd.ac.in/ujjal-timshina/about",
+    "summary": "Research Scholar, Department of Mathematics, IIIT Delhi. Interested in Functional Analysis, Complex Analysis, and Non-commutative Analysis.",
     "location": {
-      "address": "",
+      "address": "Maryam Mirjakhani Research Lab (B-313)",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "New Delhi",
+      "countryCode": "IN",
+      "region": "Delhi"
     },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
+    "profiles": []
   },
-  "work": [],
+  "work": [
+    {
+      "position": "Teaching Assistant",
+      "startDate": "2025-01",
+      "endDate": "2025-05",
+      "institution": "IIIT Delhi",
+      "summary": "Course: MTH204 ODE/PDEs and Numerical Methods"
+    },
+    {
+      "position": "Teaching Assistant",
+      "startDate": "2024-08",
+      "endDate": "2024-12",
+      "institution": "IIIT Delhi",
+      "summary": "Course: MTH100 Linear Algebra"
+    },
+    {
+      "position": "Guest Lecturer",
+      "startDate": "2023-10",
+      "endDate": "2024-03",
+      "institution": "Sikkim Global Technical University, Namchi",
+      "summary": ""
+    }
+  ],
   "education": [
     {
-      "institution": "IIIT, Delhi",
-      "area": "Ph.D in Complex Analysis and Operator Theory",
-      "studyType": "Regualar",
+      "institution": "IIIT Delhi",
+      "area": "Ph.D. Mathematics",
+      "studyType": "",
       "startDate": "2024",
-      "endDate": "2019",
-      "gpa": "A",
-      
+      "endDate": "",
+      "gpa": null,
+      "courses": [],
+      "advisor": "Dr. Prahllad Deb"
     },
     {
       "institution": "Sikkim University",
-      "area": "M.Sc. in Mathematics",
-      "studyType": "Regular",
+      "area": "M.Sc. Mathematics",
+      "studyType": "",
       "startDate": "2021",
       "endDate": "2023",
       "gpa": "9.81",
-
+      "courses": [],
+      "thesis": "Nets & Filters in Topology"
     },
     {
-      "institution": "Sikkim University",
-      "area": "B.Sc. in Mathematics",
-      "studyType": "Regular",
+      "institution": "Nar Bahadur Bhandari Government College",
+      "area": "B.Sc. Mathematics (Hons.)",
+      "studyType": "",
       "startDate": "2018",
       "endDate": "2021",
-      "gpa": "8",
-      
+      "gpa": "8.0",
+      "courses": []
+    },
+    {
+      "institution": "Govt. Senior Secondary School, Central Pendam",
+      "area": "Higher Secondary (Class XII)",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2018",
+      "gpa": "74.4%",
+      "courses": []
+    },
+    {
+      "institution": "Govt. Senior Secondary School, Central Pendam",
+      "area": "Secondary (Class X)",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2016",
+      "gpa": "7.6 CGPA",
+      "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": [
+    { "language": "English", "fluency": "academic fluency" },
+    { "language": "Hindi", "fluency": "professional working" },
+    { "language": "Nepali", "fluency": "native" }
+  ],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Beyond Answers: Beauty of Mathematical Questions",
+      "publisher": "Amazon and Notion Press",
+      "releaseDate": "",
+      "website": "",
+      "summary": "Published book showcasing deep mathematical thinking and pedagogy."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "Geometry & Topology Lectures",
+      "event": "IIIT Delhi Summer Program",
+      "date": "2025",
+      "location": "New Delhi, India",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
+      "name": "Introduction to Nets and Filters in Topology",
+      "event": "PhD Seminar Series, IIIT Delhi",
+      "date": "2024",
+      "location": "New Delhi, India",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
+      "name": "Transformation Geometry: Symmetries of Regular Shapes",
+      "event": "INMO Training Camp, SMIT Sikkim",
+      "date": "2024",
+      "location": "Sikkim, India",
       "description": ""
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Career Aspects in Mathematics",
+      "event": "Sikkim Government College, Rhenock (DST Sikkim)",
+      "date": "2024",
+      "location": "Sikkim, India",
+      "description": ""
+    },
+    {
+      "name": "Career Aspects of Mathematics",
+      "event": "Govt. Senior Secondary School, Daramdin (DST Sikkim)",
+      "date": "2024",
+      "location": "Sikkim, India",
       "description": ""
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "MTH204 ODE/PDEs and Numerical Methods",
+      "institution": "IIIT Delhi",
+      "date": "2025-01",
+      "role": "Teaching Assistant",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "MTH100 Linear Algebra",
+      "institution": "IIIT Delhi",
+      "date": "2024-08",
+      "role": "Teaching Assistant",
+      "description": ""
+    },
+    {
+      "course": "Guest Lectures",
+      "institution": "Sikkim Global Technical University, Namchi",
+      "date": "2023-10",
+      "role": "Guest Lecturer",
       "description": ""
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
