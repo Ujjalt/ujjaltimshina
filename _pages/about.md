@@ -32,7 +32,7 @@ but emerges — layer by layer — through the patient erosion of illusion.*
 
 ---
 
-Beyond mathematics, I am deeply committed to teaching, outreach, and academic communication. I have worked as a teaching assistant at IIIT Delhi and served as a guest lecturer at Sikkim Global Technical University. I also actively participate in mathematics Olympiad training camps, workshops, and student mentoring activities.
+Beyond mathematical research, I am deeply committed to teaching, outreach, and academic communication. I have worked as a teaching assistant at IIIT Delhi and served as a guest lecturer at Sikkim Global Technical University. I also actively participate in mathematics Olympiad training camps, workshops, and student mentoring activities.
 
 I am the author of *Beyond Answers: Beauty of Mathematical Questions*, a book reflecting my passion for inquiry-based learning in mathematics. It is available on  
  [Amazon](https://www.amazon.in/Beyond-Answers-Mathematical-Questions-Thought-ebook/dp/B0CTRY5HRB) and [Notion Press](https://notionpress.com/in/read/beyond-answers-the-beauty-of-mathematical-questions/).
