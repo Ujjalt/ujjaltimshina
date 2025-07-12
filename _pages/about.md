@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Ujjal Timshina"
 author_profile: true
@@ -5,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 
 
 Hello! Welcome to my homepage!
