@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 2"
+title: "MTH100: Linear Algebra"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2024-fall-mth100
+venue: "IIIT Delhi, School of Mathematics"
+date: 2024-08-01
+location: "New Delhi, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I served as a Teaching Assistant for **MTH100: Linear Algebra** during Fall 2024 at IIIT Delhi. This foundational undergraduate course introduced students to key concepts in linear algebra, both theoretical and applied.
 
-Heading 1
-======
+### Responsibilities
+- Led tutorial sessions focusing on conceptual understanding and problem-solving.
+- Assisted in designing and grading weekly assignments and exams.
+- Provided academic support to students through scheduled office hours and discussion forums.
 
-Heading 2
-======
-
-Heading 3
-======
+### Course Overview
+The course covered systems of linear equations, vector spaces, linear transformations, eigenvalues and eigenvectors, and applications of linear algebra in computational and data sciences.
