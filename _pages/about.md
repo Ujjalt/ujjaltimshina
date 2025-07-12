@@ -1,3 +1,12 @@
+permalink: /
+title: "Ujjal Timshina"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 Hello! Welcome to my homepage!
 
 My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the [Indraprastha Institute of Information Technology Delhi (IIIT Delhi)](https://www.iiitd.ac.in/people/phd/current), working under the supervision of [Dr. Prahllad Deb](https://www.iiitd.ac.in/prahllad). I joined IIIT Delhi after being awarded the prestigious [INSPIRE Research Fellowship](https://online-inspire.gov.in/) by the Department of Science and Technology (DST), Government of India.
