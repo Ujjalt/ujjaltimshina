@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "IMG_1458.png"
-  name             : "Your Sidebar Name"
+  name             : "Ujjal Timshina"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "New Delhi, India"
+  employer         : "IIIT, Delhi"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ujjalt@iiitd.ac.in" 
 
   # Academic websites
   academia         : # URL
