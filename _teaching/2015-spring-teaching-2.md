@@ -8,12 +8,13 @@ date: 2024-08-01
 location: "New Delhi, India"
 ---
 
-I served as a Teaching Assistant for **MTH100: Linear Algebra** during Fall 2024 at IIIT Delhi. This foundational undergraduate course introduced students to key concepts in linear algebra, both theoretical and applied.
+I served as a Teaching Assistant for **MTH100: Linear Algebra** during Fall 2024 at IIIT Delhi. This core undergraduate course introduced students to fundamental linear algebraic structures and their applications in science and engineering.
 
 ### Responsibilities
-- Led tutorial sessions focusing on conceptual understanding and problem-solving.
-- Assisted in designing and grading weekly assignments and exams.
-- Provided academic support to students through scheduled office hours and discussion forums.
+- Led a team of **15 Teaching Assistants** for a class of **321 students**.
+- Conducted weekly tutorial sessions and held regular office hours (~12 hours/week).
+- Graded assignments, quizzes, and exams.
+- Mentored students academically and guided them through conceptual and problem-solving challenges.
 
 ### Course Overview
-The course covered systems of linear equations, vector spaces, linear transformations, eigenvalues and eigenvectors, and applications of linear algebra in computational and data sciences.
+Topics included systems of linear equations, matrix theory, vector spaces, inner products, linear transformations, eigenvalues and eigenvectors, and real-world applications.
