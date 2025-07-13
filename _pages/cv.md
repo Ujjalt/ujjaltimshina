@@ -64,46 +64,57 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 - *Departmental Poster Presentation*, DST Sikkim, 2022  
 
 ---
-
 ## Conferences, Workshops & Academic Engagements
 
-### Conferences & Summer Schools
+<details>
+<summary><strong>Conferences & Summer Schools</strong></summary>
 
 - **Math IntroSeries – Generalized Weyl Algebras and Their Representations**  
-  *University of the Philippines Diliman, NEHU, MSU-IIT, CMU, Linnaeus University* — *June 30 – July 10, 2025*
+  University of the Philippines Diliman, NEHU, MSU-IIT, CMU, Linnaeus University — *June 30 – July 10, 2025*
 
 - **Selected Participant**: *Dynamical Systems and Fractal Geometry*, University of North Texas — *May 2024*
 
 - **Selected Participant**: *Mathematics of Random Systems*, RIMS, Kyoto University — *September 2023*
 
-- **CREST School on Applied Combinatorics** — *TCG CREST, Kolkata* — *July 2022*
+- **CREST School on Applied Combinatorics** — TCG CREST, Kolkata — *July 2022*
 
 - **National Seminar on Topology**, NEHU, Shillong — *2022*
 
 - **International Webinar on Fundamental Mathematics**, Assam Kaziranga University — *August 30 – Sept 1, 2022*
 
-### Workshops
+</details>
 
-- **Young Mathematicians in Operator Algebra (YMOA)** — *ISI Delhi, March 2025*  
+<details>
+<summary><strong>Workshops</strong></summary>
+
+- **Young Mathematicians in Operator Algebra (YMOA)** — ISI Delhi, *March 2025*  
 - **Graph Theory and Applications**, NBBGC — *2023*  
 - **Recent Advances in Mathematics**, Calcutta University — *2022*  
 - **Research Data Management**, Bennett University — *2022*  
 - **Number Theory Series**, SLIET — *2023*
 
-### Instructional Programs
+</details>
 
-- **Instructional School for Teachers in Real Analysis**, IIT Bombay & TIFR — *Manipal Institute of Technology, Sikkim (Dec 2022)*  
+<details>
+<summary><strong>Instructional Programs</strong></summary>
+
+- **Instructional School for Teachers in Real Analysis**, IIT Bombay & TIFR — Manipal Institute of Technology, Sikkim (*Dec 2022*)  
 - **MTTS Level-1**, funded by NBHM — *2021*
 
-### Outreach & Volunteering
+</details>
+
+<details>
+<summary><strong>Outreach & Volunteering</strong></summary>
 
 - **Tutorial Assistant**, INMO Camp, SMIT Sikkim — *2024*  
 - **Tutorial Assistant**, National Mathematics Day, DST Sikkim — *2024*  
 - **Coordinator**, PhD Seminar Series, IIIT Delhi — *Winter 2024*  
 - **Lectures on Career in Mathematics**, Govt. Schools (Daramdin & Tashiding) — *2023*  
-- **Poster Presenter**, Science Expo — *DST Sikkim, 2022*
+- **Poster Presenter**, Science Expo — DST Sikkim, *2022*
 
----
+</details>
+
+
 
 ## Honors & Recognitions
 
