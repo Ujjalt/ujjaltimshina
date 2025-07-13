@@ -59,9 +59,10 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 - *Introduction to Non-Commutative Functions*, Invited Talk, Sikkim University, May 2025  
 - *Nets and Filters in Topology*, PhD Seminar Series, IIIT Delhi, 2024  
 - *Transformation Geometry*, INMO Camp, SMIT, Sikkim, 2024  
-- *Career aspects in Mathematics*, Sikkim Government College, Rhenock, funded by DST, Govt. of Sikkim, 2023.
-- *Career aspects in Mathematics*, Senior Secondary Schools, funded by DST, Govt. of Sikkim, 2023.
+- *Career aspects in Mathematics*, Sikkim Government College, Rhenock, funded by DST, Govt. of Sikkim, 2023.  
+- *Career aspects in Mathematics*, Senior Secondary Schools, funded by DST, Govt. of Sikkim, 2023.  
 - *Departmental Poster Presentation*, DST Sikkim, 2022  
+
 ---
 
 ## Conferences, Workshops & Academic Engagements
