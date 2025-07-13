@@ -1,197 +1,155 @@
-{
-  "basics": {
-    "name": "Ujjal Timshina",
-    "email": "ujjalt@iiitd.ac.in",
-    "phone": "",
-    "website": "https://sites.google.com/iiitd.ac.in/ujjal-timshina/about",
-    "summary": "Research Scholar, Department of Mathematics, IIIT Delhi. Interested in Functional Analysis, Complex Analysis, and Non-commutative Analysis.",
-    "location": {
-      "address": "Maryam Mirjakhani Research Lab (B-313)",
-      "postalCode": "",
-      "city": "New Delhi",
-      "countryCode": "IN",
-      "region": "Delhi"
-    },
-    "profiles": []
-  },
-  "work": [
-    {
-      "position": "Teaching Assistant",
-      "startDate": "2025-01",
-      "endDate": "2025-05",
-      "institution": "IIIT Delhi",
-      "summary": "Course: MTH204 ODE/PDEs and Numerical Methods"
-    },
-    {
-      "position": "Teaching Assistant",
-      "startDate": "2024-08",
-      "endDate": "2024-12",
-      "institution": "IIIT Delhi",
-      "summary": "Course: MTH100 Linear Algebra"
-    },
-    {
-      "position": "Guest Lecturer",
-      "startDate": "2023-10",
-      "endDate": "2024-03",
-      "institution": "Sikkim Global Technical University, Namchi",
-      "summary": ""
-    }
-  ],
-  "education": [
-    {
-      "institution": "IIIT Delhi",
-      "area": "Ph.D. Mathematics",
-      "studyType": "",
-      "startDate": "2024",
-      "endDate": "",
-      "gpa": null,
-      "courses": [],
-      "advisor": "Dr. Prahllad Deb"
-    },
-    {
-      "institution": "Sikkim University",
-      "area": "M.Sc. Mathematics",
-      "studyType": "",
-      "startDate": "2021",
-      "endDate": "2023",
-      "gpa": "9.81",
-      "courses": [],
-      "thesis": "Nets & Filters in Topology"
-    },
-    {
-      "institution": "Nar Bahadur Bhandari Government College",
-      "area": "B.Sc. Mathematics (Hons.)",
-      "studyType": "",
-      "startDate": "2018",
-      "endDate": "2021",
-      "gpa": "8.0",
-      "courses": []
-    },
-    {
-      "institution": "Govt. Senior Secondary School, Central Pendam",
-      "area": "Higher Secondary (Class XII)",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": "74.4%",
-      "courses": []
-    },
-    {
-      "institution": "Govt. Senior Secondary School, Central Pendam",
-      "area": "Secondary (Class X)",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2016",
-      "gpa": "7.6 CGPA",
-      "courses": []
-    }
-  ],
-  "skills": [],
-  "languages": [
-    { "language": "English", "fluency": "academic fluency" },
-    { "language": "Hindi", "fluency": "professional working" },
-    { "language": "Nepali", "fluency": "native" }
-  ],
-  "interests": [],
-  "references": [],
-  "publications": [
-    {
-      "name": "Beyond Answers: Beauty of Mathematical Questions",
-      "publisher": "Amazon and Notion Press",
-      "releaseDate": "",
-      "website": "",
-      "summary": "Published book showcasing deep mathematical thinking and pedagogy."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Geometry & Topology Lectures",
-      "event": "IIIT Delhi Summer Program",
-      "date": "2025",
-      "location": "New Delhi, India",
-      "description": ""
-    },
-    {
-      "name": "Introduction to Nets and Filters in Topology",
-      "event": "PhD Seminar Series, IIIT Delhi",
-      "date": "2024",
-      "location": "New Delhi, India",
-      "description": ""
-    },
-    {
-      "name": "Transformation Geometry: Symmetries of Regular Shapes",
-      "event": "INMO Training Camp, SMIT Sikkim",
-      "date": "2024",
-      "location": "Sikkim, India",
-      "description": ""
-    },
-    {
-      "name": "Career Aspects in Mathematics",
-      "event": "Sikkim Government College, Rhenock (DST Sikkim)",
-      "date": "2024",
-      "location": "Sikkim, India",
-      "description": ""
-    },
-    {
-      "name": "Career Aspects of Mathematics",
-      "event": "Govt. Senior Secondary School, Daramdin (DST Sikkim)",
-      "date": "2024",
-      "location": "Sikkim, India",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "MTH204 ODE/PDEs and Numerical Methods",
-      "institution": "IIIT Delhi",
-      "date": "2025-01",
-      "role": "Teaching Assistant",
-      "description": ""
-    },
-    {
-      "course": "MTH100 Linear Algebra",
-      "institution": "IIIT Delhi",
-      "date": "2024-08",
-      "role": "Teaching Assistant",
-      "description": ""
-    },
-    {
-      "course": "Guest Lectures",
-      "institution": "Sikkim Global Technical University, Namchi",
-      "date": "2023-10",
-      "role": "Guest Lecturer",
-      "description": ""
-    }
-  ],
-  "Training Programmes and Conferences Attended": [
-    "Math IntroSeries on Generalized Weyl Algebras (June 30 – July 10, 2025)",
-    "Workshop on Young Mathematicians in Operator Algebra (ISI Delhi, March 2025)",
-    "Tutorial Assistant – INMO Training Camp, SMIT, Sikkim (2024)",
-    "Tutorial Assistant – National Mathematics Day, Govt. of Sikkim (2024)",
-    "Instructional School for Teachers in Real Analysis, IIT Bombay & TIFR (2022)",
-    "CREST School on Applied Combinatorics, TCG CREST (2022)",
-    "Coordinator – PhD Seminar Series, IIIT Delhi (Winter 2024)",
-    "Workshop on Graph Theory and its Applications, NBBGC (2023)",
-    "Departmental Representative, Sikkim University Students' Association (2022–2023)",
-    "Lecture Series on Number Theory – Prof. Komatsu, SLIET (2023)",
-    "Multiple FDPs and Workshops on Differential Equations and ML (2022–2023)",
-    "Workshop on Recent Advances in Mathematics, Calcutta University (2022)",
-    "Workshop on Research Data Management, Bennett University (2022)",
-    "National Seminar on Topology, NEHU Shillong (2022)",
-    "International Webinar on Fundamental Mathematics, Kaziranga University (2022)",
-    "MTTS Level-1, NBHM, Govt. of India (2021)",
-    "Energy Literacy Training, Energy Swaraj Foundation (Swayam Portal)"
-  ],
-  "honors": [
-    "DST INSPIRE Doctoral Fellowship (DST/INSPIRE/03/2023/001794)",
-    "M.Sc. University Gold Medalist (Sikkim University, CGPA 9.81)",
-    "Merit Cum Means Scholarship (Sikkim University, 2021–2022)",
-    "Merit Cum Means Fellowship (Sikkim University, 2022–2023)",
-    "NEC Merit Scholarship for NER Students (2022–2023)",
-    "Honorable Chief Minister's Financial Grant for Education, Govt. of Sikkim",
-    "Post-Matric Merit Scholarship, Govt. of Sikkim (2022)",
-    "Award winner – Counterfactuals, National Mathematics Day at SVNIT Surat (2021, 2022)",
-    "Author of 'Beyond Answers: Beauty of Mathematical Questions'",
-    "Certificate of Merit – Cipla Foundation (Class 10 and 12)"
-  ]
-}
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+# UJJAL TIMSHINA
+
+**Research Scholar, Department of Mathematics**  
+**Indraprastha Institute of Information Technology Delhi (IIIT Delhi)**  
+Maryam Mirzakhani Research Lab (B-313), New Delhi, India  
+📧 ujjalt@iiitd.ac.in | 🌐 [Personal Website](https://sites.google.com/iiitd.ac.in/ujjal-timshina/about)
+
+---
+
+## Education
+
+- **Ph.D. in Mathematics**, IIIT Delhi — *2024–Present*  
+  Advisor: Dr. Prahllad Deb  
+  Coursework: Functional Analysis, Complex Analysis, Non-Commutative Function Theory, Several Variable Complex Analysis  
+
+- **M.Sc. in Mathematics**, Sikkim University — *2021–2023*  
+  CGPA: 9.81 *(University Gold Medalist)*  
+  Thesis: *A Study of Nets & Filters in Topology*  
+  Relevant Courses: Real Analysis, Abstract Algebra, Topology, Linear Algebra, Complex Analysis, Functional Analysis, Measure Theory, Differential Geometry  
+
+- **B.Sc. in Mathematics (Hons.)**, NBB Govt. College, Sikkim University — *2018–2021*  
+  CGPA: 8.0  
+
+- **Class XII (CBSE)**, Govt. Sr. Sec. School, Central Pendam — *2018*  
+  74.4%
+
+- **Class X (CBSE)**, Govt. Sr. Sec. School, Central Pendam — *2016*  
+  CGPA: 7.6
+
+---
+
+## Teaching Experience
+
+- **Teaching Assistant**, IIIT Delhi  
+  - *MTH204: ODE/PDEs and Numerical Methods* (Spring 2025)  
+    Supervised 4 TAs for 198 students; led tutorials, grading, mentoring, and office hours.  
+  - *MTH100: Linear Algebra* (Fall 2024)  
+    Led 15 TAs for 321 students; conducted tutorials, grading, mentoring, and office hours.
+
+- **Guest Lecturer**, Sikkim Global Technical University — *Oct 2023 – Mar 2024*  
+  (Ref: SGTU/EMP/2023/1065)
+
+---
+
+## Academic Presentations
+
+- *Lecture Series on Möbius Transformations and Inversion*, Undergraduate Summer Program, IIIT Delhi, June 2025  
+- *Introduction to Non-Commutative Functions*, Invited Talk, Sikkim University, May 2025  
+- *Nets and Filters in Topology*, PhD Seminar Series, IIIT Delhi, 2024  
+- *Transformation Geometry*, INMO Camp, SMIT, Sikkim, 2024  
+- *Career in Mathematics*, Sikkim Government College, National Mathematics Day, 2024  
+- *Departmental Poster Presentation*, DST Sikkim, 2022  
+- *Career Talks*, Senior Secondary Schools, National Mathematics Day, Sikkim, 2024
+
+---
+
+## Conferences, Workshops & Academic Engagements
+
+### Conferences & Summer Schools
+
+- **Math IntroSeries – Generalized Weyl Algebras and Their Representations**  
+  *University of the Philippines Diliman, NEHU, MSU-IIT, CMU, Linnaeus University* — *June 30 – July 10, 2025*
+
+- **Selected Participant**: *Dynamical Systems and Fractal Geometry*, University of North Texas — *May 2024*
+
+- **Selected Participant**: *Mathematics of Random Systems*, RIMS, Kyoto University — *September 2023*
+
+- **CREST School on Applied Combinatorics** — *TCG CREST, Kolkata* — *July 2022*
+
+- **National Seminar on Topology**, NEHU, Shillong — *2022*
+
+- **International Webinar on Fundamental Mathematics**, Assam Kaziranga University — *August 30 – Sept 1, 2022*
+
+### Workshops
+
+- **Young Mathematicians in Operator Algebra (YMOA)** — *ISI Delhi, March 2025*  
+- **Graph Theory and Applications**, NBBGC — *2023*  
+- **Recent Advances in Mathematics**, Calcutta University — *2022*  
+- **Research Data Management**, Bennett University — *2022*  
+- **Number Theory Series**, SLIET — *2023*
+
+### Instructional Programs
+
+- **Instructional School for Teachers in Real Analysis**, IIT Bombay & TIFR — *Manipal Institute of Technology, Sikkim (Dec 2022)*  
+- **MTTS Level-1**, funded by NBHM — *2021*
+
+### Outreach & Volunteering
+
+- **Tutorial Assistant**, INMO Camp, SMIT Sikkim — *2024*  
+- **Tutorial Assistant**, National Mathematics Day, DST Sikkim — *2024*  
+- **Coordinator**, PhD Seminar Series, IIIT Delhi — *Winter 2024*  
+- **Lectures on Career in Mathematics**, Govt. Schools (Daramdin & Tashiding) — *2024*  
+- **Poster Presenter**, Science Expo — *DST Sikkim, 2022*
+
+---
+
+## Honors & Recognitions
+
+- **DST INSPIRE Doctoral Fellowship** (DST/INSPIRE/03/2023/001794)  
+- **M.Sc. University Gold Medalist** — Sikkim University (CGPA: 9.81)  
+- **Merit Cum Means Scholarships** — Sikkim University (2021–2023)  
+- **NEC Merit Scholarship**, Govt. of India — *2022–2023*  
+- **Chief Minister’s Educational Grant**, Govt. of Sikkim  
+- **Post-Matric Merit Scholarship**, Govt. of Sikkim — *2022*  
+- **Counterfactuals Award Winner**, NMD, SVNIT Surat — *2021 & 2022*  
+- **Author**, *Beyond Answers: Beauty of Mathematical Questions* — Amazon & Notion Press  
+- **Certificate of Merit**, Cipla Foundation — for Class X & XII academic performance
+
+---
+
+## Skills
+
+- **Mathematical**: Functional Analysis, Complex Analysis, Topology, Non-Commutative Analysis  
+- **Technical**: LaTeX, Markdown, GitHub, Jekyll  
+- **Communication**: Teaching, Mentoring, Public Speaking
+
+---
+
+## Linguistic Proficiency
+
+- **English** — Academic Fluency  
+- **Hindi** — Professional Working Proficiency  
+- **Nepali** — Native Speaker
+
+---
+
+## Publications
+
+<ul>
+  {% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+</ul>
+
+---
+
+## Service & Leadership
+
+- Coordinator, PhD Seminar Series, IIIT Delhi — *2024*  
+- Departmental Representative, Mathematics, Sikkim University Students’ Association — *2022–2023*
+
+---
+
+📄 [Download CV PDF](CV_Ujjal_Timshina_PhD_Maths%20(2).pdf)
