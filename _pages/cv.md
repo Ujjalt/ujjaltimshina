@@ -151,4 +151,4 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 
 ---
 
-📄 [Download CV PDF](CV_Ujjal_Timshina_PhD_Maths%20(2).pdf)
+📄 [Download CV PDF](https://drive.google.com/file/d/16XAuhtTij6adKfIaDxyOQ4UesiZiRTZ3/view?usp=drive_link)
