@@ -81,7 +81,6 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 
 - International Webinar on Fundamental Mathematics, Assam Kaziranga University — August 30 – Sept 1, 2022
 
-<br>
 
 ### Workshops
 
@@ -95,7 +94,6 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 
 - Number Theory Series, SLIET — 2023
 
-<br>
 
 ### Instructional Programs
 
@@ -103,7 +101,6 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 
 - MTTS Level-1, funded by NBHM — 2021
 
-<br>
 
 ### Outreach & Volunteering
 
