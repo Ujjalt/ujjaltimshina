@@ -70,13 +70,13 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 <summary><strong>Conferences & Summer Schools</strong></summary>
 
 - **Math IntroSeries – Generalized Weyl Algebras and Their Representations**  
-  University of the Philippines Diliman, NEHU, MSU-IIT, CMU, Linnaeus University — *June 30 – July 10, 2025*
+  *University of the Philippines Diliman, NEHU, MSU-IIT, CMU, Linnaeus University* — *June 30 – July 10, 2025*
 
 - **Selected Participant**: *Dynamical Systems and Fractal Geometry*, University of North Texas — *May 2024*
 
 - **Selected Participant**: *Mathematics of Random Systems*, RIMS, Kyoto University — *September 2023*
 
-- **CREST School on Applied Combinatorics** — TCG CREST, Kolkata — *July 2022*
+- **CREST School on Applied Combinatorics** — *TCG CREST, Kolkata* — *July 2022*
 
 - **National Seminar on Topology**, NEHU, Shillong — *2022*
 
@@ -114,8 +114,7 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 
 </details>
 
-
-
+---
 ## Honors & Recognitions
 
 - **DST INSPIRE Doctoral Fellowship** (DST/INSPIRE/03/2023/001794)  
