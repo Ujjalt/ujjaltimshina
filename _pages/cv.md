@@ -55,9 +55,9 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 
 ## Academic Presentations
 
-- *Lecture Series on Möbius Transformations and Inversion*, Undergraduate Summer Program, IIIT Delhi, June 2025  
-- *Introduction to Non-Commutative Functions*, Invited Talk, Sikkim University, May 2025  
-- *Nets and Filters in Topology*, PhD Seminar Series, IIIT Delhi, 2024  
+- *Lecture Series on Möbius Transformations and Inversion*, Undergraduate Summer Program, IIIT Delhi, June 2025. 
+- *Introduction to Non-Commutative Functions*, Invited Talk, Sikkim University, May 2025. 
+- *Nets and Filters in Topology*, PhD Seminar Series, IIIT Delhi, 2024.  
 - *Transformation Geometry*, INMO Camp, SMIT, Sikkim, 2024  
 - *Career aspects in Mathematics*, Sikkim Government College, Rhenock, funded by DST, Govt. of Sikkim, 2023.  
 - *Career aspects in Mathematics*, Senior Secondary Schools, funded by DST, Govt. of Sikkim, 2023.  
@@ -70,17 +70,17 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 <summary>Conferences & Summer Schools</summary>
 
 - Math IntroSeries – Generalized Weyl Algebras and Their Representations  
-  University of the Philippines Diliman, NEHU, MSU-IIT, CMU, Linnaeus University — June 30 – July 10, 2025
+  University of the Philippines Diliman, NEHU, MSU-IIT, CMU, Linnaeus University — June 30 – July 10, 2025 \\
 
-- Selected Participant: Dynamical Systems and Fractal Geometry, University of North Texas — May 2024
+- Selected Participant: Dynamical Systems and Fractal Geometry, University of North Texas — May 2024 \\
 
-- Selected Participant: Mathematics of Random Systems, RIMS, Kyoto University — September 2023
+- Selected Participant: Mathematics of Random Systems, RIMS, Kyoto University — September 2023 \\
 
-- CREST School on Applied Combinatorics — TCG CREST, Kolkata — July 2022
+- CREST School on Applied Combinatorics — TCG CREST, Kolkata — July 2022 \\
 
-- National Seminar on Topology, NEHU, Shillong — 2022
+- National Seminar on Topology, NEHU, Shillong — 2022 \\
 
-- International Webinar on Fundamental Mathematics, Assam Kaziranga University — August 30 – Sept 1, 2022
+- International Webinar on Fundamental Mathematics, Assam Kaziranga University — August 30 – Sept 1, 2022 \\
 
 </details>
 
