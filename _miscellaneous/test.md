@@ -17,6 +17,4 @@ author_profile: true
 
 <hr>
 
-{% for post in site.miscellaneous %}
-  {% include archive-single.html %}
-{% endfor %}
+
