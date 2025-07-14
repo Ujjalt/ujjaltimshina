@@ -215,7 +215,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-   miscellaneous:
+  miscellaneous:  # <- fixed indentation
     output: true
     permalink: /:collection/:path/
   talks:
