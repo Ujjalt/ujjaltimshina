@@ -23,8 +23,5 @@ main:
   - title: "CV"
     url: /cv/
     
-   - title: "Miscellaneous"
-    url: /cv-json/
-    
   #- title: "Miscellaneous"
     #url: /documents/
