@@ -153,7 +153,7 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 
 ## Professional Memberships
 
--[Institute of Mathematical Statistics](https://en.wikipedia.org/wiki/Institute_of_Mathematical_Statistics) (IMS) — Member, Student membership; ID: 38250.
+-[Institute of Mathematical Statistics](https://en.wikipedia.org/wiki/Institute_of_Mathematical_Statistics) (IMS) — Member, Student membership ID: 38250.
 
 
 
