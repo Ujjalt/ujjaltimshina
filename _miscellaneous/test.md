@@ -20,3 +20,18 @@ You can try some of the interesting tutorial problems and materials prepared by 
 </a>
 
 <hr>
+
+## Some of My Favorite Books
+
+Here is a selection of mathematical books that have deeply influenced my thinking and learning:
+
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; color: #333;">
+  <ul>
+    <li><em>Complex Analysis in One and Several Variables</em> — Raghavan Narasimhan</li>
+    <li><em>Introduction to Topology and Modern Analysis</em> — George F. Simmons</li>
+    <li><em>General Topology</em> — Nicolas Bourbaki</li>
+    <li><em>Basic Complex Analysis</em> — Tristan Needham</li>
+    <li><em>Calculus on Manifolds</em> — Michael Spivak</li>
+    <li><em>Introduction to Functional Analysis and Applications</em> — Yutaka Yamamoto</li>
+  </ul>
+</div>
