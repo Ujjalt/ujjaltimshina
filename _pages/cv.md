@@ -66,53 +66,89 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 ---
 ## Conferences, Workshops & Academic Engagements
 
-### Conferences & Summer Schools
+###  Conferences & Summer Schools
 
-- Math IntroSeries – Generalized Weyl Algebras and Their Representations  
-  University of the Philippines Diliman, NEHU, MSU-IIT, CMU, Linnaeus University — June 30 – July 10, 2025
+- **Math IntroSeries – Generalized Weyl Algebras and Their Representations**  
+  *University of the Philippines Diliman, NEHU, MSU-IIT, CMU, Linnaeus University*  
+  *June 30 – July 10, 2025*
 
-- Selected Participant: Dynamical Systems and Fractal Geometry, University of North Texas — May 2024
+- **Selected Participant** – *Dynamical Systems and Fractal Geometry*, University of North Texas  
+  *May 2024*
 
-- Selected Participant: Mathematics of Random Systems, RIMS, Kyoto University — September 2023
+- **Selected Participant** – *Mathematics of Random Systems*, Research Institute for Mathematical Sciences (RIMS), Kyoto University  
+  *September 2023*
 
-- CREST School on Applied Combinatorics — TCG CREST, Kolkata — July 2022
+- **CREST School on Applied Combinatorics – Cryptography and Combinatorial Topology**  
+  *TCG CREST, Kolkata*  
+  *July 11 – July 23, 2022*
 
-- National Seminar on Topology, NEHU, Shillong — 2022
+- **National Seminar on Recent Trends in Topology and Its Applications**  
+  *NEHU, Shillong*  
+  *August 4–5, 2022*
 
-- International Webinar on Fundamental Mathematics, Assam Kaziranga University — August 30 – Sept 1, 2022
-
-
-### Workshops
-
-- Young Mathematicians in Operator Algebra (YMOA) — ISI Delhi, March 2025
-
-- Graph Theory and Applications, NBBGC — 2023
-
-- Recent Advances in Mathematics, Calcutta University — 2022
-
-- Research Data Management, Bennett University — 2022
-
-- Number Theory Series, SLIET — 2023
+- **International Webinar on Fundamental Mathematics**  
+  *Assam Kaziranga University*  
+  *August 30 – September 1, 2021*
 
 
-### Instructional Programs
+###  Workshops
 
-- Instructional School for Teachers in Real Analysis, IIT Bombay & TIFR — Manipal Institute of Technology, Sikkim (Dec 2022)
+- **Young Mathematicians in Operator Algebra (YMOA)**  
+  *Indian Statistical Institute, Delhi*  
+  *March 2025*
 
-- MTTS Level-1, funded by NBHM — 2021
+- **Graph Theory and Its Applications**  
+  *Nar Bahadur Bhandari Government College, Tadong*  
+  *2023*
 
+- **Recent Advances in Mathematics and Its Applications (RAMA)**  
+  *Calcutta University*  
+  *2022*
 
-### Outreach & Volunteering
+- **Research Data Management**  
+  *Bennett University*  
+  *2022*
 
-- Tutorial Assistant, INMO Camp, SMIT Sikkim — 2024
+- **Lecture Series on Number Theory**  
+  *Delivered by Prof. Komatsu, SLIET*  
+  *2023*
 
-- Tutorial Assistant, National Mathematics Day, DST Sikkim — 2024
+- Attended various *FDPs and workshops on Differential Equations and Machine Learning*  
+  *2022–2023*
 
-- Coordinator, PhD Seminar Series, IIIT Delhi — Winter 2024
+###  Instructional Programs
 
-- Lectures on Career in Mathematics, Govt. Schools (Daramdin & Tashiding) — 2023
+- **Instructional School for Teachers in Real Analysis**  
+  *Organized by IIT Bombay & TIFR*  
+  *Venue: Manipal Institute of Technology, Sikkim — December 2022*
 
-- Poster Presenter, Science Expo — DST Sikkim, 2022
+- **Mathematics Training and Talent Search Program (MTTS), Level-1**  
+  *Funded by NBHM, Government of India*  
+  *2021*
+
+###  Outreach & Volunteering
+
+- **Tutorial Assistant**, INMO Training Camp (funded by HBCSE, TIFR)  
+  *SMIT, Sikkim — 2024*
+
+- **Tutorial Assistant**, National Mathematics Day  
+  *Organized by DST Sikkim — 2024*
+
+- **Lectures on Career in Mathematics**, Govt. Schools (Daramdin & Tashiding)  
+  *National Mathematics Day Outreach — 2024*
+
+- **Invited Speaker**, National Mathematics Day  
+  *Sikkim Government College, Rhenock — 2024*
+
+- **Coordinator**, PhD Seminar Series, Department of Mathematics  
+  *IIIT Delhi — Winter 2024*
+
+- **Poster Presenter**, Department of Science & Technology, Government of Sikkim  
+  *Science Expo — 2022*
+
+- **Departmental Representative**, Students' Association  
+  *Sikkim University, Department of Mathematics — 2022–2023*
+
 
 
 
