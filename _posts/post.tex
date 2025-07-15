@@ -1,0 +1,122 @@
+
+\documentclass[11pt]{article}
+\usepackage[a4paper, margin=1in]{geometry}
+\usepackage{amsmath, amssymb}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{tcolorbox}
+\usepackage{setspace}
+\usepackage{parskip}
+
+\definecolor{myred}{RGB}{200,0,0}
+\newcommand{\highlight}[1]{\textcolor{myred}{\textbf{#1}}}
+
+\setstretch{1.15}
+
+\title{\LARGE \highlight{Thomas Harriot’s Theorem and Angular Excess in Spherical Geometry}}
+\author{\large Ujjal Timshina}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\vspace{1em}
+
+In this note, we explore a fundamental result in \highlight{non-Euclidean geometry}, particularly \highlight{spherical geometry}, where the sum of the angles in a triangle \highlight{exceeds \( \pi \)} (180°). This deviation from Euclidean intuition leads to the concept of \emph{angular excess}, culminating in a theorem due to \highlight{Thomas Harriot}.
+
+\bigskip
+
+\highlight{Parallel Axiom and Non-Euclidean Geometry.} The Euclidean \emph{Parallel Postulate} is equivalent to:
+
+\begin{quote}
+The sum of the interior angles of any triangle is exactly \( \pi \).
+\end{quote}
+
+When this postulate is removed, two types of geometries emerge:
+\begin{itemize}
+    \item \highlight{Hyperbolic geometry} — angle sum \textit{less than} \( \pi \),
+    \item \highlight{Spherical geometry} — angle sum \textit{greater than} \( \pi \).
+\end{itemize}
+
+These lead to two distinct conclusions:
+\begin{itemize}
+    \item More than one parallel line: hyperbolic geometry,
+    \item No parallel lines: spherical geometry.
+\end{itemize}
+
+\bigskip
+
+\highlight{Angular Excess in Spherical Geometry.}  
+Let the radius of the sphere be \( R \). Then the total surface area is:
+\[
+\text{Area} = 4\pi R^2.
+\]
+
+Spherical triangles are formed by arcs of \emph{great circles} (i.e., geodesics on the sphere).
+
+\medskip
+
+\highlight{Example.} Consider a triangle formed by joining the North Pole to two points on the equator separated by angle \( \theta \). This triangle has angles:
+\[
+\theta, \quad \frac{\pi}{2}, \quad \frac{\pi}{2}
+\]
+so its angle sum is:
+\[
+\text{Angle sum} = \theta + \frac{\pi}{2} + \frac{\pi}{2} = \theta + \pi,
+\]
+and thus the angular excess is:
+\[
+E = (\text{angle sum}) - \pi = \theta.
+\]
+
+This triangle occupies a fraction \( \frac{\theta}{2\pi} \) of the northern hemisphere, whose area is \( 2\pi R^2 \), so:
+\[
+A = \frac{\theta}{2\pi} \cdot 2\pi R^2 = \theta R^2,
+\]
+which implies:
+\[
+E = \frac{A}{R^2}.
+\]
+
+\bigskip
+
+\highlight{Thomas Harriot’s Theorem (1603).}  
+This identity holds for all spherical triangles. Let a triangle \( \Delta \) have interior angles \( \alpha, \beta, \gamma \). Then:
+\[
+E = \alpha + \beta + \gamma - \pi
+\]
+and Harriot proved:
+\[
+A(\Delta) = R^2 E.
+\]
+
+\begin{tcolorbox}[colback=white, colframe=myred, title=\textbf{Harriot’s Formula}, title filled=true]
+\[
+\boxed{A(\Delta) = R^2(\alpha + \beta + \gamma - \pi)}
+\]
+\end{tcolorbox}
+
+Harriot’s geometric argument compares the areas of wedges formed by extending great-circle sides and summing their proportions over the sphere.
+
+\bigskip
+
+\highlight{Conclusion.}  
+On a sphere of radius \( R \), every triangle satisfies:
+\[
+A = R^2 \cdot \left( (\alpha + \beta + \gamma) - \pi \right) = R^2 E.
+\]
+
+This identity links \highlight{curvature} with \highlight{angle geometry}, and foreshadows the \emph{Gauss–Bonnet Theorem}. It also appears in \emph{general relativity}, where curvature governs the shape of space and time.
+
+\bigskip
+
+\highlight{Further Reading and Tools:}
+\begin{itemize}
+    \item �� \href{https://www.youtube.com/watch?v=Y8VgvoEx7HY}{\textbf{Complete geometric proof on YouTube}}
+    \item �� \href{https://www.greatcirclemap.com/}{\textbf{Great Circle Map — Visualize real geodesics on the Earth’s sphere}}
+\end{itemize}
+
+\end{document}
+1
