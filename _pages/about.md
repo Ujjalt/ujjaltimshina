@@ -17,12 +17,13 @@ Previously, I completed my M.Sc. in Mathematics from [Sikkim University](https:/
 
 My research interests lie in **functional analysis and operator theory**, with a focus on the **Cowen–Douglas theory of operators** and its interplay with **complex geometry** and **differential geometry**.
 
+---
 I have completed doctoral-level coursework in **Functional Analysis**, **Complex Analysis**, **Several Complex Variables**, and **Introduction to Non-commutative Function Theory**. reviously, I completed my M.Sc. in Mathematics from [Sikkim University](https://cus.ac.in/), a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled *“Nets and Filters in Topology”*, was completed under the supervision of [Dr. Namita Behera](https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2). I completed my undergraduate studies at [Nar Bahadur Bhandari Government College](https://nbbgc.org/), affiliated with Sikkim University.
 
 My research interests lie in **functional analysis and operator theory**, with a focus on the **Cowen–Douglas theory of operators** and its interplay with **complex geometry** and **differential geometry**.
-
 I have completed doctoral-level coursework in **Functional Analysis**, **Complex Analysis**, **Several Complex Variables**, and **Introduction to Non-commutative Function Theory**. Going forward, I plan to delve deeper into topics such as [**Reproducing Kernel Hilbert Spaces (RKHS)**](https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space), [**Spectral Theory**](https://en.wikipedia.org/wiki/Spectral_theory), [**Representation Theory**](https://en.wikipedia.org/wiki/Representation_theory). I am particularly interested in understanding how operator-theoretic ideas interface with geometric and topological frameworks.
 I am also keenly interested in subjects such as [**Measure Theory**](https://en.wikipedia.org/wiki/Measure_theory) and [**General Topology**](https://en.wikipedia.org/wiki/General_topology), which continue to shape my mathematical perspective. Beyond these, I remain curious about broader themes in modern mathematics.
+
 ---
 
 
