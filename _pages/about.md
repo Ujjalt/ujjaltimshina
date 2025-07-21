@@ -17,7 +17,7 @@ Previously, I completed my M.Sc. in Mathematics from [Sikkim University](https:/
 
 My research interests lie in **functional analysis and operator theory**, with a focus on the **Cowen–Douglas theory of operators** and its interplay with **complex geometry** and **differential geometry**.
 
-I have completed doctoral-level coursework in **Functional Analysis**, **Complex Analysis**, **Several Complex Variables**, and **Introduction to Non-commutative Function Theory**. I am also broadly interested in **Reproducing Kernel Hilbert Spaces (RKHS)**, **Spectral Theory**, **Representation Theory**, and **Algebraic Topology**. 
+I have completed doctoral-level coursework in **Functional Analysis**, **Complex Analysis**, **Several Complex Variables**, and **Introduction to Non-commutative Function Theory**. I am also broadly interested in **Reproducing Kernel Hilbert Spaces (RKHS)**, **Spectral Theory**, **Representation Theory**, **Measure Theory** and **Algebraic Topology**. 
 
 ---
 
