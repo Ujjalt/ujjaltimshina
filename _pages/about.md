@@ -39,5 +39,5 @@ Beyond mathematical research, I am deeply committed to teaching, outreach, and a
 I am the author of *Beyond Answers: Beauty of Mathematical Questions*, a book reflecting my passion for inquiry-based learning in mathematics. It is available on  
  [Amazon](https://www.amazon.in/Beyond-Answers-Mathematical-Questions-Thought-ebook/dp/B0CTRY5HRB) and [Notion Press](https://notionpress.com/in/read/beyond-answers-the-beauty-of-mathematical-questions/).
 
-Outside academics, I enjoy writing, web design, and exploring open educational technologies. A selection of my talks and presentations (some with slides) is available [here](https://sites.google.com/iiitd.ac.in/ujjal-timshina/about).  
+Outside academics, I enjoy writing blogs, web design, learn coding skills and exploring open educational technologies. A selection of my talks and presentations (some with slides) is available [here](https://sites.google.com/iiitd.ac.in/ujjal-timshina/about).  
  My updated **CV** can be accessed [here](https://drive.google.com/file/d/16XAuhtTij6adKfIaDxyOQ4UesiZiRTZ3/view?usp=sharing) *(last updated: 20 April 2025)*.
