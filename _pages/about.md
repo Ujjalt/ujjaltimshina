@@ -40,4 +40,4 @@ I am the author of *Beyond Answers: Beauty of Mathematical Questions*, a book re
  [Amazon](https://www.amazon.in/Beyond-Answers-Mathematical-Questions-Thought-ebook/dp/B0CTRY5HRB) and [Notion Press](https://notionpress.com/in/read/beyond-answers-the-beauty-of-mathematical-questions/).
 
 Outside academics, I enjoy writing blogs, web design, learn coding skills and exploring open educational technologies. A selection of my talks and presentations (some with slides) is available [here](https://sites.google.com/iiitd.ac.in/ujjal-timshina/about).  
- My updated **CV** can be accessed [here](https://drive.google.com/drive/folders/1GEbPbSA5sfkBQYyckeMoTF3b4LUb8NJ9?usp=drive_link) *(last updated: 10th July 2025)*.
+ My updated **CV** can be accessed [here](https://drive.google.com/drive/folders/1GEbPbSA5sfkBQYyckeMoTF3b4LUb8NJ9?usp=drive_link) *(last updated: 31st August 2025)*.
