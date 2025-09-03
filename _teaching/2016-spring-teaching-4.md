@@ -1,4 +1,4 @@
----
+de---
 title: "MTH100: Linear Algebra"
 collection: teaching
 type: "Undergraduate course"
@@ -8,7 +8,7 @@ date: 2025-08-11
 location: "New Delhi, India"
 ---
 
-I served as a Teaching Assistant for **MTH100: Linear Algebra** during summer 2025 at IIIT Delhi. This core undergraduate course introduced students to fundamental linear algebraic structures and their applications in science and engineering.
+I served as a Teaching Assistant for **MTH100: Linear Algebra** during summer 2025 at IIIT Delhi under Dr. Dr Subhajit Ghosechowdhury. This core undergraduate course introduced students to fundamental linear algebraic structures and their applications in science and engineering.
 
 ### Responsibilities
 - Led a team of **18 Teaching Assistants** for a class of **348 students**.
