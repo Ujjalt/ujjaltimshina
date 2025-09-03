@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: "https://iiitd.ac.in/courserepo/course-full-description.php?course_number=MTH204"
 venue: "IIIT Delhi, School of Mathematics"
-date: 2025-01-01
+date: 2025-08-11
 location: "New Delhi, India"
 ---
 
