@@ -42,6 +42,10 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 
 ## Teaching Experience
 
+
+ - *MTH100: Linear Algebra* (Fall 2025)  
+    Led 15 TAs for 348 students; conducted tutorials, grading, mentoring, and office hours.
+
 - **Teaching Assistant**, IIIT Delhi  
   - *MTH204: ODE/PDEs and Numerical Methods* (Spring 2025)  
     Supervised 4 TAs for 198 students; led tutorials, grading, mentoring, and office hours.  
@@ -54,7 +58,7 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 ---
 
 ## Academic Presentations
-
+- *Delivered a talk on Operators in the Cowen-Douglas Class*, as part of the Ph.D Math Seminar Series, IIIT-Delhi, August 28, 2025.
 - *Lecture Series on Möbius Transformations and Inversion*, Undergraduate Summer Program, IIIT Delhi, June 2025. 
 - *Introduction to Non-Commutative Functions*, Invited Talk, Sikkim University, May 2025. 
 - *Nets and Filters in Topology*, PhD Seminar Series, IIIT Delhi, 2024.  
