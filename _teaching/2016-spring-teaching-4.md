@@ -1,4 +1,4 @@
-de---
+---
 title: "MTH100: Linear Algebra"
 collection: teaching
 type: "Undergraduate course"
