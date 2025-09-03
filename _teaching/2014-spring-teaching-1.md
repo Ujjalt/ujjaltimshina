@@ -8,7 +8,7 @@ date: 2025-01-1
 location: "New Delhi, India"
 ---
 
-As a Teaching Assistant for the undergraduate course **MTH204: ODE/PDEs and Numerical Methods** in Spring 2025 at IIIT Delhi, I was involved in assisting with tutorials, grading assignments, solving student queries, and helping with exam preparation. 
+As a Teaching Assistant for the undergraduate course **MTH204: ODE/PDEs and Numerical Methods** in Spring 2025 at IIIT Delhi under Dr. Sarthok Sircar, I was involved in assisting with tutorials, grading assignments, solving student queries, and helping with exam preparation. 
 
 ### Responsibilities
 - Conducted weekly tutorial sessions.
