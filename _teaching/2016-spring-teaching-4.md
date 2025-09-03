@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-mth100
 venue: "IIIT Delhi, School of Mathematics"
-date: 2024-08-01
+date: 2025-08-11
 location: "New Delhi, India"
 ---
 
