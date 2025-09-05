@@ -131,12 +131,7 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
   *2021*
 
 ###  Outreach & Volunteering
-- **Delivered a talk on Operators in the Cowen–Douglas Class Bn(Ω)** as part of the Ph.D Math
-    Seminar Series, IIIT-Delhi, August 28, 2025
-- **Delivered a lecture series on the geometry of the M¨obius Transformation and Inversion**
-    as part of the Undergraduate Summer Program in Mathematics, organized by the Department of
-   Mathematics, IIIT-Delhi, June 16-28, 2025.
-    
+
 - **Tutorial Assistant**, INMO Training Camp (funded by HBCSE, TIFR)  
   *SMIT, Sikkim — 2024*
 
