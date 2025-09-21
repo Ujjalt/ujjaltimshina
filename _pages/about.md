@@ -9,9 +9,9 @@ redirect_from:
 
 
 
-Hello! Welcome to my homepage!
+Welcome to my homepage!
 
-My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the [Indraprastha Institute of Information Technology Delhi (IIIT Delhi)](https://www.iiitd.ac.in/people/phd/current), working under the supervision of [Dr. Prahllad Deb](https://www.iiitd.ac.in/prahllad). I joined IIIT Delhi after being awarded the prestigious [INSPIRE Research Fellowship](https://online-inspire.gov.in/) by the Department of Science and Technology (DST), Government of India.
+My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the [Indraprastha Institute of Information Technology Delhi (IIIT Delhi)](https://www.iiitd.ac.in/people/phd/current), working under the supervision of [Dr. Prahllad Deb](https://www.iiitd.ac.in/prahllad). I joined IIIT Delhi after being awarded the [INSPIRE Research Fellowship](https://online-inspire.gov.in/) by the Department of Science and Technology (DST), Government of India.
 
 Previously, I completed my M.Sc. in Mathematics from [Sikkim University](https://cus.ac.in/), a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled *“Nets and Filters in Topology”*, was completed under the supervision of [Dr. Namita Behera](https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2). I completed my undergraduate studies at [Nar Bahadur Bhandari Government College](https://nbbgc.org/), affiliated with Sikkim University.
 
@@ -34,7 +34,7 @@ but emerges — layer by layer — through the patient erosion of illusion.*
 
 ---
 
-Beyond mathematical research, I am deeply committed to teaching, outreach, and academic communication. I have worked as a teaching assistant at IIIT Delhi and served as a guest lecturer at Sikkim Global Technical University. I also actively participate in mathematics Olympiad training camps, workshops, and student mentoring activities.
+Beyond mathematical research, I am deeply committed to teaching, outreach, and academic communication. I have worked as a teaching assistant at IIIT Delhi and served as a guest lecturer at Sikkim Global Technical University. I also love to actively participate in mathematics Olympiad training camps, workshops, and student mentoring activities.
 
 I am the author of *Beyond Answers: Beauty of Mathematical Questions*, a book reflecting my passion for inquiry-based learning in mathematics. It is available on  
  [Amazon](https://www.amazon.in/Beyond-Answers-Mathematical-Questions-Thought-ebook/dp/B0CTRY5HRB) and [Notion Press](https://notionpress.com/in/read/beyond-answers-the-beauty-of-mathematical-questions/).
