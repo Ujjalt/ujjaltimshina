@@ -72,6 +72,9 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 
 ###  Conferences & Summer Schools
 
+- **ICMAM Latin America Satellite Conference on Differential Geometry 2025**, held
+   on September 25-26, 2025, jointly organized by Universidade Estadual de Maring ́a and Universidad de
+   las Am ́ericas.
 - **Math IntroSeries – Generalized Weyl Algebras and Their Representations**  
   *University of the Philippines Diliman, NEHU, MSU-IIT, CMU, Linnaeus University*  
   *June 30 – July 10, 2025*
@@ -132,6 +135,12 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 
 ###  Outreach & Volunteering
 
+- **Coordinator**, PhD Seminar Series, Department of Mathematics  
+  *IIIT Delhi — Monsoon 2025*
+
+- **Coordinator**, PhD Seminar Series, Department of Mathematics  
+  *IIIT Delhi — Winter 2024*
+  
 - **Tutorial Assistant**, INMO Training Camp (funded by HBCSE, TIFR)  
   *SMIT, Sikkim — 2024*
 
@@ -143,9 +152,6 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 
 - **Invited Speaker**, National Mathematics Day  
   *Sikkim Government College, Rhenock — 2024*
-
-- **Coordinator**, PhD Seminar Series, Department of Mathematics  
-  *IIIT Delhi — Winter 2024*
 
 - **Poster Presenter**, Department of Science & Technology, Government of Sikkim  
   *Science Expo — 2022*
