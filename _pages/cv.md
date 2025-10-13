@@ -14,7 +14,7 @@ redirect_from:
 **Research Scholar, Department of Mathematics**  
 **Indraprastha Institute of Information Technology Delhi (IIIT Delhi)**  
 Maryam Mirzakhani Research Lab (B-313), New Delhi, India  
-📧 ujjalt@iiitd.ac.in | 🌐 [Personal Website](https://sites.google.com/iiitd.ac.in/ujjal-timshina/about)
+📧 ujjalt@iiitd.ac.in
 
 ---
 
@@ -22,8 +22,7 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 
 - **Ph.D. in Mathematics**, IIIT Delhi — *2024–Present*  
   Advisor: Dr. Prahllad Deb  
-  Coursework: Functional Analysis, Complex Analysis, Non-Commutative Function Theory, Several Variable Complex Analysis  
-
+  Coursework: Functional Analysis
 - **M.Sc. in Mathematics**, Sikkim University — *2021–2023*  
   CGPA: 9.81 *(University Gold Medalist)*  
   Thesis: *A Study of Nets & Filters in Topology*  
@@ -79,12 +78,6 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
   *University of the Philippines Diliman, NEHU, MSU-IIT, CMU, Linnaeus University*  
   *June 30 – July 10, 2025*
 
-- **Selected Participant** – *Dynamical Systems and Fractal Geometry*, University of North Texas  
-  *May 2024*
-
-- **Selected Participant** – *Mathematics of Random Systems*, Research Institute for Mathematical Sciences (RIMS), Kyoto University  
-  *September 2023*
-
 - **CREST School on Applied Combinatorics – Cryptography and Combinatorial Topology**  
   *TCG CREST, Kolkata*  
   *July 11 – July 23, 2022*
@@ -119,9 +112,6 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 - **Lecture Series on Number Theory**  
   *Delivered by Prof. Komatsu, SLIET*  
   *2023*
-
-- Attended various *FDPs and workshops on Differential Equations and Machine Learning*  
-  *2022–2023*
 
 ###  Instructional Programs
 
@@ -216,4 +206,3 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 
 ---
 
-📄 [Download CV PDF](https://drive.google.com/file/d/16XAuhtTij6adKfIaDxyOQ4UesiZiRTZ3/view?usp=drive_link)
