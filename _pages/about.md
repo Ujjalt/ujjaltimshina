@@ -24,20 +24,19 @@ I am also keenly interested in subjects such as [**Measure Theory**](https://en.
 ---
 
 
-For me, research is a quiet and deliberate journey into abstraction—an exploration shaped not only by logic but also by creativity, persistence, and a willingness to embrace uncertainty. I view mathematics as both a tool for discovering truth and a language of elegant expression.  
+For me, research is a quiet and careful journey into abstract ideas—guided not only by logic but also by curiosity, patience, and a willingness to accept uncertainty. I see mathematics as both a tool to discover truths and a way to express ideas elegantly.
 
-> *We forget, falter, and return —  
-not in failure, but in pursuit.  
-For in the recursive rhythm of thought,  
-understanding does not appear fully formed,  
-but emerges — layer by layer — through the patient erosion of illusion.*
+We forget, make mistakes, and return —
+not as failure, but as part of learning.
+Understanding does not come all at once,
+but grows step by step,
+through patience and reflection.
 
----
+I am also deeply interested in teaching, outreach, and sharing ideas. I have worked as a teaching assistant at IIIT Delhi and as a guest lecturer at Sikkim Global Technical University. I enjoy participating in mathematics Olympiad training camps, workshops, and mentoring students.
 
-Beyond mathematical research, I am deeply committed to teaching, outreach, and academic communication. I have worked as a teaching assistant at IIIT Delhi and served as a guest lecturer at Sikkim Global Technical University. I also love to actively participate in mathematics Olympiad training camps, workshops, and student mentoring activities.
+I have authored a book, Beyond Answers: Beauty of Mathematical Questions. It was my first attempt at writing and not perfect, but it reflects my interest in learning through questions. The book is available on Amazon
+ and Notion Press
+.
+Outside of academics, I enjoy writing blogs, exploring web design and coding, and learning about open educational technologies. A selection of my talks and presentations (some with slides) is available here
+. My updated CV can be accessed here [here](https://drive.google.com/drive/folders/1GEbPbSA5sfkBQYyckeMoTF3b4LUb8NJ9?usp=drive_link) *(last updated: 31st August 2025)*.
 
-I am the author of *Beyond Answers: Beauty of Mathematical Questions*, a book reflecting my passion for inquiry-based learning in mathematics. It is available on  
- [Amazon](https://www.amazon.in/Beyond-Answers-Mathematical-Questions-Thought-ebook/dp/B0CTRY5HRB) and [Notion Press](https://notionpress.com/in/read/beyond-answers-the-beauty-of-mathematical-questions/).
-
-Outside academics, I enjoy writing blogs, web design, learn coding skills and exploring open educational technologies. A selection of my talks and presentations (some with slides) is available [here](https://sites.google.com/iiitd.ac.in/ujjal-timshina/about).  
- My updated **CV** can be accessed [here](https://drive.google.com/drive/folders/1GEbPbSA5sfkBQYyckeMoTF3b4LUb8NJ9?usp=drive_link) *(last updated: 31st August 2025)*.
