@@ -43,5 +43,3 @@ Here is a selection of mathematical books that have deeply influenced my thinkin
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; color: #333;">
   My master's thesis, titled <strong><em>“Nets and Filters in Topology”</em></strong>, explores foundational concepts in general topology that serve as alternatives to sequences, particularly in non-metrizable spaces. It investigates the convergence behavior of nets and filters, their interplay, and their importance in compactness, continuity, and related topological properties.
 
-  <p>You can read the full thesis <a href="https://drive.google.com/file/d/1Fx9D2_sEWqMLGdXhqC9LoeW3lmda_Ds_/view?usp=drive_link" target="_blank" style="color: #1a0dab;">here</a>.</p>
-</div>
