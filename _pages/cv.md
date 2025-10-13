@@ -201,7 +201,6 @@ Maryam Mirzakhani Research Lab (B-313), New Delhi, India
 
 ## Service & Leadership
 
-- Coordinator, PhD Seminar Series, IIIT Delhi — *2024*  
 - Departmental Representative, Mathematics, Sikkim University Students’ Association — *2022–2023*
 
 ---
