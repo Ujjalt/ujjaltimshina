@@ -5,11 +5,40 @@ permalink: /awards/
 author_profile: true
 ---
 
-You can try some of the interesting tutorial problems and materials prepared by me as part of various delivered lecture series.
+Below is a list of honors, scholarships, and recognitions received over the years.
 
-<p>
-  Visit the external links below to explore:
-</p>
+<hr>
+
+## Major Fellowships and Awards
+
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; color: #333;">
+  <ul>
+    <li><strong>DST INSPIRE Doctoral Fellowship</strong> — Department of Science and Technology, Government of India (2023–Present).</li>
+    <li><strong>University Gold Medal</strong> — For securing the highest CGPA (9.81) in M.Sc. Mathematics, Sikkim University (2023).</li>
+    <li><strong>Publication Award</strong> — Authored the book <em>"Beyond Answers: Beauty of Mathematical Questions"</em> published on Amazon and Notion Press (2023).</li>
+    <li><strong>NEC Merit Scholarship</strong> — Government of India (2022–23), for meritorious students from the North Eastern Region.</li>
+    <li><strong>Merit-cum-Means Scholarship</strong> — Sikkim University (2021–2023), Full Free-ship and Fellowship support.</li>
+    <li><strong>Hon’ble Chief Minister’s Financial Grant for Education</strong> — Government of Sikkim.</li>
+    <li><strong>Post-Matric Merit Scholarship</strong> — Government of Sikkim (2022).</li>
+    <li><strong>Certificate of Merit</strong> — Awarded by Cipla Foundation for outstanding academic performance in Class 10 and 12.</li>
+    <li><strong>Mathematical Excellence Award</strong> — Winner in “Counterfactuals” competition on National Mathematics Day, SV-NIT Surat (2021 & 2022).</li>
+  </ul>
+</div>
+
+<hr>
+
+## Additional Recognitions
+
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; color: #333;">
+  <ul>
+    <li>Selected participant in prestigious programs such as the MTTS (Mathematics Training and Talent Search) and YMOA (Young Mathematicians in Operator Algebra).</li>
+    <li>Recognized contributor to outreach initiatives under the Department of Science & Technology, Government of Sikkim.</li>
+  </ul>
+</div>
+
+<hr>
+
+## Related Links
 
 <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/tutorial-problems-delivered-lecture-series" target="_blank" style="display: inline-block; background-color: #28a745; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none; margin-right: 10px;">
   View Tutorial Problems
@@ -18,27 +47,3 @@ You can try some of the interesting tutorial problems and materials prepared by 
 <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/gallary" target="_blank" style="display: inline-block; background-color: #0366d6; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none;">
   View Gallery
 </a>
-
-<hr>
-
-## Some of My Favorite Books
-
-Here is a selection of mathematical books that have deeply influenced my thinking and learning:
-
-<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; color: #333;">
-  <ul>
-    <li><em>Complex Analysis in One and Several Variables</em> — Raghavan Narasimhan</li>
-    <li><em>Introduction to Topology and Modern Analysis</em> — George F. Simmons</li>
-    <li><em>General Topology</em> — Nicolas Bourbaki</li>
-    <li><em>Basic Complex Analysis</em> — Tristan Needham</li>
-    <li><em>Calculus on Manifolds</em> — Michael Spivak</li>
-    <li><em>Introduction to Functional Analysis and Applications</em> — Yutaka Yamamoto</li>
-  </ul>
-</div>
-
-<hr>
-
-## M.Sc Thesis
-
-<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; color: #333;">
-  My master's thesis, titled <strong><em>“Nets and Filters in Topology”</em></strong>, explores foundational concepts in general topology that serve as alternatives to sequences, particularly in non-metrizable spaces. It investigates the convergence behavior of nets and filters, their interplay, and their importance in compactness, continuity, and related topological properties.
