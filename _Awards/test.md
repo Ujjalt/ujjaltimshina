@@ -36,14 +36,4 @@ Below is a list of honors, scholarships, and recognitions received over the year
   </ul>
 </div>
 
-<hr>
 
-## Related Links
-
-<a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/tutorial-problems-delivered-lecture-series" target="_blank" style="display: inline-block; background-color: #28a745; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none; margin-right: 10px;">
-  View Tutorial Problems
-</a>
-
-<a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/gallary" target="_blank" style="display: inline-block; background-color: #0366d6; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none;">
-  View Gallery
-</a>
