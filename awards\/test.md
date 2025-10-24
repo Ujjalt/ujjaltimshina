@@ -18,11 +18,12 @@ Below is a list of honors, scholarships, and recognitions received over the year
     <li><strong>Publication Award</strong> — Authored the book <em>"Beyond Answers: Beauty of Mathematical Questions"</em> published on Amazon and Notion Press (2023).</li>
     <li><strong>NEC Merit Scholarship</strong> — Government of India (2022–23), for meritorious students from the North Eastern Region.</li>
     <li><strong>Merit-cum-Means Scholarship</strong> — Sikkim University (2021–2023), Full Free-ship and Fellowship support.</li>
+     <li><strong>Mathematical Excellence Award</strong> — Winner in “Counterfactuals” competition on National Mathematics Day, SV-NIT Surat (2021 & 2022).</li>
     <li><strong>Hon’ble Chief Minister’s Financial Grant for Education</strong> — Government of Sikkim.</li>
     <li><strong>Post-Matric Merit Scholarship</strong> — Government of Sikkim (2022).</li>
     <li><strong>Certificate of Merit</strong> — Awarded by Cipla Foundation for outstanding academic performance in Class 10 and 12.</li>
-    <li><strong>Mathematical Excellence Award</strong> — Winner in “Counterfactuals” competition on National Mathematics Day, SV-NIT Surat (2021 & 2022).</li>
-    <li><strong>School Level Essay Writing Competition</strong> — Winner in “Essay” competition on IDC, Govt. Senior Secondary School, Central Pendam, Sikkim (2015).</li>
+
+ <li><strong>School Level Essay Writing Competition</strong> — Winner in “Essay” competition on IDC, Govt. Senior Secondary School, Central Pendam, Sikkim (2015).</li>
   </ul>
 </div>
 
