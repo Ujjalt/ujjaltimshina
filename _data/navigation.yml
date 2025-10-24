@@ -24,7 +24,7 @@ main:
     url: /awards/
 
  - title: "Attended Workshops and Seminars"
-   permalink: /workshops/
+   url: /workshops/
 
  - title: "Miscellaneous"
     url: /miscellaneous/
