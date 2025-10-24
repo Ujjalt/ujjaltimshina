@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Attended Workshops and Seminars"
-permalink: /workshops-seminars/
+permalink: /workshops/
 author_profile: true
 ---
 
