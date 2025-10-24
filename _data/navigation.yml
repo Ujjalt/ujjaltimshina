@@ -19,9 +19,12 @@ main:
     
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "Miscellaneous"
-    url: /miscellaneous/
-
+  
   - title: "Awards"
     url: /awards/
+
+ - title: "Attended Workshops and Seminars"
+   permalink: /workshops/
+
+ - title: "Miscellaneous"
+    url: /miscellaneous/
