@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Professional Development and Academic Engagement"
+title: "Academic Engagement"
 permalink: /professionaldevelopment/
 author_profile: true
 ---
