@@ -1,9 +1,3 @@
----
-layout: archive
-title: "Attended Workshops and Seminars"
-permalink: /workshops/
-author_profile: true
----
 # Attended Workshops and Seminars
 
 Below is a complete list of workshops, seminars, and lecture series I have attended over the years.
@@ -30,14 +24,14 @@ Below is a complete list of workshops, seminars, and lecture series I have atten
 
 - **Lecture Series on Number Theory**, Delivered by Prof. Komatsu, SLIET, August 10th–13th, 2023.
 
-- **Recent Advances in Mathematics and its Applications (RAMA)**, Calcutta University, 2022 – Online.
-
-- **Mathematics Training and Talent Search Program (MTTS) Level-1 (2021)**, funded by The National Board for Higher Mathematics (NBHM), Department of Atomic Energy, Government of India.
-
 - **Faculty Development Program on Machine Learning - Participant**, Organized by SRM Institute of Science and Technology, Kattankulathur, Duration: 20th to 24th February 2023.
 
 - **Faculty Development Programme on Differential Equations & its Applications - Participant**, Organized by Vellore Institute of Technology, Jan. 18-20, 2023.
 
-- **International Webinar on Fundamental Mathematics**, Organized by the Department of Mathematics, School of Basic Science, The Assam Kaziranga University, August 30th - September 1st, 2021.
+- **Recent Advances in Mathematics and its Applications (RAMA)**, Calcutta University, 2022 – Online.
 
 - **Recent Advances in Mathematics and its Applications (RAMA)**, Calcutta University, 2023.
+
+- **International Webinar on Fundamental Mathematics**, Organized by the Department of Mathematics, School of Basic Science, The Assam Kaziranga University, August 30th - September 1st, 2021.
+
+- **Mathematics Training and Talent Search Program (MTTS) Level-1 (2021)**, funded by The National Board for Higher Mathematics (NBHM), Department of Atomic Energy, Government of India.
