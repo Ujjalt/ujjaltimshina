@@ -23,8 +23,8 @@ main:
   - title: "Awards"
     url: /awards/
 
- - title: "Attended Workshops and Seminars"
-   url: /workshops/
+  - title: "Attended Workshops and Seminars"
+    url: /workshops/
 
- - title: "Miscellaneous"
+  - title: "Miscellaneous"
     url: /miscellaneous/
