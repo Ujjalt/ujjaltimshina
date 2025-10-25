@@ -1,38 +1,61 @@
 ---
 layout: archive
-title: "Attended Workshops and Seminars"
+title: "Workshops and Seminars"
 permalink: /workshops/
 author_profile: true
 ---
 
-Below is a complete list of workshops, seminars, and training programs I have attended over the years.
+## Attended Workshops and Seminars
 
-## Workshops and Seminars
+### 2025
+* **ICMAM Latin America Satellite Conference on Differential Geometry 2025**  
+  September 25–26, 2025 | Universidade Estadual de Maringá & Universidad de las Américas
 
-1. **ICMAM Latin America Satellite Conference on Differential Geometry 2025** — Held on September 25–26, 2025, jointly organized by Universidade Estadual de Maringá and Universidad de las Américas.
+* **Math IntroSeries: Generalized Weyl Algebras and Their Representations**  
+  June 30 – July 10, 2025 | Organized by Institute of Mathematics, University of the Philippines Diliman and partner universities
 
-2. **Math IntroSeries, Course-1 on Generalized Weyl Algebras and Their Representations** — Organized by the Institute of Mathematics, University of the Philippines Diliman; North-Eastern Hill University; Mindanao State University – Iligan Institute of Technology; Central Mindanao University; and Linnaeus University, June 30 – July 10, 2025.
+* **Workshop on Young Mathematicians in Operator Algebra (YMOA)**  
+  March 2025 | Indian Statistical Institute, Delhi
 
-3. **Workshop on Young Mathematicians in Operator Algebra (YMOA)** — Indian Statistical Institute, Delhi (March 2025).
+### 2024
+* **INMO Training Camp Tutorial Assistant**  
+  2024 | SMIT, Sikkim | Funded by HBCSE, TIFR
 
-4. **Instructional School for Teachers in Real Analysis** — Jointly organized by the Indian Institute of Technology Bombay (IIT Bombay) and the Tata Institute of Fundamental Research (TIFR), Mumbai, at Manipal Institute of Technology, Sikkim, December 2022.
+* **National Mathematics Day Tutorial Assistant**  
+  2024 | Department of Science and Technology, Govt. of Sikkim
 
-5. **CREST School on Applied Combinatorics - Cryptography and Combinatorial Topology** — Organized by TCG CREST, Kolkata, from 11 July to 23 July 2022.
+### 2023
+* **Workshop on Graph Theory and its Applications**  
+  2023 | Nar Bahadur Bhandari Government College, Tadong
 
-6. **Workshop on Graph Theory and its Applications** — Nar Bahadur Bhandari Government College, Tadong (2023).
+* **Faculty Development Program on Machine Learning**  
+  February 20–24, 2023 | SRM Institute of Science and Technology
 
-7. **Faculty Development Program on Machine Learning** — Organized by SRM Institute of Science and Technology, Kattankulathur, 20th to 24th February 2023.
+* **Lecture Series on Number Theory**  
+  August 10–13, 2023 | SLIFT | Delivered by Prof. Komatsu
 
-8. **Lecture Series on Number Theory** — Delivered by Prof. Komatsu, SLIFT, August 10th - 13th, 2023.
+* **Faculty Development Programme on Differential Equations & its Applications**  
+  January 18–20, 2023 | Vellore Institute of Technology
 
-9. **Faculty Development Programme on Differential Equations & its Applications** — Organized by Vellore Institute of Technology, Jan. 18-20, 2023.
+### 2022
+* **Instructional School for Teachers in Real Analysis**  
+  December 2022 | IIT Bombay & TIFR | Manipal Institute of Technology, Sikkim
 
-10. **Faculty Development Program on Recent Research Area and Its Applications in Mathematics** — Organized by Vel Tech Multi Tech, IIC (Ministry of HRD initiative), from 10th to 15th October, 2022.
+* **CREST School on Applied Combinatorics**  
+  July 11–23, 2022 | TCG CREST, Kolkata
 
-11. **National Seminar on Recent Trends in Topology and its Applications** — Organized by the Department of Mathematics, North Eastern Hill University, Shillong, 4th and 5th August 2022.
+* **Faculty Development Program on Recent Research in Mathematics**  
+  October 10–15, 2022 | Vel Tech Multi Tech
 
-12. **Recent Advances in Mathematics and its Applications (RAMA)** — Calcutta University, 2022 and 2023.
+* **National Seminar on Recent Trends in Topology**  
+  August 4–5, 2022 | North Eastern Hill University, Shillong
 
-13. **International Webinar on Fundamental Mathematics** — Organized by the Department of Mathematics, School of Basic Science, The Assam Kaziranga University, August 30th - September 1st, 2021.
+* **Recent Advances in Mathematics and its Applications (RAMA)**  
+  2022 | Calcutta University
 
-14. **Mathematics Training and Talent Search Program (MTTS) Level-1** — Funded by The National Board for Higher Mathematics (NBHM), an apex body of the Department of Atomic Energy, Government of India, 2021.
+### 2021
+* **International Webinar on Fundamental Mathematics**  
+  August 30 – September 1, 2021 | Assam Kaziranga University
+
+* **Mathematics Training and Talent Search Program (MTTS) Level-1**  
+  2021 | Funded by NBHM, Department of Atomic Energy
