@@ -40,3 +40,7 @@ I have authored a book, Beyond Answers: Beauty of Mathematical Questions. It was
 Outside of academics, I enjoy writing blogs, exploring web design and coding, and learning about open educational technologies. A selection of my talks and presentations (some with slides) is available here
 . My updated CV can be accessed here [here](https://drive.google.com/drive/folders/1GEbPbSA5sfkBQYyckeMoTF3b4LUb8NJ9?usp=drive_link) *(last updated: 31st August 2025)*.
 
+I love the mountains.
+It's so quiet and peaceful.
+I can just breathe and be alone.
+It makes me feel free.
