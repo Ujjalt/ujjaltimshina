@@ -24,6 +24,5 @@ Below is a list of honors, scholarships, and recognitions received over the year
     <li><strong>Certificate of Merit</strong> — Awarded by Cipla Foundation for outstanding academic performance in Class 10 and 12.</li>
 
  
-</div>
 
 <hr>
