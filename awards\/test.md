@@ -32,6 +32,6 @@ Below is a list of honors, scholarships, and recognitions received over the year
 
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; color: #333;">
   <ul>
-    <li>Recognized contributor to outreach initiatives under the Department of Science & Technology, Government of Sikkim.</li>
+   <li>Recognized contributor to outreach initiatives under the Department of Science & Technology, Government of Sikkim.</li>
   </ul>
 </div>
