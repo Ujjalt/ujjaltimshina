@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Attended Workshops and Seminars"
+title: "Workshops and Seminars"
 permalink: /workshops/
 author_profile: true
 ---
