@@ -12,7 +12,7 @@ As a Teaching Assistant for the undergraduate course **MTH204: ODE/PDEs and Nume
 
 **Supervised 4 TAs for 198 students; conducted tutorials, graded, held office hours, and mentored students (~12 hrs/week)**.
 
-### Responsibilities
+
 - Conducted weekly tutorial sessions.
 - Supported students in understanding theoretical and computational aspects.
 - Evaluated quizzes, assignments, and mid-semester exams.
