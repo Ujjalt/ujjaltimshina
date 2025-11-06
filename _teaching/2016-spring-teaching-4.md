@@ -10,7 +10,6 @@ location: "New Delhi, India"
 
 I'm serving as a Teaching Assistant for **MTH100: Linear Algebra** during summer 2025 at IIIT Delhi under Dr. Dr Subhajit Ghosechowdhury. This core undergraduate course is introducing students to fundamental linear algebraic structures and their applications in science and engineering.
 
-### Responsibilities
 - Leading a team of **18 Teaching Assistants** for a class of **348 students**.
 - Weekly tutorial sessions and held regular office hours (~12 hours/week).
 - Graded assignments, quizzes, and exams.
