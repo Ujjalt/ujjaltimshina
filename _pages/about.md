@@ -11,6 +11,8 @@ redirect_from:
 
 Welcome to my homepage!
 
+**Not preparing to live someday — but living, here and now. Breathing joy into each moment as it unfolds**.
+
 My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the [Indraprastha Institute of Information Technology Delhi (IIIT Delhi)](https://www.iiitd.ac.in/people/phd/current), working under the supervision of [Dr. Prahllad Deb](https://www.iiitd.ac.in/prahllad). I joined IIIT Delhi after being awarded the [INSPIRE Research Fellowship](https://online-inspire.gov.in/) by the Department of Science and Technology (DST), Government of India.
 
 Previously, I completed my M.Sc. in Mathematics from [Sikkim University](https://cus.ac.in/), a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled *“Nets and Filters in Topology”*, was completed under the supervision of [Dr. Namita Behera](https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2). I completed my undergraduate studies at [Nar Bahadur Bhandari Government College](https://nbbgc.org/), affiliated with Sikkim University.
