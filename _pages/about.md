@@ -41,7 +41,7 @@ I am also deeply interested in teaching, outreach, and sharing ideas. I have wor
 I have authored a book, Beyond Answers: Beauty of Mathematical Questions. It was my first attempt at writing and not perfect, but it reflects my interest in learning through questions. The book is available on Amazon
  and Notion Press
 .
-Outside of academics, I enjoy writing blogs, exploring web design and coding, and learning about open educational technologies. A selection of my talks and presentations (some with slides) is available here
+Outside of academics, I enjoy writing blogs, exploring web design and coding, and learning about open educational technologies. A selection of my talks and presentations (some with slides) is available here [here](https://sites.google.com/iiitd.ac.in/ujjal-timshina/slides-selected-talks)
 . My updated CV can be accessed here [here](https://drive.google.com/drive/folders/1GEbPbSA5sfkBQYyckeMoTF3b4LUb8NJ9?usp=drive_link) *(last updated: 31st August 2025)*.
 
 **Mountains. Solitude. Breath. Peace.**
