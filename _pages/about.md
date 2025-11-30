@@ -45,3 +45,7 @@ Outside of academics, I enjoy writing blogs, exploring web design and coding, an
 . My updated CV can be accessed here [here](https://drive.google.com/drive/folders/1GEbPbSA5sfkBQYyckeMoTF3b4LUb8NJ9?usp=drive_link) *(last updated: 31st August 2025)*.
 
 **Mountains. Solitude. Breath. Peace.**
+
+![image_alt]()
+
+**“I particularly enjoy reading the elegantly written articles and lecture notes available at https://www.jmilne.org/math/.”**
