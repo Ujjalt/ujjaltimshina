@@ -50,4 +50,4 @@ Outside of academics, I enjoy writing blogs, exploring web design and coding, an
 
 ![image_alt](https://github.com/Ujjalt/ujjaltimshina/blob/92845093e8f6a7d01ecc742a8d5d36988e360549/images/Bad.jpg)
 
-**“I particularly enjoy reading the elegantly written articles and lecture notes available at [here](https://www.jmilne.org/math/).”**
+**“I particularly enjoy reading the elegantly written articles and lecture notes available at [here](https://terrytao.wordpress.com/) and [here](https://www.jmilne.org/math/).”**
