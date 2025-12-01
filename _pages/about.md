@@ -48,6 +48,6 @@ Outside of academics, I enjoy writing blogs, exploring web design and coding, an
 
 **When rigor takes a coffee break.**
 
-![image_alt](https://github.com/Ujjalt/ujjaltimshina/raw/92845093e8f6a7d01ecc742a8d5d36988e360549/images/Bad.jpg)
+![image_alt](https://github.com/Ujjalt/ujjaltimshina/blob/8544fc672224e62ab6ce76a4515938515f644535/images/Unknown.jpg)
 
 **“I enjoy reading the elegantly written articles and lecture notes available at Terry Tao blogs [here](https://terrytao.wordpress.com/) and Mathematics Site - J.S. Milne [here](https://www.jmilne.org/math/).”**
