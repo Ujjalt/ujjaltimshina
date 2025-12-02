@@ -67,6 +67,17 @@ Linnaeus University
 </p>
 
 
+### Highlights from Young Mathematicians in Operator Algebras (YMOA), ISI Delhi, 24–30 March 2025
+
+<p align="center">
+  <img src="https://github.com/Ujjalt/ujjaltimshina/blob/61e524af3bc66e6a87e8e10d131f43cfcf6600d4/images/YMOA.JPG?raw=true" 
+       width="650" 
+       style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin-top:15px;" />
+</p>
+
+
+
+
 ### Highlights: (Talk on Transformation Geometry: The Complete Symmetries of Regular Shapes at the INMO Training Camp (funded by HBCSE, TIFR), held at SMIT, Sikkim, for Olympiad aspirants. Jan 2024)
 
 Below are a few curated moments from the sessions conducted at the  
