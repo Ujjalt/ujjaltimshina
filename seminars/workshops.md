@@ -51,6 +51,29 @@ for Olympiad aspirants.
 
 ---
 
+
+
+---
+
+### Highlights (Math IntroSeries — Course 1  
+**Generalized Weyl Algebras and Their Representations**
+
+Organized by:  
+Institute of Mathematics, University of the Philippines Diliman •  
+North-Eastern Hill University •  
+Mindanao State University – Iligan Institute of Technology •  
+Central Mindanao University •  
+Linnaeus University  
+
+**June 30 – July 10, 2025**)
+
+<p float="left" align="center">
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/b28e1637c6472d5ea323eaca81c0cbe6dc98d7f4/images/Representation_2880x1620_Lede_v1.jpg" height="260" style="margin-right:15px;" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/b28e1637c6472d5ea323eaca81c0cbe6dc98d7f4/images/RT2.jpg" height="260" style="margin-right:15px;" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/b28e1637c6472d5ea323eaca81c0cbe6dc98d7f4/images/RT3.png" height="260" />
+</p>
+
+
 ### Highlights: (Talk on Transformation Geometry: The Complete Symmetries of Regular Shapes at the INMO Training Camp (funded by HBCSE, TIFR), held at SMIT, Sikkim, for Olympiad aspirants. Jan 2024)
 
 <p float="left" align="center">
