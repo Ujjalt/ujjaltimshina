@@ -43,13 +43,6 @@ Below is a list of workshops, seminars, and lecture series attended over the yea
 
 ## A Selection of Session Highlights
 
-Below are a few curated moments from the sessions conducted at the  
-**INMO Training Camp** (funded by **HBCSE, TIFR**), held at **SMIT, Sikkim**,  
-for Olympiad aspirants.
-
-**Jan 2024**
-
----
 
 
 
@@ -75,6 +68,12 @@ Linnaeus University
 
 
 ### Highlights: (Talk on Transformation Geometry: The Complete Symmetries of Regular Shapes at the INMO Training Camp (funded by HBCSE, TIFR), held at SMIT, Sikkim, for Olympiad aspirants. Jan 2024)
+
+Below are a few curated moments from the sessions conducted at the  
+**INMO Training Camp** (funded by **HBCSE, TIFR**), held at **SMIT, Sikkim**,  
+for Olympiad aspirants.
+
+**Jan 2024**
 
 <p float="left" align="center">
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/715cd202433ab1be5d9b5b0c2607fcb605daa8cc/images/Inmotc-2.jpg" height="260" style="margin-right:15px;" />
