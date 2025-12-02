@@ -40,3 +40,21 @@ Below is a list of workshops, seminars, and lecture series attended over the yea
 - International Webinar on Fundamental Mathematics, Organized by the Department of Mathematics, School of Basic Science, The Assam Kaziranga University, August 30th - September 1st, 2021.
 
 - Mathematics Training and Talent Search Program (MTTS) Level-1 (2021), funded by The National Board for Higher Mathematics (NBHM), Department of Atomic Energy, Government of India.
+
+## 📸 A Selection of Session Highlights
+
+Below are a few curated moments from the sessions conducted at the  
+**INMO Training Camp** (funded by **HBCSE, TIFR**), held at **SMIT, Sikkim**,  
+for Olympiad aspirants.
+
+**Jan 2024**
+
+---
+
+### Highlights: (Talk on Transformation Geometry: The Complete Symmetries of Regular Shapes at the INMO Training Camp (funded by HBCSE, TIFR), held at SMIT, Sikkim, for Olympiad aspirants. Jan 2024)
+
+<p float="left" align="center">
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/715cd202433ab1be5d9b5b0c2607fcb605daa8cc/images/Inmotc-2.jpg" height="260" style="margin-right:15px;" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/715cd202433ab1be5d9b5b0c2607fcb605daa8cc/images/Inmotc.jpg" height="260" style="margin-right:15px;" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/715cd202433ab1be5d9b5b0c2607fcb605daa8cc/images/INMOTC-4.jpeg" height="260" />
+</p>
