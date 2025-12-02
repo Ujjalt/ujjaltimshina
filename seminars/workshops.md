@@ -61,3 +61,18 @@ for Olympiad aspirants.
 </p>
 
 
+### Highlights (IST-2022 in Real Analysis  
+*A Joint Centre of IIT Bombay and TIFR Mumbai*
+
+Held at **Sikkim Manipal Institute of Technology, Sikkim**  
+**5 Dec 2023 – 17 Dec 2023**)
+
+<p float="left" align="center">
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7842015d99d93ecd730edcfc37313fb9f6cd11de/IST-1.jpg" height="260" style="margin-right:15px;" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7842015d99d93ecd730edcfc37313fb9f6cd11de/IST-2.jpg" height="260" style="margin-right:15px;" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7842015d99d93ecd730edcfc37313fb9f6cd11de/IST-4.jpg" height="260" style="margin-right:15px;" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7842015d99d93ecd730edcfc37313fb9f6cd11de/IST-3.jpg" height="260" />
+</p>
+
+
+
