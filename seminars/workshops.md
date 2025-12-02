@@ -41,7 +41,7 @@ Below is a list of workshops, seminars, and lecture series attended over the yea
 
 - Mathematics Training and Talent Search Program (MTTS) Level-1 (2021), funded by The National Board for Higher Mathematics (NBHM), Department of Atomic Energy, Government of India.
 
-## 📸 A Selection of Session Highlights
+## A Selection of Session Highlights
 
 Below are a few curated moments from the sessions conducted at the  
 **INMO Training Camp** (funded by **HBCSE, TIFR**), held at **SMIT, Sikkim**,  
