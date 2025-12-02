@@ -57,4 +57,7 @@ for Olympiad aspirants.
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/715cd202433ab1be5d9b5b0c2607fcb605daa8cc/images/Inmotc-2.jpg" height="260" style="margin-right:15px;" />
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/715cd202433ab1be5d9b5b0c2607fcb605daa8cc/images/Inmotc.jpg" height="260" style="margin-right:15px;" />
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/715cd202433ab1be5d9b5b0c2607fcb605daa8cc/images/INMOTC-4.jpeg" height="260" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6e0a9eba4d00673cf8a85dd3dce015cd9600d7c6/INMOTC-3.jpg" height="260" />
 </p>
+
+
