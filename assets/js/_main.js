@@ -1,80 +1,112 @@
 /* ==========================================================================
-   Various functions that we want to use within the template
+   PROFESSIONAL MULTI-THEME SYSTEM
+   Supports: light, dark, brown
    ========================================================================== */
 
-// Determine the expected state of the theme toggle, which can be "dark", "light", or
-// "system". Default is "system".
+/* --------------------------
+   Determine saved theme
+--------------------------- */
 let determineThemeSetting = () => {
-  let themeSetting = localStorage.getItem("theme");
-  return (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") ? "system" : themeSetting;
+  let theme = localStorage.getItem("theme");
+  return ["light", "dark", "brown", "system"].includes(theme)
+    ? theme
+    : "system";
 };
 
-// Determine the computed theme, which can be "dark" or "light". If the theme setting is
-// "system", the computed theme is determined based on the user's system preference.
+/* --------------------------
+   Detect system preference
+--------------------------- */
+const browserPref = window.matchMedia("(prefers-color-scheme: dark)").matches
+  ? "dark"
+  : "light";
+
+/* --------------------------
+   Compute actual theme in use
+--------------------------- */
 let determineComputedTheme = () => {
-  let themeSetting = determineThemeSetting();
-  if (themeSetting != "system") {
-    return themeSetting;
-  }
-  return (userPref && userPref("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
+  let setting = determineThemeSetting();
+  if (setting !== "system") return setting;
+  return browserPref;
 };
 
-// detect OS/browser preference
-const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-
-// Set the theme on page load or when explicitly called
+/* --------------------------
+   Apply theme to the website
+--------------------------- */
 let setTheme = (theme) => {
-  const use_theme =
+  const chosen =
     theme ||
     localStorage.getItem("theme") ||
     $("html").attr("data-theme") ||
     browserPref;
 
-  if (use_theme === "dark") {
-    $("html").attr("data-theme", "dark");
-    $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
-  } else if (use_theme === "light") {
-    $("html").removeAttr("data-theme");
-    $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
-  }
+  // update <html> attribute
+  $("html").attr("data-theme", chosen);
+
+  // update icon
+  $("#theme-icon")
+    .removeClass("fa-sun fa-moon fa-leaf")
+    .addClass(
+      chosen === "dark"
+        ? "fa-moon"
+        : chosen === "brown"
+        ? "fa-leaf"
+        : "fa-sun"
+    );
 };
 
-// Toggle the theme manually
-var toggleTheme = () => {
-  const current_theme = $("html").attr("data-theme");
-  const new_theme = current_theme === "dark" ? "light" : "dark";
-  localStorage.setItem("theme", new_theme);
-  setTheme(new_theme);
+/* --------------------------
+   Toggle sequence
+   light → dark → brown → light
+--------------------------- */
+let toggleTheme = () => {
+  const current = determineComputedTheme();
+  const next =
+    current === "light"
+      ? "dark"
+      : current === "dark"
+      ? "brown"
+      : "light";
+
+  localStorage.setItem("theme", next);
+  setTheme(next);
 };
 
 /* ==========================================================================
-   Plotly integration script so that Markdown codeblocks will be rendered
+   PLOTLY THEME HANDLING
    ========================================================================== */
 
-// Read the Plotly data from the code block, hide it, and render the chart as new node. This allows for the 
-// JSON data to be retrieve when the theme is switched. The listener should only be added if the data is 
-// actually present on the page.
-import { plotlyDarkLayout, plotlyLightLayout } from './theme.js';
+import {
+  plotlyDarkLayout,
+  plotlyLightLayout,
+  plotlyBrownLayout,
+} from "./theme.js";
+
 let plotlyElements = document.querySelectorAll("pre>code.language-plotly");
+
 if (plotlyElements.length > 0) {
   document.addEventListener("readystatechange", () => {
     if (document.readyState === "complete") {
       plotlyElements.forEach((elem) => {
-        // Parse the Plotly JSON data and hide it
-        var jsonData = JSON.parse(elem.textContent);
+        let jsonData = JSON.parse(elem.textContent);
         elem.parentElement.classList.add("hidden");
 
-        // Add the Plotly node
         let chartElement = document.createElement("div");
         elem.parentElement.after(chartElement);
 
-        // Set the theme for the plot and render it
-        const theme = (determineComputedTheme() === "dark") ? plotlyDarkLayout : plotlyLightLayout;
-        if (jsonData.layout) {
-          jsonData.layout.template = (jsonData.layout.template) ? { ...theme, ...jsonData.layout.template } : theme;
-        } else {
-          jsonData.layout = { template: theme };
-        }
+        const mode = determineComputedTheme();
+        const template =
+          mode === "dark"
+            ? plotlyDarkLayout
+            : mode === "brown"
+            ? plotlyBrownLayout
+            : plotlyLightLayout;
+
+        jsonData.layout = jsonData.layout || {};
+        jsonData.layout.template = {
+          ...(template.layout.template || {}),
+          ...(jsonData.layout.template || {}),
+        };
+
         Plotly.react(chartElement, jsonData.data, jsonData.layout);
       });
     }
@@ -82,61 +114,69 @@ if (plotlyElements.length > 0) {
 }
 
 /* ==========================================================================
-   Actions that should occur when the page has been fully loaded
+   PAGE LOAD ACTIONS
    ========================================================================== */
 
 $(document).ready(function () {
-  // SCSS SETTINGS - These should be the same as the settings in the relevant files 
-  const scssLarge = 925;          // pixels, from /_sass/_themes.scss
-  const scssMastheadHeight = 70;  // pixels, from the current theme (e.g., /_sass/theme/_default.scss)
+  const scssLarge = 925;
+  const scssMastheadHeight = 70;
 
-  // If the user hasn't chosen a theme, follow the OS preference
+  // Initial theme
   setTheme();
-  window.matchMedia('(prefers-color-scheme: dark)')
-        .addEventListener("change", (e) => {
-          if (!localStorage.getItem("theme")) {
-            setTheme(e.matches ? "dark" : "light");
-          }
-        });
 
-  // Enable the theme toggle
-  $('#theme-toggle').on('click', toggleTheme);
+  // Auto-update when system theme changes
+  window
+    .matchMedia("(prefers-color-scheme: dark)")
+    .addEventListener("change", (e) => {
+      if (localStorage.getItem("theme") === null) {
+        setTheme(e.matches ? "dark" : "light");
+      }
+    });
 
-  // Enable the sticky footer
+  // Toggle button
+  $("#theme-toggle").on("click", toggleTheme);
+
+  // Sticky footer
   var bumpIt = function () {
     $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
-  }
+  };
+
   $(window).resize(function () {
     didResize = true;
   });
+
   setInterval(function () {
     if (didResize) {
       didResize = false;
       bumpIt();
-    }}, 250);
+    }
+  }, 250);
+
   var didResize = false;
   bumpIt();
 
-  // FitVids init
+  // FitVids (responsive videos)
   fitvids();
 
-  // Follow menu drop down
+  // Author menu dropdown
   $(".author__urls-wrapper button").on("click", function () {
-    $(".author__urls").fadeToggle("fast", function () { });
+    $(".author__urls").fadeToggle("fast");
     $(".author__urls-wrapper button").toggleClass("open");
   });
 
-  // Restore the follow menu if toggled on a window resize
-  jQuery(window).on('resize', function () {
-    if ($('.author__urls.social-icons').css('display') == 'none' && $(window).width() >= scssLarge) {
-      $(".author__urls").css('display', 'block')
+  // Restore menu on desktop resize
+  jQuery(window).on("resize", function () {
+    if (
+      $(".author__urls.social-icons").css("display") == "none" &&
+      $(window).width() >= scssLarge
+    ) {
+      $(".author__urls").css("display", "block");
     }
   });
 
-  // Init smooth scroll, this needs to be slightly more than then fixed masthead height
+  // Smooth scroll
   $("a").smoothScroll({
     offset: -scssMastheadHeight,
     preventDefault: false,
   });
-
 });
