@@ -346,3 +346,23 @@ Discussion on mathematics and the life of great living mathematicians
 
 </div>
 
+### ‼️ Additional Memories  
+
+A few cherished moments from academic and campus life.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6127813e5bfbbc53a0b0c991c7940cdf8c14a310/images/Rigzor%20.jpg"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6127813e5bfbbc53a0b0c991c7940cdf8c14a310/images/Anjan.png"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6127813e5bfbbc53a0b0c991c7940cdf8c14a310/images/SU%20farewell.jpg"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+</div>
+
