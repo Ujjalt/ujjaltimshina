@@ -163,12 +163,31 @@ for Olympiad aspirants.
 
 </div>
 
+### ‼️ Workshop on Graph Theory and its Applications  
+**NBBGC, Tadong — 2023**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ecebe397a989e8c86d04a5ce307c730396dae5dd/images/Graph-1.jpeg"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ecebe397a989e8c86d04a5ce307c730396dae5dd/images/Graph-2.jpeg"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ecebe397a989e8c86d04a5ce307c730396dae5dd/images/Graph3.jpeg"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+</div>
+
 
 ###  ‼️ Highlights (IST-2022 in Real Analysis  
 *A Joint Centre of IIT Bombay and TIFR Mumbai*
 
 Held at **Sikkim Manipal Institute of Technology, Sikkim**  
-**5 Dec 2023 – 17 Dec 2023**)
+**5 Dec 2022 – 17 Dec 2022**)
 
 <div align="center">
 
