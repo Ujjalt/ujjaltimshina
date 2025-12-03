@@ -64,7 +64,7 @@ Outside of academics, I enjoy writing blogs, exploring web design and coding, an
 
 ### Highlights from Recent Academic Engagements: 
 
-###  ‼️ Highlights (Math IntroSeries — Course 1  
+###  ‼️ (Math IntroSeries — Course 1  
 **Generalized Weyl Algebras and Their Representations**
 
 Organized by:  
@@ -92,7 +92,7 @@ Linnaeus University
 
 </div>
 
-###  ‼️ Highlights: (Talk on Transformation Geometry: The Complete Symmetries of Regular Shapes at the INMO Training Camp (funded by HBCSE, TIFR), held at SMIT, Sikkim, for Olympiad aspirants. Jan 2024)
+###  ‼️ (Talk on Transformation Geometry: The Complete Symmetries of Regular Shapes at the INMO Training Camp (funded by HBCSE, TIFR), held at SMIT, Sikkim, for Olympiad aspirants. Jan 2024)
 
 Below are a few curated moments from the sessions conducted at the  
 **INMO Training Camp** (funded by **HBCSE, TIFR**), held at **SMIT, Sikkim**,  
@@ -132,7 +132,7 @@ IIIT Delhi, 2024
 
 </div>
 
-###  ‼️ Highlights (IST-2022 in Real Analysis  
+###  ‼️ (IST-2022 in Real Analysis  
 *A Joint Centre of IIT Bombay and TIFR Mumbai*
 
 Held at **Sikkim Manipal Institute of Technology, Sikkim**  
