@@ -48,7 +48,7 @@ Below is a list of workshops, seminars, and lecture series attended over the yea
 
 ---
 
-### Highlights (Math IntroSeries — Course 1  
+###  ‼️ Highlights (Math IntroSeries — Course 1  
 **Generalized Weyl Algebras and Their Representations**
 
 Organized by:  
@@ -67,7 +67,7 @@ Linnaeus University
 </p>
 
 
-### Highlights from Young Mathematicians in Operator Algebras (YMOA), ISI Delhi, 24–30 March 2025
+###  ‼️ Highlights from Young Mathematicians in Operator Algebras (YMOA), ISI Delhi, 24–30 March 2025
 
 <p align="center">
   <img src="https://github.com/Ujjalt/ujjaltimshina/blob/61e524af3bc66e6a87e8e10d131f43cfcf6600d4/images/YMOA.JPG?raw=true" 
@@ -76,9 +76,36 @@ Linnaeus University
 </p>
 
 
+### ‼️ Undergraduate Summer School in Mathematics 2025 — IIIT Delhi  
+**Delivered a lecture series on “Geometry of Möbius Transformation and Inversion”**
+
+<style>
+  .img-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 18px;
+    justify-items: center;
+    margin-top: 10px;
+  }
+  .img-grid img {
+    height: 260px;
+    border: 3px solid #cccccc;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  }
+</style>
+
+<div class="img-grid">
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/61c72f191d7e5cb8c5dee19604221c277dfbc96e/images/USP-1.jpg" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/61c72f191d7e5cb8c5dee19604221c277dfbc96e/images/USP-2.jpg" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/61c72f191d7e5cb8c5dee19604221c277dfbc96e/images/USP-3.jpeg" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/61c72f191d7e5cb8c5dee19604221c277dfbc96e/images/USP-4.jpeg" />
+</div>
 
 
-### Highlights: (Talk on Transformation Geometry: The Complete Symmetries of Regular Shapes at the INMO Training Camp (funded by HBCSE, TIFR), held at SMIT, Sikkim, for Olympiad aspirants. Jan 2024)
+
+
+###  ‼️ Highlights: (Talk on Transformation Geometry: The Complete Symmetries of Regular Shapes at the INMO Training Camp (funded by HBCSE, TIFR), held at SMIT, Sikkim, for Olympiad aspirants. Jan 2024)
 
 Below are a few curated moments from the sessions conducted at the  
 **INMO Training Camp** (funded by **HBCSE, TIFR**), held at **SMIT, Sikkim**,  
@@ -94,7 +121,7 @@ for Olympiad aspirants.
 </p>
 
 
-### Highlights (IST-2022 in Real Analysis  
+###  ‼️ Highlights (IST-2022 in Real Analysis  
 *A Joint Centre of IIT Bombay and TIFR Mumbai*
 
 Held at **Sikkim Manipal Institute of Technology, Sikkim**  
