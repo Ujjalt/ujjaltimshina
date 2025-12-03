@@ -60,11 +60,22 @@ Linnaeus University
 
 **June 30 – July 10, 2025**)
 
-<p float="left" align="center">
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/b28e1637c6472d5ea323eaca81c0cbe6dc98d7f4/images/Representation_2880x1620_Lede_v1.jpg" height="260" style="margin-right:15px;" />
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/b28e1637c6472d5ea323eaca81c0cbe6dc98d7f4/images/RT2.jpg" height="260" style="margin-right:15px;" />
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/b28e1637c6472d5ea323eaca81c0cbe6dc98d7f4/images/RT3.png" height="260" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/b28e1637c6472d5ea323eaca81c0cbe6dc98d7f4/images/Representation_2880x1620_Lede_v1.jpg"
+     width="650"
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/b28e1637c6472d5ea323eaca81c0cbe6dc98d7f4/images/RT2.jpg"
+     width="650"
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/b28e1637c6472d5ea323eaca81c0cbe6dc98d7f4/images/RT3.png"
+     width="650"
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+</div>
+
 
 
 ###  ‼️ Highlights from Young Mathematicians in Operator Algebras (YMOA), ISI Delhi, 24–30 March 2025
@@ -106,16 +117,29 @@ Linnaeus University
 
 Below are a few curated moments from the sessions conducted at the  
 **INMO Training Camp** (funded by **HBCSE, TIFR**), held at **SMIT, Sikkim**,  
-for Olympiad aspirants.
+for Olympiad aspirants.  
 
 **Jan 2024**
 
-<p float="left" align="center">
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/715cd202433ab1be5d9b5b0c2607fcb605daa8cc/images/Inmotc-2.jpg" height="260" style="margin-right:15px;" />
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/715cd202433ab1be5d9b5b0c2607fcb605daa8cc/images/Inmotc.jpg" height="260" style="margin-right:15px;" />
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/715cd202433ab1be5d9b5b0c2607fcb605daa8cc/images/INMOTC-4.jpeg" height="260" />
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6e0a9eba4d00673cf8a85dd3dce015cd9600d7c6/INMOTC-3.jpg" height="260" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/715cd202433ab1be5d9b5b0c2607fcb605daa8cc/images/Inmotc-2.jpg"
+     width="650"
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/715cd202433ab1be5d9b5b0c2607fcb605daa8cc/images/Inmotc.jpg"
+     width="650"
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/715cd202433ab1be5d9b5b0c2607fcb605daa8cc/images/INMOTC-4.jpeg"
+     width="650"
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6e0a9eba4d00673cf8a85dd3dce015cd9600d7c6/INMOTC-3.jpg"
+     width="650"
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+</div>
 
 
 ###  ‼️ Highlights (IST-2022 in Real Analysis  
@@ -124,12 +148,23 @@ for Olympiad aspirants.
 Held at **Sikkim Manipal Institute of Technology, Sikkim**  
 **5 Dec 2023 – 17 Dec 2023**)
 
-<p float="left" align="center">
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7842015d99d93ecd730edcfc37313fb9f6cd11de/IST-1.jpg" height="260" style="margin-right:15px;" />
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7842015d99d93ecd730edcfc37313fb9f6cd11de/IST-2.jpg" height="260" style="margin-right:15px;" />
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7842015d99d93ecd730edcfc37313fb9f6cd11de/IST-4.jpg" height="260" style="margin-right:15px;" />
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7842015d99d93ecd730edcfc37313fb9f6cd11de/IST-3.jpg" height="260" />
-</p>
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7842015d99d93ecd730edcfc37313fb9f6cd11de/IST-1.jpg"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7842015d99d93ecd730edcfc37313fb9f6cd11de/IST-2.jpg"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7842015d99d93ecd730edcfc37313fb9f6cd11de/IST-4.jpg"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7842015d99d93ecd730edcfc37313fb9f6cd11de/IST-3.jpg"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+</div>
 
