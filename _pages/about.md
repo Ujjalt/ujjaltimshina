@@ -189,3 +189,19 @@ Held at **Sikkim Manipal Institute of Technology, Sikkim**
      style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
 </div>
+
+## ‼️ CREST School – 2022  
+**TCG CREST, Kolkata**  
+*Joint Centre of ISI Kolkata and Chennai Mathematical Institute*
+
+<table>
+  <tr>
+    <td><img src="https://github.com/Ujjalt/ujjaltimshina/blob/f469673618f75ad2351fea36d5941744d5e652ef/images/CREST-1.jpeg" width="260"></td>
+    <td><img src="https://github.com/Ujjalt/ujjaltimshina/blob/f469673618f75ad2351fea36d5941744d5e652ef/images/CREST-2.jpeg" width="260"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Ujjalt/ujjaltimshina/blob/f469673618f75ad2351fea36d5941744d5e652ef/images/CREST-3.jpeg" width="260"></td>
+    <td><img src="https://github.com/Ujjalt/ujjaltimshina/blob/f469673618f75ad2351fea36d5941744d5e652ef/images/CREST-4.jpeg" width="260"></td>
+  </tr>
+</table>
+
