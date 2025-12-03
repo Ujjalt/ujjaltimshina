@@ -247,6 +247,18 @@ Organized by the Department of Science & Technology, Government of Sikkim
 
 </div>
 
+### ‼️ Review of the constitution Meeting of the Sikkim University Mathematical Society-  
+**Sikkim University**  
+A first initiative led by me as departmental representative to foster mathematical dialogue and community engagement within the university.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/0958b05f46fa06fa1bce110cbb82cbaf554066a5/images/SUMS.png"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+</div>
+
 
 ###  ‼️ Highlights (IST-2022 in Real Analysis  
 *A Joint Centre of IIT Bombay and TIFR Mumbai*
