@@ -7,6 +7,25 @@ redirect_from:
   - /about.html
 ---
 
+<div align="center">
+
+  <!-- Profile Image -->
+  <img 
+    src="https://github.com/Ujjalt/ujjaltimshina/blob/1aa32922e8488a23d48fdb78824f97b2a0f1710a/images/Myself.jpg?raw=true" 
+    alt="Ujjal Timshina"
+    width="230"
+    style="
+      border-radius: 50%;
+      border: 4px solid #C8A27A;
+    "
+  />
+
+  <h2 style="margin-top: 15px;">Ujjal Timshina</h2>
+  <p style="font-size: 16px; color: #5A4634; margin-top: -10px;">2nd March 2001</p>
+
+</div>
+
+
 
 
 Welcome to my homepage!
