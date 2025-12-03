@@ -227,6 +227,26 @@ Under DST, Government of Sikkim — 2023
 
 </div>
 
+### ‼️ Poster Presentation  
+Representing the Department of Mathematics, Sikkim University, at the 2022 Science Exhibition  
+Organized by the Department of Science & Technology, Government of Sikkim
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8471f8d6445e699a499e4947f1ff3db027d3baa8/images/Poster%201.jpeg"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8471f8d6445e699a499e4947f1ff3db027d3baa8/images/Poster-2.jpeg"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8471f8d6445e699a499e4947f1ff3db027d3baa8/images/Poster%20-3.jpeg"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+</div>
+
 
 ###  ‼️ Highlights (IST-2022 in Real Analysis  
 *A Joint Centre of IIT Bombay and TIFR Mumbai*
