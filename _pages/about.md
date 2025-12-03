@@ -313,3 +313,15 @@ Joint Centre of ISI Kolkata and Chennai Mathematical Institute
 
 </div>
 
+### ‼️ Discussion on Mathematics  
+**Yuvavani – Youth Program, All India Radio**  
+Discussion on mathematics and the life of great living mathematicians
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/947b812740eccd06509827fbf820382f57a14bb7/images/Yuvani%20YOUTH%20AIR.png"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+</div>
+
