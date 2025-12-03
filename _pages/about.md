@@ -297,3 +297,19 @@ Joint Centre of ISI Kolkata and Chennai Mathematical Institute
      style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
 </div>
+
+### ‼️ Press Coverage  
+*As covered by Sikkim Express*
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/3fe30ee07386deeaa45f556ca820ca3596e024d8/images/Sikkim%20Express.png"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/3fe30ee07386deeaa45f556ca820ca3596e024d8/images/Sikkim%20express-2.png"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+</div>
+
