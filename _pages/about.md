@@ -9,8 +9,7 @@ redirect_from:
 
 <div align="center">
 
- 
-  <h2 style="margin-top: 15px;">Ujjal Timshina</h2>
+
   <p style="font-size: 16px; color: #5A4634; margin-top: -10px;">2nd March 2001</p>
 
 </div>
