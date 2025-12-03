@@ -348,7 +348,7 @@ Discussion on mathematics and the life of great living mathematicians
 
 ### ‼️ Additional Memories  
 
-A few cherished moments from academic and campus life.
+A few cherished moments from academic and personal life.
 
 <div align="center">
 
@@ -361,6 +361,18 @@ A few cherished moments from academic and campus life.
      style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
 <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6127813e5bfbbc53a0b0c991c7940cdf8c14a310/images/SU%20farewell.jpg"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/44bfc7e8c4af61c9ae7863662362e0f2c6406974/images/Moment-1.jpeg"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/44bfc7e8c4af61c9ae7863662362e0f2c6406974/images/Moment-2.jpeg"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/44bfc7e8c4af61c9ae7863662362e0f2c6406974/images/Moment-3.jpeg"
      width="650"
      style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
