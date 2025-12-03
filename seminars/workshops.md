@@ -79,27 +79,24 @@ Linnaeus University
 ### ‼️ Undergraduate Summer School in Mathematics 2025 — IIIT Delhi  
 **Delivered a lecture series on “Geometry of Möbius Transformation and Inversion”**
 
-<style>
-  .img-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 18px;
-    justify-items: center;
-    margin-top: 10px;
-  }
-  .img-grid img {
-    height: 260px;
-    border: 3px solid #cccccc;
-    border-radius: 12px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-  }
-</style>
+<div align="center">
 
-<div class="img-grid">
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/61c72f191d7e5cb8c5dee19604221c277dfbc96e/images/USP-1.jpg" />
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/61c72f191d7e5cb8c5dee19604221c277dfbc96e/images/USP-2.jpg" />
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/61c72f191d7e5cb8c5dee19604221c277dfbc96e/images/USP-3.jpeg" />
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/61c72f191d7e5cb8c5dee19604221c277dfbc96e/images/USP-4.jpeg" />
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/61c72f191d7e5cb8c5dee19604221c277dfbc96e/images/USP-1.jpg" 
+     width="650" 
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/61c72f191d7e5cb8c5dee19604221c277dfbc96e/images/USP-2.jpg" 
+     width="650" 
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/61c72f191d7e5cb8c5dee19604221c277dfbc96e/images/USP-3.jpeg" 
+     width="650" 
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/61c72f191d7e5cb8c5dee19604221c277dfbc96e/images/USP-4.jpeg" 
+     width="650" 
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
 </div>
 
 
