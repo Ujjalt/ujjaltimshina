@@ -185,9 +185,6 @@ Under DST, Government of Sikkim — 2023
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/9cd2908e4a4e9d878595ae1ecad499e009f08781/images/Rhenock-2.jpeg"
-     width="650"
-     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
 <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/9cd2908e4a4e9d878595ae1ecad499e009f08781/images/Rhenock.jpeg"
      width="650"
@@ -208,14 +205,26 @@ Under DST, Government of Sikkim — 2023
 
 </div>
 
+### ‼️ Served as Departmental Representative: 2022–2023  
+**Sikkim University Students' Association (SUSA)**  
+Picture with Prof. Amit Chakraborty (HOD, Mathematics, Sikkim University), President – SUSA (2022–2023), and CR, Mathematics (2022–2023).
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a594538673b912fd26a33e52178d20c03ef3faa2/images/DR-2.png"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a594538673b912fd26a33e52178d20c03ef3faa2/images/DR1.png"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+</div>
+
 ### ‼️ Workshop on Graph Theory and its Applications  
 **NBBGC, Tadong — 2023**
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ecebe397a989e8c86d04a5ce307c730396dae5dd/images/Graph-1.jpeg"
-     width="650"
-     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
 <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ecebe397a989e8c86d04a5ce307c730396dae5dd/images/Graph-2.jpeg"
      width="650"
