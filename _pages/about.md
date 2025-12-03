@@ -190,25 +190,25 @@ Held at **Sikkim Manipal Institute of Technology, Sikkim**
 
 </div>
 
-### ‼️ CREST School – 2022  
+### ‼️ **CREST School – 2022**  
 **TCG CREST, Kolkata**  
-*Joint Centre of ISI Kolkata and Chennai Mathematical Institute*
+Joint Centre of ISI Kolkata and Chennai Mathematical Institute
 
 <div align="center">
 
-<img src="https://github.com/Ujjalt/ujjaltimshina/blob/f469673618f75ad2351fea36d5941744d5e652ef/images/CREST-1.jpeg"
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/71de3526e222995486503906bed33f229ff216c1/images/CREST-1.jpeg"
      width="650"
      style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
-<img src="https://github.com/Ujjalt/ujjaltimshina/blob/f469673618f75ad2351fea36d5941744d5e652ef/images/CREST-2.jpeg"
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/71de3526e222995486503906bed33f229ff216c1/images/CREST-2.jpeg"
      width="650"
      style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
-<img src="https://github.com/Ujjalt/ujjaltimshina/blob/f469673618f75ad2351fea36d5941744d5e652ef/images/CREST-3.jpeg"
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/71de3526e222995486503906bed33f229ff216c1/images/CREST-3.jpeg"
      width="650"
      style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
-<img src="https://github.com/Ujjalt/ujjaltimshina/blob/f469673618f75ad2351fea36d5941744d5e652ef/images/CREST-4.jpeg"
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/71de3526e222995486503906bed33f229ff216c1/images/CREST-4.jpeg"
      width="650"
      style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
