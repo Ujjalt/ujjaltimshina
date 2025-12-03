@@ -97,6 +97,42 @@ Linnaeus University
 
 </div>
 
+### ‼️ Undergraduate Summer School in Mathematics 2025 — IIIT Delhi  
+**Delivered a lecture series on “Geometry of Möbius Transformation and Inversion”**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/61c72f191d7e5cb8c5dee19604221c277dfbc96e/images/USP-1.jpg" 
+     width="650" 
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/61c72f191d7e5cb8c5dee19604221c277dfbc96e/images/USP-2.jpg" 
+     width="650" 
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/61c72f191d7e5cb8c5dee19604221c277dfbc96e/images/USP-3.jpeg" 
+     width="650" 
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/61c72f191d7e5cb8c5dee19604221c277dfbc96e/images/USP-4.jpeg" 
+     width="650" 
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+</div>
+
+
+### ‼️ PhD Math Seminar Series  
+**Introduction to Nets and Filters in Topology**  
+IIIT Delhi, 2024
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/aca8ef62dfd687c630a83926bfa76e3a3b2c1ccb/images/PhD%20math%20semiar%20series%20.jpeg"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+</div>
+
 ###  ‼️ (Talk on Transformation Geometry: The Complete Symmetries of Regular Shapes at the INMO Training Camp (funded by HBCSE, TIFR), held at SMIT, Sikkim, for Olympiad aspirants. Jan 2024)
 
 Below are a few curated moments from the sessions conducted at the  
@@ -125,17 +161,6 @@ for Olympiad aspirants.
 
 </div>
 
-### ‼️ PhD Math Seminar Series  
-**Introduction to Nets and Filters in Topology**  
-IIIT Delhi, 2024
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/aca8ef62dfd687c630a83926bfa76e3a3b2c1ccb/images/PhD%20math%20semiar%20series%20.jpeg"
-     width="650"
-     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
-
-</div>
 
 ###  ‼️ (IST-2022 in Real Analysis  
 *A Joint Centre of IIT Bombay and TIFR Mumbai*
