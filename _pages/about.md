@@ -163,6 +163,22 @@ for Olympiad aspirants.
 
 </div>
 
+### ‼️ Invited Talk on Career Aspects in Mathematics  
+**Tashiding Senior Secondary School, Government of Sikkim**  
+Under DST, Government of Sikkim — 2023
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/9d41847210a186b8ebaaff08069ebf7d7d76bef7/images/TSh.jpeg"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/9d41847210a186b8ebaaff08069ebf7d7d76bef7/images/TSh2.jpeg"
+     width="650"
+     style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+</div>
+
 ### ‼️ Workshop on Graph Theory and its Applications  
 **NBBGC, Tadong — 2023**
 
