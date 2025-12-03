@@ -35,7 +35,7 @@ Here is a selection of mathematical books that have deeply influenced my thinkin
 
 <hr>
 
-  ### Highlights from Recent Academic Engagements: 
+  ## Highlights from Recent Academic Engagements: 
 
 ###  ‼️ (Math IntroSeries — Course 1  
 **Generalized Weyl Algebras and Their Representations**
