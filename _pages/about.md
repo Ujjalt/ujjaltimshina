@@ -10,7 +10,9 @@ redirect_from:
 <div align="center">
 
 
-  <p style="font-size: 16px; color: #5A4634; margin-top: -10px;">2nd March 2001</p>
+ <p style="font-size: 16px; color: #5A4634; margin-top: -10px;">2nd March 2001</p>
+<p style="font-size: 16px; color: #5A4634; margin-top: -10px;">Gangtok, Sikkim, India</p>
+
 
 </div>
 
