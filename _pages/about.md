@@ -97,7 +97,7 @@ Linnaeus University
 
 </div>
 
-### ‼️ Undergraduate Summer School in Mathematics 2025 — IIIT Delhi  
+### ‼️ Undergraduate Summer School in Mathematics June 16-28, 2025 — IIIT Delhi  
 **Delivered a lecture series on “Geometry of Möbius Transformation and Inversion”**
 
 <div align="center">
