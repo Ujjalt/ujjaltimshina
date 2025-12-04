@@ -37,7 +37,13 @@ My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of
 Previously, I completed my M.Sc. in Mathematics from [Sikkim University](https://cus.ac.in/), a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled *“Nets and Filters in Topology”*, was completed under the supervision of [Dr. Namita Behera](https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2). I completed my undergraduate studies at [Nar Bahadur Bhandari Government College](https://nbbgc.org/), affiliated with Sikkim University.
 
 ---
-My research interests lie in **functional analysis and operator theory**, with a focus on the **Cowen–Douglas theory of operators** and its interplay with **complex geometry** and **differential geometry**.
+My research interests lie in functional analysis and operator theory, with a focus on the Cowen–Douglas theory of operators and its interplay with complex geometry and differential geometry.
+
+I am working on the classification of homogeneous operators in the Cowen–Douglas class B_n(Ω) up to unitary equivalence. This problem lies at the intersection of operator theory and complex geometry and seeks to understand how symmetry and representation-theoretic properties influence the structure of operators within the Cowen–Douglas framework.
+
+The study of homogeneous operators is central to understanding geometric models of Hilbert space operators, where each operator can be associated with a holomorphic Hermitian vector bundle over a complex domain.
+
+My current research focuses on describing these operators using the actions of Lie groups and identifying invariants that determine their equivalence classes under unitary transformations.
 
 I have completed doctoral-level coursework in **Functional Analysis**, **Complex Analysis**, **Several Complex Variables**, and **Introduction to Non-commutative Function Theory** and is currently studying **Matrix Groups** as a part of my coursework. Going forward, I plan to delve deeper into topics such as [**Reproducing Kernel Hilbert Spaces (RKHS)**](https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space), [**Spectral Theory**](https://en.wikipedia.org/wiki/Spectral_theory), [**Representation Theory**](https://en.wikipedia.org/wiki/Representation_theory). I am particularly interested in understanding how operator-theoretic ideas interface with geometric and topological frameworks.
 I am also keenly interested in subjects such as [**Measure Theory**](https://en.wikipedia.org/wiki/Measure_theory) and [**General Topology**](https://en.wikipedia.org/wiki/General_topology), which continue to shape my mathematical perspective. Beyond these, I remain curious about broader themes in modern mathematics.
