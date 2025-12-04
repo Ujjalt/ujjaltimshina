@@ -14,6 +14,3 @@ I served as a Teaching Assistant for **MTH100: Linear Algebra** during Fall 2024
 - Conducted weekly tutorial sessions and held regular office hours (~12 hours/week).
 - Graded assignments, quizzes, and exams.
 - Mentored students academically and guided them through conceptual and problem-solving challenges.
-
-### Course Overview
-Topics included systems of linear equations, matrix theory, vector spaces, inner products, linear transformations, eigenvalues and eigenvectors, and real-world applications.
