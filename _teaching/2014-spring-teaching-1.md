@@ -6,7 +6,7 @@ permalink: "https://iiitd.ac.in/courserepo/course-full-description.php?course_nu
 venue: "IIIT Delhi, School of Mathematics"
 date: 2025-01-1
 location: "New Delhi, India"
----
+--- 
 
 **Supervised 4 TAs for 198 students; conducted tutorials, graded, held office hours, and mentored students (~12 hrs/week)**.
 
