@@ -36,6 +36,8 @@ My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of
 
 Previously, I completed my M.Sc. in Mathematics from [Sikkim University](https://cus.ac.in/), a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled *“Nets and Filters in Topology”*, was completed under the supervision of [Dr. Namita Behera](https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2). I completed my undergraduate studies at [Nar Bahadur Bhandari Government College](https://nbbgc.org/), affiliated with Sikkim University.
 
+I am open to any discussions related to mathematics and research collaborations in areas such as Reproducing Kernel Hilbert Spaces, Operator Theory, or even in the fields of Topology and Geometry.
+
 ---
 My research interests lie in functional analysis and operator theory, with a focus on the Cowen–Douglas theory of operators and its interplay with complex geometry and differential geometry.
 
