@@ -29,7 +29,8 @@ Here is a selection of mathematical books that have deeply influenced my thinkin
     <li><em>General Topology</em> — Nicolas Bourbaki</li>
     <li><em>Basic Complex Analysis</em> — Tristan Needham</li>
     <li><em>Calculus on Manifolds</em> — Michael Spivak</li>
-    <li><em>Introduction to Functional Analysis and Applications</em> — Yutaka Yamamoto</li>
+    <li><em>A Course in Functional Analysis</em> — J.B Conway</li>
+     <li><em>Differential Analysis on Complex Manifolds</em> — R.O. Wells</li>
   </ul>
 </div>
 
