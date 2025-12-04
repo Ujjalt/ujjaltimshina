@@ -9,7 +9,6 @@ location: "New Delhi, India"
 --- 
 
 **Supervised 4 TAs for 198 students; conducted tutorials, graded, held office hours, and mentored students (~12 hrs/week)**.
-
 As a Teaching Assistant for the undergraduate course **MTH204: ODE/PDEs and Numerical Methods** in Spring 2025 at IIIT Delhi under Dr. Sarthok Sircar, I was involved in assisting with tutorials, grading assignments, solving student queries, and helping with exam preparation. 
 
 
