@@ -30,7 +30,9 @@ Welcome to my homepage!
 
 **Not preparing to live someday — but living, here and now. Breathing joy into each moment as it unfolds**.
 
-**Change is never painful. Only resistance to change is painful**.
+**Get busy living with the questions, or dying with the brittle little lies you mistook for answers.**
+
+
 
 My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the [Indraprastha Institute of Information Technology Delhi (IIIT Delhi)](https://www.iiitd.ac.in/people/phd/current), working under the supervision of [Dr. Prahllad Deb](https://www.iiitd.ac.in/prahllad). I joined IIIT Delhi after being awarded the [INSPIRE Research Fellowship](https://online-inspire.gov.in/) by the Department of Science and Technology (DST), Government of India.
 
@@ -77,9 +79,6 @@ Outside of academics, I enjoy writing blogs, exploring web design and coding, an
 <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8544fc672224e62ab6ce76a4515938515f644535/images/Unknown.jpg">
 
 **“I enjoy reading the elegantly written articles and lecture notes available at Terry Tao blogs [here](https://terrytao.wordpress.com/) and Mathematics Site - J.S. Milne [here](https://www.jmilne.org/math/).”**
-
-Get busy living with the questions, or dying with the brittle little lies you mistook for answers.
-
 
 
 
