@@ -36,7 +36,7 @@ Welcome to my homepage!
 
 My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the [Indraprastha Institute of Information Technology Delhi (IIIT Delhi)](https://www.iiitd.ac.in/people/phd/current), working under the supervision of [Dr. Prahllad Deb](https://www.iiitd.ac.in/prahllad). I joined IIIT Delhi after being awarded the [INSPIRE Research Fellowship](https://online-inspire.gov.in/) by the Department of Science and Technology (DST), Government of India.
 
-I am open to any discussions related to mathematics and research collaborations in areas such as Reproducing Kernel Hilbert Spaces, Operator Theory, or even in the fields of Topology and Geometry.
+I am open to any discussions related to mathematics and research collaborations in areas such as Reproducing Kernel Hilbert Spaces, Operator Theory, Complex Analysis (Single and Several Variables) or even in the fields of Topology and Geometry.
 
 ---
 My research interests lie in functional analysis and operator theory, with a focus on the Cowen–Douglas theory of operators and its interplay with complex geometry and differential geometry.
