@@ -78,6 +78,8 @@ Outside of academics, I enjoy writing blogs, exploring web design and coding, an
 
 **“I enjoy reading the elegantly written articles and lecture notes available at Terry Tao blogs [here](https://terrytao.wordpress.com/) and Mathematics Site - J.S. Milne [here](https://www.jmilne.org/math/).”**
 
+Get busy living with the questions, or dying with the brittle little lies you mistook for answers.
+
 
 
 
