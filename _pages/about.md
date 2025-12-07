@@ -34,8 +34,6 @@ Welcome to my homepage!
 
 My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the [Indraprastha Institute of Information Technology Delhi (IIIT Delhi)](https://www.iiitd.ac.in/people/phd/current), working under the supervision of [Dr. Prahllad Deb](https://www.iiitd.ac.in/prahllad). I joined IIIT Delhi after being awarded the [INSPIRE Research Fellowship](https://online-inspire.gov.in/) by the Department of Science and Technology (DST), Government of India.
 
-Previously, I completed my M.Sc. in Mathematics from [Sikkim University](https://cus.ac.in/), a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled *“Nets and Filters in Topology”*, was completed under the supervision of [Dr. Namita Behera](https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2). I completed my undergraduate studies at [Nar Bahadur Bhandari Government College](https://nbbgc.org/), affiliated with Sikkim University.
-
 I am open to any discussions related to mathematics and research collaborations in areas such as Reproducing Kernel Hilbert Spaces, Operator Theory, or even in the fields of Topology and Geometry.
 
 ---
@@ -51,6 +49,9 @@ I have completed doctoral-level coursework in **Functional Analysis**, **Complex
 I am also keenly interested in subjects such as [**Measure Theory**](https://en.wikipedia.org/wiki/Measure_theory) and [**General Topology**](https://en.wikipedia.org/wiki/General_topology), which continue to shape my mathematical perspective. Beyond these, I remain curious about broader themes in modern mathematics.
 
 ---
+
+
+Previously, I completed my M.Sc. in Mathematics from [Sikkim University](https://cus.ac.in/), a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled *“Nets and Filters in Topology”*, was completed under the supervision of [Dr. Namita Behera](https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2). I completed my undergraduate studies at [Nar Bahadur Bhandari Government College](https://nbbgc.org/), affiliated with Sikkim University.
 
 
 For me, research is a quiet and careful journey into abstract ideas—guided not only by logic but also by curiosity, patience, and a willingness to accept uncertainty. I see mathematics as both a tool to discover truths and a way to express ideas elegantly.
