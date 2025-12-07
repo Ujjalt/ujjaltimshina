@@ -30,7 +30,7 @@ Welcome to my homepage!
 
 **Not preparing to live someday — but living, here and now. Breathing joy into each moment as it unfolds**.
 
-**Get busy living with the questions, or dying with the brittle little lies you mistook for answers.**
+**To think is to riot; to question is to live; to answer is to decay.**
 
 
 
