@@ -82,7 +82,7 @@ Outside of academics, I enjoy writing blogs, exploring web design and coding, an
 
 There is no real gap between pure and applied mathematics. What we call “pure” and “applied” are only different ways of looking at the same ideas. Every branch of mathematics is deeply connected, and concepts developed for abstraction often become the language of applications, while applied problems constantly generate new pure theory. My mathematical philosophy is to move freely across these boundaries, guided by structure, rigor, and curiosity rather than labels.
 
-**The main goal of this website is simple: to collect the moments I have spent with mathematics so far in my life. I started understanding the subject properly only after my graduation, and because of that I often feel that my basics are incomplete.**
+**The main goal of this website is simple: to collect the moments I have spent with mathematics so far in my life.**
 
 **This space is for my thoughts, struggles, and small understandings — just memories of breathing mathematics.**
 
