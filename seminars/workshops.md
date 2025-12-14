@@ -9,7 +9,7 @@ Below is a list of workshops, seminars, and lecture series attended over the yea
 
 <hr>
 
-
+- Attended, 40th Annual Conference of the Ramanujan Mathematical Society - Functional and Harmonic Analysis Symposium, organized by the Department of Mathematics, IIIT Delhi, in collaboration with the Ramanujan Mathematical Society, December 18–20, 2025.
 
 - ICMAM Latin America Satellite Conference on Differential Geometry 2025, held on September 25–26, 2025, jointly organized by Universidade Estadual de Maringá and Universidad de las Américas.
 
