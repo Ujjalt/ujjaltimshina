@@ -30,7 +30,7 @@ Welcome to my homepage!
 
 **Not preparing to live someday — but living, here and now. Breathing joy into each moment as it unfolds**.
 
-**To think is to riot; to question is to live; to answer is to decay.**
+**Nothing changes whether I do mathematics or not. I still do it.**
 
 
 
@@ -47,7 +47,7 @@ The study of homogeneous operators is central to understanding geometric models 
 
 My current research focuses on describing these operators using the actions of Lie groups and identifying invariants that determine their equivalence classes under unitary transformations.
 
-I have completed doctoral-level coursework in **Functional Analysis**, **Complex Analysis**, **Several Complex Variables**, and **Introduction to Non-commutative Function Theory** and is currently studying **Matrix Groups** as a part of my coursework. Going forward, I plan to delve deeper into topics such as [**Reproducing Kernel Hilbert Spaces (RKHS)**](https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space), [**Spectral Theory**](https://en.wikipedia.org/wiki/Spectral_theory), [**Representation Theory**](https://en.wikipedia.org/wiki/Representation_theory). I am particularly interested in understanding how operator-theoretic ideas interface with geometric and topological frameworks.
+I am studying **Reproducing Kernel Hilbert Spaces (RKHS)**, the theory of **modular forms**, and **algebraic topology**, with a focus on their structural, geometric, and analytic aspects in the current semester. I have completed doctoral-level coursework in **Functional Analysis**, **Complex Analysis**, **Several Complex Variables**, and **Introduction to Non-commutative Function Theory** and **Matrix Groups** as a part of my coursework. Going forward, I plan to delve deeper into topics such as [**Spectral Theory**](https://en.wikipedia.org/wiki/Spectral_theory), [**Representation Theory**](https://en.wikipedia.org/wiki/Representation_theory). I am particularly interested in understanding how operator-theoretic ideas interface with geometric and topological frameworks.
 I am also keenly interested in subjects such as [**Measure Theory**](https://en.wikipedia.org/wiki/Measure_theory) and [**General Topology**](https://en.wikipedia.org/wiki/General_topology), which continue to shape my mathematical perspective. Beyond these, I remain curious about broader themes in modern mathematics.
 
 ---
@@ -80,6 +80,9 @@ Outside of academics, I enjoy writing blogs, exploring web design and coding, an
 
 **“I enjoy reading the elegantly written articles and lecture notes available at Terry Tao blogs [here](https://terrytao.wordpress.com/) and Mathematics Site - J.S. Milne [here](https://www.jmilne.org/math/).”**
 
+There is no real gap between pure and applied mathematics. What we call “pure” and “applied” are only different ways of looking at the same ideas. Every branch of mathematics is deeply connected, and concepts developed for abstraction often become the language of applications, while applied problems constantly generate new pure theory. My mathematical philosophy is to move freely across these boundaries, guided by structure, rigor, and curiosity rather than labels.
 
+**The main goal of this website is simple: to collect the moments I have spent with mathematics so far in my life. I started understanding the subject properly only after my graduation, and because of that I often feel that my basics are incomplete.**
 
+**This space is for my thoughts, struggles, and small understandings — just memories of breathing mathematics.**
 
