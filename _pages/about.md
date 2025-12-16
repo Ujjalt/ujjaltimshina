@@ -28,7 +28,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-**Learning Mathematics !!**
+**Practicing Mathematics !!**
 
 **Not preparing to live someday — but living, here and now. Breathing joy into each moment as it unfolds**.
 
