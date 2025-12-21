@@ -122,6 +122,27 @@ Linnaeus University
 </div>
 
 
+**‼️ Young Mathematicians in Operator Algebra (YMOA-2025)**  
+Indian Statistical Institute (ISI), Delhi  
+**March 2025**
+
+<div align="center">
+
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ef8fd8c4897b64cd09f02edc7e74ff9b735ce24f/images/ISI%20-1.jpeg" 
+    width="420" 
+    style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ef8fd8c4897b64cd09f02edc7e74ff9b735ce24f/images/ISI-3.jpeg" 
+    width="420" 
+    style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+
+</div>
+
+
 ### ‼️ PhD Math Seminar Series  
 **Introduction to Nets and Filters in Topology**  
 IIIT Delhi, 2024
