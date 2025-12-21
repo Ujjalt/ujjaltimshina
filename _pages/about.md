@@ -34,7 +34,7 @@ Welcome to my homepage!
 
 
 
-I feel that I have become a little more mature over time, and perhaps a little more demanding of myself. My mind is often crowded with thoughts. Some days I feel extremely tired; on others, I begin with a good amount of energy that gradually fades by the end of the day. Much of the time I feel uncertain, sometimes unhappy, and often a bit lost. Still, in a quiet way, I am enjoying my life.
+I feel that I have become a little more mature over time, and perhaps a little more demanding of myself. My mind is often crowded with thoughts. Some days I feel extremely tired; on others, I begin with a good amount of energy that gradually fades by the end of the day. Much of the time I feel uncertain, sometimes unhappy, and often a bit lost. Still, in a quiet way, I am enjoying my life and I always think and honour the ancestor who first felt time for the first time, unaware that time was already watching them feel it.
 
 
 My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the [Indraprastha Institute of Information Technology Delhi (IIIT Delhi)](https://www.iiitd.ac.in/people/phd/current), working under the supervision of [Dr. Prahllad Deb](https://www.iiitd.ac.in/prahllad). I joined IIIT Delhi after being awarded the [INSPIRE Research Fellowship](https://online-inspire.gov.in/) by the Department of Science and Technology (DST), Government of India.
