@@ -7,7 +7,7 @@ author_profile: true
 
 ## Academic Leadership & Organization
 
-* **Volunteer, 40th Annual Conference of the Ramanujan Mathematical Society – Functional and Harmonic Analysis Symposium and Geometry and Topology Symposium.**  
+* **Volunteer, 40th Annual Conference of the Ramanujan Mathematical Society – Functional and Harmonic Analysis Symposium and Geometry and Topology Symposium.**   
   Organized by the Department of Mathematics, IIIT Delhi, in collaboration with the Ramanujan Mathematical Society, December 18–20, 2025
 * **Convener, PhD Math Seminar Series at IIIT Delhi** - Winter 2024 and Summer Session 2025
 * **Tutorial Assistant, INMO Training Camp** - Funded by HBCSE, TIFR, held at SMIT, Sikkim, 2024
