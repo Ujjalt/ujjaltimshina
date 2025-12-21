@@ -346,7 +346,7 @@ A first initiative led by me as departmental representative to foster mathematic
 
 **Speakers:**  
 • **Dr. Kuldeep Saha** — *A topological introduction to homology theory*, TCG Crest  
-• **Prof. P.A.S. Sree Krishna** — IIT Guwahati  
+• **Prof. P.A.S. Sree Krishna** — Group Actions, IIT Guwahati  
 • **Rohit Pokhrel** — PhD Student, HRI — *An introduction to p-adic numbers*  
 • **Krishnamohan** — University of Florida, USA — *Talk on Euler’s Formula*  
 
