@@ -30,7 +30,7 @@ Welcome to my homepage!
 
 **Practicing Mathematics !!**
 
-<strong><span style="color: green;">Colourless Green Ideas Sleep Furiously — Noam Chomsky</span></strong>
+<strong>Colourless <span style="color: green; font-weight: bold;">Green</span> Ideas Sleep Furiously — Noam Chomsky</strong>
 
 
 
