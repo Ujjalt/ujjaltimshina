@@ -36,7 +36,7 @@ Here is a selection of mathematical books that have deeply influenced my thinkin
 
 <hr>
 
- ## Highlights from Recent Academic Engagements: 
+ **Highlights from Recent Academic Engagements**: 
 
 ### ‼️ (RMS Volunteering Experience — 2025  
 **The 40th Annual Conference of the Ramanujan Mathematical Society, hosted by the Department of Mathematics, IIIT-Delhi, in collaboration with the Ramanujan Mathematical Society (December 18–20, 2025).  
