@@ -30,7 +30,8 @@ Welcome to my homepage!
 
 **Practicing Mathematics !!**
 
-<strong>Colourless <span style="color: green; font-weight: bold;">Green</span> Ideas Sleep Furiously — Noam Chomsky</strong>
+<strong><span style="color: green;">Colourless Green Ideas Sleep Furiously — Noam Chomsky</span></strong>
+
 
 
 I feel that I have become a little more mature over time, and perhaps a little more demanding of myself. My mind is often crowded with thoughts. Some days I feel extremely tired; on others, I begin with a good amount of energy that gradually fades by the end of the day. Much of the time I feel uncertain, sometimes unhappy, and often a bit lost. Still, in a quiet way, I am enjoying my life.
