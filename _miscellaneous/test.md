@@ -38,7 +38,7 @@ Here is a selection of mathematical books that have deeply influenced my thinkin
 
  **Highlights from Recent Academic Engagements**: 
 
-### ‼️ (RMS — 2025  
+### ‼️ RMS Annual Conference — 2025  
 **The 40th Annual Conference of the Ramanujan Mathematical Society, hosted by the Department of Mathematics, IIIT-Delhi, in collaboration with the Ramanujan Mathematical Society (December 18–20, 2025).  
 Served as the institute volunteer and also as a classroom volunteer in the Functional & Harmonic Analysis Symposium and the Geometry & Topology Symposium.**  
 *(Such a fantastic learning experience.*)
