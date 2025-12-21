@@ -25,6 +25,17 @@ redirect_from:
   />
 </a>
 
+<br><br>
+
+<div align="center">
+  <a href="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/56d558fc3e1bea5caf033f92ab60e15a920ed08d/images/PIC.jpg" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/56d558fc3e1bea5caf033f92ab60e15a920ed08d/images/PIC.jpg" 
+      alt="Portrait"
+      width="200"
+      style="filter: grayscale(100%); border-radius: 14px;"
+    />
+  </a>
 
 Welcome to my homepage!
 
