@@ -345,10 +345,10 @@ A first initiative led by me as departmental representative to foster mathematic
 ### 🎙️ Some of the invited talks organized online under my initiative as a Departmental Representative of Sikkim University
 
 **Speakers:**  
-• **Dr. Kuldeep Saha** — *A topological introduction to homology theory*, TCG Crest  
-• **Prof. P.A.S. Sree Krishna** — Group Actions, IIT Guwahati  
+• **Dr. Kuldeep Saha (Assistant Professor)** — *A topological introduction to homology theory*, TCG Crest  
+• **Prof. P.A.S. Sree Krishna (Professor)** — Group Actions, IIT Guwahati  
 • **Rohit Pokhrel** — PhD Student, HRI — *An introduction to p-adic numbers*  
-• **Krishnamohan** — University of Florida, USA — *Talk on Euler’s Formula*  
+• **Krishnamohan** — PhD Student, University of Florida, USA — *Talk on Euler’s Formula*  
 
 <div align="center">
 
