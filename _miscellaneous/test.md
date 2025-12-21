@@ -386,7 +386,7 @@ A first initiative led by me as departmental representative to foster mathematic
 
 ### ‼️ Additional Memories  
 
-A few cherished moments from academic and campus life.
+A few cherished moments from personal life.
 
 <div align="center">
 
