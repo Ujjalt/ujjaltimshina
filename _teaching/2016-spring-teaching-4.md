@@ -8,7 +8,7 @@ date: 2025-08-11
 location: "New Delhi, India"
 ---
 
- Leading a team of **18 Teaching Assistants** for a class of **348 students**.
+ Led a team of **18 Teaching Assistants** for a class of **348 students**.
  
 I'm serving as a Lead Teaching Assistant for **MTH100: Linear Algebra** during Summer 2025 at IIIT Delhi under **Dr. Subhajit Ghosechowdhury**. This core undergraduate course introduces students to fundamental linear algebraic structures and their applications in science and engineering.
 
