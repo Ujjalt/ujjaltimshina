@@ -330,7 +330,7 @@ Picture with Prof. Amit Chakraborty (HOD, Mathematics, Sikkim University), Presi
 
 </div>
 
-### ‼️ Chaired the Inaugural Meeting of the Sikkim University Mathematical Society  
+### ‼️ Chaired the Constitution Review Meeting of the Sikkim University Mathematical Society  
 **Sikkim University**  
 A first initiative led by me as departmental representative to foster mathematical dialogue and community engagement within the university.
 
@@ -341,6 +341,47 @@ A first initiative led by me as departmental representative to foster mathematic
      style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
 </div>
+
+### 🎙️ Some of the invited talks organized online under my initiative as a Departmental Representative of Sikkim University
+
+**Speakers:**  
+• **Dr. Kuldeep Saha** — *A topological introduction to homology theory*, TCG Crest  
+• **Prof. P.A.S. Sree Krishna** — IIT Guwahati  
+• **Rohit Pokhrel** — PhD Student, HRI — *An introduction to p-adic numbers*  
+• **Krishnamohan** — University of Florida, USA — *Talk on Euler’s Formula*  
+
+<div align="center">
+
+  <!-- Kuldeep Saha Talk -->
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/c9f51492dd875eb95aba8f82691eadebd022c143/images/SUMS-2.jpeg" 
+    width="420" 
+    style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+
+  <!-- PAS Sree Krishna Talk -->
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/c9f51492dd875eb95aba8f82691eadebd022c143/images/SUMS2.jpeg" 
+    width="420" 
+    style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+
+  <!-- Rohit Pokhrel Talk -->
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6ae93223ffa11ec1583c918f6258fca75ef15338/images/Rohit.jpg" 
+    width="420"
+    style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4x 12px rgba(0,0,0,0.15);" 
+  />
+
+  <!-- Krishnamohan Talk -->
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/e911c14769d32bc0ee1f3156a35f02caf15adc8e/images/Krishamn.jpg" 
+    width="420" 
+    style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+
+</div>
+
 
 
 ### ‼️ Additional Memories  
