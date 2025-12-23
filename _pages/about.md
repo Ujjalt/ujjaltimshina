@@ -36,7 +36,7 @@ As most people end with a quote, I choose to begin with one—perhaps it’s the
 
 
 
-I feel that I have become a little more mature over time, and perhaps a little more demanding of myself. My mind is often crowded with thoughts. Some days I feel extremely tired; on others, I begin with a good amount of energy that gradually fades by the end of the day. Much of the time I feel uncertain, sometimes unhappy, and often a bit lost. Still, in a quiet way, I am enjoying my life and I always think and honour the ancestor who first felt time for the first time, unaware that time was already watching them feel it.
+I feel that I have become a little more mature over time, and perhaps a little more demanding of myself. My mind is often crowded with thoughts. Some days I feel extremely tired; on others, I begin with a good amount of energy that gradually fades by the end of the day. Much of the time I feel uncertain, sometimes unhappy, and often a bit lost. Still, in a quiet way, I am enjoying my life and I always think and honour the ancestor who first felt time for the first time, unaware that time was already watching them feel it. 
 
 
 My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the [Indraprastha Institute of Information Technology Delhi (IIIT Delhi)](https://www.iiitd.ac.in/people/phd/current), working under the supervision of [Dr. Prahllad Deb](https://www.iiitd.ac.in/prahllad). I joined IIIT Delhi after being awarded the [INSPIRE Research Fellowship](https://online-inspire.gov.in/) by the Department of Science and Technology (DST), Government of India.
@@ -45,6 +45,8 @@ I am open to discussions and research collaborations in areas such as **Reproduc
 
 ---
 ---
+Research must be grounded in meaning, and meaning must be examined through research. Genuine quality requires time, and time profoundly shapes one’s mathematical understanding—this remains my foremost priority.
+
 My research interests lie in functional analysis and operator theory, with a focus on the Cowen–Douglas theory of operators and its interplay with complex geometry and differential geometry.
 
 I am working on the classification of homogeneous operators in the Cowen–Douglas class B_n(Ω) up to unitary equivalence. This problem lies at the intersection of operator theory and complex geometry and seeks to understand how symmetry and representation-theoretic properties influence the structure of operators within the Cowen–Douglas framework.
