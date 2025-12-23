@@ -28,7 +28,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-**Practicing Mathematics !!**
+**Life roars with madness, and somehow, I’m still here—enjoying every reckless twist of it !!**
 
 <strong>Colourless <span style="color: green; font-weight: bold;">Green</span> Ideas Sleep Furiously — Noam Chomsky</strong>
 
