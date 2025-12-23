@@ -30,6 +30,8 @@ Welcome to my homepage!
 
 **Life roars with madness, and somehow, I’m still here—enjoying every reckless twist of it !!**
 
+As most people end with a quote, I choose to begin with one—perhaps it’s the left-handed instinct in me to do everything the other way around.
+
 <strong>Colourless <span style="color: green; font-weight: bold;">Green</span> Ideas Sleep Furiously — Noam Chomsky</strong>
 
 
