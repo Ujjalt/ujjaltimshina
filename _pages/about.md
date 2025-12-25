@@ -41,7 +41,7 @@ I feel that I have become a little more mature over time, and perhaps a little m
 
 My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the [Indraprastha Institute of Information Technology Delhi (IIIT Delhi)](https://www.iiitd.ac.in/people/phd/current), working under the supervision of [Dr. Prahllad Deb](https://www.iiitd.ac.in/prahllad). I joined IIIT Delhi after being awarded the [INSPIRE Research Fellowship](https://online-inspire.gov.in/) by the Department of Science and Technology (DST), Government of India.
 
-I am open to discussions and research collaborations in areas such as **Reproducing Kernel Hilbert Spaces, Operator Theory, Complex Analysis** (both single and several variables), **Complex Geometry**, as well as in **General Topology and Geometry**, which I am actively in the process of learning.
+I am open to discussions and research collaborations in areas such as **Operator Theory, Reproducing Kernel Hilbert Spaces, Complex Analysis** (both single and several variables), **Complex Geometry**, as well as in **General Topology and Geometry**, which I am actively in the process of learning.
 
 ---
 ---
