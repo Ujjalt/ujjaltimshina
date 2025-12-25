@@ -41,13 +41,13 @@ I feel that I have become a little more mature over time, and perhaps a little m
 
 My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the [Indraprastha Institute of Information Technology Delhi (IIIT Delhi)](https://www.iiitd.ac.in/people/phd/current), working under the supervision of [Dr. Prahllad Deb](https://www.iiitd.ac.in/prahllad). I joined IIIT Delhi after being awarded the [INSPIRE Research Fellowship](https://online-inspire.gov.in/) by the Department of Science and Technology (DST), Government of India.
 
+My research interests lie in **Operator Theory and Complex Analysis** with a focus on the Cowen–Douglas theory of operators and its interplay with complex geometry and differential geometry.
+
 I am open to discussions and research collaborations in areas such as **Operator Theory, Reproducing Kernel Hilbert Spaces, Complex Analysis** (both single and several variables), **Complex Geometry**, as well as in **General Topology and Geometry**, which I am actively in the process of learning.
 
 ---
 ---
 Research must be grounded in meaning, and meaning must be examined through research. Genuine quality requires time, and time profoundly shapes one’s mathematical understanding—this remains my foremost priority.
-
-My research interests lie in functional analysis and operator theory, with a focus on the Cowen–Douglas theory of operators and its interplay with complex geometry and differential geometry.
 
 I am working on the classification of homogeneous operators in the Cowen–Douglas class B_n(Ω) up to unitary equivalence. This problem lies at the intersection of operator theory and complex geometry and seeks to understand how symmetry and representation-theoretic properties influence the structure of operators within the Cowen–Douglas framework.
 
