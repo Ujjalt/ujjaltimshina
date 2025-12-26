@@ -36,61 +36,8 @@ Here is a selection of mathematical books that have deeply influenced my thinkin
 
 <hr>
 
-### 🏙️ New Delhi  
-
-<div align="center" style="display: flex; flex-direction: column; gap: 16px;">
-
-  <!-- Row 1 -->
-  <div style="display: flex; justify-content: center; gap: 16px;">
-    <img 
-      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6bb8b592027d985e7c9a1b2c8a3cca2cce11c641/images/L-1.jpeg" 
-      width="360" 
-      height="240"
-      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); object-fit: cover;" 
-    />
-    <img 
-      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6bb8b592027d985e7c9a1b2c8a3cca2cce11c641/images/L-2.jpeg" 
-      width="360" 
-      height="240"
-      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); object-fit: cover;" 
-    />
-  </div>
-
-  <!-- Row 2 -->
-  <div style="display: flex; justify-content: center; gap: 16px;">
-    <img 
-      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/2775f5753eb8e89467f7ec9a3a2823f41903b429/images/L-6.jpg" 
-      width="360" 
-      height="240"
-      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); object-fit: cover;" 
-    />
-    <!-- Placeholder for alignment -->
-    <div style="width: 360px;"></div>
-  </div>
-
-</div>
 
 
-### 🌄 Nainital  
-<p style="text-align: center; font-size: 16px; color: #5A4634; margin-top: -8px;">
-  18th October 2025
-</p>
-
-<div align="center">
-
-
-
-  <img 
-    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/fa37c34db472afbb46096a07f338ecf9db4185c7/images/Nanital-2.jpeg" 
-    width="420" 
-    style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
-  />
- <img 
-    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/fa37c34db472afbb46096a07f338ecf9db4185c7/images/Nanital-1.jpeg" 
-    width="420" 
-    style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
-  />
-</div>
 
  **Highlights from Recent Academic Engagements**: 
 
@@ -491,5 +438,66 @@ A few cherished moments from personal life.
 
 </div>
 
+### New Delhi  
+<div align="center" style="margin-top: 12px; max-width: 800px; text-align: justify; font-size: 16px; color: #333;">
+Delhi has always held a special place in my heart. The bustling streets, the vibrant culture, and the endless blend of history and modernity make it feel like a home away from home. Every corner tells a story, every lane holds a memory, and every visit leaves me feeling inspired and connected. No matter where I go, a part of me always belongs here.
+</div>
 
+
+<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6bb8b592027d985e7c9a1b2c8a3cca2cce11c641/images/L-1.jpeg" 
+    width="300"
+    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6bb8b592027d985e7c9a1b2c8a3cca2cce11c641/images/L-2.jpeg" 
+    width="300"
+    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6bb8b592027d985e7c9a1b2c8a3cca2cce11c641/images/L-3.jpeg" 
+    width="300"
+    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/2775f5753eb8e89467f7ec9a3a2823f41903b429/images/L-5.jpg" 
+    width="300"
+    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/2775f5753eb8e89467f7ec9a3a2823f41903b429/images/L-6.jpg" 
+    width="300"
+    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+
+</div>
+
+
+### Nainital  
+<p style="text-align: center; font-size: 16px; color: #5A4634; margin-top: -8px;">
+  18th October 2025
+</p>
+
+<div align="center">
+
+Nainital, with its serene lakes and misty mountains, felt like stepping into a painting. I spent two wonderful days in Nainital, enjoying the cool mountains and calm lakes. I walked along Mall Road, went for a boat ride on Naini Lake, and admired the views from Snow View Point. The fresh air, green hills, and peaceful water made the trip very relaxing and refreshing. It was a nice break from routine and a great way to enjoy nature.
+
+
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/fa37c34db472afbb46096a07f338ecf9db4185c7/images/Nanital-2.jpeg" 
+    width="420" 
+    style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+ <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/fa37c34db472afbb46096a07f338ecf9db4185c7/images/Nanital-1.jpeg" 
+    width="420" 
+    style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+</div>
 
