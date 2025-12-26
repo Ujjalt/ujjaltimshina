@@ -68,6 +68,26 @@ Served as the institute volunteer and also as a classroom volunteer in the Funct
 </div>
 
 
+### 🌄 Nainital  
+<p style="text-align: center; font-size: 16px; color: #5A4634; margin-top: -8px;">
+  18th October 2025
+</p>
+
+<div align="center">
+
+
+
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/fa37c34db472afbb46096a07f338ecf9db4185c7/images/Nanital-2.jpeg" 
+    width="420" 
+    style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+ <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/fa37c34db472afbb46096a07f338ecf9db4185c7/images/Nanital-1.jpeg" 
+    width="420" 
+    style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+</div>
 
 
 ###  ‼️ (Math IntroSeries — Course 1  
