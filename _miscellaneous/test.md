@@ -479,7 +479,9 @@ Delhi has always held a special place in my heart. The bustling streets, the vib
 </div>
 
 
-### Nainital  
+### Nainital, Uttarakhand
+State of India
+ 
 <p style="text-align: center; font-size: 16px; color: #5A4634; margin-top: -8px;">
   18th October 2025
 </p>
