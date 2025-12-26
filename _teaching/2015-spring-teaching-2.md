@@ -9,4 +9,5 @@ location: "New Delhi, India"
 ---
 
 I served as a Lead Teaching Assistant for **MTH100: Linear Algebra** during Fall 2024 at IIIT Delhi under **Dr. Prahllad Deb**. This core undergraduate course introduced students to fundamental linear algebraic structures and their applications in science and engineering.
-Led a team of **15 Teaching Assistants** for a class of **321 students**, conducted weekly tutorial sessions and held regular office hours (~12 hours/week). Graded assignments, quizzes, and exams, mentored students academically and guided them through conceptual and problem-solving challenges.
+Led a team of **15 Teaching Assistants** for a class of **321 students**, conducted weekly tutorial sessions and held regular office hours (~12 hours/week). As Head TA, my responsibilities included coordinating the teaching assistant team, overseeing tutorial planning, ensuring timely and consistent grading, addressing escalated student queries, and supporting the instructor in managing course logistics and exam preparation.
+
