@@ -8,4 +8,4 @@ date: 2026-01-01
 location: "New Delhi, India"
 ---
 
-I'm serving as a Lead Teaching Assistant for the undergraduate course **MTH204: ODE/PDEs and Numerical Methods** in Spring 2026 at IIIT Delhi under **Dr. Subhajit Ghosechowdhury**. My responsibilities included assisting with tutorials, grading assignments, supporting students with conceptual and computational queries, and helping them prepare for exams.
+I'm serving as a Head Teaching Assistant for the undergraduate course **MTH204: ODE/PDEs and Numerical Methods** in Spring 2026 at IIIT Delhi under **Dr. Subhajit Ghosechowdhury**. As Head TA, my responsibilities includes coordinating the teaching assistant team, overseeing tutorial planning, ensuring timely and consistent grading, addressing escalated student queries, and supporting the instructor in managing course logistics and exam preparation.
