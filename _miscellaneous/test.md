@@ -486,6 +486,7 @@ State of India
   18th October 2025
 </p>
 
+
 <div align="center">
 
 Nainital, with its serene lakes and misty mountains, felt like stepping into a painting. I spent two wonderful days in Nainital, enjoying the cool mountains and calm lakes. I walked along Mall Road, went for a boat ride on Naini Lake, and admired the views from Snow View Point. The fresh air, green hills, and peaceful water made the trip very relaxing and refreshing. It was a nice break from routine and a great way to enjoy nature.
@@ -503,3 +504,22 @@ Nainital, with its serene lakes and misty mountains, felt like stepping into a p
   />
 </div>
 
+### Darjeeling, West Bengal, India — My Second Home  
+
+Darjeeling is a place where I find peace. The cool mountains, misty mornings, and calm surroundings make it feel like a home away from home.
+
+<div align="center">
+
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/c0a72a0c6b8646911d0104859cfcc89adf318868/images/Darjeeling-1.jpeg" 
+    width="420" 
+    style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/c0a72a0c6b8646911d0104859cfcc89adf318868/images/Darjeeling-2.jpeg" 
+    width="420" 
+    style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+
+</div>
