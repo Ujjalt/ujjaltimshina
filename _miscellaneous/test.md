@@ -36,6 +36,62 @@ Here is a selection of mathematical books that have deeply influenced my thinkin
 
 <hr>
 
+### 🏙️ New Delhi  
+
+<div align="center" style="display: flex; flex-direction: column; gap: 16px;">
+
+  <!-- Row 1 -->
+  <div style="display: flex; justify-content: center; gap: 16px;">
+    <img 
+      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6bb8b592027d985e7c9a1b2c8a3cca2cce11c641/images/L-1.jpeg" 
+      width="360" 
+      height="240"
+      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); object-fit: cover;" 
+    />
+    <img 
+      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6bb8b592027d985e7c9a1b2c8a3cca2cce11c641/images/L-2.jpeg" 
+      width="360" 
+      height="240"
+      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); object-fit: cover;" 
+    />
+  </div>
+
+  <!-- Row 2 -->
+  <div style="display: flex; justify-content: center; gap: 16px;">
+    <img 
+      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/2775f5753eb8e89467f7ec9a3a2823f41903b429/images/L-6.jpg" 
+      width="360" 
+      height="240"
+      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); object-fit: cover;" 
+    />
+    <!-- Placeholder for alignment -->
+    <div style="width: 360px;"></div>
+  </div>
+
+</div>
+
+
+### 🌄 Nainital  
+<p style="text-align: center; font-size: 16px; color: #5A4634; margin-top: -8px;">
+  18th October 2025
+</p>
+
+<div align="center">
+
+
+
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/fa37c34db472afbb46096a07f338ecf9db4185c7/images/Nanital-2.jpeg" 
+    width="420" 
+    style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+ <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/fa37c34db472afbb46096a07f338ecf9db4185c7/images/Nanital-1.jpeg" 
+    width="420" 
+    style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+</div>
+
  **Highlights from Recent Academic Engagements**: 
 
 ### ‼️ RMS Annual Conference — 2025  
@@ -65,28 +121,6 @@ Served as the institute volunteer and also as a classroom volunteer in the Funct
      width="650"
      style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
-</div>
-
-
-### 🌄 Nainital  
-<p style="text-align: center; font-size: 16px; color: #5A4634; margin-top: -8px;">
-  18th October 2025
-</p>
-
-<div align="center">
-
-
-
-  <img 
-    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/fa37c34db472afbb46096a07f338ecf9db4185c7/images/Nanital-2.jpeg" 
-    width="420" 
-    style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
-  />
- <img 
-    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/fa37c34db472afbb46096a07f338ecf9db4185c7/images/Nanital-1.jpeg" 
-    width="420" 
-    style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
-  />
 </div>
 
 
@@ -456,4 +490,6 @@ A few cherished moments from personal life.
      style="border-radius:12px; border:3px solid #ccc; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
 </div>
+
+
 
