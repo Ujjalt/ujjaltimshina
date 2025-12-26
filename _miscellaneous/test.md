@@ -438,9 +438,19 @@ A few cherished moments from personal life.
 
 </div>
 
-### New Delhi  
-<div align="center" style="margin-top: 12px; max-width: 800px; text-align: justify; font-size: 16px; color: #333;">
-Delhi has always held a special place in my heart. The bustling streets, the vibrant culture, and the endless blend of history and modernity make it feel like a home away from home. Every corner tells a story, every lane holds a memory, and every visit leaves me feeling inspired and connected. No matter where I go, a part of me always belongs here.
+### New Delhi, India   
+<div align="center" style="margin-top: 12px; max-width: 800px; text-align: justify; font-size: 16px; color: #333;"
+
+New Delhi has become a big part of my everyday life.  
+It is busy, loud, fast, and full of movement — but somehow, within that rush, I have found my own rhythm.  
+
+Working here has taught me discipline, confidence, and independence.  
+The city pushes me, challenges me, and helps me grow in ways I never expected.  
+Even on chaotic days, Delhi carries an energy that keeps me motivated.  
+
+It is a place where opportunities open, people inspire, and learning never stops.  
+In many ways, New Delhi has shaped my professional journey and given me a space to work, think, and build my future.
+
 </div>
 
 
@@ -522,3 +532,58 @@ Darjeeling is a place where I find peace. The cool mountains, misty mornings, an
   />
 
 </div>
+
+
+###  Home — Sikkim, India  
+Where My Soul Finds Peace  
+
+Sikkim is the place that shaped me, held me, and taught me what quiet happiness feels like.  
+Whenever I return home, life becomes simple again. The mountains stand calm, the air feels fresh, and everything slows down in the best way.  
+
+There is a softness in the wind, a silence in the hills, and a comfort that I don’t find anywhere else.  
+Sikkim is not just where I was born — it is where my soul rests, heals, and feels complete.  
+No matter where I travel, this place brings me back to myself.
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 14px;">
+
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/46cb831902c9fcbde24448dd395d8fc9b9f3cd16/images/SK-1.jpeg" 
+    width="260" 
+    height="180"
+    style="object-fit: cover; border: 2px solid #444; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+ <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/46cb831902c9fcbde24448dd395d8fc9b9f3cd16/images/SK-3.jpeg" 
+    width="260" 
+    height="180"
+    style="object-fit: cover; border: 2px solid #444; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/46cb831902c9fcbde24448dd395d8fc9b9f3cd16/images/SK-4.jpeg" 
+    width="260" 
+    height="180"
+    style="object-fit: cover; border: 2px solid #444; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+ <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/46cb831902c9fcbde24448dd395d8fc9b9f3cd16/images/SK-5.jpeg" 
+    width="260" 
+    height="180"
+    style="object-fit: cover; border: 2px solid #444; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/46cb831902c9fcbde24448dd395d8fc9b9f3cd16/images/SK-9.jpeg" 
+    width="260" 
+    height="180"
+    style="object-fit: cover; border: 2px solid #444; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+<img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/46cb831902c9fcbde24448dd395d8fc9b9f3cd16/images/SK-7.jpeg" 
+    width="260" 
+    height="180"
+    style="object-fit: cover; border: 2px solid #444; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
+
+</div>
+
