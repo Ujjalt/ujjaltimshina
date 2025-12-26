@@ -439,7 +439,6 @@ A few cherished moments from personal life.
 </div>
 
 ### New Delhi, India   
-<div align="center" style="margin-top: 12px; max-width: 800px; text-align: justify; font-size: 16px; color: #333;"
 
 New Delhi has become a big part of my everyday life.  
 It is busy, loud, fast, and full of movement — but somehow, within that rush, I have found my own rhythm.  
