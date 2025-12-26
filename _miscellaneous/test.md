@@ -515,8 +515,7 @@ Darjeeling is a place where I find peace. The cool mountains, misty mornings, an
     width="420" 
     style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
   />
-
-  <img 
+<img 
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/c0a72a0c6b8646911d0104859cfcc89adf318868/images/Darjeeling-2.jpeg" 
     width="420" 
     style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
