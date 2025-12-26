@@ -504,7 +504,7 @@ Nainital, with its serene lakes and misty mountains, felt like stepping into a p
   />
 </div>
 
-### Darjeeling, West Bengal, India — My Second Home  
+### Darjeeling, West Bengal, India  
 
 Darjeeling is a place where I find peace. The cool mountains, misty mornings, and calm surroundings make it feel like a home away from home.
 
