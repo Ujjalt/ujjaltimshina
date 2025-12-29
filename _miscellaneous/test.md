@@ -445,8 +445,7 @@ A few cherished moments from personal life.
 <p align="center"><strong>28th December 2025</strong></p>
 
 Agra is a historic city in India's Uttar Pradesh state, famous globally for the stunning white marble Taj Mahal. Once the Mughal capital, Agra holds world-class monuments such as Agra Fort and Itmad-ud-Daulah, each carrying centuries of history and architectural brilliance.  
-I don’t know the complete history, but sometimes it is best to enjoy a place in my own way. Agra gives that feeling every time: a mix of beauty, calmness, and wonder that doesn’t need too many explanations.
-
+I don’t know the complete history, but sometimes it is best to enjoy a place in my own way. 
 <div align="center" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
 
   <img 
