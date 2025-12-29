@@ -445,7 +445,7 @@ A few cherished moments from personal life.
 <p align="center"><strong>28th December 2025</strong></p>
 
 Agra is a historic city in India's Uttar Pradesh state, famous globally for the stunning white marble Taj Mahal. Once the Mughal capital, Agra holds world-class monuments such as Agra Fort and Itmad-ud-Daulah, each carrying centuries of history and architectural brilliance.  
-I don’t know the complete history, but sometimes it is best to enjoy a place in my own way — quietly, slowly, and with my own eyes. Agra gives that feeling every time: a mix of beauty, calmness, and wonder that doesn’t need too many explanations.
+I don’t know the complete history, but sometimes it is best to enjoy a place in my own way. Agra gives that feeling every time: a mix of beauty, calmness, and wonder that doesn’t need too many explanations.
 
 <div align="center" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
 
@@ -502,7 +502,7 @@ It is busy, loud, fast, and full of movement — but somehow, within that rush, 
 
 Working here has taught me discipline, confidence, and independence.  
 The city pushes me, challenges me, and helps me grow in ways I never expected.  
-Even on chaotic days, Delhi carries an energy that keeps me motivated.  
+Even on chaotic days, Delhi carries an energy that keeps me inspired.  
 
 It is a place where opportunities open, people inspire, and learning never stops.  
 In many ways, New Delhi has shaped my professional journey and given me a space to work, think, and build my future.
