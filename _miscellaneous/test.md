@@ -44,41 +44,31 @@ Here is a selection of mathematical books that have deeply influenced my thinkin
 ### ‼️ RMS Annual Conference — 2025  
 **The 40th Annual Conference of the Ramanujan Mathematical Society, hosted by the Department of Mathematics, IIIT-Delhi, in collaboration with the Ramanujan Mathematical Society (December 18–20, 2025).  
 Served as the institute volunteer and also as a classroom volunteer in the Functional & Harmonic Analysis Symposium and the Geometry & Topology Symposium.**  
-*(Such a fantastic learning experience.)*
+*(Such a fantastic learning experience.*)
 
-<div align="center" style="display: flex; flex-wrap: nowrap; gap: 12px; overflow-x: auto;">
+<div align="center">
 
-  <img 
-    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/39be6a31578edef66cf759b3aa0f3be3c49a6a9a/images/RMS-1.jpeg" 
-    width="300"
-    style="border: 2px solid #444; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" 
-  />
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/39be6a31578edef66cf759b3aa0f3be3c49a6a9a/images/RMS-1.jpeg"
+     width="650"
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
-  <img 
-    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/39be6a31578edef66cf759b3aa0f3be3c49a6a9a/images/RMS-2.jpeg" 
-    width="300"
-    style="border: 2px solid #444; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" 
-  />
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/39be6a31578edef66cf759b3aa0f3be3c49a6a9a/images/RMS-2.jpeg"
+     width="650"
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
-  <img 
-    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/39be6a31578edef66cf759b3aa0f3be3c49a6a9a/images/RMS-3.png" 
-    width="300"
-    style="border: 2px solid #444; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" 
-  />
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/39be6a31578edef66cf759b3aa0f3be3c49a6a9a/images/RMS-3.png"
+     width="650"
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
-  <img 
-    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/39be6a31578edef66cf759b3aa0f3be3c49a6a9a/images/RMS-4.jpeg" 
-    width="300"
-    style="border: 2px solid #444; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" 
-  />
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/39be6a31578edef66cf759b3aa0f3be3c49a6a9a/images/RMS-4.jpeg"
+     width="650"
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
-  <img 
-    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/39be6a31578edef66cf759b3aa0f3be3c49a6a9a/images/RMS-5.jpeg" 
-    width="300"
-    style="border: 2px solid #444; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" 
-  />
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/39be6a31578edef66cf759b3aa0f3be3c49a6a9a/images/RMS-5.jpeg"
+     width="650"
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
-</div>
+</div> 
 
 
 
