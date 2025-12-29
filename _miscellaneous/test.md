@@ -493,6 +493,7 @@ I don’t know the complete history, but sometimes it is best to enjoy a place i
 </div>
 
 
+
 ### New Delhi, India   
 
 New Delhi has become a big part of my everyday life.  
