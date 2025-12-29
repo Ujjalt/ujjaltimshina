@@ -494,7 +494,7 @@ I don’t know the complete history, but sometimes it is best to enjoy a place i
 
 
 
-### New Delhi, India   
+### New Delhi, India  
 
 New Delhi has become a big part of my everyday life.  
 It is busy, loud, fast, and full of movement — but somehow, within that rush, I have found my own rhythm.  
@@ -506,39 +506,36 @@ Even on chaotic days, Delhi carries an energy that keeps me motivated.
 It is a place where opportunities open, people inspire, and learning never stops.  
 In many ways, New Delhi has shaped my professional journey and given me a space to work, think, and build my future.
 
-</div>
-
-
-<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+<div align="center" style="display: flex; flex-wrap: nowrap; gap: 12px; overflow-x: auto;">
 
   <img 
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6bb8b592027d985e7c9a1b2c8a3cca2cce11c641/images/L-1.jpeg" 
-    width="300"
-    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+    width="250"
+    style="border: 2px solid #444; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
   />
 
   <img 
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6bb8b592027d985e7c9a1b2c8a3cca2cce11c641/images/L-2.jpeg" 
-    width="300"
-    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+    width="250"
+    style="border: 2px solid #444; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
   />
 
   <img 
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6bb8b592027d985e7c9a1b2c8a3cca2cce11c641/images/L-3.jpeg" 
-    width="300"
-    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+    width="250"
+    style="border: 2px solid #444; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
   />
 
   <img 
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/2775f5753eb8e89467f7ec9a3a2823f41903b429/images/L-5.jpg" 
-    width="300"
-    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+    width="250"
+    style="border: 2px solid #444; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
   />
 
   <img 
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/2775f5753eb8e89467f7ec9a3a2823f41903b429/images/L-6.jpg" 
-    width="300"
-    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+    width="250"
+    style="border: 2px solid #444; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
   />
 
 </div>
