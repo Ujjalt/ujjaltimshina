@@ -446,51 +446,52 @@ A few cherished moments from personal life.
 Agra is a historic city in India's Uttar Pradesh state, famous globally for the stunning white marble Taj Mahal. Once the Mughal capital, Agra holds world-class monuments such as Agra Fort and Itmad-ud-Daulah, each carrying centuries of history and architectural brilliance.  
 I don’t know the complete history, but sometimes it is best to enjoy a place in my own way — quietly, slowly, and with my own eyes. Agra gives that feeling every time: a mix of beauty, calmness, and wonder that doesn’t need too many explanations.
 
-<div align="center" style="display: flex; flex-direction: column; gap: 14px;">
+<div align="center" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
 
   <img 
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A1.jpeg"
-    width="300" 
+    width="200" 
     style="border: 2px solid #444; border-radius: 10px;"
   />
 
   <img 
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-2.jpeg"
-    width="300" 
+    width="200" 
     style="border: 2px solid #444; border-radius: 10px;"
   />
 
   <img 
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-3.jpeg"
-    width="300" 
+    width="200" 
     style="border: 2px solid #444; border-radius: 10px;"
   />
 
   <img 
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-4.jpeg"
-    width="300" 
+    width="200" 
     style="border: 2px solid #444; border-radius: 10px;"
   />
 
   <img 
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-5.jpeg"
-    width="300" 
+    width="200" 
     style="border: 2px solid #444; border-radius: 10px;"
   />
 
   <img 
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/e8199e30b20870a6c2db9bf976900a4860925b6c/images/A-6.jpeg"
-    width="300" 
+    width="200" 
     style="border: 2px solid #444; border-radius: 10px;"
   />
 
   <img 
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/e8199e30b20870a6c2db9bf976900a4860925b6c/images/A-7.jpeg"
-    width="300" 
+    width="200" 
     style="border: 2px solid #444; border-radius: 10px;"
   />
 
 </div>
+
 
 ### New Delhi, India   
 
