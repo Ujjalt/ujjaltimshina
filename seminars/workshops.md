@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Attended Workshops, FDPs and Seminars"
+title: "Attended Workshops, FDPs, Seminars and Conferences"
 permalink: /workshops/
 author_profile: true
 ---
 
 <div style="background: #d9e8ff; padding: 18px 25px; border-radius: 10px; margin-bottom: 22px; margin-top: 10px;">
   <h2 style="margin: 0; font-family: Georgia, serif; font-size: 28px; color: #1a3d7c; text-align: center;">
-    Attended Workshops, FDPs and Seminars
+    Attended Workshops, FDPs, Conferences and Seminars
   </h2>
 </div>
 
