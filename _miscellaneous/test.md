@@ -43,7 +43,7 @@ author_profile: true
 </div>
 
 
- <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+<div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; line-height: 1.6;">
   <strong>‼️ RMS Annual Conference — 2025</strong><br>
   The 40th Annual Conference of the Ramanujan Mathematical Society, hosted by the Department of Mathematics, IIIT-Delhi, 
   in collaboration with the Ramanujan Mathematical Society (December 18–20, 2025).<br>
@@ -83,17 +83,17 @@ author_profile: true
     <h3 style="color: #2a5d9f; margin-top: 0;">‼️ Math IntroSeries — Course 1</h3>
     <strong>Generalized Weyl Algebras and Their Representations</strong><br><br>
 
-   Organized by:<br>
-    Institute of Mathematics, University of the Philippines Diliman •<br>
-    North-Eastern Hill University •<br>
-    Mindanao State University – Iligan Institute of Technology •<br>
-    Central Mindanao University •<br>
+  Organized by:<br>
+    Institute of Mathematics, University of the Philippines Diliman<br>
+    North-Eastern Hill University<br>
+    Mindanao State University – Iligan Institute of Technology<br>
+    Central Mindanao University<br>
     Linnaeus University<br><br>
-    <strong>June 30 – July 10, 2025</strong>
+
+  <strong>June 30 – July 10, 2025</strong>
   </div>
 
 </div>
-
 
 <div align="center">
 
