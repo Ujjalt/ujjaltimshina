@@ -81,18 +81,23 @@ author_profile: true
 </div> 
 
 
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
-###  ‼️ (Math IntroSeries — Course 1  
-**Generalized Weyl Algebras and Their Representations**
+  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+    <h3 style="color: #2a5d9f; margin-top: 0;">‼️ Math IntroSeries — Course 1</h3>
+    <strong>Generalized Weyl Algebras and Their Representations</strong><br><br>
 
-Organized by:  
-Institute of Mathematics, University of the Philippines Diliman •  
-North-Eastern Hill University •  
-Mindanao State University – Iligan Institute of Technology •  
-Central Mindanao University •  
-Linnaeus University  
+   Organized by:<br>
+    Institute of Mathematics, University of the Philippines Diliman •<br>
+    North-Eastern Hill University •<br>
+    Mindanao State University – Iligan Institute of Technology •<br>
+    Central Mindanao University •<br>
+    Linnaeus University<br><br>
+    <strong>June 30 – July 10, 2025</strong>
+  </div>
 
-**June 30 – July 10, 2025**)
+</div>
+
 
 <div align="center">
 
@@ -110,8 +115,14 @@ Linnaeus University
 
 </div>
 
-### ‼️ Undergraduate Summer School in Mathematics June 16-28, 2025 — IIIT Delhi  
-**Delivered a lecture series on “Geometry of Möbius Transformation and Inversion”**
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+
+  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+    <h3 style="color: #2a5d9f; margin-top: 0;">‼️ Undergraduate Summer School in Mathematics — June 16–28, 2025, IIIT Delhi</h3>
+    <strong>Delivered a lecture series on “Geometry of Möbius Transformation and Inversion </strong>
+  </div>
+
+</div>
 
 <div align="center">
 
@@ -134,9 +145,15 @@ Linnaeus University
 </div>
 
 
-**‼️ Young Mathematicians in Operator Algebra (YMOA-2025)**  
-Indian Statistical Institute (ISI), Delhi  
-**March 2025**
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+
+  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+    <h3 style="color: #2a5d9f; margin-top: 0;">‼️ Young Mathematicians in Operator Algebra (YMOA-2025)</h3>
+    <p>Indian Statistical Institute (ISI), Delhi</p>
+    <strong>March 2025</strong>
+  </div>
+
+</div>
 
 <div align="center">
 
@@ -167,13 +184,16 @@ IIIT Delhi, 2024
 
 </div>
 
-###  ‼️ (Talk on Transformation Geometry: The Complete Symmetries of Regular Shapes at the INMO Training Camp (funded by HBCSE, TIFR), held at SMIT, Sikkim, for Olympiad aspirants. Jan 2024)
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
-Below are a few curated moments from the sessions conducted at the  
-**INMO Training Camp** (funded by **HBCSE, TIFR**), held at **SMIT, Sikkim**,  
-for Olympiad aspirants.  
+  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+    <h3 style="color: #2a5d9f; margin-top: 0;">‼️ Talk on Transformation Geometry: The Complete Symmetries of Regular Shapes</h3>
+    <p>INMO Training Camp (funded by HBCSE, TIFR), held at SMIT, Sikkim, for Olympiad aspirants</p>
+    <strong>Jan 2024</strong>
+    <p>Below are a few curated moments from the sessions conducted at the camp.</p>
+  </div>
 
-**Jan 2024**
+</div>
 
 <div align="center">
 
