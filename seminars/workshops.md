@@ -20,7 +20,7 @@ author_profile: true
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
 <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-  <strong>40th Annual Conference of the Ramanujan Mathematical Society - Functional and Harmonic Analysis and Geometry and Topology Symposium</strong> — held on December 18–20, 2025, organized by the Department of Mathematics, IIIT Delhi, in collaboration with the Ramanujan Mathematical Society.
+  <strong>40th Annual Conference of the Ramanujan Mathematical Society</strong> — held on December 18–20, 2025, organized by the Department of Mathematics, IIIT Delhi, in collaboration with the Ramanujan Mathematical Society.
 </div>
 
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
