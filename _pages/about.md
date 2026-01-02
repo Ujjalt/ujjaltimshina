@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<div style="font-family: Georgia, serif;">
+
 <div align="center">
 
 
@@ -94,3 +96,5 @@ There is no real gap between pure and applied mathematics. What we call “pure�
 **The main goal of this website is simple: to collect the moments I have spent with mathematics so far in my life.**
 
 **This space is for my thoughts, struggles, and small understandings — just memories of breathing mathematics.**
+
+</div>
