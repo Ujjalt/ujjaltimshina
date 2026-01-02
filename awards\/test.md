@@ -5,11 +5,11 @@ permalink: /awards/
 author_profile: true
 ---
 
-Below is a list of honors, scholarships, and recognitions received over the years.
-
-<hr>
-
-## Major Fellowships and Awards
+<div style="background: #d9e8ff; padding: 18px 25px; border-radius: 10px; margin-bottom: 20px;">
+  <h2 style="margin: 0; font-family: Georgia, serif; font-size: 26px; color: #1a3d7c; text-align: center;">
+    Major Fellowships and Awards
+  </h2>
+</div>
 
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; color: #333;">
 
