@@ -44,7 +44,7 @@ author_profile: true
 
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ RMS Annual Conference — 2025</h3>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> RMS Annual Conference — 2025</h3>
   The 40th Annual Conference of the Ramanujan Mathematical Society, hosted by the Department of Mathematics, IIIT-Delhi, in collaboration with the Ramanujan Mathematical Society (December 18–20, 2025).<br>
   Served as the institute volunteer and also as a classroom volunteer in the Functional & Harmonic Analysis Symposium and the Geometry & Topology Symposium.<br>
   <em>(Such a fantastic learning experience.)</em>
@@ -76,7 +76,7 @@ author_profile: true
 </div> 
 
 <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Math IntroSeries — Course 1</h3>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> Math IntroSeries — Course 1</h3>
   <strong>Generalized Weyl Algebras and Their Representations</strong>
   <p>Organized by: Institute of Mathematics, University of the Philippines Diliman, North-Eastern Hill University, Mindanao State University – Iligan Institute of Technology, Central Mindanao University, Linnaeus University</p>
   <p><strong>June 30 – July 10, 2025</strong></p>
@@ -100,7 +100,7 @@ author_profile: true
 </div>
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Undergraduate Summer School in Mathematics — June 16–28, 2025, IIIT Delhi</h3>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> Undergraduate Summer School in Mathematics — June 16–28, 2025, IIIT Delhi</h3>
   <strong>Delivered a lecture series on “Geometry of Möbius Transformation and Inversion”</strong>
 </div>
 
@@ -128,7 +128,7 @@ author_profile: true
 
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Young Mathematicians in Operator Algebra (YMOA-2025)</h3>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> Young Mathematicians in Operator Algebra (YMOA-2025)</h3>
   <p>Indian Statistical Institute (ISI), Delhi</p>
   <strong>March 2025</strong>
 </div>
@@ -153,7 +153,7 @@ author_profile: true
 
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ PhD Math Seminar Series</h3>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> PhD Math Seminar Series</h3>
   <p>Introduction to Nets and Filters in Topology, IIIT Delhi, 2024</p>
 </div>
 
@@ -167,7 +167,7 @@ author_profile: true
 </div>
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Talk on Transformation Geometry: The Complete Symmetries of Regular Shapes</h3>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> Talk on Transformation Geometry: The Complete Symmetries of Regular Shapes</h3>
   <p>INMO Training Camp (funded by HBCSE, TIFR), held at SMIT, Sikkim, for Olympiad aspirants, Jan 2024</p>
 </div>
 
@@ -195,7 +195,7 @@ author_profile: true
 
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ IST-2022 in Real Analysis</h3>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> IST-2022 in Real Analysis</h3>
   <p><em>A Joint Centre of IIT Bombay and TIFR Mumbai</em>, held at <strong>Sikkim Manipal Institute of Technology, Sikkim</strong>, <strong>5 Dec 2023 – 17 Dec 2023</strong></p>
 </div>
 
@@ -221,7 +221,7 @@ author_profile: true
 </div>
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Workshop on Graph Theory and its Applications</h3>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> Workshop on Graph Theory and its Applications</h3>
   <p><strong>NBBGC, Tadong — 2023</strong></p>
 </div>
 
@@ -261,7 +261,7 @@ author_profile: true
 </div>
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Invited Talk on Career Aspects in Mathematics</h3>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> Invited Talk on Career Aspects in Mathematics</h3>
   <p>Sikkim Govt. College, Rhenock, Under DST, Government of Sikkim — 2023</p>
 </div>
 
@@ -279,7 +279,7 @@ author_profile: true
 </div>
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Invited Talk on Career Aspects in Mathematics</h3>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> Invited Talk on Career Aspects in Mathematics</h3>
   <p>Govt. Senior Secondary School, Darap, Government of Sikkim, Under DST, Government of Sikkim — 2023</p>
 </div>
 
@@ -293,7 +293,7 @@ author_profile: true
 
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ CREST School – 2022</h3>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> CREST School – 2022</h3>
   <p>TCG CREST, Kolkata, Joint Centre of ISI Kolkata and Chennai Mathematical Institute</p>
 </div>
 
@@ -321,7 +321,7 @@ author_profile: true
 
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Poster Presentation — 2022</h3>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> Poster Presentation — 2022</h3>
   <p>Representing the Department of Mathematics, Sikkim University, at the 2022 Science Exhibition, organized by the Department of Science & Technology, Government of Sikkim</p>
 </div>
 
@@ -344,7 +344,7 @@ author_profile: true
 
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Discussion on Mathematics</h3>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> Discussion on Mathematics</h3>
   <p><strong>Yuvavani – Youth Program, All India Radio</strong>, discussion on mathematics and the life of great living mathematicians</p>
 </div>
 
@@ -357,7 +357,7 @@ author_profile: true
 </div>
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Served as Departmental Representative: 2022–2023</h3>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> Served as Departmental Representative: 2022–2023</h3>
   <p><strong>Sikkim University Students' Association (SUSA)</strong>, picture with Prof. Amit Chakraborty (HOD, Mathematics, Sikkim University), President – SUSA (2022–2023), and CR, Mathematics (2022–2023)</p>
 </div>
 
@@ -374,7 +374,7 @@ author_profile: true
 </div>
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Chaired the Constitution Review Meeting of the Sikkim University Mathematical Society</h3>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> Chaired the Constitution Review Meeting of the Sikkim University Mathematical Society</h3>
   <p><strong>Sikkim University</strong>, a first initiative led by me as departmental representative to foster mathematical dialogue and community engagement within the university.</p>
 </div>
 
@@ -389,7 +389,7 @@ author_profile: true
 ###  Some of the invited talks organized online under my initiative as a Departmental Representative of Sikkim University
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Speakers</h3>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> Speakers</h3>
   <ul style="margin-top: 8px; padding-left: 20px;">
     <li><strong>Dr. Kuldeep Saha (Assistant Professor)</strong> — <em>A topological introduction to homology theory</em>, TCG CREST</li>
     <li><strong>Prof. P.A.S. Sree Krishna (Professor)</strong> — Group Actions, IIT Guwahati</li>
@@ -434,7 +434,7 @@ author_profile: true
 
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Additional Memories</h3>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> Additional Memories</h3>
   <p>A few cherished moments from personal life.</p>
 </div>
 
