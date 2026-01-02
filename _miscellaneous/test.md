@@ -9,7 +9,7 @@ author_profile: true
 
   <!-- Tutorial Problems Section -->
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <h3 style="color: #2a5d9f; margin-top: 0;">📚 Tutorial Problems & Lecture Materials</h3>
+    <h3 style="color: #2a5d9f; margin-top: 0;">Tutorial Problems & Lecture Materials</h3>
     <p>You can try some of the interesting tutorial problems and materials prepared by me as part of various delivered lecture series.</p>
   </div>
 
@@ -23,7 +23,7 @@ author_profile: true
 
   <!-- Favorite Books Section -->
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <h3 style="color: #2a5d9f; margin-top: 0;">📖 Some of My Favorite Books</h3>
+    <h3 style="color: #2a5d9f; margin-top: 0;">Some of My Favorite Books</h3>
     <ul style="margin-top: 10px;">
       <li><em>Complex Analysis in One and Several Variables</em> — Raghavan Narasimhan</li>
       <li><em>Introduction to Topology and Modern Analysis</em> — George F. Simmons</li>
@@ -34,14 +34,14 @@ author_profile: true
       <li><em>Differential Analysis on Complex Manifolds</em> — R.O. Wells</li>
     </ul>
   </div>
-<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
-  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-   <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-
-  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <strong>Highlights from Recent Academic Engagements</strong>
+  <!-- Highlights Header in Dark Blue Box -->
+  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-weight: bold; color: #2a5d9f;">
+    Highlights from Recent Academic Engagements
   </div>
+
+</div>
+
 
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
     <strong>‼️ RMS Annual Conference — 2025</strong><br>
