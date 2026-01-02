@@ -39,12 +39,22 @@ author_profile: true
 
 
 
- **Highlights from Recent Academic Engagements**: 
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
-### ‼️ RMS Annual Conference — 2025  
-**The 40th Annual Conference of the Ramanujan Mathematical Society, hosted by the Department of Mathematics, IIIT-Delhi, in collaboration with the Ramanujan Mathematical Society (December 18–20, 2025).  
-Served as the institute volunteer and also as a classroom volunteer in the Functional & Harmonic Analysis Symposium and the Geometry & Topology Symposium.**  
-*(Such a fantastic learning experience.*)
+  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+    <strong>Highlights from Recent Academic Engagements</strong>
+  </div>
+
+  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+    <strong>‼️ RMS Annual Conference — 2025</strong><br>
+    The 40th Annual Conference of the Ramanujan Mathematical Society, hosted by the Department of Mathematics, IIIT-Delhi, 
+    in collaboration with the Ramanujan Mathematical Society (December 18–20, 2025).<br>
+    Served as the institute volunteer and also as a classroom volunteer in the Functional & Harmonic Analysis Symposium 
+    and the Geometry & Topology Symposium.<br>
+    <em>(Such a fantastic learning experience.)</em>
+  </div>
+
+</div>
 
 <div align="center">
 
