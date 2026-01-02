@@ -5,25 +5,26 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-<div style="background-color: #f0f9f4; border: 2px solid #28a745; border-radius: 10px; padding: 20px; margin-bottom: 30px; font-family: Georgia, serif; color: #333; line-height: 1.6;">
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
-  <p>You can try some of the interesting tutorial problems and materials prepared by me as part of various delivered lecture series.</p>
+  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+    You can try some of the interesting tutorial problems and materials prepared by me as part of various delivered lecture series.
+  </div>
 
-  <p>
+  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
     Visit the external links below to explore:
-  </p>
+  </div>
 
-  <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/tutorial-problems-delivered-lecture-series" target="_blank" 
-     style="display: inline-block; background-color: #28a745; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none; margin-right: 10px;">
-    View Tutorial Problems
-  </a>
+  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+    <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/tutorial-problems-delivered-lecture-series" target="_blank" 
+       style="display: inline-block; background-color: #28a745; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none; margin-right: 10px;">
+      View Tutorial Problems
+    </a>
+  </div>
 
-  <hr style="border: 1px solid #28a745; margin: 20px 0;">
-
-  <h3 style="color: #28a745;">Some of My Favorite Books</h3>
-
-  <div>
-    <ul>
+  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+    <strong>Some of My Favorite Books</strong>
+    <ul style="margin-top: 10px;">
       <li><em>Complex Analysis in One and Several Variables</em> — Raghavan Narasimhan</li>
       <li><em>Introduction to Topology and Modern Analysis</em> — George F. Simmons</li>
       <li><em>General Topology</em> — Nicolas Bourbaki</li>
@@ -35,6 +36,7 @@ author_profile: true
   </div>
 
 </div>
+
 
 
  **Highlights from Recent Academic Engagements**: 
