@@ -36,22 +36,20 @@ author_profile: true
   </div>
 
   <!-- Highlights Header in Dark Blue Box -->
-  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-weight: bold; color: #2a5d9f;">
+  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-weight: bold; color: #2a5d9f; font-weight: bold;">
     Highlights from Recent Academic Engagements
   </div>
 
 </div>
 
 
-  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <strong>‼️ RMS Annual Conference — 2025</strong><br>
-    The 40th Annual Conference of the Ramanujan Mathematical Society, hosted by the Department of Mathematics, IIIT-Delhi, 
-    in collaboration with the Ramanujan Mathematical Society (December 18–20, 2025).<br>
-    Served as the institute volunteer and also as a classroom volunteer in the Functional & Harmonic Analysis Symposium 
-    and the Geometry & Topology Symposium.<br>
-    <em>(Such a fantastic learning experience.)</em>
-  </div>
-
+ <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <strong>‼️ RMS Annual Conference — 2025</strong><br>
+  The 40th Annual Conference of the Ramanujan Mathematical Society, hosted by the Department of Mathematics, IIIT-Delhi, 
+  in collaboration with the Ramanujan Mathematical Society (December 18–20, 2025).<br>
+  Served as the institute volunteer and also as a classroom volunteer in the Functional & Harmonic Analysis Symposium 
+  and the Geometry & Topology Symposium.<br>
+  <em>(Such a fantastic learning experience.)</em>
 </div>
 
 <div align="center">
