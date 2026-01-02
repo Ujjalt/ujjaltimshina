@@ -171,7 +171,7 @@ author_profile: true
   <p>INMO Training Camp (funded by HBCSE, TIFR), held at SMIT, Sikkim, for Olympiad aspirants, Jan 2024</p>
 </div>
 
-</div>
+
 
 <div align="center">
 
@@ -244,7 +244,7 @@ author_profile: true
 
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Invited Talk on Career Aspects in Mathematics</h3>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> Invited Talk on Career Aspects in Mathematics</h3>
   <p>Tashiding Senior Secondary School, Government of Sikkim, Under DST, Government of Sikkim — 2023</p>
 </div>
 
@@ -607,7 +607,6 @@ author_profile: true
   <p>
     Darjeeling is a place where I find peace. The cool mountains, misty mornings, and calm surroundings make it feel like a home away from home.
   </p>
-</div>
 
 
 <div align="center">
