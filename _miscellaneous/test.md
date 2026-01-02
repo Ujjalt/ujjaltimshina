@@ -7,23 +7,23 @@ author_profile: true
 
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
+  <!-- Tutorial Problems Section -->
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    You can try some of the interesting tutorial problems and materials prepared by me as part of various delivered lecture series.
+    <h3 style="color: #2a5d9f; margin-top: 0;">📚 Tutorial Problems & Lecture Materials</h3>
+    <p>You can try some of the interesting tutorial problems and materials prepared by me as part of various delivered lecture series.</p>
   </div>
 
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    Visit the external links below to explore:
-  </div>
-
-  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+    <p>Visit the external links below to explore:</p>
     <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/tutorial-problems-delivered-lecture-series" target="_blank" 
        style="display: inline-block; background-color: #28a745; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none; margin-right: 10px;">
       View Tutorial Problems
     </a>
   </div>
 
+  <!-- Favorite Books Section -->
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <strong>Some of My Favorite Books</strong>
+    <h3 style="color: #2a5d9f; margin-top: 0;">📖 Some of My Favorite Books</h3>
     <ul style="margin-top: 10px;">
       <li><em>Complex Analysis in One and Several Variables</em> — Raghavan Narasimhan</li>
       <li><em>Introduction to Topology and Modern Analysis</em> — George F. Simmons</li>
@@ -34,12 +34,10 @@ author_profile: true
       <li><em>Differential Analysis on Complex Manifolds</em> — R.O. Wells</li>
     </ul>
   </div>
-
-</div>
-
-
-
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+
+  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+   <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
     <strong>Highlights from Recent Academic Engagements</strong>
@@ -172,9 +170,11 @@ author_profile: true
 </div>
 
 
-### ‼️ PhD Math Seminar Series  
-**Introduction to Nets and Filters in Topology**  
-IIIT Delhi, 2024
+<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <strong>‼️ PhD Math Seminar Series</strong><br>
+  Introduction to Nets and Filters in Topology<br>
+  IIIT Delhi, 2024
+</div>
 
 <div align="center">
 
@@ -216,11 +216,13 @@ IIIT Delhi, 2024
 </div>
 
 
-###  ‼️ (IST-2022 in Real Analysis  
-*A Joint Centre of IIT Bombay and TIFR Mumbai*
+<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <strong>‼️ IST-2022 in Real Analysis</strong><br>
+  <em>A Joint Centre of IIT Bombay and TIFR Mumbai</em><br>
+  Held at <strong>Sikkim Manipal Institute of Technology, Sikkim</strong><br>
+  <strong>5 Dec 2023 – 17 Dec 2023</strong>
+</div>
 
-Held at **Sikkim Manipal Institute of Technology, Sikkim**  
-**5 Dec 2023 – 17 Dec 2023**)
 
 <div align="center">
 
@@ -242,8 +244,10 @@ Held at **Sikkim Manipal Institute of Technology, Sikkim**
 
 </div>
 
-### ‼️ Workshop on Graph Theory and its Applications  
-**NBBGC, Tadong — 2023**
+<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <strong>‼️ Workshop on Graph Theory and its Applications</strong><br>
+  <strong>NBBGC, Tadong — 2023</strong>
+</div>
 
 <div align="center">
 
@@ -262,9 +266,11 @@ Held at **Sikkim Manipal Institute of Technology, Sikkim**
 </div>
 
 
-### ‼️ Invited Talk on Career Aspects in Mathematics  
-**Tashiding Senior Secondary School, Government of Sikkim**  
-Under DST, Government of Sikkim — 2023
+<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <strong>‼️ Invited Talk on Career Aspects in Mathematics</strong><br>
+  Tashiding Senior Secondary School, Government of Sikkim<br>
+  Under DST, Government of Sikkim — 2023
+</div>
 
 <div align="center">
 
@@ -278,9 +284,11 @@ Under DST, Government of Sikkim — 2023
 
 </div>
 
-### ‼️ Invited Talk on Career Aspects in Mathematics  
-**Sikkim Govt. College, Rhenock**  
-Under DST, Government of Sikkim — 2023
+<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <strong>‼️ Invited Talk on Career Aspects in Mathematics</strong><br>
+  Sikkim Govt. College, Rhenock<br>
+  Under DST, Government of Sikkim — 2023
+</div>
 
 <div align="center">
 
@@ -294,9 +302,11 @@ Under DST, Government of Sikkim — 2023
 
 </div>
 
-### ‼️ Invited Talk on Career Aspects in Mathematics  
-**Govt. Senior Secondary School, Darap, Government of Sikkim**  
-Under DST, Government of Sikkim — 2023
+<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <strong>‼️ Invited Talk on Career Aspects in Mathematics</strong><br>
+  Govt. Senior Secondary School, Darap, Government of Sikkim<br>
+  Under DST, Government of Sikkim — 2023
+</div>
 
 <div align="center">
 
@@ -307,9 +317,11 @@ Under DST, Government of Sikkim — 2023
 </div>
 
 
-### ‼️ **CREST School – 2022**  
-**TCG CREST, Kolkata**  
-Joint Centre of ISI Kolkata and Chennai Mathematical Institute
+<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <strong>‼️ CREST School – 2022</strong><br>
+  TCG CREST, Kolkata<br>
+  Joint Centre of ISI Kolkata and Chennai Mathematical Institute
+</div>
 
 <div align="center">
 
@@ -334,9 +346,11 @@ Joint Centre of ISI Kolkata and Chennai Mathematical Institute
 
 
 
-### ‼️ Poster Presentation  
-Representing the Department of Mathematics, Sikkim University, at the 2022 Science Exhibition  
-Organized by the Department of Science & Technology, Government of Sikkim
+<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <strong>‼️ Poster Presentation — 2022</strong><br>
+  Representing the Department of Mathematics, Sikkim University, at the 2022 Science Exhibition<br>
+  Organized by the Department of Science & Technology, Government of Sikkim
+</div>
 
 <div align="center">
 
@@ -355,9 +369,11 @@ Organized by the Department of Science & Technology, Government of Sikkim
 </div>
 
 
-### ‼️ Discussion on Mathematics  
-**Yuvavani – Youth Program, All India Radio**  
-Discussion on mathematics and the life of great living mathematicians
+<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <strong>‼️ Discussion on Mathematics</strong><br>
+  <strong>Yuvavani – Youth Program, All India Radio</strong><br>
+  Discussion on mathematics and the life of great living mathematicians
+</div>
 
 <div align="center">
 
