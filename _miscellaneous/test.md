@@ -600,7 +600,6 @@ author_profile: true
     width="420" 
     style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
   />
-</div>
 
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
   <h3 style="color: #2a5d9f; margin-top: 0;">Darjeeling, West Bengal, India</h3>
