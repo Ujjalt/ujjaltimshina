@@ -9,7 +9,7 @@ location: "New Delhi, India"
 ---
 
 <div style="background:#dff5d8; padding:18px 22px; border-left:5px solid #7ccf61; font-family:Georgia, serif; font-size:17px; line-height:1.55; border-radius:6px;">
-<p><strong>Led a team of 18 Teaching Assistants</strong> for a class of <strong>348 students</strong>.</p>
-<p>I served as a Lead Teaching Assistant for <strong>MTH100: Linear Algebra</strong> during Summer 2025 at IIIT Delhi under <strong>Dr. Subhajit Ghosechowdhury</strong>. As a Head TA, my responsibilities included coordinating the teaching assistant team, overseeing tutorial planning, ensuring timely and consistent grading, addressing escalated student queries, and supporting the instructor in managing course logistics and exam preparation.</p>
+<p><strong style="color:#28a745;">Led a team of 18 Teaching Assistants</strong> for a class of <strong style="color:#28a745;">348 students</strong>.</p>
+<p>I served as a Lead Teaching Assistant for <strong style="color:#28a745;">MTH100: Linear Algebra</strong> during Summer 2025 at IIIT Delhi under <strong style="color:#28a745;">Dr. Subhajit Ghosechowdhury</strong>. As a Head TA, my responsibilities included coordinating the teaching assistant team, overseeing tutorial planning, ensuring timely and consistent grading, addressing escalated student queries, and supporting the instructor in managing course logistics and exam preparation.</p>
 <p>This core undergraduate course introduces students to fundamental linear algebraic structures and their applications in science and engineering. I conducted weekly tutorial sessions and held regular office hours (~12 hours/week).</p>
 </div>
