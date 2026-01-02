@@ -76,24 +76,17 @@ author_profile: true
 
 </div> 
 
-
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
     <h3 style="color: #2a5d9f; margin-top: 0;">‼️ Math IntroSeries — Course 1</h3>
-    <strong>Generalized Weyl Algebras and Their Representations</strong><br><br>
+    <strong>Generalized Weyl Algebras and Their Representations</strong>
 
-  Organized by:<br>
-    Institute of Mathematics, University of the Philippines Diliman<br>
-    North-Eastern Hill University<br>
-    Mindanao State University – Iligan Institute of Technology<br>
-    Central Mindanao University<br>
-    Linnaeus University<br><br>
+  <p>Organized by: Institute of Mathematics, University of the Philippines Diliman, North-Eastern Hill University, Mindanao State University – Iligan Institute of Technology, Central Mindanao University, Linnaeus University</p>
 
-  <strong>June 30 – July 10, 2025</strong>
+<p><strong>June 30 – July 10, 2025</strong></p>
   </div>
 
-</div>
 
 <div align="center">
 
