@@ -8,5 +8,30 @@ date: 2024-08-01
 location: "New Delhi, India"
 ---
 
-I served as a Lead Teaching Assistant for **MTH100: Linear Algebra** during Fall 2024 at IIIT Delhi under **Dr. Prahllad Deb**. This core undergraduate course introduced students to fundamental linear algebraic structures and their applications in science and engineering.
-Led a team of **15 Teaching Assistants** for a class of **321 students**, conducted weekly tutorial sessions and held regular office hours (~12 hours/week). As a TA, my responsibilities included coordinating the TA team, overseeing and standardizing grading, grading papers and assignments, managing course spreadsheets and records, addressing advanced student queries, assisting with tutorials, and supporting the instructor with course logistics and exam preparation.
+<div style="background:#e8f5e9; color:#2d6a4f; padding:16px; border-radius:8px; font-family:Georgia, serif; font-size:16px; line-height:1.6;">
+
+<strong>Lead Teaching Assistant — MTH100: Linear Algebra</strong><br>
+<em>IIIT Delhi, Fall 2024</em>
+
+<br><br>
+
+I served as the <strong>Lead Teaching Assistant</strong> for the undergraduate course 
+<strong>MTH100: Linear Algebra</strong>, taught by <strong>Dr. Prahllad Deb</strong>. This foundational course introduced students to core concepts in vector spaces, matrices, linear transformations, and applications across science and engineering.
+
+<br><br>
+
+<strong>Responsibilities:</strong>
+<ul>
+  <li>Supervised a team of <strong>15 Teaching Assistants</strong> for a large cohort of <strong>321 students</strong>.</li>
+  <li>Conducted weekly tutorial sessions and clarified conceptual doubts in linear algebra.</li>
+  <li>Held regular <strong>12 hours/week</strong> office hours for problem-solving and revision support.</li>
+  <li>Standardized and coordinated grading procedures across all sections.</li>
+  <li>Evaluated quizzes, assignments, and exam scripts with detailed and consistent feedback.</li>
+  <li>Managed course spreadsheets, grading records, and workflow logistics.</li>
+  <li>Addressed advanced student queries related to theory, proofs, and applications.</li>
+  <li>Assisted the instructor with tutorial design, exam preparation, and course administration.</li>
+</ul>
+
+This role strengthened my instructional, management, and leadership skills while contributing to the effective delivery of a core mathematics course at IIIT Delhi.
+
+</div>
