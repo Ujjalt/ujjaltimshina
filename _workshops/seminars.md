@@ -19,6 +19,10 @@ author_profile: true
 
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
+<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <strong>Ramanujan Mathematical Society</strong> — held on December 18–20, 2025, at Indraprastha Institute of Information Technology, Delhi (IIIT-Delhi).
+</div>
+
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
     <strong>ICMAM Latin America Satellite Conference on Differential Geometry 2025</strong> — held on September 25–26, 2025, jointly organized by Universidade Estadual de Maringá and Universidad de las Américas.
   </div>
