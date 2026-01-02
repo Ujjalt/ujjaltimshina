@@ -106,12 +106,13 @@ author_profile: true
 
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
-  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <h3 style="color: #2a5d9f; margin-top: 0;">‼️ Undergraduate Summer School in Mathematics — June 16–28, 2025, IIIT Delhi</h3>
-    <strong>Delivered a lecture series on “Geometry of Möbius Transformation and Inversion </strong>
+  <div style="background: #28a745; color: white; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+    <h3 style="color: white; margin-top: 0;">‼️ Undergraduate Summer School in Mathematics — June 16–28, 2025, IIIT Delhi</h3>
+    <strong>Delivered a lecture series on “Geometry of Möbius Transformation and Inversion”</strong>
   </div>
 
 </div>
+
 
 <div align="center">
 
@@ -136,13 +137,11 @@ author_profile: true
 
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
-  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <div style="background: #e6f0ff; color: #2a5d9f; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
     <h3 style="color: #2a5d9f; margin-top: 0;">‼️ Young Mathematicians in Operator Algebra (YMOA-2025)</h3>
     <p>Indian Statistical Institute (ISI), Delhi</p>
     <strong>March 2025</strong>
   </div>
-
-</div>
 
 <div align="center">
 
@@ -161,10 +160,8 @@ author_profile: true
 </div>
 
 
-<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-  <strong>‼️ PhD Math Seminar Series</strong><br>
-  Introduction to Nets and Filters in Topology<br>
-  IIIT Delhi, 2024
+<div style="background: #e6f0ff; color: #28a745; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+  <strong>‼️ PhD Math Seminar Series</strong>, Introduction to Nets and Filters in Topology, IIIT Delhi, 2024
 </div>
 
 <div align="center">
@@ -175,14 +172,9 @@ author_profile: true
 
 </div>
 
-<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-
-  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <h3 style="color: #2a5d9f; margin-top: 0;">‼️ Talk on Transformation Geometry: The Complete Symmetries of Regular Shapes</h3>
-    <p>INMO Training Camp (funded by HBCSE, TIFR), held at SMIT, Sikkim, for Olympiad aspirants</p>
-    <strong>Jan 2024</strong>
-    <p>Below are a few curated moments from the sessions conducted at the camp.</p>
-  </div>
+<div style="background: #e6f0ff; color: #2a5d9f; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+  <strong>‼️ Talk on Transformation Geometry: The Complete Symmetries of Regular Shapes</strong>, INMO Training Camp (funded by HBCSE, TIFR), held at SMIT, Sikkim, for Olympiad aspirants, Jan 2024
+</div>
 
 </div>
 
@@ -207,11 +199,8 @@ author_profile: true
 </div>
 
 
-<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-  <strong>‼️ IST-2022 in Real Analysis</strong><br>
-  <em>A Joint Centre of IIT Bombay and TIFR Mumbai</em><br>
-  Held at <strong>Sikkim Manipal Institute of Technology, Sikkim</strong><br>
-  <strong>5 Dec 2023 – 17 Dec 2023</strong>
+<div style="background: #e6f0ff; color: #28a745; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+  <strong>‼️ IST-2022 in Real Analysis</strong>, <em>A Joint Centre of IIT Bombay and TIFR Mumbai</em>, held at <strong>Sikkim Manipal Institute of Technology, Sikkim</strong>, <strong>5 Dec 2023 – 17 Dec 2023</strong>
 </div>
 
 
@@ -235,10 +224,10 @@ author_profile: true
 
 </div>
 
-<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-  <strong>‼️ Workshop on Graph Theory and its Applications</strong><br>
-  <strong>NBBGC, Tadong — 2023</strong>
+<div style="background: #e6f0ff; color: #28a745; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+  <strong>‼️ Workshop on Graph Theory and its Applications</strong>, <strong>NBBGC, Tadong — 2023</strong>
 </div>
+
 
 <div align="center">
 
