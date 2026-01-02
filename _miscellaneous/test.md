@@ -44,13 +44,12 @@ author_profile: true
 
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; line-height: 1.6;">
-  <strong>‼️ RMS Annual Conference — 2025</strong><br>
-  The 40th Annual Conference of the Ramanujan Mathematical Society, hosted by the Department of Mathematics, IIIT-Delhi, 
-  in collaboration with the Ramanujan Mathematical Society (December 18–20, 2025).<br>
-  Served as the institute volunteer and also as a classroom volunteer in the Functional & Harmonic Analysis Symposium 
-  and the Geometry & Topology Symposium.<br>
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ RMS Annual Conference — 2025</h3>
+  The 40th Annual Conference of the Ramanujan Mathematical Society, hosted by the Department of Mathematics, IIIT-Delhi, in collaboration with the Ramanujan Mathematical Society (December 18–20, 2025).<br>
+  Served as the institute volunteer and also as a classroom volunteer in the Functional & Harmonic Analysis Symposium and the Geometry & Topology Symposium.<br>
   <em>(Such a fantastic learning experience.)</em>
 </div>
+
 
 <div align="center">
 
@@ -76,16 +75,12 @@ author_profile: true
 
 </div> 
 
-<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-
-  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <h3 style="color: #2a5d9f; margin-top: 0;">‼️ Math IntroSeries — Course 1</h3>
-    <strong>Generalized Weyl Algebras and Their Representations</strong>
-
+<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; line-height: 1.6;">
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Math IntroSeries — Course 1</h3>
+  <strong>Generalized Weyl Algebras and Their Representations</strong>
   <p>Organized by: Institute of Mathematics, University of the Philippines Diliman, North-Eastern Hill University, Mindanao State University – Iligan Institute of Technology, Central Mindanao University, Linnaeus University</p>
-
-<p><strong>June 30 – July 10, 2025</strong></p>
-  </div>
+  <p><strong>June 30 – July 10, 2025</strong></p>
+</div>
 
 
 <div align="center">
@@ -104,14 +99,11 @@ author_profile: true
 
 </div>
 
-<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-
-  <div style="background: #28a745; color: white; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <h3 style="color: white; margin-top: 0;">‼️ Undergraduate Summer School in Mathematics — June 16–28, 2025, IIIT Delhi</h3>
-    <strong>Delivered a lecture series on “Geometry of Möbius Transformation and Inversion”</strong>
-  </div>
-
+<div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; line-height: 1.6;">
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Undergraduate Summer School in Mathematics — June 16–28, 2025, IIIT Delhi</h3>
+  <strong>Delivered a lecture series on “Geometry of Möbius Transformation and Inversion”</strong>
 </div>
+
 
 
 <div align="center">
@@ -135,13 +127,12 @@ author_profile: true
 </div>
 
 
-<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+<div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; line-height: 1.6;">
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Young Mathematicians in Operator Algebra (YMOA-2025)</h3>
+  <p>Indian Statistical Institute (ISI), Delhi</p>
+  <strong>March 2025</strong>
+</div>
 
-  <div style="background: #e6f0ff; color: #2a5d9f; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <h3 style="color: #2a5d9f; margin-top: 0;">‼️ Young Mathematicians in Operator Algebra (YMOA-2025)</h3>
-    <p>Indian Statistical Institute (ISI), Delhi</p>
-    <strong>March 2025</strong>
-  </div>
 
 <div align="center">
 
@@ -160,9 +151,12 @@ author_profile: true
 </div>
 
 
-<div style="background: #e6f0ff; color: #28a745; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-  <strong>‼️ PhD Math Seminar Series</strong>, Introduction to Nets and Filters in Topology, IIIT Delhi, 2024
+
+<div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ PhD Math Seminar Series</h3>
+  <p>Introduction to Nets and Filters in Topology, IIIT Delhi, 2024</p>
 </div>
+
 
 <div align="center">
 
@@ -172,8 +166,9 @@ author_profile: true
 
 </div>
 
-<div style="background: #e6f0ff; color: #2a5d9f; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-  <strong>‼️ Talk on Transformation Geometry: The Complete Symmetries of Regular Shapes</strong>, INMO Training Camp (funded by HBCSE, TIFR), held at SMIT, Sikkim, for Olympiad aspirants, Jan 2024
+<div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Talk on Transformation Geometry: The Complete Symmetries of Regular Shapes</h3>
+  <p>INMO Training Camp (funded by HBCSE, TIFR), held at SMIT, Sikkim, for Olympiad aspirants, Jan 2024</p>
 </div>
 
 </div>
@@ -199,8 +194,9 @@ author_profile: true
 </div>
 
 
-<div style="background: #e6f0ff; color: #28a745; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-  <strong>‼️ IST-2022 in Real Analysis</strong>, <em>A Joint Centre of IIT Bombay and TIFR Mumbai</em>, held at <strong>Sikkim Manipal Institute of Technology, Sikkim</strong>, <strong>5 Dec 2023 – 17 Dec 2023</strong>
+<div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ IST-2022 in Real Analysis</h3>
+  <p><em>A Joint Centre of IIT Bombay and TIFR Mumbai</em>, held at <strong>Sikkim Manipal Institute of Technology, Sikkim</strong>, <strong>5 Dec 2023 – 17 Dec 2023</strong></p>
 </div>
 
 
@@ -224,8 +220,9 @@ author_profile: true
 
 </div>
 
-<div style="background: #e6f0ff; color: #28a745; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-  <strong>‼️ Workshop on Graph Theory and its Applications</strong>, <strong>NBBGC, Tadong — 2023</strong>
+<div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Workshop on Graph Theory and its Applications</h3>
+  <p><strong>NBBGC, Tadong — 2023</strong></p>
 </div>
 
 
@@ -246,10 +243,9 @@ author_profile: true
 </div>
 
 
-<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-  <strong>‼️ Invited Talk on Career Aspects in Mathematics</strong><br>
-  Tashiding Senior Secondary School, Government of Sikkim<br>
-  Under DST, Government of Sikkim — 2023
+<div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Invited Talk on Career Aspects in Mathematics</h3>
+  <p>Tashiding Senior Secondary School, Government of Sikkim, Under DST, Government of Sikkim — 2023</p>
 </div>
 
 <div align="center">
@@ -264,11 +260,11 @@ author_profile: true
 
 </div>
 
-<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-  <strong>‼️ Invited Talk on Career Aspects in Mathematics</strong><br>
-  Sikkim Govt. College, Rhenock<br>
-  Under DST, Government of Sikkim — 2023
+<div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Invited Talk on Career Aspects in Mathematics</h3>
+  <p>Sikkim Govt. College, Rhenock, Under DST, Government of Sikkim — 2023</p>
 </div>
+
 
 <div align="center">
 
@@ -282,10 +278,9 @@ author_profile: true
 
 </div>
 
-<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-  <strong>‼️ Invited Talk on Career Aspects in Mathematics</strong><br>
-  Govt. Senior Secondary School, Darap, Government of Sikkim<br>
-  Under DST, Government of Sikkim — 2023
+<div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Invited Talk on Career Aspects in Mathematics</h3>
+  <p>Govt. Senior Secondary School, Darap, Government of Sikkim, Under DST, Government of Sikkim — 2023</p>
 </div>
 
 <div align="center">
@@ -297,10 +292,9 @@ author_profile: true
 </div>
 
 
-<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-  <strong>‼️ CREST School – 2022</strong><br>
-  TCG CREST, Kolkata<br>
-  Joint Centre of ISI Kolkata and Chennai Mathematical Institute
+<div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ CREST School – 2022</h3>
+  <p>TCG CREST, Kolkata, Joint Centre of ISI Kolkata and Chennai Mathematical Institute</p>
 </div>
 
 <div align="center">
@@ -326,11 +320,11 @@ author_profile: true
 
 
 
-<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-  <strong>‼️ Poster Presentation — 2022</strong><br>
-  Representing the Department of Mathematics, Sikkim University, at the 2022 Science Exhibition<br>
-  Organized by the Department of Science & Technology, Government of Sikkim
+<div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Poster Presentation — 2022</h3>
+  <p>Representing the Department of Mathematics, Sikkim University, at the 2022 Science Exhibition, organized by the Department of Science & Technology, Government of Sikkim</p>
 </div>
+
 
 <div align="center">
 
@@ -349,10 +343,9 @@ author_profile: true
 </div>
 
 
-<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-  <strong>‼️ Discussion on Mathematics</strong><br>
-  <strong>Yuvavani – Youth Program, All India Radio</strong><br>
-  Discussion on mathematics and the life of great living mathematicians
+<div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Discussion on Mathematics</h3>
+  <p><strong>Yuvavani – Youth Program, All India Radio</strong>, discussion on mathematics and the life of great living mathematicians</p>
 </div>
 
 <div align="center">
@@ -363,9 +356,10 @@ author_profile: true
 
 </div>
 
-### ‼️ Served as Departmental Representative: 2022–2023  
-**Sikkim University Students' Association (SUSA)**  
-Picture with Prof. Amit Chakraborty (HOD, Mathematics, Sikkim University), President – SUSA (2022–2023), and CR, Mathematics (2022–2023).
+<div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Served as Departmental Representative: 2022–2023</h3>
+  <p><strong>Sikkim University Students' Association (SUSA)</strong>, picture with Prof. Amit Chakraborty (HOD, Mathematics, Sikkim University), President – SUSA (2022–2023), and CR, Mathematics (2022–2023)</p>
+</div>
 
 <div align="center">
 
@@ -379,9 +373,10 @@ Picture with Prof. Amit Chakraborty (HOD, Mathematics, Sikkim University), Presi
 
 </div>
 
-### ‼️ Chaired the Constitution Review Meeting of the Sikkim University Mathematical Society  
-**Sikkim University**  
-A first initiative led by me as departmental representative to foster mathematical dialogue and community engagement within the university.
+<div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Chaired the Constitution Review Meeting of the Sikkim University Mathematical Society</h3>
+  <p><strong>Sikkim University</strong>, a first initiative led by me as departmental representative to foster mathematical dialogue and community engagement within the university.</p>
+</div>
 
 <div align="center">
 
@@ -391,13 +386,18 @@ A first initiative led by me as departmental representative to foster mathematic
 
 </div>
 
-### 🎙️ Some of the invited talks organized online under my initiative as a Departmental Representative of Sikkim University
+###  Some of the invited talks organized online under my initiative as a Departmental Representative of Sikkim University
 
-**Speakers:**  
-• **Dr. Kuldeep Saha (Assistant Professor)** — *A topological introduction to homology theory*, TCG Crest  
-• **Prof. P.A.S. Sree Krishna (Professor)** — Group Actions, IIT Guwahati  
-• **Rohit Pokhrel** — PhD Student, HRI — *An introduction to p-adic numbers*  
-• **Krishnamohan** — PhD Student, University of Florida, USA — *Talk on Euler’s Formula*  
+<div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Speakers</h3>
+  <ul style="margin-top: 8px; padding-left: 20px;">
+    <li><strong>Dr. Kuldeep Saha (Assistant Professor)</strong> — <em>A topological introduction to homology theory</em>, TCG CREST</li>
+    <li><strong>Prof. P.A.S. Sree Krishna (Professor)</strong> — Group Actions, IIT Guwahati</li>
+    <li><strong>Rohit Pokhrel</strong> — PhD Student, HRI — <em>An introduction to p-adic numbers</em></li>
+    <li><strong>Krishnamohan</strong> — PhD Student, University of Florida, USA — <em>Talk on Euler’s Formula</em></li>
+  </ul>
+</div>
+
 
 <div align="center">
 
@@ -433,9 +433,10 @@ A first initiative led by me as departmental representative to foster mathematic
 
 
 
-### ‼️ Additional Memories  
-
-A few cherished moments from personal life.
+<div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;">‼️ Additional Memories</h3>
+  <p>A few cherished moments from personal life.</p>
+</div>
 
 <div align="center">
 
@@ -466,12 +467,14 @@ A few cherished moments from personal life.
 </div>
 
 
-## Agra, Uttar Pradesh, India  
-
-<p align="center"><strong>28th December 2025</strong></p>
-
-Agra is a historic city in India's Uttar Pradesh state, famous globally for the stunning white marble Taj Mahal. Once the Mughal capital, Agra holds world-class monuments such as Agra Fort and Itmad-ud-Daulah, each carrying centuries of history and architectural brilliance.  
-I don’t know the complete history, but sometimes it is best to enjoy a place in my own way. 
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <h3 style="color: #2a5d9f; margin-top: 0;">Agra, Uttar Pradesh, India</h3>
+  <p align="center"><strong>28th December 2025</strong></p>
+  <p>
+    Agra is a historic city in India's Uttar Pradesh state, famous globally for the stunning white marble Taj Mahal. 
+    Once the Mughal capital, Agra holds world-class monuments such as Agra Fort and Itmad-ud-Daulah, 
+    each carrying centuries of history and architectural brilliance. I don’t know the complete history, 
+    but sometimes it is best to enjoy a place in my own way.
 <div align="center" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
 
   <img 
@@ -519,18 +522,22 @@ I don’t know the complete history, but sometimes it is best to enjoy a place i
 </div>
 
 
-
-### New Delhi, India  
-
-New Delhi has become a big part of my everyday life.  
-It is busy, loud, fast, and full of movement — but somehow, within that rush, I have found my own rhythm.  
-
-Working here has taught me discipline, confidence, and independence.  
-The city pushes me, challenges me, and helps me grow in ways I never expected.  
-Even on chaotic days, Delhi carries an energy that keeps me inspired.  
-
-It is a place where opportunities open, people inspire, and learning never stops.  
-In many ways, New Delhi has shaped my professional journey and given me a space to work, think, and build my future.
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <h3 style="color: #2a5d9f; margin-top: 0;">New Delhi, India</h3>
+  <p>
+    New Delhi has become a big part of my everyday life. 
+    It is busy, loud, fast, and full of movement — but somehow, within that rush, I have found my own rhythm.
+  </p>
+  <p>
+    Working here has taught me discipline, confidence, and independence. 
+    The city pushes me, challenges me, and helps me grow in ways I never expected. 
+    Even on chaotic days, Delhi carries an energy that keeps me inspired.
+  </p>
+  <p>
+    It is a place where opportunities open, people inspire, and learning never stops. 
+    In many ways, New Delhi has shaped my professional journey and given me a space to work, think, and build my future.
+  </p>
+</div>
 
 <div align="center" style="display: flex; flex-wrap: nowrap; gap: 12px; overflow-x: auto;">
 
@@ -567,17 +574,20 @@ In many ways, New Delhi has shaped my professional journey and given me a space 
 </div>
 
 
-### Nainital, Uttarakhand
-State of India
- 
-<p style="text-align: center; font-size: 16px; color: #5A4634; margin-top: -8px;">
-  18th October 2025
-</p>
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <h3 style="color: #2a5d9f; margin-top: 0;">Nainital, Uttarakhand, India</h3>
+  <p style="text-align: center; color: #5A4634; font-size: 16px; margin-top: -4px;">
+    18th October 2025
+  </p>
+  <p>
+    Nainital, with its serene lakes and misty mountains, felt like stepping into a painting. 
+    I spent two wonderful days in Nainital, enjoying the cool mountains and calm lakes. 
+    I walked along Mall Road, went for a boat ride on Naini Lake, and admired the views from Snow View Point. 
+    The fresh air, green hills, and peaceful water made the trip very relaxing and refreshing. 
+    It was a nice break from routine and a great way to enjoy nature.
+  </p>
+</div>
 
-
-<div align="center">
-
-Nainital, with its serene lakes and misty mountains, felt like stepping into a painting. I spent two wonderful days in Nainital, enjoying the cool mountains and calm lakes. I walked along Mall Road, went for a boat ride on Naini Lake, and admired the views from Snow View Point. The fresh air, green hills, and peaceful water made the trip very relaxing and refreshing. It was a nice break from routine and a great way to enjoy nature.
 
 
   <img 
@@ -592,9 +602,13 @@ Nainital, with its serene lakes and misty mountains, felt like stepping into a p
   />
 </div>
 
-### Darjeeling, West Bengal, India  
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <h3 style="color: #2a5d9f; margin-top: 0;">Darjeeling, West Bengal, India</h3>
+  <p>
+    Darjeeling is a place where I find peace. The cool mountains, misty mornings, and calm surroundings make it feel like a home away from home.
+  </p>
+</div>
 
-Darjeeling is a place where I find peace. The cool mountains, misty mornings, and calm surroundings make it feel like a home away from home.
 
 <div align="center">
 
@@ -612,15 +626,20 @@ Darjeeling is a place where I find peace. The cool mountains, misty mornings, an
 </div>
 
 
-###  Home — Sikkim, India  
-Where My Soul Finds Peace  
-
-Sikkim is the place that shaped me, held me, and taught me what quiet happiness feels like.  
-Whenever I return home, life becomes simple again. The mountains stand calm, the air feels fresh, and everything slows down in the best way.  
-
-There is a softness in the wind, a silence in the hills, and a comfort that I don’t find anywhere else.  
-Sikkim is not just where I was born — it is where my soul rests, heals, and feels complete.  
-No matter where I travel, this place brings me back to myself.
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <h3 style="color: #2a5d9f; margin-top: 0;">Home — Sikkim, India</h3>
+  <p><em>Where My Soul Finds Peace</em></p>
+  <p>
+    Sikkim is the place that shaped me, held me, and taught me what quiet happiness feels like. 
+    Whenever I return home, life becomes simple again. The mountains stand calm, the air feels fresh, 
+    and everything slows down in the best way.
+  </p>
+  <p>
+    There is a softness in the wind, a silence in the hills, and a comfort that I don’t find anywhere else. 
+    Sikkim is not just where I was born — it is where my soul rests, heals, and feels complete. 
+    No matter where I travel, this place brings me back to myself.
+  </p>
+</div>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 14px;">
 
