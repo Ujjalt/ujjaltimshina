@@ -24,7 +24,6 @@ I served as the <strong>Lead Teaching Assistant</strong> for the undergraduate c
   <li>Evaluated quizzes, assignments, and exam scripts with detailed and consistent feedback.</li>
   <li>Managed course spreadsheets, grading records, and workflow logistics.</li>
   <li>Addressed advanced student queries related to theory, proofs, and applications.</li>
-  <li>Assisted the instructor with tutorial design, exam preparation, and course administration.</li>
 </ul>
 This role strengthened my instructional, management, and leadership skills while contributing to the effective delivery of a core mathematics course at IIIT Delhi.
 </div>
