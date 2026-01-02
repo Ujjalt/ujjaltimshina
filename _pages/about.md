@@ -30,10 +30,10 @@ Welcome to my homepage!
 
 **Life roars with madness, and somehow, I’m still here—enjoying every reckless twist of it !!**
 
-**Most people save a quote for the end, but I like to start with one. Maybe it’s just my left-handed habit of turning things upside down in the best possible way.**
-
-<strong>Colourless <span style="color: green; font-weight: bold;">Green</span> Ideas Sleep Furiously — Noam Chomsky</strong>
-
+<div style="background:#e6f0ff; color:#2a5d9f; padding:18px 22px; border-radius:8px; font-family:Georgia, serif; font-size:16px; line-height:1.6; margin-bottom:12px;">
+<p><strong>Most people save a quote for the end, but I like to start with one. Maybe it’s just my left-handed habit of turning things upside down in the best possible way.</strong></p>
+<p><strong>Colourless <span style="color:green;">Green</span> Ideas Sleep Furiously — Noam Chomsky</strong></p>
+</div>
 
 
 I feel that I have become a little more mature over time, and perhaps a little more demanding of myself. My mind is often crowded with thoughts. Some days I feel extremely tired; on others, I begin with a good amount of energy that gradually fades by the end of the day. Much of the time I feel uncertain, sometimes unhappy, and often a bit lost. Still, in a quiet way, I am enjoying my life and I always think and honour the ancestor who first felt time for the first time, unaware that time was already watching them feel it. 
