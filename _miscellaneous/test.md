@@ -5,38 +5,36 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-You can try some of the interesting tutorial problems and materials prepared by me as part of various delivered lecture series.
+<div style="background-color: #f0f9f4; border: 2px solid #28a745; border-radius: 10px; padding: 20px; margin-bottom: 30px; font-family: Georgia, serif; color: #333; line-height: 1.6;">
 
-<p>
-  Visit the external links below to explore:
-</p>
+  <p>You can try some of the interesting tutorial problems and materials prepared by me as part of various delivered lecture series.</p>
 
-<a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/tutorial-problems-delivered-lecture-series" target="_blank" style="display: inline-block; background-color: #28a745; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none; margin-right: 10px;">
-  View Tutorial Problems
-</a>
+  <p>
+    Visit the external links below to explore:
+  </p>
 
+  <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/tutorial-problems-delivered-lecture-series" target="_blank" 
+     style="display: inline-block; background-color: #28a745; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none; margin-right: 10px;">
+    View Tutorial Problems
+  </a>
 
-<hr>
+  <hr style="border: 1px solid #28a745; margin: 20px 0;">
 
-## Some of My Favorite Books
+  <h3 style="color: #28a745;">Some of My Favorite Books</h3>
 
-Here is a selection of mathematical books that have deeply influenced my thinking and learning:
+  <div>
+    <ul>
+      <li><em>Complex Analysis in One and Several Variables</em> — Raghavan Narasimhan</li>
+      <li><em>Introduction to Topology and Modern Analysis</em> — George F. Simmons</li>
+      <li><em>General Topology</em> — Nicolas Bourbaki</li>
+      <li><em>Basic Complex Analysis</em> — Tristan Needham</li>
+      <li><em>Calculus on Manifolds</em> — Michael Spivak</li>
+      <li><em>A Course in Functional Analysis</em> — J.B Conway</li>
+      <li><em>Differential Analysis on Complex Manifolds</em> — R.O. Wells</li>
+    </ul>
+  </div>
 
-<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; color: #333;">
-  <ul>
-    <li><em>Complex Analysis in One and Several Variables</em> — Raghavan Narasimhan</li>
-    <li><em>Introduction to Topology and Modern Analysis</em> — George F. Simmons</li>
-    <li><em>General Topology</em> — Nicolas Bourbaki</li>
-    <li><em>Basic Complex Analysis</em> — Tristan Needham</li>
-    <li><em>Calculus on Manifolds</em> — Michael Spivak</li>
-    <li><em>A Course in Functional Analysis</em> — J.B Conway</li>
-     <li><em>Differential Analysis on Complex Manifolds</em> — R.O. Wells</li>
-  </ul>
 </div>
-
-<hr>
-
-
 
 
  **Highlights from Recent Academic Engagements**: 
