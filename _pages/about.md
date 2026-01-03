@@ -5,6 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+layout: single
+classes: wide
 ---
 
 
@@ -29,7 +31,8 @@ redirect_from:
 
 <p><strong>Life roars with madness, and somehow, I’m still here—enjoying every reckless twist of it !!</strong></p>
 
-<div class="quote-box">
+<div style="background:#e6f0ff; color:#2a5d9f; padding:18px 22px; border-radius:8px; 
+            font-family:Georgia, serif; font-size:16px; line-height:1.6; margin:20px 0;">
   <p><strong>Most people save a quote for the end, but I like to start with one. Maybe it’s just my left-handed habit of turning things upside down in the best possible way.</strong></p>
   <p><strong>Colourless <span style="color:green;">Green</span> Ideas Sleep Furiously — Noam Chomsky</strong></p>
 </div>
@@ -52,23 +55,27 @@ redirect_from:
 
 <p>My current research focuses on describing these operators using the actions of Lie groups and identifying invariants that determine their equivalence classes under unitary transformations.</p>
 
-<p>I am studying <strong>Reproducing Kernel Hilbert Spaces (RKHS), Analytic Foundations to Elliptic Curves and Modular Forms, Linear Algebraic Groups</strong> and <strong>Algebraic Topology</strong>. I have completed doctoral-level coursework in <strong>Functional Analysis, Complex Analysis, Several Complex Variables, Introduction to Non-commutative Function Theory</strong> and <strong>Matrix Groups</strong>.</p>
+<p>I am studying <strong>Reproducing Kernel Hilbert Spaces (RKHS), Analytic Foundations to Elliptic Curves and Modular Forms, Linear Algebraic Groups (for an introduction to Algebraic Geometry) and Algebraic Topology</strong> in the current semester. I have completed doctoral-level coursework in <strong>Functional Analysis, Complex Analysis, Several Complex Variables, Introduction to Non-commutative Function Theory</strong> and <strong>Matrix Groups</strong> as a part of my coursework. Going forward, I plan to delve deeper into topics such as <a href="https://en.wikipedia.org/wiki/Spectral_theory">Spectral Theory</a>, <a href="https://en.wikipedia.org/wiki/Representation_theory">Representation Theory</a> and <a href="https://en.wikipedia.org/wiki/Operator_algebra">Operator Algebra</a>. I am particularly interested in understanding how operator-theoretic ideas interface with geometric and topological frameworks.</p>
 
-<p>I am also keenly interested in <a href="https://en.wikipedia.org/wiki/Measure_theory">Measure Theory</a> and <a href="https://en.wikipedia.org/wiki/General_topology">General Topology</a>. Beyond these, I remain curious about wider themes in modern mathematics.</p>
+<p>I am also keenly interested in subjects such as <a href="https://en.wikipedia.org/wiki/Measure_theory">Measure Theory</a> and <a href="https://en.wikipedia.org/wiki/General_topology">General Topology</a>, which continue to shape my mathematical perspective. Beyond these, I remain curious about broader themes in modern mathematics.</p>
 
 <hr>
 
-<p>Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/">Sikkim University</a>. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled <em>“Nets and Filters in Topology”</em>, was supervised by <a href="#">Dr. Namita Behera</a>. I completed my undergraduate studies at <a href="https://nbbgc.org/">Nar Bahadur Bhandari Government College</a>.</p>
+<p>Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/">Sikkim University</a>, a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled <em>“Nets and Filters in Topology”</em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2">Dr. Namita Behera</a>. I completed my undergraduate studies at <a href="https://nbbgc.org/">Nar Bahadur Bhandari Government College</a>, affiliated with Sikkim University.</p>
 
-<p>For me, research is a quiet and careful journey into abstract ideas—guided by logic, curiosity, patience, and a willingness to accept uncertainty.</p>
+<p>For me, research is a quiet and careful journey into abstract ideas—guided not only by logic but also by curiosity, patience, and a willingness to accept uncertainty.</p>
 
-<p>We forget, make mistakes, and return — not as failure, but as part of learning. Understanding grows step by step, through patience and reflection.</p>
+<p>We forget, make mistakes, and return — not as failure, but as part of learning.<br>
+Understanding does not come all at once, but grows step by step, through patience and reflection.</p>
 
 <p>I am also deeply interested in teaching, outreach, and sharing ideas. I have worked as a teaching assistant at IIIT Delhi and as a guest lecturer at Sikkim Global Technical University. I enjoy participating in mathematics Olympiad training camps, workshops, and mentoring students.</p>
 
-<p>I have authored a book, <strong>Beyond Answers: Beauty of Mathematical Questions</strong>, available on Amazon and Notion Press.</p>
+<p>I have authored a book, <strong>Beyond Answers: Beauty of Mathematical Questions</strong>. It was my first attempt at writing and not perfect, but it reflects my interest in learning through questions. The book is available on Amazon and Notion Press.</p>
 
-<p>Outside academics, I enjoy writing blogs, exploring web design, and learning about open educational technologies. A selection of my talks (some with slides) is available <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/slides-selected-talks">here</a>. My updated CV is available <a href="#">here</a>.</p>
+<p>Outside of academics, I enjoy writing blogs, exploring web design and coding, and learning about open educational technologies. A selection of my talks and presentations (some with slides) is available here <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/slides-selected-talks">here</a>. My updated CV can be accessed <a href="https://drive.google.com/drive/folders/1GEbPbSA5sfkBQYyckeMoTF3b4LUb8NJ9?usp=drive_link">here</a> <em>(last updated: 31st August 2025)</em>.</p>
+
+<p><strong>Mountains. Solitude. Breath. Peace.</strong><br>
+<strong>When rigor takes a coffee break.</strong></p>
 
 <div align="center" style="margin: 20px 0;">
   <img 
@@ -79,10 +86,12 @@ redirect_from:
   />
 </div>
 
-<p><strong>“I enjoy reading the elegantly written articles and lecture notes available at Terry Tao’s blog and J.S. Milne’s mathematics website.”</strong></p>
+<p><strong>“I enjoy reading the elegantly written articles and lecture notes available at Terry Tao blogs 
+<a href="https://terrytao.wordpress.com/">here</a> and Mathematics Site - J.S. Milne 
+<a href="https://www.jmilne.org/math/">here</a>.”</strong></p>
 
-<p>There is no real gap between pure and applied mathematics. My philosophy is to move freely across these boundaries, guided by structure, rigor, and curiosity.</p>
+<p>There is no real gap between pure and applied mathematics. What we call “pure” and “applied” are only different ways of looking at the same ideas. Every branch of mathematics is deeply connected, and concepts developed for abstraction often become the language of applications, while applied problems constantly generate new pure theory. My mathematical philosophy is to move freely across these boundaries, guided by structure, rigor, and curiosity rather than labels.</p>
 
-<p><strong>The main goal of this website is simple: to collect the moments I have spent with mathematics.</strong></p>
+<p><strong>The main goal of this website is simple: to collect the moments I have spent with mathematics so far in my life.</strong></p>
 
-<p><strong>This space is for my thoughts, struggles, and small understandings — memories of breathing mathematics.</strong></p>
+<p><strong>This space is for my thoughts, struggles, and small understandings — just memories of breathing mathematics.</strong></p>
