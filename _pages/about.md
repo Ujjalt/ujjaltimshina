@@ -47,8 +47,11 @@ classes: wide
 
 <hr>
 
-<p><strong>Research must be grounded in meaning, and meaning must be examined through research. Genuine quality requires time, and time profoundly shapes one’s mathematical understanding—this remains my foremost priority.</strong></p>
+<hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
 
+  <p><strong>Research must be grounded in meaning, and meaning must be examined through research. Genuine quality requires time, and time profoundly shapes one’s mathematical understanding—this remains my foremost priority.</strong></p>
+
+</div>
 <p>I am working on the classification of homogeneous operators in the Cowen–Douglas class B_n(Ω) up to unitary equivalence. This problem lies at the intersection of operator theory and complex geometry and seeks to understand how symmetry and representation-theoretic properties influence the structure of operators within the Cowen–Douglas framework.</p>
 
 <p>The study of homogeneous operators is central to understanding geometric models of Hilbert space operators, where each operator can be associated with a holomorphic Hermitian vector bundle over a complex domain.</p>
