@@ -99,4 +99,4 @@ Understanding does not come all at once; it grows step by step, through patience
 
 <p><strong>This space is for my thoughts, struggles, and small understandings — just memories of breathing mathematics.</strong></p>
 
-</div>
+
