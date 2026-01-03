@@ -47,8 +47,6 @@ classes: wide
 
 <hr>
 
-<hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
-
   <p><strong>Research must be grounded in meaning, and meaning must be examined through research. Genuine quality requires time, and time profoundly shapes one’s mathematical understanding—this remains my foremost priority.</strong></p>
 
 </div>
