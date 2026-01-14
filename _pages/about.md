@@ -50,13 +50,13 @@ classes: wide
 
   <p><strong>Research must be grounded in meaning, and meaning must be examined through research. Genuine quality requires time, and time profoundly shapes one’s mathematical understanding—this remains my foremost priority.</strong></p>
 
-  <p>I am working on the classification of homogeneous operators in the Cowen–Douglas class B_n(Ω) up to unitary equivalence. This problem lies at the intersection of operator theory and complex geometry and seeks to understand how symmetry and representation-theoretic properties influence the structure of operators within the Cowen–Douglas framework.</p>
+  <p>I am working on the classification of homogeneous operators in the Cowen–Douglas class B_r(Ω) of certain rank up to unitary equivalence. This problem lies at the intersection of operator theory and complex geometry and seeks to understand how symmetry and representation-theoretic properties influence the structure of operators within the Cowen–Douglas framework.</p>
 
-  <p>The study of homogeneous operators is central to understanding geometric models of Hilbert space operators, where each operator can be associated with a holomorphic Hermitian vector bundle over a complex domain.</p>
+  <p>The study of homogeneous operators is central to understanding geometric models of Hilbert space operators, where each operator can be associated with a homogeneous holomorphic Hermitian vector bundle over a complex domain.</p>
 
   <p>My current research focuses on describing these operators using the actions of Lie groups and identifying invariants that determine their equivalence classes under unitary transformations.</p>
 
-  <p>I am studying <strong>Reproducing Kernel Hilbert Spaces (RKHS), Analytic Foundations to Elliptic Curves and Modular Forms, Linear Algebraic Groups, and Algebraic Topology</strong> in the current semester. I have completed doctoral-level coursework in <strong>Functional Analysis, Complex Analysis, Several Complex Variables, Introduction to Non-commutative Function Theory</strong> and <strong>Matrix Groups</strong>. Going forward, I plan to delve deeper into <a href="https://en.wikipedia.org/wiki/Spectral_theory">Spectral Theory</a>, <a href="https://en.wikipedia.org/wiki/Representation_theory">Representation Theory</a> and <a href="https://en.wikipedia.org/wiki/Operator_algebra">Operator Algebra</a>.</p>
+  <p>I am studying <strong>Reproducing Kernel Hilbert Spaces (RKHS), The complex-analytic theory underlying elliptic curves and modular forms, and Linear Algebraic Groups </strong> in the current semester. I have completed doctoral-level coursework in <strong>Functional Analysis, Complex Analysis, Several Complex Variables, Introduction to Non-commutative Function Theory</strong> and <strong>Matrix Groups</strong>. Going forward, I plan to delve deeper into <a href="https://en.wikipedia.org/wiki/Spectral_theory">Spectral Theory</a>, <a href="https://en.wikipedia.org/wiki/Representation_theory">Representation Theory</a> and <a href="https://en.wikipedia.org/wiki/Operator_algebra">Operator Algebra</a>.</p>
 
   <p>I am also keenly interested in subjects such as <a href="https://en.wikipedia.org/wiki/Measure_theory">Measure Theory</a> and <a href="https://en.wikipedia.org/wiki/General_topology">General Topology</a>, which continue to shape my mathematical perspective.</p>
 
