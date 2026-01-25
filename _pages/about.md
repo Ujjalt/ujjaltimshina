@@ -31,12 +31,20 @@ classes: wide
 
   <p><strong>Life roars with madness, and somehow, I’m still here—enjoying every reckless twist of it !!</strong></p>
 
-  <div style="background:#e6f0ff; color:#2a5d9f; padding:18px 22px; border-radius:8px; margin:20px 0; text-align: justify;">
-    <p><strong>Most people save a quote for the end, but I like to start with one. Maybe it’s just my left-handed habit of turning things upside down in the best possible way.</strong></p>
-    <p><strong>Colourless <span style="color:green;">Green</span> Ideas Sleep Furiously — Noam Chomsky</strong></p>
-  </div>
+I never really tried to understand Halmos’s quote during my M.Sc. I used to attach his picture as a symbol of a great mathematical mind, and I accepted his words without truly grasping them. Paul Halmos famously said:
 
-  <p>I feel that I have become a little more mature over time, and perhaps a little more demanding of myself. My mind is often crowded with thoughts. Some days I feel extremely tired; on others, I begin with a good amount of energy that gradually fades by the end of the day. Much of the time I feel uncertain, sometimes unhappy, and often a bit lost. Still, in a quiet way, I am enjoying my life and I always think and honour the ancestor who first felt time for the first time, unaware that time was already watching them feel it.</p>
+**<span style="color:green;">“The only way to learn mathematics is to do mathematics.”</span>**
+
+Back then, I appreciated the line only at the surface level.
+
+Now I’m beginning to understand its meaning in a much deeper sense. I’ve realized that there were many moments when I had a weak or unclear intuition about something, yet my mind felt oddly satisfied without actually understanding it. And that false satisfaction is exactly what Halmos was warning against.
+
+Real understanding doesn’t come from passive acceptance—it comes from working through the ideas, wrestling with the details, and pushing past the illusion of understanding.
+
+I want to improve myself and start doing mathematics more honestly and efficiently:  
+**by doing it, not just feeling like I understand it.**
+
+  <p> My mind these days is often crowded with thoughts. Some days I feel extremely tired; on others, I begin with a good amount of energy that gradually fades by the end of the day. Much of the time I feel uncertain, sometimes unhappy, and often a bit lost. Still, in a quiet way, I am enjoying my life and I always think and honour the ancestor who first felt time for the first time, unaware that time was already watching them feel it.</p>
 
   <p>My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the <a href="https://www.iiitd.ac.in/people/phd/current">Indraprastha Institute of Information Technology Delhi (IIIT Delhi)</a>, working under the supervision of <a href="https://www.iiitd.ac.in/prahllad">Dr. Prahllad Deb</a>. I joined IIIT Delhi after being awarded the <a href="https://online-inspire.gov.in/">INSPIRE Research Fellowship</a> by the Department of Science and Technology (DST), Government of India.</p>
 
