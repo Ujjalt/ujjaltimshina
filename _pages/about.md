@@ -41,7 +41,7 @@ Now I’m beginning to understand its meaning in a much deeper sense. I’ve rea
 
 Real understanding doesn’t come from passive acceptance—it comes from working through the ideas, wrestling with the details, and pushing past the illusion of understanding.
 
-<strong><span style="color:green;">as I'm pushing myself to do it, not merely feel like I understand it, and I am deeply grateful to my PhD supervisor, who has been guiding me with immense effort and sincerity. He has helped me realise many important aspects of doing mathematics and of living life, all while never taking credit for any of it — no matter how much I try to acknowledge him.</span></strong>
+<strong>as I'm pushing myself to do it, not merely feel like I understand it, and I am deeply grateful to my PhD supervisor, who has been guiding me with immense effort and sincerity. He has helped me realise many important aspects of doing mathematics and of living life, all while never taking credit for any of it — no matter how much I try to acknowledge him.</strong>
 
 <p> My mind these days is often crowded with thoughts. Some days I feel extremely tired; on others, I begin with a good amount of energy that gradually fades by the end of the day. Much of the time I feel uncertain, sometimes unhappy, and often a bit lost. Still, in a quiet way, I am enjoying my life and I always think and honour the ancestor who first felt time for the first time, unaware that time was already watching them feel it.</p>
 
