@@ -41,10 +41,9 @@ Now I’m beginning to understand its meaning in a much deeper sense. I’ve rea
 
 Real understanding doesn’t come from passive acceptance—it comes from working through the ideas, wrestling with the details, and pushing past the illusion of understanding.
 
-I want to improve myself and start doing mathematics more honestly and efficiently:  
-**by doing it, not just feeling like I understand it**
+<strong><span style="color:green;">as I'm pushing myself to do it, not just feel like I understand it, thanks to my PhD supervisor who is trying really hard for me and making me realise several things, as he is a person who is making me realise several aspects of doing mathematics and living life</span></strong>
 
-  <p> My mind these days is often crowded with thoughts. Some days I feel extremely tired; on others, I begin with a good amount of energy that gradually fades by the end of the day. Much of the time I feel uncertain, sometimes unhappy, and often a bit lost. Still, in a quiet way, I am enjoying my life and I always think and honour the ancestor who first felt time for the first time, unaware that time was already watching them feel it.</p>
+<p> My mind these days is often crowded with thoughts. Some days I feel extremely tired; on others, I begin with a good amount of energy that gradually fades by the end of the day. Much of the time I feel uncertain, sometimes unhappy, and often a bit lost. Still, in a quiet way, I am enjoying my life and I always think and honour the ancestor who first felt time for the first time, unaware that time was already watching them feel it.</p>
 
   <p>My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the <a href="https://www.iiitd.ac.in/people/phd/current">Indraprastha Institute of Information Technology Delhi (IIIT Delhi)</a>, working under the supervision of <a href="https://www.iiitd.ac.in/prahllad">Dr. Prahllad Deb</a>. I joined IIIT Delhi after being awarded the <a href="https://online-inspire.gov.in/">INSPIRE Research Fellowship</a> by the Department of Science and Technology (DST), Government of India.</p>
 
