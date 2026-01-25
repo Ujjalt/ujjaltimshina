@@ -33,7 +33,7 @@ classes: wide
 
 I never really tried to understand Halmos’s quote during my M.Sc. I used to attach his picture as a symbol of a great mathematical mind, and I accepted his words without truly grasping them. Paul Halmos famously said:
 
-<span style="color:green;">“The only way to learn mathematics is to do mathematics.”</span>
+<strong><span style="color:green;">“The only way to learn mathematics is to do mathematics.”</span></strong>
 
 Back then, I appreciated the line only at the surface level.
 
