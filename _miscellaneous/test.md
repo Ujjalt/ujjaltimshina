@@ -75,26 +75,26 @@ author_profile: true
 
 </div> 
 
-
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
   <h3 style="color: #2a5d9f; margin-top: 0;">Dinner at Flaming Oak, New Delhi</h3>
 
   <p>
-    This moment is special to me. It was after a Linear Algebra class with 
-    <strong>Dr.Subhajit Ghosechowdhury </strong> — a person of very simple living, deep humility, 
-    and extraordinary knowledge. His sincerity in mathematics is rare. He works quietly, listens 
-    deeply, and teaches with a kind of honesty that touches the heart.
+    This moment is very close to my heart. It was taken after a Linear Algebra class with
+    <strong>Dr. Subhajit Ghosechowdhury</strong> — someone who lives with genuine simplicity, carries deep humility, 
+    and has remarkable knowledge. His sincerity towards mathematics is rare and I'm trying hard to learn from him. He teaches quietly, listens with care, 
+    and speaks with an honesty that stays with you.
   </p>
 
   <p>
-    I have learned Functional Analysis from him, and I am now studying Reproducing Kernel Hilbert Spaces 
-    under his guidance. His way of explaining ideas is gentle yet powerful, and his patience makes 
-    difficult things feel possible. He never shows his greatness, but anyone who learns from him can feel it.
+    I learned Functional Analysis from him, and I am now studying Reproducing Kernel Hilbert Spaces under his guidance. 
+    The way he explains ideas is gentle yet so clear, anyone who studies with him can feel his depth immediately.
   </p>
 
   <p>
-    He worked under <strong>Prof. Louis de Branges</strong> on Löwner theory and other deep topics (I do not understand any of his work right now) at Purdue University
-    yet he carries all his knowledge with simplicity and silence. It inspires me every day.
+    He worked under <strong>Prof. Louis de Branges</strong> at Purdue University on Löwner theory and other deep areas. 
+    I do not understand any of it right now, but I hope to one day. What inspires me most is that, despite all his knowledge and experience, 
+    he carries himself with so much simplicity and silence. 
+    And the kind of experience he has about what life truly is, and how one should live it, is remarkable.
   </p>
 
   <div align="center">
@@ -105,6 +105,7 @@ author_profile: true
     />
   </div>
 </div>
+
 
 </div>
 
