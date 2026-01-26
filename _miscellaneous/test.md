@@ -79,8 +79,7 @@ author_profile: true
   <h3 style="color: #2a5d9f; margin-top: 0;">Dinner at Flaming Oak, New Delhi</h3>
 
   <p>
-    This moment is very close to my heart. It was taken after a Linear Algebra class with
-    <strong>Dr. Subhajit Ghosechowdhury</strong> — someone who lives with genuine simplicity, carries deep humility, 
+   This moment is very close to my heart. It was taken after the completion of the B.Tech Linear Algebra course, for which I served as the lead TA under <strong>Dr. Subhajit Ghosechowdhury</strong> — someone who lives with genuine simplicity, carries deep humility, 
     and has remarkable knowledge. His sincerity towards mathematics is rare and I'm trying hard to learn from him. He teaches quietly, listens with care, 
     and speaks with an honesty that stays with you.
   </p>
