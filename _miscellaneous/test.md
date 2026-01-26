@@ -81,7 +81,7 @@ author_profile: true
 
   <p>
     This moment is special to me. It was after a Linear Algebra class with 
-    <strong>Dr. Subhajit Ghose Chowdhury</strong> — a person of very simple living, deep humility, 
+    <strong>Dr.Subhajit Ghosechowdhury </strong> — a person of very simple living, deep humility, 
     and extraordinary knowledge. His sincerity in mathematics is rare. He works quietly, listens 
     deeply, and teaches with a kind of honesty that touches the heart.
   </p>
@@ -93,7 +93,7 @@ author_profile: true
   </p>
 
   <p>
-    He worked under <strong>Prof. Louis de Branges</strong> on Löwner theory and other deep topics (I do not understand any of his work right now) 
+    He worked under <strong>Prof. Louis de Branges</strong> on Löwner theory and other deep topics (I do not understand any of his work right now) at Purdue University
     yet he carries all his knowledge with simplicity and silence. It inspires me every day.
   </p>
 
