@@ -95,6 +95,8 @@ author_profile: true
     I do not understand any of it right now, but I hope to one day. What inspires me most is that, despite all his knowledge and experience, 
     he carries himself with so much simplicity and silence. 
     And the kind of experience he has about what life truly is, and how one should live it, is remarkable.
+    I feel comfortable sharing even my most confused or “stupid” thoughts with him, because after listening to him, 
+    those thoughts start becoming clearer, more concrete, and more correct. He never judges — he simply guides.
   </p>
 
   <div align="center">
