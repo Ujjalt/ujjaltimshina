@@ -80,25 +80,21 @@ author_profile: true
   <h3 style="color: #2a5d9f; margin-top: 0;">Dinner at Flaming Oak, New Delhi</h3>
 
   <p>
-    This picture means a lot to me. It was taken after a Linear Algebra course at IIIT Delhi (2025) with 
-    <strong>Dr Subhajit Ghosechowdhury</strong> — a mathematician whose life and work inspire me deeply.
-    He is not just a great teacher, but also a <strong>great listener</strong>, someone with immense knowledge
-    and a rare ability to understand a student’s mind and guide them with patience and warmth.
+    This moment is special to me. It was after a Linear Algebra class with 
+    <strong>Dr. Subhajit Ghose Chowdhury</strong> — a person of very simple living, deep humility, 
+    and extraordinary knowledge. His sincerity in mathematics is rare. He works quietly, listens 
+    deeply, and teaches with a kind of honesty that touches the heart.
   </p>
 
   <p>
-    I have never met someone who does mathematics so sincerely from the heart. His teaching has a purity 
-    that makes the mind quiet and the heart satisfied. From him, I formally learned Functional Analysis, 
-    and I am currently studying Reproducing Kernel Hilbert Spaces under his guidance.
+    I have learned Functional Analysis from him, and I am now studying Reproducing Kernel Hilbert Spaces 
+    under his guidance. His way of explaining ideas is gentle yet powerful, and his patience makes 
+    difficult things feel possible. He never shows his greatness, but anyone who learns from him can feel it.
   </p>
 
   <p>
-    He worked under the great mathematician <strong>Prof. Louis de Branges</strong> on Löwner theory and more — 
-    work that I now appreciate because of his way of explaining deep ideas with clarity and humility.
-  </p>
-
-  <p>
-    <em>I do not understand anything right now, but I truly want to learn.</em>
+    He worked under <strong>Prof. Louis de Branges</strong> on Löwner theory and other deep topics (I do not understand any of his work right now) 
+    yet he carries all his knowledge with simplicity and silence. It inspires me every day.
   </p>
 
   <div align="center">
@@ -108,6 +104,8 @@ author_profile: true
       style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
     />
   </div>
+</div>
+
 </div>
 
 <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; line-height: 1.6;">
