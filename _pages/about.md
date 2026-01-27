@@ -57,8 +57,6 @@ Real understanding doesn’t come from passive acceptance—it comes from workin
 
   <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
 
-  <p><strong>Research must be grounded in meaning, and meaning must be examined through research. Genuine quality requires time, and time profoundly shapes one’s mathematical understanding—this remains my foremost priority.</strong></p>
-
   <p>I am working on the classification of homogeneous operators in the Cowen–Douglas class B_r(Ω) of certain rank up to unitary equivalence. This problem lies at the intersection of operator theory and complex geometry and seeks to understand how symmetry and representation-theoretic properties influence the structure of operators within the Cowen–Douglas framework.</p>
 
   <p>The study of homogeneous operators is central to understanding geometric models of Hilbert space operators, where each operator can be associated with a homogeneous holomorphic Hermitian vector bundle over a complex domain.</p>
@@ -72,20 +70,19 @@ Real understanding doesn’t come from passive acceptance—it comes from workin
   <hr>
 
   <p>Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/">Sikkim University</a>, a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled <em>“Nets and Filters in Topology”</em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2">Dr. Namita Behera</a>. I completed my undergraduate studies at <a href="https://nbbgc.org/">Nar Bahadur Bhandari Government College</a>, affiliated with Sikkim University.</p>
+ <p>I am also deeply interested in teaching, outreach, and sharing ideas. I have worked as a teaching assistant at IIIT Delhi and as a guest lecturer at Sikkim Global Technical University. I enjoy participating in mathematics Olympiad training camps, workshops, and mentoring students.</p>
 
-  <p>For me, research is a quiet and careful journey into abstract ideas—guided not only by logic but also by curiosity, patience, and a willingness to accept uncertainty.</p>
-
-  <p>We forget, make mistakes, and return — not as failure, but as part of learning.<br>
-  Understanding does not come all at once; it grows step by step, through patience and reflection.</p>
-
-  <p>I am also deeply interested in teaching, outreach, and sharing ideas. I have worked as a teaching assistant at IIIT Delhi and as a guest lecturer at Sikkim Global Technical University. I enjoy participating in mathematics Olympiad training camps, workshops, and mentoring students.</p>
-
-  <p>I have authored a book, <strong>Beyond Answers: Beauty of Mathematical Questions</strong>. It was my first attempt at writing and not perfect, but it reflects my interest in learning through questions. The book is available on Amazon and Notion Press.</p>
+<p>I have authored a book, <strong>Beyond Answers: Beauty of Mathematical Questions</strong>. It was my first attempt at writing and not perfect, but it reflects my interest in learning through questions. The book is available on Amazon and Notion Press.</p>
 
   <p>Outside of academics, I enjoy writing blogs, exploring web design and coding, and learning about open educational technologies. A selection of my talks and presentations (some with slides) is available <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/slides-selected-talks">here</a>. My updated CV can be accessed <a href="https://drive.google.com/drive/folders/1GEbPbSA5sfkBQYyckeMoTF3b4LUb8NJ9?usp=drive_link">here</a> <em>(last updated: 31st August 2025)</em>.</p>
   <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
 
 
+  <p>For me, research is a quiet and careful journey into abstract ideas—guided not only by logic but also by curiosity, patience, and a willingness to accept uncertainty.</p>
+
+  <p>We forget, make mistakes, and return — not as failure, but as part of learning.<br>
+  Understanding does not come all at once; it grows step by step, through patience and reflection.</p>
+  
   <p><strong>Mountains. Solitude. Breath. Peace.</strong><br>
  <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
   <strong>When rigor takes a coffee break.</strong></p>
