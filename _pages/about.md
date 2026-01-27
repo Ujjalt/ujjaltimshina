@@ -45,6 +45,8 @@ Real understanding doesn’t come from passive acceptance—it comes from workin
 
 <p> My mind these days is often crowded with thoughts. Some days I feel extremely tired; on others, I begin with a good amount of energy that gradually fades by the end of the day. Much of the time I feel uncertain, sometimes unhappy, and often a bit lost. Still, in a quiet way, I am enjoying my life and I always think and honour the ancestor who first felt time for the first time, unaware that time was already watching them feel it.</p>
 
+  <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
+
   <p>My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the <a href="https://www.iiitd.ac.in/people/phd/current">Indraprastha Institute of Information Technology Delhi (IIIT Delhi)</a>, working under the supervision of <a href="https://www.iiitd.ac.in/prahllad">Dr. Prahllad Deb</a>. I joined IIIT Delhi after being awarded the <a href="https://online-inspire.gov.in/">INSPIRE Research Fellowship</a> by the Department of Science and Technology (DST), Government of India.</p>
 
   <p>My research interests lie in <strong>Operator Theory and Complex Analysis</strong> with a focus on the Cowen–Douglas theory of operators and its interplay with complex geometry and differential geometry.</p>
@@ -81,8 +83,11 @@ Real understanding doesn’t come from passive acceptance—it comes from workin
   <p>I have authored a book, <strong>Beyond Answers: Beauty of Mathematical Questions</strong>. It was my first attempt at writing and not perfect, but it reflects my interest in learning through questions. The book is available on Amazon and Notion Press.</p>
 
   <p>Outside of academics, I enjoy writing blogs, exploring web design and coding, and learning about open educational technologies. A selection of my talks and presentations (some with slides) is available <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/slides-selected-talks">here</a>. My updated CV can be accessed <a href="https://drive.google.com/drive/folders/1GEbPbSA5sfkBQYyckeMoTF3b4LUb8NJ9?usp=drive_link">here</a> <em>(last updated: 31st August 2025)</em>.</p>
+  <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
+
 
   <p><strong>Mountains. Solitude. Breath. Peace.</strong><br>
+ <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
   <strong>When rigor takes a coffee break.</strong></p>
 
   <div align="center" style="margin: 20px 0;">
@@ -99,8 +104,6 @@ Real understanding doesn’t come from passive acceptance—it comes from workin
   <a href="https://www.jmilne.org/math/">here</a>.”</strong></p>
 
   <p>There is no real gap between pure and applied mathematics. What we call “pure” and “applied” are only different ways of looking at the same ideas. Every branch of mathematics is deeply connected, and concepts developed for abstraction often become the language of applications, while applied problems constantly generate new pure theory.</p>
-
-  <p><strong>The main goal of this website is simple: to collect the moments I have spent with mathematics so far in my life.</strong></p>
 
   <p><strong>This space is for my thoughts, struggles, and small understandings — just memories of breathing mathematics.</strong></p>
 
