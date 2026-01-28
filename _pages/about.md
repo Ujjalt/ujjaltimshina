@@ -28,8 +28,8 @@ classes: wide
   </div>
 
   <h2 style="margin-top: 20px;">Welcome to my homepage!</h2>
-
-  <p><strong>style="color:green;"> Life roars with madness, and somehow, I’m still here—enjoying every reckless twist of it !!</span> </strong></p>
+  
+<p><strong><span style="color:green;">Life roars with madness, and somehow I’m still here — enjoying every reckless twist of it!</span></strong></p>
 
 I never really tried to understand Halmos’s quote during my previous times. I used to attach his picture as a symbol of a great mathematical mind, and I accepted his words without truly grasping them. Paul Halmos famously said:
 
@@ -51,22 +51,26 @@ as I'm pushing myself to do it, not merely feel like I understand it, and I am d
 
   <p>My research interests lie in <strong><span style="color:green;">“Operator Theory and Complex Analysis ”</span></strong> with a focus on the Cowen–Douglas theory of operators and its interplay with complex geometry and differential geometry.</p>
 
-  <p>I am open to discussions and research collaborations in areas such as <strong>style="color:green;"> Operator Theory, Reproducing Kernel Hilbert Spaces, Complex Analysis</strong> (both single and several variables), <strong>Complex Geometry<strong> </span></strong>, as well as in <strong>style="color:green;">General Topology and Geometry </span></strong>, which I am actively learning.</p>
+ <p>
+    I am open to discussions and research collaborations in areas such as 
+    <strong><span style="color:green;">Operator Theory, Reproducing Kernel Hilbert Spaces, Complex Analysis</span></strong> 
+    (both single and several variables), <strong><span style="color:green;">Complex Geometry</span></strong>, 
+    as well as in <strong><span style="color:green;">General Topology and Geometry</span></strong>, 
+    which I am actively learning.
+</p>
 
   <hr>
 
   <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
 
   <p>I am working on the classification of homogeneous operators in the Cowen–Douglas class B_r(Ω) of certain rank up to unitary equivalence. This problem lies at the intersection of operator theory and complex geometry and seeks to understand how symmetry and representation-theoretic properties influence the structure of operators within the Cowen–Douglas framework.</p>
-
-  <p>The study of homogeneous operators is central to understanding geometric models of Hilbert space operators, where each operator can be associated with a homogeneous holomorphic Hermitian vector bundle over a complex domain.</p>
+<p>The study of homogeneous operators is central to understanding geometric models of Hilbert space operators, where each operator can be associated with a homogeneous holomorphic Hermitian vector bundle over a complex domain.</p>
 
   <p>My current research focuses on describing these operators using the actions of Lie groups and identifying invariants that determine their equivalence classes under unitary transformations.</p>
 
-  <p>I am studying <strong>style="color:green;">Reproducing Kernel Hilbert Spaces (RKHS), The complex-analytic theory underlying elliptic curves and modular forms, and Linear Algebraic Groups </span> </strong> in the current semester. I have completed doctoral-level coursework in <strong>Functional Analysis, Complex Analysis, Several Complex Variables, Introduction to Non-commutative Function Theory</strong> and <strong>Matrix Groups</strong>. Going forward, I plan to delve deeper into <a href="https://en.wikipedia.org/wiki/Spectral_theory">Spectral Theory</a>, <a href="https://en.wikipedia.org/wiki/Representation_theory">Representation Theory</a> and <a href="https://en.wikipedia.org/wiki/Operator_algebra">Operator Algebra</a>.</p>
+<p>I am studying <strong><span style="color:green;">Reproducing Kernel Hilbert Spaces (RKHS), the complex-analytic theory underlying elliptic curves and modular forms, and Linear Algebraic Groups</span></strong> in the current semester. I have completed doctoral-level coursework in <strong>Functional Analysis, Complex Analysis, Several Complex Variables, Introduction to Non-commutative Function Theory</strong> and <strong>Matrix Groups</strong>. Going forward, I plan to delve deeper into <a href="https://en.wikipedia.org/wiki/Spectral_theory">Spectral Theory</a>, <a href="https://en.wikipedia.org/wiki/Representation_theory">Representation Theory</a> and <a href="https://en.wikipedia.org/wiki/Operator_algebra">Operator Algebra</a>.</p>
 
-  <p>I am also keenly interested in subjects such as <a href="https://en.wikipedia.org/wiki/Measure_theory">Measure Theory</a> and <a href="https://en.wikipedia.org/wiki/General_topology">General Topology</a>, which continue to shape my mathematical perspective.</p>
-
+ <p>I am also keenly interested in subjects such as <a href="https://en.wikipedia.org/wiki/Measure_theory">Measure Theory</a> and <a href="https://en.wikipedia.org/wiki/General_topology">General Topology</a>, which continue to shape my mathematical perspective.</p>
   <hr>
 
   <p>Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/">Sikkim University</a>, a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled <em>“Nets and Filters in Topology”</em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2">Dr. Namita Behera</a>. I completed my undergraduate studies at <a href="https://nbbgc.org/">Nar Bahadur Bhandari Government College</a>, affiliated with Sikkim University.</p>
