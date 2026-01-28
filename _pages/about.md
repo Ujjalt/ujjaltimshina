@@ -95,7 +95,7 @@ as I'm pushing myself to do it, not merely feel like I understand it, and I am d
       style="border-radius: 6px;"
     />
   </div>
-
+ <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
   <p><strong>“I enjoy reading the elegantly written articles and lecture notes available at Terry Tao’s blog 
   <a href="https://terrytao.wordpress.com/">here</a> and the Mathematics site by J.S. Milne 
   <a href="https://www.jmilne.org/math/">here</a>.”</strong></p>
