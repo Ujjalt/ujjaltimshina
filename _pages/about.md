@@ -29,7 +29,7 @@ classes: wide
 
   <h2 style="margin-top: 20px;">Welcome to my homepage!</h2>
 
-  <p><strong>Life roars with madness, and somehow, I’m still here—enjoying every reckless twist of it !!</strong></p>
+  <p><strong>style="color:green;"> Life roars with madness, and somehow, I’m still here—enjoying every reckless twist of it !!</span> </strong></p>
 
 I never really tried to understand Halmos’s quote during my previous times. I used to attach his picture as a symbol of a great mathematical mind, and I accepted his words without truly grasping them. Paul Halmos famously said:
 
@@ -51,7 +51,7 @@ as I'm pushing myself to do it, not merely feel like I understand it, and I am d
 
   <p>My research interests lie in <strong><span style="color:green;">“Operator Theory and Complex Analysis ”</span></strong> with a focus on the Cowen–Douglas theory of operators and its interplay with complex geometry and differential geometry.</p>
 
-  <p>I am open to discussions and research collaborations in areas such as <strong>Operator Theory, Reproducing Kernel Hilbert Spaces, Complex Analysis</strong> (both single and several variables), <strong>Complex Geometry</strong>, as well as in <strong>General Topology and Geometry</strong>, which I am actively learning.</p>
+  <p>I am open to discussions and research collaborations in areas such as <strong>style="color:green;"> Operator Theory, Reproducing Kernel Hilbert Spaces, Complex Analysis</strong> (both single and several variables), <strong>Complex Geometry<strong> </span></strong>, as well as in <strong>style="color:green;">General Topology and Geometry </span></strong>, which I am actively learning.</p>
 
   <hr>
 
@@ -63,7 +63,7 @@ as I'm pushing myself to do it, not merely feel like I understand it, and I am d
 
   <p>My current research focuses on describing these operators using the actions of Lie groups and identifying invariants that determine their equivalence classes under unitary transformations.</p>
 
-  <p>I am studying <strong>Reproducing Kernel Hilbert Spaces (RKHS), The complex-analytic theory underlying elliptic curves and modular forms, and Linear Algebraic Groups </strong> in the current semester. I have completed doctoral-level coursework in <strong>Functional Analysis, Complex Analysis, Several Complex Variables, Introduction to Non-commutative Function Theory</strong> and <strong>Matrix Groups</strong>. Going forward, I plan to delve deeper into <a href="https://en.wikipedia.org/wiki/Spectral_theory">Spectral Theory</a>, <a href="https://en.wikipedia.org/wiki/Representation_theory">Representation Theory</a> and <a href="https://en.wikipedia.org/wiki/Operator_algebra">Operator Algebra</a>.</p>
+  <p>I am studying <strong>style="color:green;">Reproducing Kernel Hilbert Spaces (RKHS), The complex-analytic theory underlying elliptic curves and modular forms, and Linear Algebraic Groups </span> </strong> in the current semester. I have completed doctoral-level coursework in <strong>Functional Analysis, Complex Analysis, Several Complex Variables, Introduction to Non-commutative Function Theory</strong> and <strong>Matrix Groups</strong>. Going forward, I plan to delve deeper into <a href="https://en.wikipedia.org/wiki/Spectral_theory">Spectral Theory</a>, <a href="https://en.wikipedia.org/wiki/Representation_theory">Representation Theory</a> and <a href="https://en.wikipedia.org/wiki/Operator_algebra">Operator Algebra</a>.</p>
 
   <p>I am also keenly interested in subjects such as <a href="https://en.wikipedia.org/wiki/Measure_theory">Measure Theory</a> and <a href="https://en.wikipedia.org/wiki/General_topology">General Topology</a>, which continue to shape my mathematical perspective.</p>
 
@@ -96,9 +96,9 @@ as I'm pushing myself to do it, not merely feel like I understand it, and I am d
     />
   </div>
  <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
-  <p><strong>“I enjoy reading the elegantly written articles and lecture notes available at Terry Tao’s blog 
+  <p>“I enjoy reading the elegantly written articles and lecture notes available at Terry Tao’s blog 
   <a href="https://terrytao.wordpress.com/">here</a> and the Mathematics site by J.S. Milne 
-  <a href="https://www.jmilne.org/math/">here</a>.”</strong></p>
+  <a href="https://www.jmilne.org/math/">here</a>.”</p>
 
   <p>There is no real gap between pure and applied mathematics. What we call “pure” and “applied” are only different ways of looking at the same ideas. Every branch of mathematics is deeply connected, and concepts developed for abstraction often become the language of applications, while applied problems constantly generate new pure theory.</p>
 
