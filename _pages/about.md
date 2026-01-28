@@ -29,7 +29,7 @@ classes: wide
 
   <h2 style="margin-top: 20px;">Welcome to my homepage!</h2>
   
-<p><strong><span style="color:green;">Life roars with madness, and somehow I’m still here — enjoying every reckless twist of it!</span></strong></p>
+<p><strong>Life roars with madness, and somehow I’m still here — enjoying every reckless twist of it!</strong></p>
 
 I never really tried to understand Halmos’s quote during my previous times. I used to attach his picture as a symbol of a great mathematical mind, and I accepted his words without truly grasping them. Paul Halmos famously said:
 
@@ -53,9 +53,9 @@ as I'm pushing myself to do it, not merely feel like I understand it, and I am d
 
  <p>
     I am open to discussions and research collaborations in areas such as 
-    <strong><span style="color:green;">Operator Theory, Reproducing Kernel Hilbert Spaces, Complex Analysis</span></strong> 
+    <strong><span style="color:black;">Operator Theory, Reproducing Kernel Hilbert Spaces, Complex Analysis</span></strong> 
     (both single and several variables), <strong><span style="color:green;">Complex Geometry</span></strong>, 
-    as well as in <strong><span style="color:green;">General Topology and Geometry</span></strong>, 
+    as well as in <strong><span style="color:black;">General Topology and Geometry</span></strong>, 
     which I am actively learning.
 </p>
 
@@ -68,7 +68,7 @@ as I'm pushing myself to do it, not merely feel like I understand it, and I am d
 
   <p>My current research focuses on describing these operators using the actions of Lie groups and identifying invariants that determine their equivalence classes under unitary transformations.</p>
 
-<p>I am studying <strong><span style="color:green;">Reproducing Kernel Hilbert Spaces (RKHS), the complex-analytic theory underlying elliptic curves and modular forms, and Linear Algebraic Groups</span></strong> in the current semester. I have completed doctoral-level coursework in <strong>Functional Analysis, Complex Analysis, Several Complex Variables, Introduction to Non-commutative Function Theory</strong> and <strong>Matrix Groups</strong>. Going forward, I plan to delve deeper into <a href="https://en.wikipedia.org/wiki/Spectral_theory">Spectral Theory</a>, <a href="https://en.wikipedia.org/wiki/Representation_theory">Representation Theory</a> and <a href="https://en.wikipedia.org/wiki/Operator_algebra">Operator Algebra</a>.</p>
+<p>I am studying <strong><span style="color:black;">Reproducing Kernel Hilbert Spaces (RKHS), the complex-analytic theory underlying elliptic curves and modular forms, and Linear Algebraic Groups</span></strong> in the current semester. I have completed doctoral-level coursework in <strong>Functional Analysis, Complex Analysis, Several Complex Variables, Introduction to Non-commutative Function Theory</strong> and <strong>Matrix Groups</strong>. Going forward, I plan to delve deeper into <a href="https://en.wikipedia.org/wiki/Spectral_theory">Spectral Theory</a>, <a href="https://en.wikipedia.org/wiki/Representation_theory">Representation Theory</a> and <a href="https://en.wikipedia.org/wiki/Operator_algebra">Operator Algebra</a>.</p>
 
  <p>I am also keenly interested in subjects such as <a href="https://en.wikipedia.org/wiki/Measure_theory">Measure Theory</a> and <a href="https://en.wikipedia.org/wiki/General_topology">General Topology</a>, which continue to shape my mathematical perspective.</p>
   <hr>
