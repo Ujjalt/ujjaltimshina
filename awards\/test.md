@@ -21,9 +21,6 @@ author_profile: true
     <strong>University Gold Medal</strong> — For securing the highest CGPA (9.81) in M.Sc. Mathematics, Sikkim University (2023).
   </div>
 
-  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <strong>Publication Award</strong> — Authored the book <em>"Beyond Answers: Beauty of Mathematical Questions"</em> published on Amazon and Notion Press (2023).
-  </div>
 
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
     <strong>NEC Merit Scholarship</strong> — Government of India (2022–23), for meritorious students from the North Eastern Region.
