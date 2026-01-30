@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 layout: single
-classes: wide
+classes: wide 
 ---
 
 <div style="font-family: Georgia, serif; text-align: justify;">
