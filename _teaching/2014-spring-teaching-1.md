@@ -17,13 +17,6 @@ I served as the Lead Teaching Assistant for the undergraduate course <strong>MTH
   included academic, administrative, and coordination responsibilities.
 <br><br>
 <strong>Responsibilities:</strong>
-  <ul>
-    <li>Conducted weekly tutorial sessions on ODEs, PDEs, and numerical methods.</li>
-    <li>Prepared exam questions, quizzes, and tutorial sheets.</li>
-    <li>Held regular <strong>12 hours/week</strong> office hours for doubt clearing.</li>
-    <li>Evaluated quizzes, assignments, and mid-semester exams.</li>
-    <li>Supervised <strong>4 Teaching Assistants</strong> and coordinated grading workflows.</li>
-    <li>Guided students in MATLAB/Python computations and theoretical problem solving.</li>
+ Same as mentiond above.
   </ul>
-This role strengthened my teaching, leadership, and course-management abilities.
 </div>
