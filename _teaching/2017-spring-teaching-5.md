@@ -14,7 +14,4 @@ location: "New Delhi, India"
 <br><br>
 I'm serving as the Head Teaching Assistant for the undergraduate course <strong>MTH204: ODE/PDEs and Numerical Methods</strong> under <strong>Dr. Subhajit Ghosechowdhury</strong>. My responsibilities include coordinating the teaching assistant team, overseeing tutorial planning, ensuring timely and consistent grading, addressing escalated student queries, and supporting the instructor in managing course logistics and exam preparation.
 <br><br>
-In this role, I also conduct weekly tutorial sessions, supervise all teaching assistants, assist students with conceptual and computational queries, prepare exam questions, quizzes, and assignments, and hold regular <strong>office hours (~12 hours/week)</strong> to ensure effective student support.
-<br><br>
-This position has strengthened my <strong>teaching, leadership, and course-management abilities</strong>, while contributing to the successful delivery of a core undergraduate mathematics course at IIIT Delhi.
 </div>
