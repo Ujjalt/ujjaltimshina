@@ -16,14 +16,5 @@ I served as the <strong>Lead Teaching Assistant</strong> for the undergraduate c
 <strong>MTH100: Linear Algebra</strong>, taught by <strong>Dr. Prahllad Deb</strong>. This foundational course introduced students to core concepts in vector spaces, matrices, linear transformations, and applications across science and engineering.
 <br><br>
 <strong>Responsibilities:</strong>
-<ul>
-  <li>Supervised a team of <strong>15 Teaching Assistants</strong> for a large cohort of <strong>321 students</strong>.</li>
-  <li>Conducted weekly tutorial sessions and clarified conceptual doubts in linear algebra.</li>
-  <li>Held regular <strong>12 hours/week</strong> office hours for problem-solving and revision support.</li>
-  <li>Standardized and coordinated grading procedures across all sections.</li>
-  <li>Evaluated quizzes, assignments, and exam scripts with detailed and consistent feedback.</li>
-  <li>Managed course spreadsheets, grading records, and workflow logistics.</li>
-  <li>Addressed advanced student queries related to theory, proofs, and applications.</li>
-</ul>
-This role strengthened my instructional, management, and leadership skills while contributing to the effective delivery of a core mathematics course at IIIT Delhi.
+Same as mentioned above.
 </div>
