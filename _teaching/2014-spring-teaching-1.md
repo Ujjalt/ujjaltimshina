@@ -18,5 +18,4 @@ I served as the Lead Teaching Assistant for the undergraduate course <strong>MTH
 <br><br>
 <strong>Responsibilities:</strong>
  Same as mentiond above.
-  </ul>
 </div>
