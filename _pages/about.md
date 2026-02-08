@@ -49,7 +49,7 @@ as I'm pushing myself to do it, not merely feel like I understand it.
 
   <p>My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the <a href="https://www.iiitd.ac.in/people/phd/current">Indraprastha Institute of Information Technology Delhi (IIIT Delhi)</a>, working under the supervision of <a href="https://www.iiitd.ac.in/prahllad">Dr. Prahllad Deb</a>. I joined IIIT Delhi after being awarded the <a href="https://online-inspire.gov.in/">INSPIRE Research Fellowship</a> by the Department of Science and Technology (DST), Government of India.</p>
 
-  <p>My research interests lie in <strong> “Operator Theory and Complex Analysis ”</strong> with a focus on the Cowen–Douglas theory of operators and its interplay with complex geometry and differential geometry.</p>
+  <p>My research interests lie in <strong> “ Functional Analysis, Multivariable Operator Theory and Complex Analysis ”</strong> with a focus on the Cowen–Douglas theory of operators and its interplay with complex geometry and differential geometry.</p>
 
  <p>
     I am open to discussions and research collaborations in areas such as 
