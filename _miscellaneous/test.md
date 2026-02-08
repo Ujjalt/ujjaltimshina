@@ -714,9 +714,11 @@ author_profile: true
   <h3 style="color: #2a5d9f; margin-top: 0;">Dinner at Flaming Oak, New Delhi</h3>
 
   <p>
-   It was taken after the completion of the B.Tech Linear Algebra course, for which I served as the lead TA under <strong>Dr. Subhajit Ghosechowdhury</strong> — someone who lives with genuine simplicity, carries deep humility, 
-    and has remarkable knowledge. His sincerity towards mathematics is rare and I'm trying hard to learn from him. He teaches quietly, listens with care, 
-    and speaks with an honesty that stays with you.
+ It was taken after the completion of the B.Tech Linear Algebra course, for which I served as the lead TA under Dr. Subhajit Ghosechowdhury — someone who lives with genuine simplicity, carries deep humility, and has remarkable knowledge. His sincerity towards mathematics is rare and I'm trying hard to learn from him.
+    
+I learned Functional Analysis from him, and I am now studying Reproducing Kernel Hilbert Spaces under his guidance. The way he explains ideas is gentle yet so clear, anyone who studies with him can feel his depth immediately.
+
+He worked under Prof. Louis de Branges at Purdue University on Löwner theory and other deep areas. I do not understand any of it right now, but I hope to one day. What inspires me most is that, despite all his knowledge and experience, he carries himself with so much simplicity and silence. And the kind of experience he has about what life truly is, and how one should live it, is remarkable. I feel comfortable sharing even my most confused or “stupid” thoughts with him, because after listening to him, those thoughts start becoming clearer, more concrete, and more correct. He never judges — he simply guides.
   </p>
 
   <div align="center">
