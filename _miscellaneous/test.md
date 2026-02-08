@@ -721,4 +721,23 @@ author_profile: true
   />
 
 </div>
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
 
+  <h3 style="color: #2a5d9f; margin-top: 0;">QBA — Connaught Place, New Delhi</h3>
+  <p><em>A Happy Moment to Remember</em></p>
+  <p style="margin-top: -5px; color: #555;"><strong>Date:</strong> 7th February 2026</p>
+
+  <div style="text-align: center; margin: 18px 0;">
+    <img src="https://github.com/Ujjalt/ujjaltimshina/blob/442de0991a7c3aec857486cab41d50a7a3857a28/images/IMG_4832.jpeg?raw=true" 
+         alt="QBA Photo" 
+         style="width: 40%; border-radius: 8px; filter: grayscale(100%);">
+  </div>
+
+  <p>
+    A lovely day out in QBA at Connaught Place with my department colleagues and PhD supervisor. 
+    7th February 2026 felt warm and full — shared laughter, and that quiet 
+    comfort of being around people who make the journey lighter. A simple, happy moment that stays 
+    in the heart longer than expected.
+  </p>
+
+</div>
