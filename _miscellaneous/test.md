@@ -75,39 +75,6 @@ author_profile: true
 
 </div> 
 
-<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-  <h3 style="color: #2a5d9f; margin-top: 0;">Dinner at Flaming Oak, New Delhi</h3>
-
-  <p>
-   This moment is very close to my heart. It was taken after the completion of the B.Tech Linear Algebra course, for which I served as the lead TA under <strong>Dr. Subhajit Ghosechowdhury</strong> — someone who lives with genuine simplicity, carries deep humility, 
-    and has remarkable knowledge. His sincerity towards mathematics is rare and I'm trying hard to learn from him. He teaches quietly, listens with care, 
-    and speaks with an honesty that stays with you.
-  </p>
-
-  <p>
-    I learned Functional Analysis from him, and I am now studying Reproducing Kernel Hilbert Spaces under his guidance. 
-    The way he explains ideas is gentle yet so clear, anyone who studies with him can feel his depth immediately.
-  </p>
-
-  <p>
-    He worked under <strong>Prof. Louis de Branges</strong> at Purdue University on Löwner theory and other deep areas. 
-    I do not understand any of it right now, but I hope to one day. What inspires me most is that, despite all his knowledge and experience, 
-    he carries himself with so much simplicity and silence. 
-    And the kind of experience he has about what life truly is, and how one should live it, is remarkable.
-    I feel comfortable sharing even my most confused or “stupid” thoughts with him, because after listening to him, 
-    those thoughts start becoming clearer, more concrete, and more correct. He never judges — he simply guides.
-  </p>
-
-  <div align="center">
-    <img 
-      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/fb8983ff1782a643b071d8397f304a31b398d9b9/images/abc.jpg" 
-      width="420" 
-      style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
-    />
-  </div>
-</div>
-
-
 </div>
 
 <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; line-height: 1.6;">
@@ -740,4 +707,37 @@ author_profile: true
     in the heart longer than expected.
   </p>
 
+</div>
+
+
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <h3 style="color: #2a5d9f; margin-top: 0;">Dinner at Flaming Oak, New Delhi</h3>
+
+  <p>
+   This moment is very close to my heart. It was taken after the completion of the B.Tech Linear Algebra course, for which I served as the lead TA under <strong>Dr. Subhajit Ghosechowdhury</strong> — someone who lives with genuine simplicity, carries deep humility, 
+    and has remarkable knowledge. His sincerity towards mathematics is rare and I'm trying hard to learn from him. He teaches quietly, listens with care, 
+    and speaks with an honesty that stays with you.
+  </p>
+
+  <p>
+    I learned Functional Analysis from him, and I am now studying Reproducing Kernel Hilbert Spaces under his guidance. 
+    The way he explains ideas is gentle yet so clear, anyone who studies with him can feel his depth immediately.
+  </p>
+
+  <p>
+    He worked under <strong>Prof. Louis de Branges</strong> at Purdue University on Löwner theory and other deep areas. 
+    I do not understand any of it right now, but I hope to one day. What inspires me most is that, despite all his knowledge and experience, 
+    he carries himself with so much simplicity and silence. 
+    And the kind of experience he has about what life truly is, and how one should live it, is remarkable.
+    I feel comfortable sharing even my most confused or “stupid” thoughts with him, because after listening to him, 
+    those thoughts start becoming clearer, more concrete, and more correct. He never judges — he simply guides.
+  </p>
+
+  <div align="center">
+    <img 
+      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/fb8983ff1782a643b071d8397f304a31b398d9b9/images/abc.jpg" 
+      width="420" 
+      style="border-radius: 12px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+    />
+  </div>
 </div>
