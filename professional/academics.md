@@ -14,6 +14,11 @@ author_profile: true
 
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
+<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+    <strong>Current Volunteer, Math Circles Delhi – An initiative of IIIT Delhi and the Raising A Mathematician (RAM) Foundation.</strong>  
+    Conducted at the Indraprastha Institute of Information Technology Delhi (IIIT-Delhi), this program helps middle school students experience the joy and creativity of mathematics beyond the classroom, active since February 2026.
+</div>
+
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
     <strong>Volunteer, 40th Annual Conference of the Ramanujan Mathematical Society – Functional and Harmonic Analysis Symposium and Geometry and Topology Symposium.</strong>  
     Organized by the Department of Mathematics, IIIT Delhi, in collaboration with the Ramanujan Mathematical Society, December 18–20, 2025.
