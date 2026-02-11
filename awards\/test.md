@@ -14,7 +14,7 @@ author_profile: true
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; color: #333;">
 
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <strong>DST INSPIRE Doctoral Fellowship</strong> — Department of Science and Technology, Government of India (2023–Present).
+    <strong>DST INSPIRE Doctoral Fellowship</strong> — Department of Science and Technology, Government of India (2023–Feb.).
   </div>
 
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
