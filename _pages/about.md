@@ -108,11 +108,3 @@ as I'm pushing myself to do it, not merely feel like I understand it.
 
   <p><strong>This space is for my thoughts, struggles, and small understandings — just memories of breathing mathematics.</strong></p>
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/94bc7b395c3deaf5e1be06b584b62b16cbfc400a/images/IMG.png"
-    alt="Profile Image"
-    width="450"
-    style="border: 3px solid black; border-radius: 6px;"
-  />
-</p>
