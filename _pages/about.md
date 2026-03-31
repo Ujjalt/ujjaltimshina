@@ -27,9 +27,13 @@ classes: wide
     </a>
   </div>
 
-  <h2 style="margin-top: 20px;">Welcome to my homepage!</h2>
-  
-<p><strong>Life roars with madness, and somehow I’m still here — enjoying every reckless twist of it!</strong></p>
+<div style="background: #e6f0ff; padding: 18px 22px; border-left: 6px solid #3b78d8; border-radius: 6px; color: #1a4f8a;">
+
+  <h2 style="margin-top: 0;">Welcome to my homepage!</h2>
+
+  <p><strong>Life roars with madness, and somehow I’m still here — enjoying every reckless twist of it!</strong></p>
+
+</div>
 
 I never really tried to understand Halmos’s quote during my previous times. I used to attach his picture as a symbol of a great mathematical mind, and I accepted his words without truly grasping them. Paul Halmos famously said:
 
