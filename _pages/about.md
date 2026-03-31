@@ -108,3 +108,8 @@ as I'm pushing myself to do it, not merely feel like I understand it.
 
   <p><strong>This space is for my thoughts, struggles, and small understandings — just memories of breathing mathematics.</strong></p>
 
+<div style="background: #e6f0ff; padding: 14px 20px; border-left: 6px solid #3b78d8; border-radius: 6px; color: #1a4f8a; font-size: 16px;">
+
+I’m open to learning anything related to mathematics and physics, because physics expands the way I understand the world.
+
+</div>
