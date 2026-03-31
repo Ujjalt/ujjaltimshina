@@ -729,3 +729,32 @@ He worked under Prof. Louis de Branges at Purdue University on Löwner theory an
     />
   </div>
 </div>
+
+<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-weight: bold; color: #2a5d9f;">
+
+</div>
+
+<div style="text-align: center; margin: 20px 0;">
+    <img src="https://github.com/Ujjalt/ujjaltimshina/blob/bfc0c616f745dca08109a34b54c5b1d8bb6baff9/images/AAA.jpg?raw=true" 
+         alt="Academic Moment" 
+         style="max-width: 90%; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
+</div>
+
+<div style="font-size: 15px; line-height: 1.6; margin-top: 15px;">
+    In the middle of the semester, this remains one of my most valuable pictures with 
+    Dr. Subhajit Ghosechowdhury, an inspiring mathematician and one of the most remarkable 
+    teachers I have met so far. His simplicity of life is something that continually 
+    inspires me.
+ <br><br>
+    We spent some time together over Middle Eastern food—Shawarma and Falafel—a small but 
+    memorable break from mathematics.
+    We have now moved on to a second course on RKHS after Functional Analysis offered last 
+    year. The person beside me is my friend Pankaj—we are the only two students in the 
+    course 😀. Sir is mentoring us not just academically, but in becoming better human 
+    beings, and that is what matters most in real life.
+    By the way, Sir was the last PhD student of the great mathematician Prof. Louis de Branges, 
+    well known for the solution of the Bieberbach Conjecture. Sir has contributed significantly 
+    to the theory of Löwner expansions and their applications to the Robertson Conjecture for 
+    univalent functions—though I must admit, I understand nothing of it and cannot describe 
+    it properly here in words.
+</div>
