@@ -734,6 +734,8 @@ He worked under Prof. Louis de Branges at Purdue University on Löwner theory an
 
 </div>
 
+The Organic Oil Kitchen Meditrerranean and Europian cuisine
+
 <div style="text-align: center; margin: 20px 0;">
     <img src="https://github.com/Ujjalt/ujjaltimshina/blob/bfc0c616f745dca08109a34b54c5b1d8bb6baff9/images/AAA.jpg?raw=true" 
          alt="Academic Moment" 
@@ -752,9 +754,4 @@ He worked under Prof. Louis de Branges at Purdue University on Löwner theory an
     year. The person beside me is my friend Pankaj—we are the only two students in the 
     course 😀. Sir is mentoring us not just academically, but in becoming better human 
     beings, and that is what matters most in real life.
-    By the way, Sir was the last PhD student of the great mathematician Prof. Louis de Branges, 
-    well known for the solution of the Bieberbach Conjecture. Sir has contributed significantly 
-    to the theory of Löwner expansions and their applications to the Robertson Conjecture for 
-    univalent functions—though I must admit, I understand nothing of it and cannot describe 
-    it properly here in words.
 </div>
