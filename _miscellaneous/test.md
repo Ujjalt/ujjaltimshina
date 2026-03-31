@@ -57,7 +57,7 @@ author_profile: true
   </ul>
 
   <p style="color: #2a5d9f; font-size: 14px; margin-top: 10px;">
-    Some of these I’m actively studying, and many others I’m planning to explore in the near future as part of my journey through functional analysis, operator theory, complex analysis, geometry, and algebra.
+    Some of these I’m actively studying especially the first few.
   </p>
 </div>
 
