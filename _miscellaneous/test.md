@@ -28,7 +28,7 @@ author_profile: true
     <!-- New Books First -->
     <li><em>Banach Algebraic Techniques in Operator Theory</em> — Ronald G. Douglas</li>
     <li><em>Hilbert Spaces of Entire Functions</em> — Louis de Branges</li>
-    <li><em>The Brown–Douglas–Fillmore Theory</em> — BDF (C\*-algebra extensions)</li>
+    <li><em>The Brown–Douglas–Fillmore Theory</em> — BDF-Gadadhar Misra  >
     <li><em>Pick Interpolation and Hilbert Function Spaces</em> — Jim Agler & John E. McCarthy</li>
     <li><em>Operator Theory</em> — Barry Simon</li>
     <li><em>Noncommutative Function Theory</em> — Victor Vinnikov</li>
