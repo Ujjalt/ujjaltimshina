@@ -54,19 +54,16 @@ author_profile: true
     <li><em>Algebra</em> — Serge Lang</li>
     <li><em>Linear Fractional Transformations</em> — Arseniy Sheydvasser</li>
 
-  </ul>
 
   <p style="color: #2a5d9f; font-size: 14px; margin-top: 10px;">
     Some of these I’m actively studying especially the first few.
   </p>
-</div>
 
   <!-- Highlights Header in Dark Blue Box -->
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-weight: bold; color: #2a5d9f; font-weight: bold;">
     Highlights from Recent Academic Engagements
   </div>
 
-</div>
 
 
 <div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; line-height: 1.6;">
