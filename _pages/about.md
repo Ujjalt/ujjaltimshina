@@ -32,7 +32,7 @@ classes: wide
   <h2 style="margin-top: 0;">Welcome to my homepage!</h2>
 
   <p><strong>Life roars with madness, and somehow I’m still here — enjoying every reckless twist of it!</strong></p>
-
+  <p><strong>This space is for my thoughts, struggles, and small understandings — just memories of breathing mathematics.</strong></p>
 </div>
 
 I never really tried to understand Halmos’s quote during my previous times. I used to attach his picture as a symbol of a great mathematical mind, and I accepted his words without truly grasping them. Paul Halmos famously said:
@@ -110,7 +110,6 @@ as I'm pushing myself to do it, not merely feel like I understand it.
 
   <p>There is no real gap between pure and applied mathematics. What we call “pure” and “applied” are only different ways of looking at the same ideas. Every branch of mathematics is deeply connected, and concepts developed for abstraction often become the language of applications, while applied problems constantly generate new pure theory.</p>
 
-  <p><strong>This space is for my thoughts, struggles, and small understandings — just memories of breathing mathematics.</strong></p>
 
 <div style="background: #e6f0ff; padding: 14px 20px; border-left: 6px solid #3b78d8; border-radius: 6px; color: #1a4f8a; font-size: 16px;">
 
