@@ -32,6 +32,8 @@ classes: wide
   <h2 style="margin-top: 0;">Welcome to my homepage!</h2>
 
   <p><strong>Life roars with madness, and somehow I’m still here — enjoying every reckless twist of it!</strong></p>
+
+  
   <p><strong>This space is for my thoughts, struggles, and small understandings — just memories of breathing mathematics.</strong></p>
 </div>
 
