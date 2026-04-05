@@ -819,15 +819,15 @@ author_profile: true
     <strong>Date:</strong> 4th April 2026
   </p>
 
-  <div style="text-align: center; margin: 20px 0;">
+ <div style="text-align: center; margin: 20px 0;">
     <img 
-      src="https://github.com/Ujjalt/ujjaltimshina/blob/14d9bd17cf62f0a1375ef557ff302582cf853bdf/images/AA.jpg"
+      src="https://github.com/Ujjalt/ujjaltimshina/blob/b350275780182846d4b9b467e7f8495533fa93d2/images/AA.jpg?raw=true"
       alt="With Satya and Subhankar"
       style="width: 85%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
     >
-  </div>
+</div>
 
-  <p>
+<p>
     Another memorable moment with my PhD colleagues Satya and Subhankar. Satya is working 
     in Number Theory, while Subhankar is in Algebraic Geometry — two deeply beautiful areas 
     of mathematics that make our conversations rich and lively.
@@ -837,5 +837,4 @@ author_profile: true
     <br><br>
     Simple moments like these — warm, genuine, and shared with people who walk the same long 
     academic journey — stay close to the heart.
-  </p>
-</div>
+</p>
