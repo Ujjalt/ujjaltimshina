@@ -33,10 +33,6 @@ classes: wide
 
   <p><strong>Life roars with madness, and somehow I’m still here — enjoying every reckless twist of it!</strong></p>
 
-  
-  <p><strong>This space is for my thoughts, struggles, and small understandings — just memories of breathing mathematics.</strong></p>
-</div>
-
 I never really tried to understand Halmos’s quote during my previous times. I used to attach his picture as a symbol of a great mathematical mind, and I accepted his words without truly grasping them. Paul Halmos famously said:
 
 <strong><span style="color:green;">“The only way to learn mathematics is to do mathematics.”</span></strong>
