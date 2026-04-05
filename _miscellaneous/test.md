@@ -778,3 +778,19 @@ The Organic Oil Kitchen Meditrerranean and Europian cuisine (29/03/2026)
     course 😀. Sir is mentoring us not just academically, but in becoming better human 
     beings, and that is what matters most in real life.
 </div>
+
+
+
+<div style="font-size: 15px; line-height: 1.6; margin-top: 15px;">
+    (4th April 2026) I had another memorable moment with my PhD colleagues Satya and Subhankar. 
+    Satya is working in Number Theory, while Subhankar is pursuing Algebraic Geometry—two 
+    deeply beautiful areas of mathematics that always make our conversations rich and lively.
+    <br><br>
+    We met at Sopa Kitchen, Majnu ka Tila. They were excitedly trying out some new food, while 
+    I enjoyed my own homely meal with the same comfort as always. Moments like these—simple, 
+    warm, and shared with people walking the same long academic journey—always stay close to the heart.
+    <br><br>
+    <img src="https://github.com/Ujjalt/ujjaltimshina/blob/14d9bd17cf62f0a1375ef557ff302582cf853bdf/images/AA.jpg" 
+         alt="Yesterday with Satya and Subhankar" 
+         style="margin-top: 10px; max-width: 100%; border-radius: 8px;">
+</div>
