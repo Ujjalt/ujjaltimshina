@@ -713,35 +713,52 @@ author_profile: true
 </div>
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
 
+<!-- SECTION: QBA -->
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 30px;">
+
   <h3 style="color: #2a5d9f; margin-top: 0;">QBA — Connaught Place, New Delhi</h3>
   <p><em>A Happy Moment to Remember</em></p>
+
   <p style="margin-top: -5px; color: #555;"><strong>Date:</strong> 7th February 2026</p>
 
   <div style="text-align: center; margin: 20px 0;">
     <img src="https://github.com/Ujjalt/ujjaltimshina/blob/442de0991a7c3aec857486cab41d50a7a3857a28/images/IMG_4832.jpeg?raw=true"
          alt="QBA Photo"
-         style="width: 80%; border-radius: 12px; filter: grayscale(100%);">
+         style="width: 80%; border-radius: 12px; filter: grayscale(100%);
+                box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   </div>
 
   <p>
-    A lovely day out in QBA at Connaught Place with my department colleagues and PhD supervisor. 
-    7th February 2026 felt warm and full — endless conversations, shared laughter, and that quiet 
+    A lovely day out in QBA at Connaught Place with my department colleagues and my PhD supervisor. 
+    7th February 2026 felt warm and full — endless conversations, shared laughter, and the quiet 
     comfort of being around people who make the journey lighter. A simple, happy moment that stays 
     in the heart longer than expected.
   </p>
-
 </div>
 
 
-<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+
+<!-- SECTION: FLAMING OAK -->
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 30px;">
+
   <h3 style="color: #2a5d9f; margin-top: 0;">Dinner at Flaming Oak, New Delhi</h3>
 
   <p>
- It was taken after the completion of the B.Tech Linear Algebra course, for which I served as the lead TA under Dr. Subhajit Ghosechowdhury — someone who lives with genuine simplicity, carries deep humility, and has remarkable knowledge. His sincerity towards mathematics is rare and I'm trying hard to learn from him.
-    
-I learned Functional Analysis from him, and I am now studying Reproducing Kernel Hilbert Spaces under his guidance. The way he explains ideas is gentle yet so clear, anyone who studies with him can feel his depth immediately.
-
-He worked under Prof. Louis de Branges at Purdue University on Löwner theory and other deep areas. I do not understand any of it right now, but I hope to one day. What inspires me most is that, despite all his knowledge and experience, he carries himself with so much simplicity and silence. And the kind of experience he has about what life truly is, and how one should live it, is remarkable. I feel comfortable sharing even my most confused or “stupid” thoughts with him, because after listening to him, those thoughts start becoming clearer, more concrete, and more correct. He never judges — he simply guides.
+    It was taken after the completion of the B.Tech Linear Algebra course, for which I served as the 
+    lead TA under Dr. Subhajit Ghosechowdhury — someone who lives with genuine simplicity, carries 
+    deep humility, and has remarkable knowledge. His sincerity towards mathematics is rare and I am 
+    trying hard to learn from him.
+    <br><br>
+    I learned Functional Analysis from him, and I am now studying Reproducing Kernel Hilbert Spaces 
+    under his guidance. The way he explains ideas is gentle yet so clear, anyone who studies with him 
+    can feel his depth immediately.
+    <br><br>
+    He worked under Prof. Louis de Branges at Purdue University on Löwner theory and other deep areas. 
+    I do not understand much of it right now, but I hope to one day. What inspires me most is that, 
+    despite all his knowledge and experience, he carries himself with so much simplicity and silence.
+    <br><br>
+    He never judges — he simply guides. After speaking to him, even my most confused thoughts start 
+    becoming clearer, more concrete, and more correct. I feel very fortunate to learn from him.
   </p>
 
   <div align="center">
@@ -753,57 +770,72 @@ He worked under Prof. Louis de Branges at Purdue University on Löwner theory an
   </div>
 </div>
 
-<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-weight: bold; color: #2a5d9f;">
 
+
+<!-- SECTION: ORGANIC OIL KITCHEN -->
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 30px;">
+
+  <h3 style="color: #2a5d9f; margin-top: 0;">
+    The Organic Oil Kitchen — Mediterranean & European Cuisine
+  </h3>
+
+  <p style="margin-top: -5px; color: #555;">
+    <strong>Date:</strong> 29th March 2026
+  </p>
+
+  <div style="text-align: center; margin: 20px 0;">
+    <img 
+      src="https://github.com/Ujjalt/ujjaltimshina/blob/bfc0c616f745dca08109a34b54c5b1d8bb6baff9/images/AAA.jpg?raw=true"
+      alt="Organic Oil Kitchen Photo"
+      style="width: 85%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
+    >
+  </div>
+
+  <p>
+    In the middle of the semester, this remains one of my most valuable pictures with 
+    Dr. Subhajit Ghosechowdhury — an inspiring mathematician and one of the most remarkable 
+    teachers I have met so far. His simplicity of life is something that continually inspires me.
+    <br><br>
+    We spent some time together over Middle Eastern food — Shawarma and Falafel — a small but 
+    memorable break from mathematics. We have now moved on to a second course on RKHS after 
+    Functional Analysis offered last year.
+    <br><br>
+    The person beside me is my friend Pankaj — we are the only two students in the course 😀.  
+    Sir guides us not only academically but also in becoming better human beings, and 
+    that is what truly matters.
+  </p>
 </div>
 
-<!-- SECTION 1 -->
-<div style="margin-bottom: 60px;">  <!-- Bigger gap added -->
 
-  <div style="font-size: 18px; font-weight: bold; margin-bottom: 10px; color: #1a4fa3;">
-        The Organic Oil Kitchen — Mediterranean & European Cuisine (29/03/2026)
-   </div>
-    <div style="text-align: center; margin: 20px 0;">
-     <img src="https://github.com/Ujjalt/ujjaltimshina/blob/bfc0c616f745dca08109a34b54c5b1d8bb6baff9/images/AAA.jpg?raw=true" 
-             alt="Academic Moment" 
-             style="max-width: 90%; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
-    </div>
 
-  <div style="font-size: 15px; line-height: 1.6;">
-        In the middle of the semester, this remains one of my most valuable pictures with 
-        Dr. Subhajit Ghosechowdhury, an inspiring mathematician and one of the most remarkable 
-        teachers I have met so far. His simplicity of life is something that continually 
-        inspires me.
-        <br><br>
-        We spent some time together over Middle Eastern food—Shawarma and Falafel—a small but 
-        memorable break from mathematics.
-        We have now moved on to a second course on RKHS after Functional Analysis offered last 
-        year. The person beside me is my friend Pankaj—we are the only two students in the 
-        course 😀. Sir is mentoring us not just academically, but in becoming better human 
-        beings, and that is what matters most in real life.
-    </div>
+<!-- SECTION: SOPA KITCHEN -->
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 30px;">
 
-</div>
+  <h3 style="color: #2a5d9f; margin-top: 0;">
+    Sopa Kitchen — Majnu ka Tila, New Delhi
+  </h3>
 
-<!-- SECTION 2 -->
-<div style="margin-top: 60px;">  <!-- Bigger gap added -->
+  <p style="margin-top: -5px; color: #555;">
+    <strong>Date:</strong> 4th April 2026
+  </p>
 
-  <div style="font-size: 18px; font-weight: bold; margin-bottom: 10px; color: #1a4fa3;">
-      Sopa Kitchen, Majnu ka Tila, Delhi, India — (04/04/2026)
-    </div>
+  <div style="text-align: center; margin: 20px 0;">
+    <img 
+      src="https://github.com/Ujjalt/ujjaltimshina/blob/14d9bd17cf62f0a1375ef557ff302582cf853bdf/images/AA.jpg"
+      alt="With Satya and Subhankar"
+      style="width: 85%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
+    >
+  </div>
 
-   <div style="font-size: 15px; line-height: 1.6;">
-        I had another memorable moment with my PhD colleagues Satya and Subhankar. 
-        Satya is working in Number Theory, while Subhankar is pursuing Algebraic Geometry—two 
-        deeply beautiful areas of mathematics that always make our conversations rich and lively.
-        <br><br>
-        We met at Sopa Kitchen, Majnu ka Tila. They were excitedly trying out some new food, while 
-        I enjoyed my own homely meal with the same comfort as always. Moments like these—simple, 
-        warm, and shared with people walking the same long academic journey—always stay close to the heart.
-        <br><br>
-        <img src="https://github.com/Ujjalt/ujjaltimshina/blob/14d9bd17cf62f0a1375ef557ff302582cf853bdf/images/AA.jpg" 
-             alt="Yesterday with Satya and Subhankar" 
-             style="margin-top: 10px; max-width: 100%; border-radius: 8px;">
-    </div>
-
+  <p>
+    Another memorable moment with my PhD colleagues Satya and Subhankar. Satya is working 
+    in Number Theory, while Subhankar is in Algebraic Geometry — two deeply beautiful areas 
+    of mathematics that make our conversations rich and lively.
+    <br><br>
+    We met at Sopa Kitchen in Majnu ka Tila. They were happily exploring new food, while I 
+    enjoyed my own homely meal with the comfort I’m used to.
+    <br><br>
+    Simple moments like these — warm, genuine, and shared with people who walk the same long 
+    academic journey — stay close to the heart.
+  </p>
 </div>
