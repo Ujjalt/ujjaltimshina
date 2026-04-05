@@ -780,7 +780,7 @@ The Organic Oil Kitchen Meditrerranean and Europian cuisine (29/03/2026)
 </div>
 
 
-
+ Sopa Kitchen, Majnu ka Tila, Delhi, India
 <div style="font-size: 15px; line-height: 1.6; margin-top: 15px;">
     (4th April 2026) I had another memorable moment with my PhD colleagues Satya and Subhankar. 
     Satya is working in Number Theory, while Subhankar is pursuing Algebraic Geometry—two 
