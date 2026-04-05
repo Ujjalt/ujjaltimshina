@@ -757,40 +757,53 @@ He worked under Prof. Louis de Branges at Purdue University on Löwner theory an
 
 </div>
 
-The Organic Oil Kitchen Meditrerranean and Europian cuisine (29/03/2026)
+<!-- SECTION 1 -->
+<div style="margin-bottom: 60px;">  <!-- Bigger gap added -->
 
-<div style="text-align: center; margin: 20px 0;">
-    <img src="https://github.com/Ujjalt/ujjaltimshina/blob/bfc0c616f745dca08109a34b54c5b1d8bb6baff9/images/AAA.jpg?raw=true" 
-         alt="Academic Moment" 
-         style="max-width: 90%; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
+  <div style="font-size: 18px; font-weight: bold; margin-bottom: 10px; color: #1a4fa3;">
+        The Organic Oil Kitchen — Mediterranean & European Cuisine (29/03/2026)
+   </div>
+    <div style="text-align: center; margin: 20px 0;">
+     <img src="https://github.com/Ujjalt/ujjaltimshina/blob/bfc0c616f745dca08109a34b54c5b1d8bb6baff9/images/AAA.jpg?raw=true" 
+             alt="Academic Moment" 
+             style="max-width: 90%; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
+    </div>
+
+  <div style="font-size: 15px; line-height: 1.6;">
+        In the middle of the semester, this remains one of my most valuable pictures with 
+        Dr. Subhajit Ghosechowdhury, an inspiring mathematician and one of the most remarkable 
+        teachers I have met so far. His simplicity of life is something that continually 
+        inspires me.
+        <br><br>
+        We spent some time together over Middle Eastern food—Shawarma and Falafel—a small but 
+        memorable break from mathematics.
+        We have now moved on to a second course on RKHS after Functional Analysis offered last 
+        year. The person beside me is my friend Pankaj—we are the only two students in the 
+        course 😀. Sir is mentoring us not just academically, but in becoming better human 
+        beings, and that is what matters most in real life.
+    </div>
+
 </div>
 
-<div style="font-size: 15px; line-height: 1.6; margin-top: 15px;">
-    In the middle of the semester, this remains one of my most valuable pictures with 
-    Dr. Subhajit Ghosechowdhury, an inspiring mathematician and one of the most remarkable 
-    teachers I have met so far. His simplicity of life is something that continually 
-    inspires me.
- <br><br>
-    We spent some time together over Middle Eastern food—Shawarma and Falafel—a small but 
-    memorable break from mathematics.
-    We have now moved on to a second course on RKHS after Functional Analysis offered last 
-    year. The person beside me is my friend Pankaj—we are the only two students in the 
-    course 😀. Sir is mentoring us not just academically, but in becoming better human 
-    beings, and that is what matters most in real life.
-</div>
+<!-- SECTION 2 -->
+<div style="margin-top: 60px;">  <!-- Bigger gap added -->
 
+  <div style="font-size: 18px; font-weight: bold; margin-bottom: 10px; color: #1a4fa3;">
+      Sopa Kitchen, Majnu ka Tila, Delhi, India — (04/04/2026)
+    </div>
 
- Sopa Kitchen, Majnu ka Tila, Delhi, India
-<div style="font-size: 15px; line-height: 1.6; margin-top: 15px;">
-    (4th April 2026) I had another memorable moment with my PhD colleagues Satya and Subhankar. 
-    Satya is working in Number Theory, while Subhankar is pursuing Algebraic Geometry—two 
-    deeply beautiful areas of mathematics that always make our conversations rich and lively.
-    <br><br>
-    We met at Sopa Kitchen, Majnu ka Tila. They were excitedly trying out some new food, while 
-    I enjoyed my own homely meal with the same comfort as always. Moments like these—simple, 
-    warm, and shared with people walking the same long academic journey—always stay close to the heart.
-    <br><br>
-    <img src="https://github.com/Ujjalt/ujjaltimshina/blob/14d9bd17cf62f0a1375ef557ff302582cf853bdf/images/AA.jpg" 
-         alt="Yesterday with Satya and Subhankar" 
-         style="margin-top: 10px; max-width: 100%; border-radius: 8px;">
+   <div style="font-size: 15px; line-height: 1.6;">
+        I had another memorable moment with my PhD colleagues Satya and Subhankar. 
+        Satya is working in Number Theory, while Subhankar is pursuing Algebraic Geometry—two 
+        deeply beautiful areas of mathematics that always make our conversations rich and lively.
+        <br><br>
+        We met at Sopa Kitchen, Majnu ka Tila. They were excitedly trying out some new food, while 
+        I enjoyed my own homely meal with the same comfort as always. Moments like these—simple, 
+        warm, and shared with people walking the same long academic journey—always stay close to the heart.
+        <br><br>
+        <img src="https://github.com/Ujjalt/ujjaltimshina/blob/14d9bd17cf62f0a1375ef557ff302582cf853bdf/images/AA.jpg" 
+             alt="Yesterday with Satya and Subhankar" 
+             style="margin-top: 10px; max-width: 100%; border-radius: 8px;">
+    </div>
+
 </div>
