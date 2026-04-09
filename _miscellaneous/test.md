@@ -829,12 +829,11 @@ author_profile: true
 
 <p>
     Another memorable moment with my PhD colleagues Satya and Subhankar. Satya is working 
-    in Number Theory, while Subhankar is in Algebraic Geometry — two deeply beautiful areas 
-    of mathematics that make our conversations rich and lively.
+    in Number Theory, while Subhankar is in Algebraic Geometry at IIIT Delhi.
     <br><br>
-    We met at Sopa Kitchen in Majnu ka Tila. They were happily exploring new food, while I 
+    We went to Sopa Kitchen in Majnu ka Tila. They were happily exploring new food, while I 
     enjoyed my own homely meal with the comfort I’m used to.
     <br><br>
     Simple moments like these — warm, genuine, and shared with people who walk the same long 
-    academic journey — stay close to the heart.
+    academic journey stay close to the heart.
 </p>
