@@ -793,10 +793,10 @@ author_profile: true
 
   <p>
     In the middle of the semester, this remains one of my most valuable pictures with 
-    Dr. Subhajit Ghosechowdhury — an inspiring mathematician and one of the most remarkable 
+    Dr. Subhajit Ghosechowdhury, an inspiring mathematician and one of the most remarkable 
     teachers I have met so far. His simplicity of life is something that continually inspires me.
     <br><br>
-    We spent some time together over Middle Eastern food — Shawarma and Falafel — a small but 
+    We spent some time together over Middle Eastern food Shawarma and Falafel — a small but 
     memorable break from mathematics. We have now moved on to a second course on RKHS after 
     Functional Analysis offered last year.
     <br><br>
