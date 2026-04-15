@@ -29,9 +29,10 @@ classes: wide
 
 <div style="background: #e6f0ff; padding: 18px 22px; border-left: 6px solid #3b78d8; border-radius: 6px; color: #1a4f8a;">
 
-  <h2 style="margin-top: 0;">Welcome to my homepage!</h2>
+  <h2 style="margin-top: 0;"> Wisdom grows in silence, not in performance.</h2>
 
-  <p><strong>Life roars with madness, and somehow I’m still here — enjoying every reckless twist of it!</strong></p>
+
+  <p><strong> Welcome to my homepage! Life roars with madness, and somehow I’m still here — enjoying every reckless twist of it!</strong></p>
 
 </div>
 
