@@ -22,7 +22,7 @@ author_profile: true
       I like words because they help me communicate mathematics better than only using formal symbols. You may say I copied the philosophy of Halmos, and I do agree in some sense — he mentions the same in his book <i>I Want to Be a Mathematician</i>.
       <br><br>
       Anyway, I do not know whether I want to be a mathematician or not, because the subject has become something like the middle phase of a relationship with a hundred breakups and a hundred reconciliations. Yet, somehow, I keep coming back.
-  </div>
+
 
   
   <!-- Tutorial Problems Section -->
