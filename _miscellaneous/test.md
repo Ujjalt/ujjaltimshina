@@ -23,7 +23,6 @@ author_profile: true
       <br><br>
       Anyway, I do not know whether I want to be a mathematician or not, because the subject has become something like the middle phase of a relationship with a hundred breakups and a hundred reconciliations. Yet, somehow, I keep coming back.
     </p>
-    </p>
   </div>
   <!-- Tutorial Problems Section -->
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
