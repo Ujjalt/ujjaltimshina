@@ -10,7 +10,7 @@ author_profile: true
   <!-- Personal Note -->
   <div style="background: #fff5e6; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
     <p>
-      Well, the only things I have in my life are a few books, a laptop, and the books I bought. I have my Mom and Sister, and the most valuable friend of mine, Radhika, along with some memories to share. 
+      Well, the only things I have in my life are a few books, a laptop, and the few gifts. I have my Mom and Sister, and the most valuable friend of mine, Radhika, along with some memories to share. 
       I have a few notes prepared so far, and I love to teach myself and make myself learn — and in that process, I can be loud enough at times.
       <br><br>
       I have some friends, but they often feel more like colleagues than true companions, as I have always been somewhat unsuccessful in forming bonds deeply connected by the heart. 
