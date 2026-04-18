@@ -32,7 +32,7 @@ classes: wide
   <h2 style="margin-top: 0;"> Wisdom grows in silence, not in performance.</h2>
 
 
-  <p><strong> Welcome to my homepage! Life roars with madness, and somehow I’m still here, enjoying every reckless twist of it!</strong></p>
+  <p><strong> Welcome to my homepage! Life roars with madness, and somehow I’m still here - enjoying every reckless twist of it!</strong></p>
 
 </div>
 
