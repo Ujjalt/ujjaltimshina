@@ -27,7 +27,10 @@ classes: wide
     </a>
   </div>
 <blockquote style="border-left: 4px solid #3b78d8; margin: 24px 0; padding: 12px 20px; background: #f0f6ff; color: #2a2a2a; font-style: italic; border-radius: 4px;">
-  "The best times are when I'm alone with mathematics, free of ambition and pretense, and indifferent to the world."
+  "Certainly the best times were when I was alone with mathematics, free of ambition and pretense, and indifferent to the world."
+  <footer style="margin-top: 8px; font-style: normal; font-size: 0.9em; color: #555;">
+    — Robert P. Langlands, in <em>Mathematicians: An Outer View of the Inner World</em>, p. 142
+  </footer>
 </blockquote>
 <div style="background: #e6f0ff; padding: 18px 22px; border-left: 6px solid #3b78d8; border-radius: 6px; color: #1a4f8a;">
   <h2 style="margin-top: 0;">Wisdom grows in silence, not in performance.</h2>
