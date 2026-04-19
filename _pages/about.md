@@ -28,28 +28,16 @@ classes: wide
   </div>
 
 <div style="background: #e6f0ff; padding: 18px 22px; border-left: 6px solid #3b78d8; border-radius: 6px; color: #1a4f8a;">
-
-  <h2 style="margin-top: 0;"> Wisdom grows in silence, not in performance.</h2>
-
-
-  <p><strong> Welcome to my homepage! Life roars with madness, and somehow I’m still here - enjoying every reckless twist of it!</strong></p>
-
+  <h2 style="margin-top: 0;">Wisdom grows in silence, not in performance.</h2>
+  <p><strong>Welcome to my homepage. I am a researcher drawn to abstraction, committed to rigor, and quietly fascinated by the deep structure of mathematical ideas.</strong></p>
 </div>
 
-I never really tried to understand Halmos’s quote during my previous times. I used to attach his picture as a symbol of a great mathematical mind, and I accepted his words without truly grasping them. Paul Halmos famously said:
+Paul Halmos once said:
+<strong><span style="color:green;">"The only way to learn mathematics is to do mathematics."</span></strong>
 
-<strong><span style="color:green;">“The only way to learn mathematics is to do mathematics.”</span></strong>
+For a long time, I appreciated this line only at the surface. I understood the words, but not the warning embedded in them. Looking back, I can identify many moments when I held a vague intuition about a concept and mistook that vagueness for understanding — a kind of intellectual comfort that asked nothing of me. That false satisfaction, I now realize, is precisely what Halmos meant to caution against. Genuine understanding is not passive. It is earned through careful engagement with ideas, through the discomfort of not knowing, and through the slow, deliberate work of working things out — not merely feeling as though one has.
 
-Back then, I appreciated the line only at the surface level.
-
-Now I’m beginning to understand its meaning in a much deeper sense. I’ve realized that there were many moments when I had a weak or unclear intuition about something, yet my mind felt oddly satisfied without actually understanding it. And that false satisfaction is exactly what Halmos was warning against.
-
-Real understanding doesn’t come from passive acceptance—it comes from working through the ideas, wrestling with the details, and pushing past the illusion of understanding.
-
-as I'm pushing myself to do it, not merely feel like I understand it.
-
-<p> My mind these days is often crowded with thoughts. Some days I feel extremely tired; on others, I begin with a good amount of energy that gradually fades by the end of the day. Much of the time I feel uncertain, sometimes unhappy, and often a bit lost. Still, in a quiet way, I am enjoying my life and I always think and honour the ancestor who first felt time for the first time, unaware that time was already watching them feel it.</p>
-
+<p>This understanding has shaped how I approach my research and studies. Mathematics, for me, is not a performance of knowledge but a patient and honest pursuit of it — one that demands both rigor and humility in equal measure.</p>
   <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
 
   <p>My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the <a href="https://www.iiitd.ac.in/people/phd/current">Indraprastha Institute of Information Technology Delhi (IIIT Delhi)</a>, working under the supervision of <a href="https://www.iiitd.ac.in/prahllad">Dr. Prahllad Deb</a>. I joined IIIT Delhi after being awarded the <a href="https://online-inspire.gov.in/">INSPIRE Research Fellowship</a> by the Department of Science and Technology (DST), Government of India.</p>
