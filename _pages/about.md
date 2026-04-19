@@ -35,7 +35,7 @@ classes: wide
 <div style="background: #e6f0ff; padding: 18px 22px; border-left: 6px solid #3b78d8; border-radius: 6px; color: #1a4f8a;">
 <div style="background: #e6f0ff; padding: 18px 22px; border-left: 6px solid #3b78d8; border-radius: 6px; color: #1a4f8a;">
   <h2 style="margin-top: 0;">Wisdom grows in silence, not in performance.</h2>
-  <p><strong>Welcome to my homepage. I am a PhD scholar in mathematics — thinking slowly, making mistakes often, and learning to sit with uncertainty.</strong></p>
+  <p><strong>Welcome to my homepage. I am a PhD scholar in mathematics, thinking slowly, making mistakes often, and learning to sit with uncertainty.</strong></p>
 </div>
 </div>
 
@@ -94,10 +94,6 @@ For a long time, I appreciated this line only at the surface. I understood the w
 
   <p>There is no real gap between pure and applied mathematics. What we call “pure” and “applied” are only different ways of looking at the same ideas. Every branch of mathematics is deeply connected, and concepts developed for abstraction often become the language of applications, while applied problems constantly generate new pure theory.</p>
 
-
-<div style="background: #e6f0ff; padding: 14px 20px; border-left: 6px solid #3b78d8; border-radius: 6px; color: #1a4f8a; font-size: 16px;">
-
-I’m open to learning anything related to mathematics and physics, because physics expands the way I understand the world.
 
  <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
   <strong>When rigor takes a coffee break.</strong></p>
