@@ -106,4 +106,3 @@ For a long time, I appreciated this line only at the surface. I understood the w
     />
   </div>
   <p><strong><span style="color:green;">Mountains. Solitude. Breath. Peace.</span> </strong><br>
-</div>
