@@ -44,7 +44,7 @@ classes: wide
 
   <p style="font-family: Georgia, serif;">For a long time, I appreciated this line only at the surface. I understood the words, but not the warning embedded in them. Looking back, I can identify many moments when I held a vague intuition about a concept and mistook that vagueness for understanding — a kind of intellectual comfort that asked nothing of me. That false satisfaction, I now realize, is precisely what Halmos meant to caution against. Genuine understanding is not passive. It is earned through careful engagement with ideas, through the discomfort of not knowing, and through the slow, deliberate work of working things out — not merely feeling as though one has.</p>
 
-  <p style="font-family: Georgia, serif;">This understanding has shaped how I approach my research and studies. Mathematics, for me, is not a performance of knowledge but a patient and honest pursuit of it — one that demands both rigor and humility in equal measure.</p>
+  <p style="font-family: Georgia, serif;">This understanding is shaping me how I approach my research and studies. Mathematics, for me, is not a performance of knowledge but a patient and honest pursuit of it — one that demands both rigor and humility in equal measure.</p>
 
   <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
 
