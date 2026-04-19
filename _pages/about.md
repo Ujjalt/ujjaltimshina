@@ -26,7 +26,9 @@ classes: wide
       />
     </a>
   </div>
-
+<blockquote style="border-left: 4px solid #3b78d8; margin: 24px 0; padding: 12px 20px; background: #f0f6ff; color: #2a2a2a; font-style: italic; border-radius: 4px;">
+  "The best times are when I'm alone with mathematics, free of ambition and pretense, and indifferent to the world."
+</blockquote>
 <div style="background: #e6f0ff; padding: 18px 22px; border-left: 6px solid #3b78d8; border-radius: 6px; color: #1a4f8a;">
   <h2 style="margin-top: 0;">Wisdom grows in silence, not in performance.</h2>
   <p><strong>Welcome to my homepage. I am a researcher drawn to abstraction, committed to rigor, and quietly fascinated by the deep structure of mathematical ideas.</strong></p>
