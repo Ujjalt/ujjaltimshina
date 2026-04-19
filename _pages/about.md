@@ -80,18 +80,6 @@ For a long time, I appreciated this line only at the surface. I understood the w
   <p>We forget, make mistakes, and return — not as failure, but as part of learning.<br>
   Understanding does not come all at once; it grows step by step, through patience and reflection.</p>
   
-  <p><strong><span style="color:green;">Mountains. Solitude. Breath. Peace.</span> </strong><br>
- <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
-  <strong>When rigor takes a coffee break.</strong></p>
-
-  <div align="center" style="margin: 20px 0;">
-    <img 
-      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8544fc672224e62ab6ce76a4515938515f644535/images/Unknown.jpg"
-      alt="Unknown"
-      width="350"
-      style="border-radius: 6px;"
-    />
-  </div>
  <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
   <p>“I enjoy reading the elegantly written articles and lecture notes available at Terry Tao’s blog 
   <a href="https://terrytao.wordpress.com/">here</a> and the Mathematics site by J.S. Milne 
@@ -104,4 +92,16 @@ For a long time, I appreciated this line only at the surface. I understood the w
 
 I’m open to learning anything related to mathematics and physics, because physics expands the way I understand the world.
 
+ <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
+  <strong>When rigor takes a coffee break.</strong></p>
+
+  <div align="center" style="margin: 20px 0;">
+    <img 
+      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8544fc672224e62ab6ce76a4515938515f644535/images/Unknown.jpg"
+      alt="Unknown"
+      width="350"
+      style="border-radius: 6px;"
+    />
+  </div>
+  <p><strong><span style="color:green;">Mountains. Solitude. Breath. Peace.</span> </strong><br>
 </div>
