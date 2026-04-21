@@ -11,14 +11,14 @@ author_profile: true
   <div style="background: #fff5e6; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
     <p>
       Well, the only things I have in my life are a few books, a laptop, and the few gifts. I have my Mom and Sister, and the most valuable friend of mine, Radhika, along with some memories to share. 
-      I have a few notes prepared so far, and I love to teach myself and make myself learn — and in that process, I can be loud enough at times.
+      I have a few notes prepared so far, and I love to teach myself and make myself learn and in that process, I can be loud enough at times.
       <br><br>
       I have some friends, but they often feel more like colleagues than true companions, as I have always been somewhat unsuccessful in forming bonds deeply connected by the heart. 
       There are a few who are truly my friends, yet I feel I fall short in the trueness of those friendships. 
       Still, I value everyone who has come, passed by, and will come into my life.
       Nonsense apart, I get down to the business of mathematics. I love history and words along with mathematics, because history structures my brain in a way that helps me retain things — something I am really poor at. I jump from one thought to another multiple times, and most days I forget in the evening what I studied in the morning.
       <br><br>
-      I like words because they help me communicate mathematics better than only using formal symbols. You may say I copied the philosophy of Halmos, and I do agree in some sense — he mentions the same in his book <i>I Want to Be a Mathematician</i>.
+      I like words because they help me communicate mathematics better than only using formal symbols. You may say I copied the philosophy of Halmos, and I do agree in some sense, he mentions the same in his book <i>I Want to Be a Mathematician</i>.
       <br><br>
       Anyway, I do not know whether I want to be a mathematician or not, because the subject has become something like the middle phase of a relationship with a hundred breakups and a hundred reconciliations. Yet, somehow, I keep coming back.
 
