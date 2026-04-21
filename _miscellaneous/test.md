@@ -741,13 +741,13 @@ author_profile: true
   <div style="text-align: center; margin: 20px 0;">
     <img src="https://github.com/Ujjalt/ujjaltimshina/blob/442de0991a7c3aec857486cab41d50a7a3857a28/images/IMG_4832.jpeg?raw=true"
          alt="QBA Photo"
-         style="width: 80%; border-radius: 12px; filter: grayscale(100%);
+         style="width: 80%; border-radius: 12px;
                 box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   </div>
 
   <p>
     A lovely day out in QBA at Connaught Place with my department colleagues and my PhD supervisor. 
-    7th February 2026 felt warm and full — endless conversations, shared laughter, and the quiet 
+    7th February 2026 felt warm and full, endless conversations, shared laughter, and the quiet 
     comfort of being around people who make the journey lighter. A simple, happy moment that stays 
     in the heart longer than expected.
   </p>
