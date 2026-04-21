@@ -115,8 +115,6 @@ author_profile: true
 
 </div> 
 
-</div>
-
 <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; line-height: 1.6;">
   <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> Math IntroSeries — Course 1</h3>
   <strong>Generalized Weyl Algebras and Their Representations</strong>
