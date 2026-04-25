@@ -35,7 +35,11 @@ classes: wide
   </blockquote>
 
   <div style="font-family: Georgia, serif; background: #e6f0ff; padding: 18px 22px; border-left: 6px solid #3b78d8; border-radius: 6px; color: #1a4f8a;">
-    <h2 style="font-family: Georgia, serif; margin-top: 0;">Wisdom grows in silence, not in performance.</h2>
+<p style="font-family: Georgia, serif;">
+  <span style="color: green; font-weight: bold;">
+    Colorless green ideas sleep furiously — Noam Chomsky
+  </span>
+</p>
     <p><strong>Welcome to my homepage. I am a PhD scholar in mathematics, thinking slowly, making mistakes often, and learning to sit with uncertainty.</strong></p>
   </div>
 
