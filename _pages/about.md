@@ -36,21 +36,30 @@ classes: wide
 
 <div style="font-family: Georgia, serif; background: #e6f0ff; padding: 18px 22px; border-left: 6px solid #3b78d8; border-radius: 6px; color: #000000;">
 
-  <p style="font-family: Georgia, serif; color: #000000; font-weight: normal;">
-    Colorless <span style="color: #008000; font-weight: bold;">green</span> ideas sleep furiously — Noam Chomsky
-  </p>
+<p style="font-family: Georgia, serif; color: #000000; font-weight: normal;">
+  Colorless <span style="color: #008000; font-weight: bold;">green</span> ideas sleep furiously — Noam Chomsky
+</p>
 
-<p style="font-family: Georgia, serif; color: #000000; font-style: italic;">
+<p style="
+  font-family: Georgia, serif;
+  color: rgba(0, 0, 0, 0.78);
+  font-style: italic;
+  line-height: 1.6;
+  letter-spacing: 0.2px;
+  margin-top: 18px;
+">
 Many... predicates will be useless in application to attributes; thus it would be false, at best, to affirm, and useless, at best, to deny, that an attribute is pink or divisible by four. Ryle branded such predications category mistakes; he declares them meaningless and so did Russell in his theory of types. So did Carnap.
 <br><br>
 Over the years I have represented a minority of philosophers who preferred the opposite line: we can simplify grammar and logic by minimizing the number of our grammatical categories and maximizing their size. Instead of agreeing with Carnap that it is meaningless to say 'This stone is thinking about Vienna', and with Russell that it is meaningless to say 'Quadruplicity drinks procrastination', we can accommodate these sentences as meaningful and trivially false. Stones simply never think, as it happens, and quadruplicity never drinks.
 </p>
 
-<p style="font-family: Georgia, serif; color: #000000; margin-top: 10px;">
+<p style="
+  font-family: Georgia, serif;
+  color: rgba(0, 0, 0, 0.75);
+  margin-top: 12px;
+">
 — Willard Van Orman Quine, <em>Theories and Things</em> (1981), p. 110
 </p>
-
-</div>
 
   <p style="font-family: Georgia, serif;">Paul Halmos once said:
   <strong><span style="color:green;">"The only way to learn mathematics is to do mathematics."</span></strong></p>
@@ -154,12 +163,11 @@ My current research focuses on describing these operators using the actions of L
 <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
 
 <p style="font-family: Georgia, serif;">
-Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/">Sikkim University</a>, a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My <span style="color: green; font-weight: bold;">master's thesis</span>, titled <em>"Nets and Filters in Topology"</em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2">Dr. Namita Behera</a>. I completed my undergraduate studies at <a href="https://nbbgc.org/">Nar Bahadur Bhandari Government College</a>.
+Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/">Sikkim University</a>, a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled <em><span style="color: green; font-weight: bold;">"Nets and Filters in Topology"</span></em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2">Dr. Namita Behera</a>. I completed my undergraduate studies at <a href="https://nbbgc.org/">Nar Bahadur Bhandari Government College</a>.
 </p>
-
 <p style="font-family: Georgia, serif;">
   I was affiliated with Sikkim University, and my undergraduate project is titled 
-  <em><span style="color: blue; font-weight: bold;">"Foundations of Set Theory: The Zermelo–Fraenkel Axioms with Choice"</span></em>.
+  <em><span style="color: green; font-weight: bold;">"Foundations of Set Theory: The Zermelo–Fraenkel Axioms with Choice"</span></em>.
 </p>
   <p style="font-family: Georgia, serif;">I am also deeply interested in teaching, outreach, and sharing ideas. I have worked as a teaching assistant at IIIT Delhi and as a guest lecturer at Sikkim Global Technical University. I enjoy participating in mathematics Olympiad training camps, workshops, and mentoring students.</p>
 
