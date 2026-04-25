@@ -40,7 +40,7 @@ classes: wide
     Colorless <span style="color: #008000; font-weight: bold;">green</span> ideas sleep furiously — Noam Chomsky
   </p>
 
-  <p style="font-family: Georgia, serif; color: #000000;">
+<p style="font-family: Georgia, serif; color: #000000; font-style: italic;">
 Many... predicates will be useless in application to attributes; thus it would be false, at best, to affirm, and useless, at best, to deny, that an attribute is pink or divisible by four. Ryle branded such predications category mistakes; he declares them meaningless and so did Russell in his theory of types. So did Carnap.
 <br><br>
 Over the years I have represented a minority of philosophers who preferred the opposite line: we can simplify grammar and logic by minimizing the number of our grammatical categories and maximizing their size. Instead of agreeing with Carnap that it is meaningless to say 'This stone is thinking about Vienna', and with Russell that it is meaningless to say 'Quadruplicity drinks procrastination', we can accommodate these sentences as meaningful and trivially false. Stones simply never think, as it happens, and quadruplicity never drinks.
