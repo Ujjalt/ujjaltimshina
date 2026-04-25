@@ -34,13 +34,13 @@ classes: wide
     </footer>
   </blockquote>
 
-  <div style="font-family: Georgia, serif; background: #e6f0ff; padding: 18px 22px; border-left: 6px solid #3b78d8; border-radius: 6px; color: #1a4f8a;">
-<p style="font-family: Georgia, serif; color: green; font-weight: bold;">
-  <span style="background-color: #d0f0c0;">Colorless</span> green ideas sleep furiously — Noam Chomsky
-</p>
-</p>
-    <p><strong>Welcome to my homepage. I am a PhD scholar in mathematics, thinking slowly, making mistakes often, and learning to sit with uncertainty.</strong></p>
-  </div>
+<div style="font-family: Georgia, serif; background: #e6f0ff; padding: 18px 22px; border-left: 6px solid #3b78d8; border-radius: 6px; color: #000000;">
+
+  <p style="font-family: Georgia, serif; color: #000000; font-weight: normal;">
+    Colorless <span style="color: #008000; font-weight: bold;">green</span> ideas sleep furiously — Noam Chomsky
+  </p>
+
+</div>
 
   <p style="font-family: Georgia, serif;">Paul Halmos once said:
   <strong><span style="color:green;">"The only way to learn mathematics is to do mathematics."</span></strong></p>
