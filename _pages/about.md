@@ -199,7 +199,11 @@ I am also deeply interested in teaching, outreach, and sharing ideas. I have wor
 Outside of academics, I enjoy writing blogs, exploring web design and coding, and learning about open educational technologies. A selection of my talks and presentations (some with slides) is available <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/slides-selected-talks" style="color: #1f7a1f; font-weight: bold;">here</a>. My updated CV can be accessed <a href="https://drive.google.com/drive/folders/1GEbPbSA5sfkBQYyckeMoTF3b4LUb8NJ9?usp=drive_link" style="color: #1f7a1f; font-weight: bold;">here</a> <em>(last updated: 31st August 2025)</em>.
 </p>
 
-  <p style="font-family: Georgia, serif;"><strong>When rigor takes a coffee break.</strong></p>
+ <div style="border: 1px solid #2f4f2f; border-radius: 8px; padding: 14px 18px; margin: 20px 0; text-align: center; background-color: #f6faf6;">
+  <p style="margin: 0; font-family: Georgia, serif; font-weight: bold; color: #2f4f2f;">
+    When rigor takes a coffee break.
+  </p>
+</div>
 
   <div align="center" style="margin: 20px 0;">
     <img 
