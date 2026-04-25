@@ -100,9 +100,10 @@ and its interplay with
   <span style="color: green; font-weight: bold;">Matrix Groups</span>.
 </p>
 <p style="font-family: Georgia, serif;">
+<p style="font-family: Georgia, serif;">
   Going forward, I plan to delve deeper into 
-  <a href="https://en.wikipedia.org/wiki/Spectral_theory">Spectral Theory</a>, 
-  <a href="https://en.wikipedia.org/wiki/Representation_theory">Representation Theory</a>, 
+  <a href="https://en.wikipedia.org/wiki/Spectral_theory" style="font-weight: bold;">Spectral Theory</a>, 
+  <a href="https://en.wikipedia.org/wiki/Representation_theory" style="font-weight: bold;">Representation Theory</a>, 
   the <strong><a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)">Lean Programming Language</a></strong>, 
   and an introduction to 
   <strong><a href="https://en.wikipedia.org/wiki/Machine_learning">Machine Learning (ML)</a></strong>.
