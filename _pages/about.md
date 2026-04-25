@@ -38,7 +38,6 @@ classes: wide
 
 </div>
 
-
   <blockquote style="font-family: Georgia, serif; border-left: 4px solid #3b78d8; margin: 24px 0; padding: 12px 20px; background: #f0f6ff; color: #2a2a2a; font-style: italic; border-radius: 4px;">
     "Certainly the best times were when I was alone with mathematics, free of ambition and pretense, and indifferent to the world."
     <footer style="font-family: Georgia, serif; margin-top: 8px; font-style: normal; font-size: 0.9em; color: #555;">
@@ -47,6 +46,13 @@ classes: wide
   </blockquote>
 
 <div style="font-family: Georgia, serif; background: #e6f0ff; padding: 18px 22px; border-left: 6px solid #3b78d8; border-radius: 6px; color: #000000;">
+
+<div style="border: 1px solid #d0d0d0; border-radius: 6px; padding: 14px 16px; margin: 16px 0; background-color: #fafafa;">
+  <p style="font-family: Georgia, serif; color: #000000; margin: 0;">
+    <span style="font-weight: bold;">AUTOMEMORIOGRAPHY</span>
+  </p>
+</div>
+
 
 <p style="font-family: Georgia, serif; color: #000000; font-weight: normal;">
   Colorless <span style="color: #008000; font-weight: bold;">green</span> ideas sleep furiously — Noam Chomsky
