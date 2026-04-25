@@ -67,7 +67,30 @@ classes: wide
 
   <p style="font-family: Georgia, serif;">My current research focuses on describing these operators using the actions of Lie groups and identifying invariants that determine their equivalence classes under unitary transformations.</p>
 
-  <p style="font-family: Georgia, serif;">I am planning to study <strong>Probabilistic Measure Theory, Banach Algebra Techniques in Operator Theory</strong> in the upcoming semester. I have completed doctoral-level courseworks in <strong>Reproducing Kernel Hilbert Spaces (RKHS), the complex-analytic theory underlying elliptic curves and modular forms, Topics in Functional Analysis: Operator Algebras</strong> <strong>Functional Analysis, Complex Analysis, Several Complex Variables, Introduction to Non-commutative Function Theory</strong> and <strong>Matrix Groups</strong>. Going forward, I plan to delve deeper into <a href="https://en.wikipedia.org/wiki/Spectral_theory">Spectral Theory</a>, <a href="https://en.wikipedia.org/wiki/Representation_theory">Representation Theory, the Lean Programming Language and an Introduction to a Machine learning (ML).</a>.</p>
+ <p style="font-family: Georgia, serif;">
+  I am planning to study <strong>Probabilistic Measure Theory</strong> and 
+  <strong>Banach Algebra Techniques in Operator Theory</strong> in the upcoming semester.
+</p>
+
+<p style="font-family: Georgia, serif;">
+  I have completed doctoral-level coursework in 
+  <strong>Reproducing Kernel Hilbert Spaces (RKHS)</strong>, 
+  <strong>the complex-analytic theory underlying elliptic curves and modular forms</strong>, 
+  <strong>Topics in Functional Analysis: Operator Algebras</strong>, 
+  <strong>Functional Analysis</strong>, 
+  <strong>Complex Analysis</strong>, 
+  <strong>Several Complex Variables</strong>, 
+  <strong>Introduction to Non-commutative Function Theory</strong>, and 
+  <strong>Matrix Groups</strong>.
+</p>
+
+<p style="font-family: Georgia, serif;">
+  Going forward, I plan to delve deeper into 
+  <a href="https://en.wikipedia.org/wiki/Spectral_theory">Spectral Theory</a>, 
+  <a href="https://en.wikipedia.org/wiki/Representation_theory">Representation Theory</a>, 
+  the <strong>Lean Programming Language</strong>, and an introduction to 
+  <strong>Machine Learning (ML)</strong>.
+</p>
 
   <p style="font-family: Georgia, serif;">I am also keenly interested in subjects such as <a href="https://en.wikipedia.org/wiki/Measure_theory">Measure Theory</a> and <a href="https://en.wikipedia.org/wiki/General_topology">General Topology</a>, which continue to shape my mathematical perspective.</p>
 
