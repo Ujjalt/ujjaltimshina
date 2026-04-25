@@ -80,19 +80,17 @@ and its interplay with
  <p style="font-family: Georgia, serif;">
   I am planning to study <strong>Probabilistic Measure Theory</strong> and 
   <strong>Banach Algebra Techniques in Operator Theory</strong> in the upcoming semester.
-</p>
 <p style="font-family: Georgia, serif;">
   I have completed doctoral-level coursework in 
-  <span style="background-color: #d0f0c0;"><strong>Reproducing Kernel Hilbert Spaces (RKHS)</strong></span>, 
-  <span style="background-color: #d0f0c0;"><strong>the complex-analytic theory underlying elliptic curves and modular forms</strong></span>, 
-  <span style="background-color: #d0f0c0;"><strong>Topics in Functional Analysis: Operator Algebras</strong></span>, 
-  <span style="background-color: #d0f0c0;"><strong>Functional Analysis</strong></span>, 
-  <span style="background-color: #d0f0c0;"><strong>Complex Analysis</strong></span>, 
-  <span style="background-color: #d0f0c0;"><strong>Several Complex Variables</strong></span>, 
-  <span style="background-color: #d0f0c0;"><strong>Introduction to Non-commutative Function Theory</strong></span>, and 
-  <span style="background-color: #d0f0c0;"><strong>Matrix Groups</strong></span>.
+  <strong>Reproducing Kernel Hilbert Spaces (RKHS)</strong>, 
+  <strong>the complex-analytic theory underlying elliptic curves and modular forms</strong>, 
+  <strong>Topics in Functional Analysis: Operator Algebras</strong>, 
+  <strong>Functional Analysis</strong>, 
+  <strong>Complex Analysis</strong>, 
+  <strong>Several Complex Variables</strong>, 
+  <strong>Introduction to Non-commutative Function Theory</strong>, and 
+  <strong>Matrix Groups</strong>.
 </p>
-
 <p style="font-family: Georgia, serif;">
   Going forward, I plan to delve deeper into 
   <a href="https://en.wikipedia.org/wiki/Spectral_theory">Spectral Theory</a>, 
