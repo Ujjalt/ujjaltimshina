@@ -83,15 +83,14 @@ and its interplay with
 </p>
 <p style="font-family: Georgia, serif;">
   I have completed doctoral-level coursework in 
-  <strong><a href="https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space">Reproducing Kernel Hilbert Spaces (RKHS)</a></strong>, 
-  <strong><a href="https://en.wikipedia.org/wiki/Elliptic_curve">the complex-analytic theory underlying elliptic curves</a> and 
-  <a href="https://en.wikipedia.org/wiki/Modular_form">modular forms</a></strong>, 
-  <strong><a href="https://en.wikipedia.org/wiki/Operator_algebra">Topics in Functional Analysis: Operator Algebras</a></strong>, 
-  <strong><a href="https://en.wikipedia.org/wiki/Functional_analysis">Functional Analysis</a></strong>, 
-  <strong><a href="https://en.wikipedia.org/wiki/Complex_analysis">Complex Analysis</a></strong>, 
-  <strong><a href="https://en.wikipedia.org/wiki/Several_complex_variables">Several Complex Variables</a></strong>, 
-  <strong><a href="https://en.wikipedia.org/wiki/Noncommutative_function_theory">Introduction to Non-commutative Function Theory</a></strong>, and 
-  <strong><a href="https://en.wikipedia.org/wiki/Matrix_group">Matrix Groups</a></strong>.
+  <span style="background-color: #d0f0c0;"><strong>Reproducing Kernel Hilbert Spaces (RKHS)</strong></span>, 
+  <span style="background-color: #d0f0c0;"><strong>the complex-analytic theory underlying elliptic curves and modular forms</strong></span>, 
+  <span style="background-color: #d0f0c0;"><strong>Topics in Functional Analysis: Operator Algebras</strong></span>, 
+  <span style="background-color: #d0f0c0;"><strong>Functional Analysis</strong></span>, 
+  <span style="background-color: #d0f0c0;"><strong>Complex Analysis</strong></span>, 
+  <span style="background-color: #d0f0c0;"><strong>Several Complex Variables</strong></span>, 
+  <span style="background-color: #d0f0c0;"><strong>Introduction to Non-commutative Function Theory</strong></span>, and 
+  <span style="background-color: #d0f0c0;"><strong>Matrix Groups</strong></span>.
 </p>
 
 <p style="font-family: Georgia, serif;">
