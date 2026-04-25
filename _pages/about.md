@@ -50,7 +50,17 @@ classes: wide
 
   <p style="font-family: Georgia, serif;">My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the <a href="https://www.iiitd.ac.in/people/phd/current">Indraprastha Institute of Information Technology Delhi (IIIT Delhi)</a>, working under the supervision of <a href="https://www.iiitd.ac.in/prahllad">Dr. Prahllad Deb</a>. I joined IIIT Delhi after being awarded the <a href="https://online-inspire.gov.in/">INSPIRE Research Fellowship</a> by the Department of Science and Technology (DST), Government of India.</p>
 
-  <p style="font-family: Georgia, serif;">My research interests lie in <strong>"Functional Analysis, Multivariable Operator Theory and Complex Analysis"</strong> with a focus on the Cowen–Douglas theory of operators and its interplay with complex geometry and differential geometry.</p>
+<p style="font-family: Georgia, serif;">
+My research interests lie in <strong>
+<a href="https://en.wikipedia.org/wiki/Functional_analysis">Functional Analysis</a>, 
+<a href="https://en.wikipedia.org/wiki/Operator_theory">Multivariable Operator Theory</a> and 
+<a href="https://en.wikipedia.org/wiki/Complex_analysis">Complex Analysis</a>
+</strong> with a focus on the 
+<a href="https://en.wikipedia.org/wiki/Cowen%E2%80%93Douglas_operators">Cowen–Douglas theory of operators</a> 
+and its interplay with 
+<a href="https://en.wikipedia.org/wiki/Complex_geometry">Complex Geometry</a> and 
+<a href="https://en.wikipedia.org/wiki/Differential_geometry">Differential Geometry</a>.
+</p>
 
   <p style="font-family: Georgia, serif;">I am open to discussions and research collaborations in areas such as 
     <strong>Operator Theory, Reproducing Kernel Hilbert Spaces, Complex Analysis</strong> 
@@ -71,25 +81,26 @@ classes: wide
   I am planning to study <strong>Probabilistic Measure Theory</strong> and 
   <strong>Banach Algebra Techniques in Operator Theory</strong> in the upcoming semester.
 </p>
-
 <p style="font-family: Georgia, serif;">
   I have completed doctoral-level coursework in 
-  <strong>Reproducing Kernel Hilbert Spaces (RKHS)</strong>, 
-  <strong>the complex-analytic theory underlying elliptic curves and modular forms</strong>, 
-  <strong>Topics in Functional Analysis: Operator Algebras</strong>, 
-  <strong>Functional Analysis</strong>, 
-  <strong>Complex Analysis</strong>, 
-  <strong>Several Complex Variables</strong>, 
-  <strong>Introduction to Non-commutative Function Theory</strong>, and 
-  <strong>Matrix Groups</strong>.
+  <strong><a href="https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space">Reproducing Kernel Hilbert Spaces (RKHS)</a></strong>, 
+  <strong><a href="https://en.wikipedia.org/wiki/Elliptic_curve">the complex-analytic theory underlying elliptic curves</a> and 
+  <a href="https://en.wikipedia.org/wiki/Modular_form">modular forms</a></strong>, 
+  <strong><a href="https://en.wikipedia.org/wiki/Operator_algebra">Topics in Functional Analysis: Operator Algebras</a></strong>, 
+  <strong><a href="https://en.wikipedia.org/wiki/Functional_analysis">Functional Analysis</a></strong>, 
+  <strong><a href="https://en.wikipedia.org/wiki/Complex_analysis">Complex Analysis</a></strong>, 
+  <strong><a href="https://en.wikipedia.org/wiki/Several_complex_variables">Several Complex Variables</a></strong>, 
+  <strong><a href="https://en.wikipedia.org/wiki/Noncommutative_function_theory">Introduction to Non-commutative Function Theory</a></strong>, and 
+  <strong><a href="https://en.wikipedia.org/wiki/Matrix_group">Matrix Groups</a></strong>.
 </p>
 
 <p style="font-family: Georgia, serif;">
   Going forward, I plan to delve deeper into 
   <a href="https://en.wikipedia.org/wiki/Spectral_theory">Spectral Theory</a>, 
   <a href="https://en.wikipedia.org/wiki/Representation_theory">Representation Theory</a>, 
-  the <strong>Lean Programming Language</strong>, and an introduction to 
-  <strong>Machine Learning (ML)</strong>.
+  the <strong><a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)">Lean Programming Language</a></strong>, 
+  and an introduction to 
+  <strong><a href="https://en.wikipedia.org/wiki/Machine_learning">Machine Learning (ML)</a></strong>.
 </p>
 
   <p style="font-family: Georgia, serif;">I am also keenly interested in subjects such as <a href="https://en.wikipedia.org/wiki/Measure_theory">Measure Theory</a> and <a href="https://en.wikipedia.org/wiki/General_topology">General Topology</a>, which continue to shape my mathematical perspective.</p>
