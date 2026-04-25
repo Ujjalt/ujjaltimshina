@@ -61,12 +61,17 @@ and its interplay with
 <a href="https://en.wikipedia.org/wiki/Complex_geometry" style="color: green; font-weight: bold;">Complex Geometry</a> and 
 <a href="https://en.wikipedia.org/wiki/Differential_geometry" style="color: green; font-weight: bold;">Differential Geometry</a>.
 </p>
-  <p style="font-family: Georgia, serif;">I am open to discussions and research collaborations in areas such as 
-    <strong>Operator Theory, Reproducing Kernel Hilbert Spaces, Complex Analysis</strong> 
-    (both single and several variables), <strong>Complex Geometry</strong>, 
-    as well as in <strong>General Topology and Geometry</strong>, 
-    which I am actively learning.
-  </p>
+ <p style="font-family: Georgia, serif;">
+  I am open to discussions and research collaborations in areas such as 
+  <a style="color: green; font-weight: bold;">Operator Theory</a>, 
+  <a style="color: green; font-weight: bold;">Reproducing Kernel Hilbert Spaces</a>, 
+  <a style="color: green; font-weight: bold;">Complex Analysis</a> 
+  (both single and several variables), 
+  <a style="color: green; font-weight: bold;">Complex Geometry</a>, 
+  as well as in 
+  <a style="color: green; font-weight: bold;">General Topology and Geometry</a>, 
+  which I am actively learning.
+</p>
 
   <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
 
@@ -80,15 +85,16 @@ and its interplay with
   I am planning to study <strong>Probabilistic Measure Theory</strong> and 
   <strong>Banach Algebra Techniques in Operator Theory</strong> in the upcoming semester.
 <p style="font-family: Georgia, serif;">
+<p style="font-family: Georgia, serif;">
   I have completed doctoral-level coursework in 
-  <strong>Reproducing Kernel Hilbert Spaces (RKHS)</strong>, 
-  <strong>the complex-analytic theory underlying elliptic curves and modular forms</strong>, 
-  <strong>Topics in Functional Analysis: Operator Algebras</strong>, 
-  <strong>Functional Analysis</strong>, 
-  <strong>Complex Analysis</strong>, 
-  <strong>Several Complex Variables</strong>, 
-  <strong>Introduction to Non-commutative Function Theory</strong>, and 
-  <strong>Matrix Groups</strong>.
+  <span style="color: green; font-weight: bold;">Reproducing Kernel Hilbert Spaces (RKHS)</span>, 
+  <span style="color: green; font-weight: bold;">the complex-analytic theory underlying elliptic curves and modular forms</span>, 
+  <span style="color: green; font-weight: bold;">Topics in Functional Analysis: Operator Algebras</span>, 
+  <span style="color: green; font-weight: bold;">Functional Analysis</span>, 
+  <span style="color: green; font-weight: bold;">Complex Analysis</span>, 
+  <span style="color: green; font-weight: bold;">Several Complex Variables</span>, 
+  <span style="color: green; font-weight: bold;">Introduction to Non-commutative Function Theory</span>, and 
+  <span style="color: green; font-weight: bold;">Matrix Groups</span>.
 </p>
 <p style="font-family: Georgia, serif;">
   Going forward, I plan to delve deeper into 
