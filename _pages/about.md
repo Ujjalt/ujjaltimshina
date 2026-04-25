@@ -134,14 +134,14 @@ My current research focuses on describing these operators using the actions of L
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
   I have completed doctoral-level coursework in 
-  <span style="font-weight: bold;">Reproducing Kernel Hilbert Spaces (RKHS)</span>, 
-  <span style="font-weight: bold;">the complex-analytic theory underlying elliptic curves and modular forms</span>, 
-  <span style="font-weight: bold;">Topics in Functional Analysis: Operator Algebras</span>, 
-  <span style="font-weight: bold;">Functional Analysis</span>, 
-  <span style="font-weight: bold;">Complex Analysis</span>, 
-  <span style="font-weight: bold;">Several Complex Variables</span>, 
-  <span style="font-weight: bold;">Introduction to Non-commutative Function Theory</span>, and 
-  <span style="font-weight: bold;">Matrix Groups</span>.
+  Reproducing Kernel Hilbert Spaces (RKHS), 
+  the complex-analytic theory underlying elliptic curves and modular forms, 
+  Topics in Functional Analysis: Operator Algebras, 
+  Functional Analysis, 
+  Complex Analysis, 
+  Several Complex Variables, 
+  Introduction to Non-commutative Function Theory, and 
+  Matrix Groups.
 </p>
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
