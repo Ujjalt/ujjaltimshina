@@ -52,14 +52,14 @@ classes: wide
 
 <p style="font-family: Georgia, serif;">
 My research interests lie in <strong>
-<a href="https://en.wikipedia.org/wiki/Functional_analysis">Functional Analysis</a>, 
-<a href="https://en.wikipedia.org/wiki/Operator_theory">Multivariable Operator Theory</a> and 
-<a href="https://en.wikipedia.org/wiki/Complex_analysis">Complex Analysis</a>
+<span style="background-color: #d0f0c0;"><a href="https://en.wikipedia.org/wiki/Functional_analysis">Functional Analysis</a></span>, 
+<span style="background-color: #d0f0c0;"><a href="https://en.wikipedia.org/wiki/Operator_theory">Multivariable Operator Theory</a></span> and 
+<span style="background-color: #d0f0c0;"><a href="https://en.wikipedia.org/wiki/Complex_analysis">Complex Analysis</a></span>
 </strong> with a focus on the 
-<a href="https://en.wikipedia.org/wiki/Cowen%E2%80%93Douglas_operators">Cowen–Douglas theory of operators</a> 
+<span style="background-color: #d0f0c0;"><a href="https://en.wikipedia.org/wiki/Cowen%E2%80%93Douglas_operators">Cowen–Douglas theory of operators</a></span> 
 and its interplay with 
-<a href="https://en.wikipedia.org/wiki/Complex_geometry">Complex Geometry</a> and 
-<a href="https://en.wikipedia.org/wiki/Differential_geometry">Differential Geometry</a>.
+<span style="background-color: #d0f0c0;"><a href="https://en.wikipedia.org/wiki/Complex_geometry">Complex Geometry</a></span> and 
+<span style="background-color: #d0f0c0;"><a href="https://en.wikipedia.org/wiki/Differential_geometry">Differential Geometry</a></span>.
 </p>
 
   <p style="font-family: Georgia, serif;">I am open to discussions and research collaborations in areas such as 
