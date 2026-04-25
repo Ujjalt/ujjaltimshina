@@ -52,16 +52,15 @@ classes: wide
 
 <p style="font-family: Georgia, serif;">
 My research interests lie in <strong>
-<span style="background-color: #d0f0c0;"><a href="https://en.wikipedia.org/wiki/Functional_analysis">Functional Analysis</a></span>, 
-<span style="background-color: #d0f0c0;"><a href="https://en.wikipedia.org/wiki/Operator_theory">Multivariable Operator Theory</a></span> and 
-<span style="background-color: #d0f0c0;"><a href="https://en.wikipedia.org/wiki/Complex_analysis">Complex Analysis</a></span>
+<a href="https://en.wikipedia.org/wiki/Functional_analysis" style="color: green; font-weight: bold;">Functional Analysis</a>, 
+<a href="https://en.wikipedia.org/wiki/Operator_theory" style="color: green; font-weight: bold;">Multivariable Operator Theory</a> and 
+<a href="https://en.wikipedia.org/wiki/Complex_analysis" style="color: green; font-weight: bold;">Complex Analysis</a>
 </strong> with a focus on the 
-<span style="background-color: #d0f0c0;"><a href="https://en.wikipedia.org/wiki/Cowen%E2%80%93Douglas_operators">Cowen–Douglas theory of operators</a></span> 
+<a href="https://en.wikipedia.org/wiki/Cowen%E2%80%93Douglas_operators" style="color: green; font-weight: bold;">Cowen–Douglas theory of operators</a> 
 and its interplay with 
-<span style="background-color: #d0f0c0;"><a href="https://en.wikipedia.org/wiki/Complex_geometry">Complex Geometry</a></span> and 
-<span style="background-color: #d0f0c0;"><a href="https://en.wikipedia.org/wiki/Differential_geometry">Differential Geometry</a></span>.
+<a href="https://en.wikipedia.org/wiki/Complex_geometry" style="color: green; font-weight: bold;">Complex Geometry</a> and 
+<a href="https://en.wikipedia.org/wiki/Differential_geometry" style="color: green; font-weight: bold;">Differential Geometry</a>.
 </p>
-
   <p style="font-family: Georgia, serif;">I am open to discussions and research collaborations in areas such as 
     <strong>Operator Theory, Reproducing Kernel Hilbert Spaces, Complex Analysis</strong> 
     (both single and several variables), <strong>Complex Geometry</strong>, 
