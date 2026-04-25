@@ -139,8 +139,8 @@ My current research focuses on describing these operators using the actions of L
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
   I am planning to study 
-  <span style="font-weight: bold;">Probabilistic Measure Theory</span> and 
-  <span style="font-weight: bold;">Banach Algebra Techniques in Operator Theory</span> 
+  <span style="font-weight: bold; color: #2f4f2f;">Probabilistic Measure Theory</span> and 
+  <span style="font-weight: bold; color: #2f4f2f;">Banach Algebra Techniques in Operator Theory</span> 
   in the upcoming semester.
 </p>
 
@@ -176,21 +176,21 @@ My current research focuses on describing these operators using the actions of L
 <hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
-Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/" style="color: #1f7a1f; font-weight: bold;">Sikkim University</a>, a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled <em><span style="font-weight: bold;">"Nets and Filters in Topology"</span></em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2" style="color: #1f7a1f; font-weight: bold;">Dr. Namita Behera</a>. I completed my undergraduate studies at <a href="https://nbbgc.org/" style="color: #1f7a1f; font-weight: bold;">Nar Bahadur Bhandari Government College</a>.
+Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/" style="color: #1f7a1f; font-weight: bold;">Sikkim University</a>, a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled <em><span style="font-style: italic; color: #2f4f2f;">"Nets and Filters in Topology"</span></em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2" style="color: #1f7a1f; font-weight: bold;">Dr. Namita Behera</a>. I completed my undergraduate studies at <a href="https://nbbgc.org/" style="color: #1f7a1f; font-weight: bold;">Nar Bahadur Bhandari Government College</a>.
 </p>
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
-  I was affiliated with Sikkim University, and my undergraduate project is titled 
-  <em><span style="font-weight: bold;">"Foundations of Set Theory: The Zermelo–Fraenkel Axioms with Choice"</span></em>.
+  My undergraduate project is titled 
+  <em><span style="font-style: italic; color: #2f4f2f;">"Foundations of Set Theory: The Zermelo–Fraenkel Axioms with Choice"</span></em>.
 </p>
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
 I am also deeply interested in teaching, outreach, and sharing ideas. I have worked as a teaching assistant at IIIT Delhi and as a guest lecturer at Sikkim Global Technical University. I enjoy participating in mathematics Olympiad training camps, workshops, and mentoring students.
 </p>
 
-<p style="font-family: Georgia, serif; color: #2f4f2f;">
+<p style="font-family: Georgia, serif;">
   I have authored a book, 
-  <span style="font-weight: bold;">Beyond Answers: Beauty of Mathematical Questions</span>. 
+  <span style="font-weight: bold; color: #2f4f2f;">Beyond Answers: Beauty of Mathematical Questions</span>. 
   It was my first attempt at writing and not perfect, but it reflects my interest in learning through questions. 
   The book is available on Amazon and Notion Press.
 </p>
