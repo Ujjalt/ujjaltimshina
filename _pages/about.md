@@ -36,6 +36,9 @@ classes: wide
     style="border-radius: 6px;"
   />
 
+</div>
+
+
   <blockquote style="font-family: Georgia, serif; border-left: 4px solid #3b78d8; margin: 24px 0; padding: 12px 20px; background: #f0f6ff; color: #2a2a2a; font-style: italic; border-radius: 4px;">
     "Certainly the best times were when I was alone with mathematics, free of ambition and pretense, and indifferent to the world."
     <footer style="font-family: Georgia, serif; margin-top: 8px; font-style: normal; font-size: 0.9em; color: #555;">
