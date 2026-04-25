@@ -82,8 +82,11 @@ and its interplay with
   <p style="font-family: Georgia, serif;">My current research focuses on describing these operators using the actions of Lie groups and identifying invariants that determine their equivalence classes under unitary transformations.</p>
 
  <p style="font-family: Georgia, serif;">
-  I am planning to study <strong>Probabilistic Measure Theory</strong> and 
-  <strong>Banach Algebra Techniques in Operator Theory</strong> in the upcoming semester.
+  I am planning to study 
+  <span style="color: green; font-weight: bold;">Probabilistic Measure Theory</span> and 
+  <span style="color: green; font-weight: bold;">Banach Algebra Techniques in Operator Theory</span> 
+  in the upcoming semester.
+</p>
 <p style="font-family: Georgia, serif;">
 <p style="font-family: Georgia, serif;">
   I have completed doctoral-level coursework in 
@@ -113,7 +116,12 @@ and its interplay with
 
   <p style="font-family: Georgia, serif;">I am also deeply interested in teaching, outreach, and sharing ideas. I have worked as a teaching assistant at IIIT Delhi and as a guest lecturer at Sikkim Global Technical University. I enjoy participating in mathematics Olympiad training camps, workshops, and mentoring students.</p>
 
-  <p style="font-family: Georgia, serif;">I have authored a book, <strong>Beyond Answers: Beauty of Mathematical Questions</strong>. It was my first attempt at writing and not perfect, but it reflects my interest in learning through questions. The book is available on Amazon and Notion Press.</p>
+<p style="font-family: Georgia, serif;">
+  I have authored a book, 
+  <span style="color: green; font-weight: bold;">Beyond Answers: Beauty of Mathematical Questions</span>. 
+  It was my first attempt at writing and not perfect, but it reflects my interest in learning through questions. 
+  The book is available on Amazon and Notion Press.
+</p>
 
   <p style="font-family: Georgia, serif;">Outside of academics, I enjoy writing blogs, exploring web design and coding, and learning about open educational technologies. A selection of my talks and presentations (some with slides) is available <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/slides-selected-talks">here</a>. My updated CV can be accessed <a href="https://drive.google.com/drive/folders/1GEbPbSA5sfkBQYyckeMoTF3b4LUb8NJ9?usp=drive_link">here</a> <em>(last updated: 31st August 2025)</em>.</p>
 
@@ -147,4 +155,4 @@ and its interplay with
 
   <p><strong><span style="color:green;">Mountains. Solitude. Breath. Peace.</span></strong></p>
 
-</div>
+
