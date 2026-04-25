@@ -74,15 +74,15 @@ Over the years I have represented a minority of philosophers who preferred the o
 
 <p style="font-family: Georgia, serif;">
   My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the 
-  <a href="https://www.iiitd.ac.in/people/phd/current" style="color: green; font-weight: bold;">
+  <a href="https://www.iiitd.ac.in/people/phd/current" style="color: black; font-weight: bold;">
     Indraprastha Institute of Information Technology Delhi (IIIT Delhi)
   </a>, 
   working under the supervision of 
-  <a href="https://www.iiitd.ac.in/prahllad" style="color: green; font-weight: bold;">
+  <a href="https://www.iiitd.ac.in/prahllad" style="color: black; font-weight: bold;">
     Dr. Prahllad Deb
   </a>. 
   I joined IIIT Delhi after being awarded the 
-  <a href="https://online-inspire.gov.in/" style="color: green; font-weight: bold;">
+  <a href="https://online-inspire.gov.in/" style="color: black; font-weight: bold;">
     INSPIRE Research Fellowship
   </a> 
   by the Department of Science and Technology (DST), Government of India.
@@ -90,25 +90,25 @@ Over the years I have represented a minority of philosophers who preferred the o
 
 <p style="font-family: Georgia, serif;">
 My research interests lie in <strong>
-<a href="https://en.wikipedia.org/wiki/Functional_analysis" style="color: green; font-weight: bold;">Functional Analysis</a>, 
-<a href="https://en.wikipedia.org/wiki/Operator_theory" style="color: green; font-weight: bold;">Multivariable Operator Theory</a> and 
-<a href="https://en.wikipedia.org/wiki/Complex_analysis" style="color: green; font-weight: bold;">Complex Analysis</a>
+<a href="https://en.wikipedia.org/wiki/Functional_analysis" style="color: black; font-weight: bold;">Functional Analysis</a>, 
+<a href="https://en.wikipedia.org/wiki/Operator_theory" style="color: black; font-weight: bold;">Multivariable Operator Theory</a> and 
+<a href="https://en.wikipedia.org/wiki/Complex_analysis" style="color: black; font-weight: bold;">Complex Analysis</a>
 </strong> with a focus on the 
-<a href="https://en.wikipedia.org/wiki/Cowen%E2%80%93Douglas_operators" style="color: green; font-weight: bold;">Cowen–Douglas theory of operators</a> 
+<a href="https://en.wikipedia.org/wiki/Cowen%E2%80%93Douglas_operators" style="color: black; font-weight: bold;">Cowen–Douglas theory of operators</a> 
 and its interplay with 
-<a href="https://en.wikipedia.org/wiki/Complex_geometry" style="color: green; font-weight: bold;">Complex Geometry</a> and 
-<a href="https://en.wikipedia.org/wiki/Differential_geometry" style="color: green; font-weight: bold;">Differential Geometry</a>.
+<a href="https://en.wikipedia.org/wiki/Complex_geometry" style="color: black; font-weight: bold;">Complex Geometry</a> and 
+<a href="https://en.wikipedia.org/wiki/Differential_geometry" style="color: black; font-weight: bold;">Differential Geometry</a>.
 </p>
 
 <p style="font-family: Georgia, serif;">
   I am open to discussions and research collaborations in areas such as 
-  <a style="color: green; font-weight: bold;">Operator Theory</a>, 
-  <a style="color: green; font-weight: bold;">Reproducing Kernel Hilbert Spaces</a>, 
-  <a style="color: green; font-weight: bold;">Complex Analysis</a> 
+  <a style="color: black; font-weight: bold;">Operator Theory</a>, 
+  <a style="color: black; font-weight: bold;">Reproducing Kernel Hilbert Spaces</a>, 
+  <a style="color: black; font-weight: bold;">Complex Analysis</a> 
   (both single and several variables), 
-  <a style="color: green; font-weight: bold;">Complex Geometry</a>, 
+  <a style="color: black; font-weight: bold;">Complex Geometry</a>, 
   as well as in 
-  <a style="color: green; font-weight: bold;">General Topology and Geometry</a>, 
+  <a style="color: black; font-weight: bold;">General Topology and Geometry</a>, 
   which I am actively learning.
 </p>
 
@@ -128,21 +128,21 @@ My current research focuses on describing these operators using the actions of L
 
 <p style="font-family: Georgia, serif;">
   I am planning to study 
-  <span style="color: green; font-weight: bold;">Probabilistic Measure Theory</span> and 
-  <span style="color: green; font-weight: bold;">Banach Algebra Techniques in Operator Theory</span> 
+  <span style="color: black; font-weight: bold;">Probabilistic Measure Theory</span> and 
+  <span style="color: black; font-weight: bold;">Banach Algebra Techniques in Operator Theory</span> 
   in the upcoming semester.
 </p>
 
 <p style="font-family: Georgia, serif;">
   I have completed doctoral-level coursework in 
-  <span style="color: green; font-weight: bold;">Reproducing Kernel Hilbert Spaces (RKHS)</span>, 
-  <span style="color: green; font-weight: bold;">the complex-analytic theory underlying elliptic curves and modular forms</span>, 
-  <span style="color: green; font-weight: bold;">Topics in Functional Analysis: Operator Algebras</span>, 
-  <span style="color: green; font-weight: bold;">Functional Analysis</span>, 
-  <span style="color: green; font-weight: bold;">Complex Analysis</span>, 
-  <span style="color: green; font-weight: bold;">Several Complex Variables</span>, 
-  <span style="color: green; font-weight: bold;">Introduction to Non-commutative Function Theory</span>, and 
-  <span style="color: green; font-weight: bold;">Matrix Groups</span>.
+  <span style="color: black; font-weight: bold;">Reproducing Kernel Hilbert Spaces (RKHS)</span>, 
+  <span style="color: black; font-weight: bold;">the complex-analytic theory underlying elliptic curves and modular forms</span>, 
+  <span style="color: black; font-weight: bold;">Topics in Functional Analysis: Operator Algebras</span>, 
+  <span style="color: black; font-weight: bold;">Functional Analysis</span>, 
+  <span style="color: black; font-weight: bold;">Complex Analysis</span>, 
+  <span style="color: black; font-weight: bold;">Several Complex Variables</span>, 
+  <span style="color: black; font-weight: bold;">Introduction to Non-commutative Function Theory</span>, and 
+  <span style="color: black; font-weight: bold;">Matrix Groups</span>.
 </p>
 
 <p style="font-family: Georgia, serif;">
@@ -175,7 +175,7 @@ Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/
 
 <p style="font-family: Georgia, serif;">
   I have authored a book, 
-  <span style="color: green; font-weight: bold;">Beyond Answers: Beauty of Mathematical Questions</span>. 
+  <span style="color: black; font-weight: bold;">Beyond Answers: Beauty of Mathematical Questions</span>. 
   It was my first attempt at writing and not perfect, but it reflects my interest in learning through questions. 
   The book is available on Amazon and Notion Press.
 </p>
