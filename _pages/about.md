@@ -134,8 +134,10 @@ and its interplay with
 
   <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
 
-  <p style="font-family: Georgia, serif;">Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/">Sikkim University</a>, a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled <em>"Nets and Filters in Topology"</em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2">Dr. Namita Behera</a>. I completed my undergraduate studies at <a href="https://nbbgc.org/">Nar Bahadur Bhandari Government College</a>, affiliated with Sikkim University and my undergraduate project is titled <em>"Foundations of Set Theory: The Zermelo–Fraenkel Axioms with Choice"</em>.</p>
-
+  <p style="font-family: Georgia, serif;">Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/">Sikkim University</a>, a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled <em>"Nets and Filters in Topology"</em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2">Dr. Namita Behera</a>. I completed my undergraduate studies at <a href="https://nbbgc.org/">Nar Bahadur Bhandari Government College</a>, <p style="font-family: Georgia, serif;">
+  I was affiliated with Sikkim University, and my undergraduate project is titled 
+  <em><span style="color: green; font-weight: bold;">"Foundations of Set Theory: The Zermelo–Fraenkel Axioms with Choice"</span></em>.
+</p>
   <p style="font-family: Georgia, serif;">I am also deeply interested in teaching, outreach, and sharing ideas. I have worked as a teaching assistant at IIIT Delhi and as a guest lecturer at Sikkim Global Technical University. I enjoy participating in mathematics Olympiad training camps, workshops, and mentoring students.</p>
 
 <p style="font-family: Georgia, serif;">
