@@ -48,7 +48,21 @@ classes: wide
 
   <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
 
-  <p style="font-family: Georgia, serif;">My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the <a href="https://www.iiitd.ac.in/people/phd/current">Indraprastha Institute of Information Technology Delhi (IIIT Delhi)</a>, working under the supervision of <a href="https://www.iiitd.ac.in/prahllad">Dr. Prahllad Deb</a>. I joined IIIT Delhi after being awarded the <a href="https://online-inspire.gov.in/">INSPIRE Research Fellowship</a> by the Department of Science and Technology (DST), Government of India.</p>
+ <p style="font-family: Georgia, serif;">
+  My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the 
+  <a href="https://www.iiitd.ac.in/people/phd/current" style="color: green; font-weight: bold;">
+    Indraprastha Institute of Information Technology Delhi (IIIT Delhi)
+  </a>, 
+  working under the supervision of 
+  <a href="https://www.iiitd.ac.in/prahllad" style="color: green; font-weight: bold;">
+    Dr. Prahllad Deb
+  </a>. 
+  I joined IIIT Delhi after being awarded the 
+  <a href="https://online-inspire.gov.in/" style="color: green; font-weight: bold;">
+    INSPIRE Research Fellowship
+  </a> 
+  by the Department of Science and Technology (DST), Government of India.
+</p>
 
 <p style="font-family: Georgia, serif;">
 My research interests lie in <strong>
@@ -101,15 +115,22 @@ and its interplay with
 </p>
 <p style="font-family: Georgia, serif;">
 <p style="font-family: Georgia, serif;">
+  
+ <p style="font-family: Georgia, serif;">
   Going forward, I plan to delve deeper into 
-  <a href="https://en.wikipedia.org/wiki/Spectral_theory" style="font-weight: bold;">Spectral Theory</a>, 
-  <a href="https://en.wikipedia.org/wiki/Representation_theory" style="font-weight: bold;">Representation Theory</a>, 
-  the <strong><a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)">Lean Programming Language</a></strong>, 
+  <a href="https://en.wikipedia.org/wiki/Spectral_theory" style="color: green; font-weight: bold;">Spectral Theory</a>, 
+  <a href="https://en.wikipedia.org/wiki/Representation_theory" style="color: green; font-weight: bold;">Representation Theory</a>, 
+  the <a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)" style="color: green; font-weight: bold;">Lean Programming Language</a>, 
   and an introduction to 
-  <strong><a href="https://en.wikipedia.org/wiki/Machine_learning">Machine Learning (ML)</a></strong>.
+  <a href="https://en.wikipedia.org/wiki/Machine_learning" style="color: green; font-weight: bold;">Machine Learning (ML)</a>.
 </p>
-
-  <p style="font-family: Georgia, serif;">I am also keenly interested in subjects such as <a href="https://en.wikipedia.org/wiki/Measure_theory">Measure Theory</a> and <a href="https://en.wikipedia.org/wiki/General_topology">General Topology</a>, which continue to shape my mathematical perspective.</p>
+ <p style="font-family: Georgia, serif;">
+  I am also keenly interested in subjects such as 
+  <a href="https://en.wikipedia.org/wiki/Measure_theory" style="color: green; font-weight: bold;">Measure Theory</a> 
+  and 
+  <a href="https://en.wikipedia.org/wiki/General_topology" style="color: green; font-weight: bold;">General Topology</a>, 
+  which continue to shape my mathematical perspective.
+</p>
 
   <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
 
