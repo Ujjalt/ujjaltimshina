@@ -210,6 +210,19 @@ Outside of academics, I enjoy writing blogs, exploring web design and coding, an
     />
   </div>
 
-  <p><strong><span style="color:green;">Mountains. Solitude. Breath. Peace.</span></strong></p>
+
+<div align="center" style="margin: 20px 0;">
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/239aaec9f51e03e9b8253bdb175965861c10c604/images/Final.png"
+    alt="Final Image"
+    width="340"
+    style="border-radius: 6px;"
+  />
+</div>
 
 
+<div style="border: 1px solid #2f4f2f; border-radius: 8px; padding: 14px 18px; margin: 20px 0; text-align: center; background-color: #f6faf6;">
+  <p style="margin: 0; font-family: Georgia, serif; font-weight: bold; color: #2f4f2f;">
+    Mountains. Solitude. Breath. Peace.
+  </p>
+</div>
