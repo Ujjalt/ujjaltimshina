@@ -61,6 +61,8 @@ Over the years I have represented a minority of philosophers who preferred the o
 — Willard Van Orman Quine, <em>Theories and Things</em> (1981), p. 110
 </p>
 
+
+
   <p style="font-family: Georgia, serif;">Paul Halmos once said:
   <strong><span style="color:green;">"The only way to learn mathematics is to do mathematics."</span></strong></p>
 
