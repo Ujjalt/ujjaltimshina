@@ -72,60 +72,120 @@ Over the years I have represented a minority of philosophers who preferred the o
 
   <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
 
-<p style="font-family: Georgia, serif; color: #4a3b2a;">
+<p style="font-family: Georgia, serif; color: #2f4f2f;">
   My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the 
-  <a href="https://www.iiitd.ac.in/people/phd/current" style="color: #6b4f2a; font-weight: bold;">
+  <a href="https://www.iiitd.ac.in/people/phd/current" style="color: #1f7a1f; font-weight: bold;">
     Indraprastha Institute of Information Technology Delhi (IIIT Delhi)
   </a>, 
   working under the supervision of 
-  <a href="https://www.iiitd.ac.in/prahllad" style="color: #6b4f2a; font-weight: bold;">
+  <a href="https://www.iiitd.ac.in/prahllad" style="color: #1f7a1f; font-weight: bold;">
     Dr. Prahllad Deb
   </a>. 
   I joined IIIT Delhi after being awarded the 
-  <a href="https://online-inspire.gov.in/" style="color: #6b4f2a; font-weight: bold;">
+  <a href="https://online-inspire.gov.in/" style="color: #1f7a1f; font-weight: bold;">
     INSPIRE Research Fellowship
   </a> 
   by the Department of Science and Technology (DST), Government of India.
 </p>
 
-<p style="font-family: Georgia, serif; color: #4a3b2a;">
+<p style="font-family: Georgia, serif; color: #2f4f2f;">
 My research interests lie in <strong>
-<a href="https://en.wikipedia.org/wiki/Functional_analysis" style="color: #6b4f2a; font-weight: bold;">Functional Analysis</a>, 
-<a href="https://en.wikipedia.org/wiki/Operator_theory" style="color: #6b4f2a; font-weight: bold;">Multivariable Operator Theory</a> and 
-<a href="https://en.wikipedia.org/wiki/Complex_analysis" style="color: #6b4f2a; font-weight: bold;">Complex Analysis</a>
+<a href="https://en.wikipedia.org/wiki/Functional_analysis" style="color: #1f7a1f; font-weight: bold;">Functional Analysis</a>, 
+<a href="https://en.wikipedia.org/wiki/Operator_theory" style="color: #1f7a1f; font-weight: bold;">Multivariable Operator Theory</a> and 
+<a href="https://en.wikipedia.org/wiki/Complex_analysis" style="color: #1f7a1f; font-weight: bold;">Complex Analysis</a>
 </strong> with a focus on the 
-<a href="https://en.wikipedia.org/wiki/Cowen%E2%80%93Douglas_operators" style="color: #6b4f2a; font-weight: bold;">Cowen–Douglas theory of operators</a> 
+<a href="https://en.wikipedia.org/wiki/Cowen%E2%80%93Douglas_operators" style="color: #1f7a1f; font-weight: bold;">Cowen–Douglas theory of operators</a> 
 and its interplay with 
-<a href="https://en.wikipedia.org/wiki/Complex_geometry" style="color: #6b4f2a; font-weight: bold;">Complex Geometry</a> and 
-<a href="https://en.wikipedia.org/wiki/Differential_geometry" style="color: #6b4f2a; font-weight: bold;">Differential Geometry</a>.
+<a href="https://en.wikipedia.org/wiki/Complex_geometry" style="color: #1f7a1f; font-weight: bold;">Complex Geometry</a> and 
+<a href="https://en.wikipedia.org/wiki/Differential_geometry" style="color: #1f7a1f; font-weight: bold;">Differential Geometry</a>.
 </p>
 
-<p style="font-family: Georgia, serif; color: #4a3b2a;">
+<p style="font-family: Georgia, serif; color: #2f4f2f;">
   I am open to discussions and research collaborations in areas such as 
-  <a style="color: #6b4f2a; font-weight: bold;">Operator Theory</a>, 
-  <a style="color: #6b4f2a; font-weight: bold;">Reproducing Kernel Hilbert Spaces</a>, 
-  <a style="color: #6b4f2a; font-weight: bold;">Complex Analysis</a>, 
-  <a style="color: #6b4f2a; font-weight: bold;">Complex Geometry</a>, 
-  as well as 
-  <a style="color: #6b4f2a; font-weight: bold;">General Topology and Geometry</a>.
+  <a style="color: #1f7a1f; font-weight: bold;">Operator Theory</a>, 
+  <a style="color: #1f7a1f; font-weight: bold;">Reproducing Kernel Hilbert Spaces</a>, 
+  <a style="color: #1f7a1f; font-weight: bold;">Complex Analysis</a>, 
+  <a style="color: #1f7a1f; font-weight: bold;">Complex Geometry</a>, 
+  as well as in 
+  <a style="color: #1f7a1f; font-weight: bold;">General Topology and Geometry</a>, 
+  which I am actively learning.
 </p>
 
-  <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
+<hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
 
-  <p style="font-family: Georgia, serif;">For me, research is a quiet and careful journey into abstract ideas—guided not only by logic but also by curiosity, patience, and a willingness to accept uncertainty.</p>
+<p style="font-family: Georgia, serif; color: #2f4f2f;">
+I am working on the classification of homogeneous operators in the Cowen–Douglas class B_r(Ω) of certain rank up to unitary equivalence. This problem lies at the intersection of operator theory and complex geometry and seeks to understand how symmetry and representation-theoretic properties influence the structure of operators within the Cowen–Douglas framework.
+</p>
 
-  <p style="font-family: Georgia, serif;">We forget, make mistakes, and return — not as failure, but as part of learning.<br>
-  Understanding does not come all at once; it grows step by step, through patience and reflection.</p>
+<p style="font-family: Georgia, serif; color: #2f4f2f;">
+The study of homogeneous operators is central to understanding geometric models of Hilbert space operators, where each operator can be associated with a homogeneous holomorphic Hermitian vector bundle over a complex domain.
+</p>
 
-  <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
+<p style="font-family: Georgia, serif; color: #2f4f2f;">
+My current research focuses on describing these operators using the actions of Lie groups and identifying invariants that determine their equivalence classes under unitary transformations.
+</p>
 
-  <p style="font-family: Georgia, serif;">"I enjoy reading the elegantly written articles and lecture notes available at Terry Tao's blog 
-  <a href="https://terrytao.wordpress.com/">here</a> and the Mathematics site by J.S. Milne 
-  <a href="https://www.jmilne.org/math/">here</a>."</p>
+<p style="font-family: Georgia, serif; color: #2f4f2f;">
+  I am planning to study 
+  <span style="font-weight: bold;">Probabilistic Measure Theory</span> and 
+  <span style="font-weight: bold;">Banach Algebra Techniques in Operator Theory</span> 
+  in the upcoming semester.
+</p>
 
-  <p style="font-family: Georgia, serif;">There is no real gap between pure and applied mathematics. What we call "pure" and "applied" are only different ways of looking at the same ideas. Every branch of mathematics is deeply connected, and concepts developed for abstraction often become the language of applications, while applied problems constantly generate new pure theory.</p>
+<p style="font-family: Georgia, serif; color: #2f4f2f;">
+  I have completed doctoral-level coursework in 
+  <span style="font-weight: bold;">Reproducing Kernel Hilbert Spaces (RKHS)</span>, 
+  <span style="font-weight: bold;">the complex-analytic theory underlying elliptic curves and modular forms</span>, 
+  <span style="font-weight: bold;">Topics in Functional Analysis: Operator Algebras</span>, 
+  <span style="font-weight: bold;">Functional Analysis</span>, 
+  <span style="font-weight: bold;">Complex Analysis</span>, 
+  <span style="font-weight: bold;">Several Complex Variables</span>, 
+  <span style="font-weight: bold;">Introduction to Non-commutative Function Theory</span>, and 
+  <span style="font-weight: bold;">Matrix Groups</span>.
+</p>
 
-  <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
+<p style="font-family: Georgia, serif; color: #2f4f2f;">
+  Going forward, I plan to delve deeper into 
+  <a href="https://en.wikipedia.org/wiki/Spectral_theory" style="color: #1f7a1f; font-weight: bold;">Spectral Theory</a>, 
+  <a href="https://en.wikipedia.org/wiki/Representation_theory" style="color: #1f7a1f; font-weight: bold;">Representation Theory</a>, 
+  the <a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)" style="color: #1f7a1f; font-weight: bold;">Lean Programming Language</a>, 
+  and an introduction to 
+  <a href="https://en.wikipedia.org/wiki/Machine_learning" style="color: #1f7a1f; font-weight: bold;">Machine Learning (ML)</a>.
+</p>
+
+<p style="font-family: Georgia, serif; color: #2f4f2f;">
+  I am also keenly interested in subjects such as 
+  <a href="https://en.wikipedia.org/wiki/Measure_theory" style="color: #1f7a1f; font-weight: bold;">Measure Theory</a> 
+  and 
+  <a href="https://en.wikipedia.org/wiki/General_topology" style="color: #1f7a1f; font-weight: bold;">General Topology</a>, 
+  which continue to shape my mathematical perspective.
+</p>
+
+<hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
+
+<p style="font-family: Georgia, serif; color: #2f4f2f;">
+Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/" style="color: #1f7a1f; font-weight: bold;">Sikkim University</a>, a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled <em><span style="font-weight: bold;">"Nets and Filters in Topology"</span></em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2" style="color: #1f7a1f; font-weight: bold;">Dr. Namita Behera</a>. I completed my undergraduate studies at <a href="https://nbbgc.org/" style="color: #1f7a1f; font-weight: bold;">Nar Bahadur Bhandari Government College</a>.
+</p>
+
+<p style="font-family: Georgia, serif; color: #2f4f2f;">
+  I was affiliated with Sikkim University, and my undergraduate project is titled 
+  <em><span style="font-weight: bold;">"Foundations of Set Theory: The Zermelo–Fraenkel Axioms with Choice"</span></em>.
+</p>
+
+<p style="font-family: Georgia, serif; color: #2f4f2f;">
+I am also deeply interested in teaching, outreach, and sharing ideas. I have worked as a teaching assistant at IIIT Delhi and as a guest lecturer at Sikkim Global Technical University. I enjoy participating in mathematics Olympiad training camps, workshops, and mentoring students.
+</p>
+
+<p style="font-family: Georgia, serif; color: #2f4f2f;">
+  I have authored a book, 
+  <span style="font-weight: bold;">Beyond Answers: Beauty of Mathematical Questions</span>. 
+  It was my first attempt at writing and not perfect, but it reflects my interest in learning through questions. 
+  The book is available on Amazon and Notion Press.
+</p>
+
+<p style="font-family: Georgia, serif; color: #2f4f2f;">
+Outside of academics, I enjoy writing blogs, exploring web design and coding, and learning about open educational technologies. A selection of my talks and presentations (some with slides) is available <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/slides-selected-talks" style="color: #1f7a1f; font-weight: bold;">here</a>. My updated CV can be accessed <a href="https://drive.google.com/drive/folders/1GEbPbSA5sfkBQYyckeMoTF3b4LUb8NJ9?usp=drive_link" style="color: #1f7a1f; font-weight: bold;">here</a> <em>(last updated: 31st August 2025)</em>.
+</p>
 
   <p style="font-family: Georgia, serif;"><strong>When rigor takes a coffee break.</strong></p>
 
