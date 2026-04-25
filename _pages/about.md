@@ -53,15 +53,15 @@ classes: wide
 
 <p style="font-family: Georgia, serif;">
   My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the 
-  <a href="https://www.iiitd.ac.in/people/phd/current" style="color: #4da6ff; font-weight: bold;">
+  <a href="https://www.iiitd.ac.in/people/phd/current" style="color: green; font-weight: bold;">
     Indraprastha Institute of Information Technology Delhi (IIIT Delhi)
   </a>, 
   working under the supervision of 
-  <a href="https://www.iiitd.ac.in/prahllad" style="color: #4da6ff; font-weight: bold;">
+  <a href="https://www.iiitd.ac.in/prahllad" style="color: green; font-weight: bold;">
     Dr. Prahllad Deb
   </a>. 
   I joined IIIT Delhi after being awarded the 
-  <a href="https://online-inspire.gov.in/" style="color: #4da6ff; font-weight: bold;">
+  <a href="https://online-inspire.gov.in/" style="color: green; font-weight: bold;">
     INSPIRE Research Fellowship
   </a> 
   by the Department of Science and Technology (DST), Government of India.
@@ -69,66 +69,82 @@ classes: wide
 
 <p style="font-family: Georgia, serif;">
 My research interests lie in <strong>
-<a href="https://en.wikipedia.org/wiki/Functional_analysis" style="color: #4da6ff; font-weight: bold;">Functional Analysis</a>, 
-<a href="https://en.wikipedia.org/wiki/Operator_theory" style="color: #4da6ff; font-weight: bold;">Multivariable Operator Theory</a> and 
-<a href="https://en.wikipedia.org/wiki/Complex_analysis" style="color: #4da6ff; font-weight: bold;">Complex Analysis</a>
+<a href="https://en.wikipedia.org/wiki/Functional_analysis" style="color: green; font-weight: bold;">Functional Analysis</a>, 
+<a href="https://en.wikipedia.org/wiki/Operator_theory" style="color: green; font-weight: bold;">Multivariable Operator Theory</a> and 
+<a href="https://en.wikipedia.org/wiki/Complex_analysis" style="color: green; font-weight: bold;">Complex Analysis</a>
 </strong> with a focus on the 
-<a href="https://en.wikipedia.org/wiki/Cowen%E2%80%93Douglas_operators" style="color: #4da6ff; font-weight: bold;">Cowen–Douglas theory of operators</a> 
+<a href="https://en.wikipedia.org/wiki/Cowen%E2%80%93Douglas_operators" style="color: green; font-weight: bold;">Cowen–Douglas theory of operators</a> 
 and its interplay with 
-<a href="https://en.wikipedia.org/wiki/Complex_geometry" style="color: #4da6ff; font-weight: bold;">Complex Geometry</a> and 
-<a href="https://en.wikipedia.org/wiki/Differential_geometry" style="color: #4da6ff; font-weight: bold;">Differential Geometry</a>.
+<a href="https://en.wikipedia.org/wiki/Complex_geometry" style="color: green; font-weight: bold;">Complex Geometry</a> and 
+<a href="https://en.wikipedia.org/wiki/Differential_geometry" style="color: green; font-weight: bold;">Differential Geometry</a>.
 </p>
 
 <p style="font-family: Georgia, serif;">
   I am open to discussions and research collaborations in areas such as 
-  <a style="color: #4da6ff; font-weight: bold;">Operator Theory</a>, 
-  <a style="color: #4da6ff; font-weight: bold;">Reproducing Kernel Hilbert Spaces</a>, 
-  <a style="color: #4da6ff; font-weight: bold;">Complex Analysis</a>, 
-  <a style="color: #4da6ff; font-weight: bold;">Complex Geometry</a>, 
+  <a style="color: green; font-weight: bold;">Operator Theory</a>, 
+  <a style="color: green; font-weight: bold;">Reproducing Kernel Hilbert Spaces</a>, 
+  <a style="color: green; font-weight: bold;">Complex Analysis</a> 
+  (both single and several variables), 
+  <a style="color: green; font-weight: bold;">Complex Geometry</a>, 
   as well as in 
-  <a style="color: #4da6ff; font-weight: bold;">General Topology and Geometry</a>, 
+  <a style="color: green; font-weight: bold;">General Topology and Geometry</a>, 
   which I am actively learning.
-</p>
-
-<p style="font-family: Georgia, serif;">
-  I am planning to study 
-  <span style="color: #4da6ff; font-weight: bold;">Probabilistic Measure Theory</span> and 
-  <span style="color: #4da6ff; font-weight: bold;">Banach Algebra Techniques in Operator Theory</span> 
-  in the upcoming semester.
-</p>
-
-<p style="font-family: Georgia, serif;">
-  I have completed doctoral-level coursework in 
-  <span style="color: #4da6ff; font-weight: bold;">Reproducing Kernel Hilbert Spaces (RKHS)</span>, 
-  <span style="color: #4da6ff; font-weight: bold;">the complex-analytic theory underlying elliptic curves and modular forms</span>, 
-  <span style="color: #4da6ff; font-weight: bold;">Topics in Functional Analysis: Operator Algebras</span>, 
-  <span style="color: #4da6ff; font-weight: bold;">Functional Analysis</span>, 
-  <span style="color: #4da6ff; font-weight: bold;">Complex Analysis</span>, 
-  <span style="color: #4da6ff; font-weight: bold;">Several Complex Variables</span>, 
-  <span style="color: #4da6ff; font-weight: bold;">Introduction to Non-commutative Function Theory</span>, and 
-  <span style="color: #4da6ff; font-weight: bold;">Matrix Groups</span>.
-</p>
-
-<p style="font-family: Georgia, serif;">
-  Going forward, I plan to delve deeper into 
-  <a href="https://en.wikipedia.org/wiki/Spectral_theory" style="color: #4da6ff; font-weight: bold;">Spectral Theory</a>, 
-  <a href="https://en.wikipedia.org/wiki/Representation_theory" style="color: #4da6ff; font-weight: bold;">Representation Theory</a>, 
-  the <a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)" style="color: #4da6ff; font-weight: bold;">Lean Programming Language</a>, 
-  and an introduction to 
-  <a href="https://en.wikipedia.org/wiki/Machine_learning" style="color: #4da6ff; font-weight: bold;">Machine Learning (ML)</a>.
-</p>
-
-<p style="font-family: Georgia, serif;">
-  I am also keenly interested in subjects such as 
-  <a href="https://en.wikipedia.org/wiki/Measure_theory" style="color: #4da6ff; font-weight: bold;">Measure Theory</a> 
-  and 
-  <a href="https://en.wikipedia.org/wiki/General_topology" style="color: #4da6ff; font-weight: bold;">General Topology</a>.
 </p>
 
 <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
 
 <p style="font-family: Georgia, serif;">
-Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/">Sikkim University</a>, a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled <em>"Nets and Filters in Topology"</em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2">Dr. Namita Behera</a>. I completed my undergraduate studies at <a href="https://nbbgc.org/">Nar Bahadur Bhandari Government College</a>, 
+I am working on the classification of homogeneous operators in the Cowen–Douglas class B_r(Ω) of certain rank up to unitary equivalence. This problem lies at the intersection of operator theory and complex geometry and seeks to understand how symmetry and representation-theoretic properties influence the structure of operators within the Cowen–Douglas framework.
+</p>
+
+<p style="font-family: Georgia, serif;">
+The study of homogeneous operators is central to understanding geometric models of Hilbert space operators, where each operator can be associated with a homogeneous holomorphic Hermitian vector bundle over a complex domain.
+</p>
+
+<p style="font-family: Georgia, serif;">
+My current research focuses on describing these operators using the actions of Lie groups and identifying invariants that determine their equivalence classes under unitary transformations.
+</p>
+
+<p style="font-family: Georgia, serif;">
+  I am planning to study 
+  <span style="color: green; font-weight: bold;">Probabilistic Measure Theory</span> and 
+  <span style="color: green; font-weight: bold;">Banach Algebra Techniques in Operator Theory</span> 
+  in the upcoming semester.
+</p>
+
+<p style="font-family: Georgia, serif;">
+  I have completed doctoral-level coursework in 
+  <span style="color: green; font-weight: bold;">Reproducing Kernel Hilbert Spaces (RKHS)</span>, 
+  <span style="color: green; font-weight: bold;">the complex-analytic theory underlying elliptic curves and modular forms</span>, 
+  <span style="color: green; font-weight: bold;">Topics in Functional Analysis: Operator Algebras</span>, 
+  <span style="color: green; font-weight: bold;">Functional Analysis</span>, 
+  <span style="color: green; font-weight: bold;">Complex Analysis</span>, 
+  <span style="color: green; font-weight: bold;">Several Complex Variables</span>, 
+  <span style="color: green; font-weight: bold;">Introduction to Non-commutative Function Theory</span>, and 
+  <span style="color: green; font-weight: bold;">Matrix Groups</span>.
+</p>
+
+<p style="font-family: Georgia, serif;">
+  Going forward, I plan to delve deeper into 
+  <a href="https://en.wikipedia.org/wiki/Spectral_theory" style="color: green; font-weight: bold;">Spectral Theory</a>, 
+  <a href="https://en.wikipedia.org/wiki/Representation_theory" style="color: green; font-weight: bold;">Representation Theory</a>, 
+  the <a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)" style="color: green; font-weight: bold;">Lean Programming Language</a>, 
+  and an introduction to 
+  <a href="https://en.wikipedia.org/wiki/Machine_learning" style="color: green; font-weight: bold;">Machine Learning (ML)</a>.
+</p>
+
+<p style="font-family: Georgia, serif;">
+  I am also keenly interested in subjects such as 
+  <a href="https://en.wikipedia.org/wiki/Measure_theory" style="color: green; font-weight: bold;">Measure Theory</a> 
+  and 
+  <a href="https://en.wikipedia.org/wiki/General_topology" style="color: green; font-weight: bold;">General Topology</a>, 
+  which continue to shape my mathematical perspective.
+</p>
+
+<hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
+
+<p style="font-family: Georgia, serif;">
+Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/">Sikkim University</a>, a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My <span style="color: green; font-weight: bold;">master's thesis</span>, titled <em>"Nets and Filters in Topology"</em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2">Dr. Namita Behera</a>. I completed my undergraduate studies at <a href="https://nbbgc.org/">Nar Bahadur Bhandari Government College</a>.
 </p>
 
 <p style="font-family: Georgia, serif;">
