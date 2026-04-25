@@ -60,7 +60,7 @@ Over the years I have represented a minority of philosophers who preferred the o
 ">
 — Willard Van Orman Quine, <em>Theories and Things</em> (1981), p. 110
 </p>
-
+</div>
 
 
   <p style="font-family: Georgia, serif;">Paul Halmos once said:
