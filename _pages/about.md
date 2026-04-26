@@ -1,12 +1,12 @@
 ---
-permalink: /
+layout: single
 title: "Ujjal Timshina"
+permalink: /
 author_profile: true
-redirect_from: 
+classes: wide
+redirect_from:
   - /about/
   - /about.html
-layout: single
-classes: wide 
 ---
 
 <div style="font-family: Georgia, serif; text-align: justify;">
