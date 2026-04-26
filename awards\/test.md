@@ -21,7 +21,6 @@ author_profile: true
     <strong>University Gold Medal</strong> — For securing the highest CGPA (9.81) in M.Sc. Mathematics, Sikkim University (2023).
   </div>
 
-
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
     <strong>NEC Merit Scholarship</strong> — Government of India (2022–23), for meritorious students from the North Eastern Region.
   </div>
@@ -48,4 +47,4 @@ author_profile: true
 
 </div>
 
-<hr>
+<hr style="border: 0; height: 2px; background-color: #064d17; margin-top: 25px;">
