@@ -92,15 +92,15 @@ Over the years I have represented a minority of philosophers who preferred the o
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
   My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the 
-  <a href="https://www.iiitd.ac.in/people/phd/current" style="color: #1f7a1f; font-weight: bold;">
+  <a href="https://www.iiitd.ac.in/people/phd/current" style="color: #0b3d0b; font-weight: bold;">
     Indraprastha Institute of Information Technology Delhi (IIIT Delhi)
   </a>, 
   working under the supervision of 
-  <a href="https://www.iiitd.ac.in/prahllad" style="color: #1f7a1f; font-weight: bold;">
+  <a href="https://www.iiitd.ac.in/prahllad" style="color: #0b3d0b; font-weight: bold;">
     Dr. Prahllad Deb
   </a>. 
   I joined IIIT Delhi after being awarded the 
-  <a href="https://online-inspire.gov.in/" style="color: #1f7a1f; font-weight: bold;">
+  <a href="https://online-inspire.gov.in/" style="color: #0b3d0b; font-weight: bold;">
     INSPIRE Research Fellowship
   </a> 
   by the Department of Science and Technology (DST), Government of India.
@@ -108,24 +108,24 @@ Over the years I have represented a minority of philosophers who preferred the o
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
 My research interests lie in <strong>
-<a href="https://en.wikipedia.org/wiki/Functional_analysis" style="color: #1f7a1f; font-weight: bold;">Functional Analysis</a>, 
-<a href="https://en.wikipedia.org/wiki/Operator_theory" style="color: #1f7a1f; font-weight: bold;">Multivariable Operator Theory</a> and 
-<a href="https://en.wikipedia.org/wiki/Complex_analysis" style="color: #1f7a1f; font-weight: bold;">Complex Analysis</a>
+<a href="https://en.wikipedia.org/wiki/Functional_analysis" style="color: #0b3d0b; font-weight: bold;">Functional Analysis</a>, 
+<a href="https://en.wikipedia.org/wiki/Operator_theory" style="color: #0b3d0b; font-weight: bold;">Multivariable Operator Theory</a> and 
+<a href="https://en.wikipedia.org/wiki/Complex_analysis" style="color: #0b3d0b; font-weight: bold;">Complex Analysis</a>
 </strong> with a focus on the 
-<a href="https://en.wikipedia.org/wiki/Cowen%E2%80%93Douglas_operators" style="color: #1f7a1f; font-weight: bold;">Cowen–Douglas theory of operators</a> 
+<a href="https://en.wikipedia.org/wiki/Cowen%E2%80%93Douglas_operators" style="color: #0b3d0b; font-weight: bold;">Cowen–Douglas theory of operators</a> 
 and its interplay with 
-<a href="https://en.wikipedia.org/wiki/Complex_geometry" style="color: #1f7a1f; font-weight: bold;">Complex Geometry</a> and 
-<a href="https://en.wikipedia.org/wiki/Differential_geometry" style="color: #1f7a1f; font-weight: bold;">Differential Geometry</a>.
+<a href="https://en.wikipedia.org/wiki/Complex_geometry" style="color: #0b3d0b; font-weight: bold;">Complex Geometry</a> and 
+<a href="https://en.wikipedia.org/wiki/Differential_geometry" style="color: #0b3d0b; font-weight: bold;">Differential Geometry</a>.
 </p>
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
   I am open to discussions and research collaborations in areas such as 
-  <a style="color: #1f7a1f; font-weight: bold;">Operator Theory</a>, 
-  <a style="color: #1f7a1f; font-weight: bold;">Reproducing Kernel Hilbert Spaces</a>, 
-  <a style="color: #1f7a1f; font-weight: bold;">Complex Analysis</a>, 
-  <a style="color: #1f7a1f; font-weight: bold;">Complex Geometry</a>, 
+  <a style="color: #0b3d0b; font-weight: bold;">Operator Theory</a>, 
+  <a style="color: #0b3d0b; font-weight: bold;">Reproducing Kernel Hilbert Spaces</a>, 
+  <a style="color: #0b3d0b; font-weight: bold;">Complex Analysis</a>, 
+  <a style="color: #0b3d0b; font-weight: bold;">Complex Geometry</a>, 
   as well as in 
-  <a style="color: #1f7a1f; font-weight: bold;">General Topology and Geometry</a>, 
+  <a style="color: #0b3d0b; font-weight: bold;">General Topology and Geometry</a>, 
   which I am actively learning.
 </p>
 
@@ -164,27 +164,27 @@ My current research focuses on describing these operators using the actions of L
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
   Going forward, I plan to delve deeper into 
-  <a href="https://en.wikipedia.org/wiki/Spectral_theory" style="color: #1f7a1f; font-weight: bold;">Spectral Theory</a>, 
-  <a href="https://en.wikipedia.org/wiki/Representation_theory" style="color: #1f7a1f; font-weight: bold;">Representation Theory</a>, 
-  the <a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)" style="color: #1f7a1f; font-weight: bold;">Lean Programming Language</a>, 
+  <a href="https://en.wikipedia.org/wiki/Spectral_theory" style="color: #0b3d0b; font-weight: bold;">Spectral Theory</a>, 
+  <a href="https://en.wikipedia.org/wiki/Representation_theory" style="color: #0b3d0b; font-weight: bold;">Representation Theory</a>, 
+  the <a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)" style="color: #0b3d0b; font-weight: bold;">Lean Programming Language</a>, 
   and an introduction to 
-  <a href="https://en.wikipedia.org/wiki/Machine_learning" style="color: #1f7a1f; font-weight: bold;">Machine Learning (ML)</a>.
+  <a href="https://en.wikipedia.org/wiki/Machine_learning" style="color: #0b3d0b; font-weight: bold;">Machine Learning (ML)</a>.
 </p>
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
   I am also keenly interested in subjects such as 
-  <a href="https://en.wikipedia.org/wiki/Measure_theory" style="color: #1f7a1f; font-weight: bold;">Measure Theory</a> 
+  <a href="https://en.wikipedia.org/wiki/Measure_theory" style="color: #0b3d0b; font-weight: bold;">Measure Theory</a> 
   and 
-  <a href="https://en.wikipedia.org/wiki/General_topology" style="color: #1f7a1f; font-weight: bold;">General Topology</a>, 
+  <a href="https://en.wikipedia.org/wiki/General_topology" style="color: #0b3d0b; font-weight: bold;">General Topology</a>, 
   which continue to shape my mathematical perspective.
 </p>
 
 <hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
-Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/" style="color: #1f7a1f; font-weight: bold;">Sikkim University</a>, a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis,titled 
+Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/" style="color: #0b3d0b; font-weight: bold;">Sikkim University</a>, a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled 
 <em> <span style="font-style: italic; font-weight: bold; color: #2f4f2f;">
-    "Nets and Filters in Topology" </span> </em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2" style="color: #1f7a1f; font-weight: bold;">Dr. Namita Behera</a>. I completed my undergraduate studies at <a href="https://nbbgc.org/" style="color: #1f7a1f; font-weight: bold;">Nar Bahadur Bhandari Government College</a>.
+    "Nets and Filters in Topology" </span> </em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2" style="color: #0b3d0b; font-weight: bold;">Dr. Namita Behera</a>. I completed my undergraduate studies at <a href="https://nbbgc.org/" style="color: #0b3d0b; font-weight: bold;">Nar Bahadur Bhandari Government College</a>.
 </p>
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
