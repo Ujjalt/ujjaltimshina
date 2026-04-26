@@ -235,6 +235,15 @@ Outside of academics, I enjoy writing blogs, exploring web design and coding, an
   />
 </div>
 
+<div align="center" style="margin: 20px 0;">
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/c1a558d4214f968543534979f32f2ac2034163c4/images/qed.jpg"
+    alt="QED Image"
+    width="340"
+    style="border-radius: 6px;"
+  />
+</div>
+
 
 <div style="border: 1px solid #2f4f2f; border-radius: 8px; padding: 14px 18px; margin: 20px 0; text-align: center; background-color: #f6faf6;">
   <p style="margin: 0; font-family: Georgia, serif; font-weight: bold; color: #2f4f2f;">
