@@ -152,7 +152,6 @@ My current research focuses on describing these operators using the actions of L
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
   I have completed doctoral-level coursework in 
   Reproducing Kernel Hilbert Spaces (RKHS), 
-  the complex-analytic theory underlying elliptic curves and modular forms, 
   Topics in Functional Analysis: Operator Algebras, 
   Functional Analysis, 
   Complex Analysis, 
