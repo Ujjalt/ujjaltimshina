@@ -163,10 +163,8 @@ My current research focuses on describing these operators using the actions of L
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
   Going forward, I plan to delve deeper into 
   <a href="https://en.wikipedia.org/wiki/Spectral_theory" style="color: #145a32; font-weight: bold; text-decoration: none;">Spectral Theory</a>, 
-  <a href="https://en.wikipedia.org/wiki/Representation_theory" style="color: #145a32; font-weight: bold; text-decoration: none;">Representation Theory</a>, 
-  the <a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)" style="color: #145a32; font-weight: bold; text-decoration: none;">Lean Programming Language</a>, 
-  and an introduction to 
-  <a href="https://en.wikipedia.org/wiki/Machine_learning" style="color: #145a32; font-weight: bold; text-decoration: none;">Machine Learning (ML)</a>.
+  <a href="https://en.wikipedia.org/wiki/Representation_theory" style="color: #145a32; font-weight: bold; text-decoration: none;">Representation Theory</a> and 
+  the <a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)" style="color: #145a32; font-weight: bold; text-decoration: none;">Lean Programming Language</a>.
 </p>
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
