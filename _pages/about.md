@@ -141,6 +141,7 @@ The study of homogeneous operators is central to understanding geometric models 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
 My current research focuses on describing these operators using the actions of Lie groups and identifying invariants that determine their equivalence classes under unitary transformations.
 </p>
+<hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
   I am planning to study 
