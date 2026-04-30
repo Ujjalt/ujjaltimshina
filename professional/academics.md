@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 <!-- ===== Heading 1 ===== -->
+## Professional Memberships
+
+- **Institute of Mathematical Statistics (IMS)** — Member (Student Membership ID: 38250, valid through Dec 2025)  
+  [Institute of Mathematical Statistics — Wikipedia](https://en.wikipedia.org/wiki/Institute_of_Mathematical_Statistics)
+  
 <div style="background: #d9e8ff; padding: 18px 25px; border-radius: 10px; margin-bottom: 18px; margin-top: 10px;">
   <h2 style="margin: 0; font-family: Georgia, serif; font-size: 26px; color: #1a3d7c; text-align: center;">
     Academic Leadership & Organization
