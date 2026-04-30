@@ -205,6 +205,9 @@ I am also deeply interested in teaching, outreach, and sharing ideas. I have wor
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
 Outside of academics, I enjoy writing blogs, exploring web design and coding, and learning about open educational technologies. A selection of my talks and presentations (some with slides) is available <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/slides-selected-talks" style="color: #1f7a1f; font-weight: bold;">here</a>. My updated CV can be accessed <a href="https://drive.google.com/drive/folders/1GEbPbSA5sfkBQYyckeMoTF3b4LUb8NJ9?usp=drive_link" style="color: #1f7a1f; font-weight: bold;">here</a> <em>(last updated: 31st August 2025)</em>.
 </p>
+<hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
+
+I have always admired writing that treats ideas with both seriousness and genuine enthusiasm—the kind of clear, carefully argued exposition one finds in [Terry Tao](https://terrytao.wordpress.com/category/teaching/246c-complex-analysis/)'s lecture notes, the precise and reliable structure of [J. S. Milne](https://www.jmilne.org/math/)'s texts, and the conversational yet insightful reflections of [Timothy Gowers](https://gowers.wordpress.com/). Their work shares a common trait: a deep passion for understanding, expressed without unnecessary complication or ornament. It is this style—focused, disciplined, and quietly driven—that I aspire to follow in my own notes and posts.
 
  <div style="border: 1px solid #2f4f2f; border-radius: 8px; padding: 14px 18px; margin: 20px 0; text-align: center; background-color: #f6faf6;">
   <p style="margin: 0; font-family: Georgia, serif; font-weight: bold; color: #2f4f2f;">
