@@ -193,7 +193,9 @@ Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/
 </p>
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
-I am also deeply interested in teaching, outreach, and sharing ideas. I have worked as a teaching assistant at IIIT Delhi and as a guest lecturer at Sikkim Global Technical University. I enjoy participating in mathematics Olympiad training camps, workshops, and mentoring students. I am also a student member of the Institute of Mathematical Statistics (IMS), with my membership valid through December 2025 (Membership ID: 38250).
+I am also deeply interested in teaching, outreach, and sharing ideas. I have worked as a teaching assistant at IIIT Delhi and as a guest lecturer at Sikkim Global Technical University. I enjoy participating in mathematics Olympiad training camps, workshops, and mentoring students. I am also a student member of the <span style="color: #1a3d2f;">
+Institute of Mathematical Statistics (IMS)
+</span>, with my membership valid through December 2025 (<strong>Membership ID: 38250</strong>).
   
 <p style="font-family: Georgia, serif;">
   I have authored a book, 
