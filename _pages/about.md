@@ -210,7 +210,8 @@ Outside of academics, I enjoy writing blogs, exploring web design and coding, an
 </p>
 <hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
 
-I have always liked writing that explains ideas clearly and with real enthusiasm. I especially enjoy the kind of careful and well-structured explanations found in Terry Tao’s lecture notes, the precise and reliable writing of J. S. Milne, and the thoughtful blog posts of Timothy Gowers. What I admire about all of them is that they care deeply about understanding things properly, without adding unnecessary complexity or decoration.
+I have always liked writing that explains ideas clearly and with real enthusiasm. I especially enjoy the careful and well-structured exposition in <a href="https://terrytao.wordpress.com/category/teaching/246c-complex-analysis/">Terry Tao</a>’s lecture notes, the precise and reliable style of <a href="https://www.jmilne.org/math/">J. S. Milne</a>, and the thoughtful blog posts of <a href="https://gowers.wordpress.com/">Timothy Gowers</a>. What I admire in all of them is a genuine focus on understanding things properly, written clearly and without unnecessary complexity or decoration.
+
  <div style="border: 1px solid #2f4f2f; border-radius: 8px; padding: 14px 18px; margin: 20px 0; text-align: center; background-color: #f6faf6;">
   <p style="margin: 0; font-family: Georgia, serif; font-weight: bold; color: #2f4f2f;">
     When rigor takes a coffee break.
