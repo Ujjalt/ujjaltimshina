@@ -193,9 +193,8 @@ Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/
 </p>
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
-I am also deeply interested in teaching, outreach, and sharing ideas. I have worked as a teaching assistant at IIIT Delhi and as a guest lecturer at Sikkim Global Technical University. I enjoy participating in mathematics Olympiad training camps, workshops, and mentoring students.
-</p>
-
+I am also deeply interested in teaching, outreach, and sharing ideas. I have worked as a teaching assistant at IIIT Delhi and as a guest lecturer at Sikkim Global Technical University. I enjoy participating in mathematics Olympiad training camps, workshops, and mentoring students. I am also a student member of the Institute of Mathematical Statistics (IMS), with my membership valid through December 2025 (Membership ID: 38250).
+  
 <p style="font-family: Georgia, serif;">
   I have authored a book, 
   <span style="font-weight: bold; color: #2f4f2f;">Beyond Answers: Beauty of Mathematical Questions</span>. 
@@ -227,15 +226,6 @@ Outside of academics, I enjoy writing blogs, exploring web design and coding, an
   <img 
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/239aaec9f51e03e9b8253bdb175965861c10c604/images/Final.png"
     alt="Final Image"
-    width="340"
-    style="border-radius: 6px;"
-  />
-</div>
-
-<div align="center" style="margin: 20px 0;">
-  <img 
-    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/c1a558d4214f968543534979f32f2ac2034163c4/images/qed.jpg"
-    alt="QED Image"
     width="340"
     style="border-radius: 6px;"
   />
