@@ -49,7 +49,7 @@ redirect_from:
 
 <div style="border: 1px solid #d0d0d0; border-radius: 6px; padding: 14px 16px; margin: 16px 0; background-color: #fafafa;">
   <p style="font-family: Georgia, serif; color: #000000; margin: 0;">
-   <span style="font-weight: bold;">AUTOMEMORIMATHOGRAPHY</span>
+   <span style="font-weight: bold;">Analysis appeals to me as a form of structured thought.</span>
   </p>
 </div>
 
