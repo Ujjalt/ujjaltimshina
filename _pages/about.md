@@ -51,33 +51,32 @@ redirect_from:
 
 <div style="font-family: Georgia, serif; background: #e6f0ff; padding: 18px 22px; border-left: 6px solid #3b78d8; border-radius: 6px; color: #000000;">
 
-<p style="font-family: Georgia, serif; color: #000000; font-weight: normal;">
-  Colorless <span style="color: #008000; font-weight: bold;">green</span> ideas sleep furiously — Noam Chomsky
-</p>
+  <p style="font-family: Georgia, serif; color: #000000; font-weight: normal;">
+    Colorless <span style="color: #008000; font-weight: bold;">green</span> ideas sleep furiously — Noam Chomsky
+  </p>
 
-<p style="
-  font-family: Georgia, serif;
-  color: rgba(0, 0, 0, 0.78);
-  font-style: italic;
-  line-height: 1.6;
-  letter-spacing: 0.2px;
-  margin-top: 18px;
-">
-Many... predicates will be useless in application to attributes; thus it would be false, at best, to affirm, and useless, at best, to deny, that an attribute is pink or divisible by four. Ryle branded such predications category mistakes; he declares them meaningless and so did Russell in his theory of types. So did Carnap.
-<br><br>
-Over the years I have represented a minority of philosophers who preferred the opposite line: we can simplify grammar and logic by minimizing the number of our grammatical categories and maximizing their size. Instead of agreeing with Carnap that it is meaningless to say 'This stone is thinking about Vienna', and with Russell that it is meaningless to say 'Quadruplicity drinks procrastination', we can accommodate these sentences as meaningful and trivially false. Stones simply never think, as it happens, and quadruplicity never drinks.
-</p>
+  <p style="
+    font-family: Georgia, serif;
+    color: rgba(0, 0, 0, 0.78);
+    font-style: italic;
+    line-height: 1.6;
+    letter-spacing: 0.2px;
+    margin-top: 18px;
+  ">
+    Many... predicates will be useless in application to attributes; thus it would be false, at best, to affirm, and useless, at best, to deny, that an attribute is pink or divisible by four. Ryle branded such predications category mistakes; he declares them meaningless and so did Russell in his theory of types. So did Carnap.
+    <br><br>
+    Over the years I have represented a minority of philosophers who preferred the opposite line: we can simplify grammar and logic by minimizing the number of our grammatical categories and maximizing their size. Instead of agreeing with Carnap that it is meaningless to say 'This stone is thinking about Vienna', and with Russell that it is meaningless to say 'Quadruplicity drinks procrastination', we can accommodate these sentences as meaningful and trivially false. Stones simply never think, as it happens, and quadruplicity never drinks.
+  </p>
 
-<p style="
-  font-family: Georgia, serif;
-  color: rgba(0, 0, 0, 0.75);
-  margin-top: 12px;
-">
-— Willard Van Orman Quine, <em>Theories and Things</em> (1981), p. 110
-</p>
+  <p style="
+    font-family: Georgia, serif;
+    color: rgba(0, 0, 0, 0.75);
+    margin-top: 12px;
+  ">
+    — Willard Van Orman Quine, <em>Theories and Things</em> (1981), p. 110
+  </p>
+
 </div>
-
-
   <p style="font-family: Georgia, serif;">Paul Halmos once said:
   <strong><span style="color:green;">"The only way to learn mathematics is to do mathematics."</span></strong></p>
 
