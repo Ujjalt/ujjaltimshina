@@ -130,17 +130,18 @@ and its interplay with
 </p>
 <hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
 
-<p style="font-family: Georgia, serif; color: #2f4f2f;">
-I am working on the classification of homogeneous operators in the Cowen–Douglas class B_r(Ω) of certain rank up to unitary equivalence. This problem lies at the intersection of operator theory and complex geometry and seeks to understand how symmetry and representation-theoretic properties influence the structure of operators within the Cowen–Douglas framework.
+<p style="font-family: Georgia, serif; color: #2f4f2f; font-style: italic;">
+  I am working on the classification of homogeneous operators in the Cowen–Douglas class B_r(Ω) of certain rank up to unitary equivalence. This problem lies at the intersection of operator theory and complex geometry and seeks to understand how symmetry and representation-theoretic properties influence the structure of operators within the Cowen–Douglas framework.
 </p>
 
-<p style="font-family: Georgia, serif; color: #2f4f2f;">
-The study of homogeneous operators is central to understanding geometric models of Hilbert space operators, where each operator can be associated with a homogeneous holomorphic Hermitian vector bundle over a complex domain.
+<p style="font-family: Georgia, serif; color: #2f4f2f; font-style: italic;">
+  The study of homogeneous operators is central to understanding geometric models of Hilbert space operators, where each operator can be associated with a homogeneous holomorphic Hermitian vector bundle over a complex domain.
 </p>
 
-<p style="font-family: Georgia, serif; color: #2f4f2f;">
-My current research focuses on describing these operators using the actions of Lie groups and identifying invariants that determine their equivalence classes under unitary transformations.
+<p style="font-family: Georgia, serif; color: #2f4f2f; font-style: italic;">
+  My current research focuses on describing these operators using the actions of Lie groups and identifying invariants that determine their equivalence classes under unitary transformations.
 </p>
+
 <hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
@@ -153,6 +154,7 @@ My current research focuses on describing these operators using the actions of L
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
   I have completed doctoral-level coursework in 
   Reproducing Kernel Hilbert Spaces (RKHS), 
+  the Complex Analytic Approach to Elliptic Curves and Modular Forms, 
   Topics in Functional Analysis: Operator Algebras, 
   Functional Analysis, 
   Complex Analysis, 
@@ -215,7 +217,7 @@ I have always liked writing that explains ideas clearly and with real enthusiasm
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
 
 <hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
-My mathematical philosophy is simple to state: I do not believe that pure and applied mathematics are separated by any real boundary. The two are only different ways of viewing the same ideas. Techniques created for abstraction eventually become the vocabulary of applications, and practical problems often lead to new pieces of pure theory. Mathematics keeps moving because these viewpoints feed each other.
+My mathematical philosophy is simple to state:
 
 We humans speak many languages, and I personally understand only English, Nepali, and Hindi. But mathematics works in a different way. It is not tied to any particular culture or tongue. Patterns, structures, and relationships are present everywhere, and they are reflected not only in living beings but also in the behaviour of non-living systems. Movement, symmetry, stability, variation, and balance appear long before we give them names. Even without language, the world follows its own internal mathematics.
 
