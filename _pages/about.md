@@ -13,7 +13,7 @@ redirect_from:
 
   <div align="center" style="margin-top: -10px;">
     <p style="font-size: 16px; color: #5A4634;">2nd March 2001</p>
-    <p style="font-size: 16px; color: #5A4634; margin-top: -10px;">Gangtok, Sikkim, India, Earth, Universe, Multiverse, Beyond</p>
+    <p style="font-size: 16px; color: #5A4634; margin-top: -10px;">Gangtok, Sikkim, India, Earth, Universe, Multiverse, Beyond...</p>
   </div>
 
   <div align="center" style="margin: 15px 0;">
