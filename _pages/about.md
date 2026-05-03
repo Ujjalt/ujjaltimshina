@@ -51,9 +51,6 @@ redirect_from:
 
 <div style="font-family: Georgia, serif; background: #e6f0ff; padding: 18px 22px; border-left: 6px solid #3b78d8; border-radius: 6px; color: #000000;">
 
-</div>
-
-
 <p style="font-family: Georgia, serif; color: #000000; font-weight: normal;">
   Colorless <span style="color: #008000; font-weight: bold;">green</span> ideas sleep furiously — Noam Chomsky
 </p>
