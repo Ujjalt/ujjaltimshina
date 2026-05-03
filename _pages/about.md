@@ -212,6 +212,14 @@ Outside of academics, I enjoy writing blogs, exploring web design and coding, an
 
 I have always liked writing that explains ideas clearly and with real enthusiasm. I especially enjoy the careful and well-structured exposition in <a href="https://terrytao.wordpress.com/category/teaching/246c-complex-analysis/">Terry Tao</a>’s lecture notes, the precise and reliable style of <a href="https://www.jmilne.org/math/">J. S. Milne</a>, and the thoughtful blog posts of <a href="https://gowers.wordpress.com/">Timothy Gowers</a>. What I admire in all of them is a genuine focus on understanding things properly, written clearly and without unnecessary complexity or decoration.
 
+<p style="font-family: Georgia, serif; color: #2f4f2f;">
+
+My mathematical philosophy is simple to state: I do not believe that pure and applied mathematics are separated by any real boundary. The two are only different ways of viewing the same ideas. Techniques created for abstraction eventually become the vocabulary of applications, and practical problems often lead to new pieces of pure theory. Mathematics keeps moving because these viewpoints feed each other.
+
+We humans speak many languages, and I personally understand only English, Nepali, and Hindi. But mathematics works in a different way. It is not tied to any particular culture or tongue. Patterns, structures, and relationships are present everywhere, and they are reflected not only in living beings but also in the behaviour of non-living systems. Movement, symmetry, stability, variation, and balance appear long before we give them names. Even without language, the world follows its own internal mathematics.
+
+Because of this, mathematics feels like a quiet kind of communication that reaches beyond words. Even when we cannot understand one another’s spoken languages, and even when other beings cannot speak ours, there is still a shared structure in the world that we all sense. Through mathematics we interpret nature, and nature, in its own patient logic, communicates back.
+
  <div style="border: 1px solid #2f4f2f; border-radius: 8px; padding: 14px 18px; margin: 20px 0; text-align: center; background-color: #f6faf6;">
   <p style="margin: 0; font-family: Georgia, serif; font-weight: bold; color: #2f4f2f;">
     When rigor takes a coffee break.
