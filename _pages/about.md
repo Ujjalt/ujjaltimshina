@@ -218,6 +218,7 @@ I have always liked writing that explains ideas clearly and with real enthusiasm
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
 
+<hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
 My mathematical philosophy is simple to state: I do not believe that pure and applied mathematics are separated by any real boundary. The two are only different ways of viewing the same ideas. Techniques created for abstraction eventually become the vocabulary of applications, and practical problems often lead to new pieces of pure theory. Mathematics keeps moving because these viewpoints feed each other.
 
 We humans speak many languages, and I personally understand only English, Nepali, and Hindi. But mathematics works in a different way. It is not tied to any particular culture or tongue. Patterns, structures, and relationships are present everywhere, and they are reflected not only in living beings but also in the behaviour of non-living systems. Movement, symmetry, stability, variation, and balance appear long before we give them names. Even without language, the world follows its own internal mathematics.
