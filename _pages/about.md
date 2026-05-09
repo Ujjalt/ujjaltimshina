@@ -86,7 +86,9 @@ redirect_from:
 
  <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
 <p style="font-family: Georgia, serif; color: #0b6623;">
-  <strong>I ended up in mathematics by accident.</strong> After class 12th, I had no cellphone, no electronic devices, and very little idea of what to do next. The world beyond my immediate surroundings was largely invisible to me. There was no one guiding me, no roadmap. For me, there was only one option that felt real — filling up a form in one of the Sikkim government colleges, the way everyone around me did. That was the horizon I could see.
+  <strong>I ended up in mathematics by accident.</strong> 
+  
+After class 12th, I had no cellphone, no electronic devices, and very little idea of what to do next. The world beyond my immediate surroundings was largely invisible to me. There was no one guiding me, no roadmap. For me, there was only one option that felt real — filling up a form in one of the Sikkim government colleges, the way everyone around me did. That was the horizon I could see.
 </p>
 
 <p style="font-family: Georgia, serif;">I wanted to study Physics — Nuclear Physics, specifically. I went to a nearby cyber cafe, asked the person there to fill up the form with Physics as my first priority and Mathematics as the second. He switched them. My name appeared in Mathematics. That was it. Not a decision. Not a calling. A clerical error.</p>
