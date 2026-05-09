@@ -92,10 +92,10 @@ redirect_from:
 <p style="font-family: Georgia, serif;">
   <span style="color: #0b6623;"><strong>I ended up in mathematics by accident.</strong></span><br><br>
 
-  After class 12th, I had no cellphone, no electronic devices, and very little idea of what to do next. The world beyond my immediate surroundings was largely invisible to me. There was no one guiding me, no roadmap. For me, there was only one option that felt real — filling up a form in one of the Sikkim government colleges, the way everyone around me did. That was the horizon I could see.
+After class 12th, I had no cellphone, no electronic devices, and very little idea of what to do next. The world beyond my immediate surroundings was largely invisible to me. There was no one guiding me, no roadmap. For me, there was only one option that felt real — filling up a form in one of the Sikkim government colleges, the way everyone around me did. That was the horizon I could see.
 </p>
 
-<p style="font-family: Georgia, serif;">I wanted to study Physics (Nuclear Physics), specifically. I went to a nearby cyber cafe, asked the person there to fill up the form with Physics as my first priority and Mathematics as the second. He switched them. My name appeared in Mathematics. That was it. Not a decision. Not a calling. A clerical error.</p>
+<p style="font-family: Georgia, serif;">I wanted to study Physics - Nuclear Physics, specifically. I went to a nearby cyber cafe, asked the person there to fill up the form with Physics as my first priority and Mathematics as the second. He switched them. My name appeared in Mathematics. That was it. Not a decision. Not a calling. A clerical error.</p>
 
 <p style="font-family: Georgia, serif;">In the beginning I understood almost nothing. I copied Gallian line by line. I wrote down every word of Professor S.H. Kulkarni's NPTEL lectures on Real Analysis into two thick hardcover notebooks, whatever he spoke, I wrote. I still have those notebooks. For most of my graduation, that was my reality: not mathematics, but a slow, confused search for how to learn mathematics. I did not know what I was doing. I was not sure anyone could tell me.</p>
 
