@@ -97,7 +97,9 @@ redirect_from:
 
 <p style="font-family: Georgia, serif;">Through all of it I kept teaching. Classmates who bunked lectures would come to me after. I taught them Measure Theory and Topology — full courses, more or less.</p>
 
-<p style="font-family: Georgia, serif;">I didn't choose mathematics. Mathematics somehow adjusted with me — and so far, neither of us has walked away.</p>
+<p style="font-family: Georgia, serif; color: #0b6623;">
+  I didn't choose mathematics. Mathematics somehow adjusted with me and so far, neither of us has walked away.
+</p>
  <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
  
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
