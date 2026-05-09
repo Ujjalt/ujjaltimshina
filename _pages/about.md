@@ -85,7 +85,19 @@ redirect_from:
   <p style="font-family: Georgia, serif;">This understanding is shaping me how I approach my research and studies. Mathematics, for me, is not a performance of knowledge but a patient and honest pursuit of it, one that demands both rigor and humility in equal measure.</p>
 
   <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
+<p style="font-family: Georgia, serif;">I ended up in mathematics by accident. After class 12th, I had no cellphone, no electronic devices, and very little idea of what to do next. The world beyond my immediate surroundings was largely invisible to me. There was no one guiding me, no roadmap. For me, there was only one option that felt real — filling up a form in one of the Sikkim government colleges, the way everyone around me did. That was the horizon I could see.</p>
 
+<p style="font-family: Georgia, serif;">I wanted to study Physics — Nuclear Physics, specifically. I went to a nearby cyber cafe, asked the person there to fill up the form with Physics as my first priority and Mathematics as the second. He switched them. My name appeared in Mathematics. That was it. Not a decision. Not a calling. A clerical error.</p>
+
+<p style="font-family: Georgia, serif;">In the beginning I understood almost nothing. I copied Gallian line by line. I wrote down every word of Professor S.H. Kulkarni's NPTEL lectures on Real Analysis into two thick hardcover notebooks — whatever he spoke, I wrote. I still have those notebooks. For most of my graduation, that was my reality: not mathematics, but a slow, confused search for how to learn mathematics. I did not know what I was doing. I was not sure anyone could tell me.</p>
+
+<p style="font-family: Georgia, serif;">Then, towards the end of my graduation, I had the opportunity to attend the Mathematics Training and Talent Search Programme — MTTS Level 1. It was the first time I understood what mathematical learning was actually supposed to feel like. The confusion did not disappear overnight, but something shifted. A direction appeared where before there had been none. I also understood, clearly and a little painfully, how lost I had been all along.</p>
+
+<p style="font-family: Georgia, serif;">Sikkim University came after that, and it gave me what graduation could not — good teachers, proper courses, and a sense that I was finally moving forward. But the gaps from those early years kept slapping me on basic things, foundational things. Some of them still do.</p>
+
+<p style="font-family: Georgia, serif;">Through all of it I kept teaching. Classmates who bunked lectures would come to me after. I taught them Measure Theory and Topology — full courses, more or less.</p>
+
+<p style="font-family: Georgia, serif;">I didn't choose mathematics. Mathematics somehow adjusted with me — and so far, neither of us has walked away.</p>
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
   My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the 
   <a href="https://www.iiitd.ac.in/people/phd/current" style="color: #145a32; font-weight: bold; text-decoration: none;">
