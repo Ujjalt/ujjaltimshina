@@ -16,5 +16,5 @@ I served as the <strong>Lead Teaching Assistant</strong> for the undergraduate c
 <strong>MTH100: Linear Algebra</strong>, taught by <strong>Dr. Prahllad Deb</strong>. This foundational course introduced students to core concepts in vector spaces, matrices, linear transformations, and applications across science and engineering.
 <br><br>
 <strong>Responsibilities:</strong>
-Same as mentioned above.
+Supervised 15 TAs for 321 students, and the remaining responsibilities are the same as mentioned above.
 </div>
