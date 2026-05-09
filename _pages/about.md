@@ -41,9 +41,8 @@ redirect_from:
 <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px;">
   <em>"Even without language, the world follows its own internal mathematics, and I'm trying to understand a fraction of it. Analysis appeals to me as a form of structured thought"</em>
 </div>
-
 <div style="margin-top: 14px; background:#f7f2e7; padding:16px 20px; border-left:6px solid #8c6d3a; border-radius:6px; font-family:Georgia, serif; font-size:15.5px; color:#4a3b2a;">
-  <strong>This is my automemoriomathography.</strong>
+  <strong>This is my Automemoriomathography.</strong>
 </div>
 
   <blockquote style="font-family: Georgia, serif; border-left: 4px solid #3b78d8; margin: 24px 0; padding: 12px 20px; background: #f0f6ff; color: #2a2a2a; font-style: italic; border-radius: 4px;">
