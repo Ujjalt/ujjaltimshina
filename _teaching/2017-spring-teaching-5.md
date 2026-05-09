@@ -12,6 +12,6 @@ location: "New Delhi, India"
 <strong>Head Teaching Assistant — MTH204: ODE/PDEs and Numerical Methods</strong><br>
   <em>IIIT Delhi, Spring 2026</em>
 <br><br>
-I served as the Head Teaching Assistant for the undergraduate course <strong>MTH204: ODE/PDEs and Numerical Methods</strong> under <strong>Dr. Subhajit Ghosechowdhury</strong>. My responsibilities include supervising 6 TAs for 161 students, coordinating the teaching assistant team, overseeing tutorial planning, ensuring timely and consistent grading, addressing escalated student queries, and supporting the instructor in managing course logistics and exam preparation.
+I served as the Head Teaching Assistant for the undergraduate course <strong>MTH204: ODE/PDEs and Numerical Methods</strong> under <strong>Dr. Subhajit Ghosechowdhury</strong>. My responsibilities included supervising 6 TAs for 161 students, coordinating the teaching assistant team, overseeing tutorial planning, ensuring timely and consistent grading, addressing escalated student queries, and supporting the instructor in managing course logistics and exam preparation.
 <br><br>
 </div>
