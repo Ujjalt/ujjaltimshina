@@ -98,6 +98,8 @@ redirect_from:
 <p style="font-family: Georgia, serif;">Through all of it I kept teaching. Classmates who bunked lectures would come to me after. I taught them Measure Theory and Topology — full courses, more or less.</p>
 
 <p style="font-family: Georgia, serif;">I didn't choose mathematics. Mathematics somehow adjusted with me — and so far, neither of us has walked away.</p>
+ <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
+ 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
   My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the 
   <a href="https://www.iiitd.ac.in/people/phd/current" style="color: #145a32; font-weight: bold; text-decoration: none;">
