@@ -102,7 +102,7 @@ After class 12th, I had no cellphone, no electronic devices, and very little ide
 
 <p style="font-family: Georgia, serif;">Sikkim University came after that, and it gave me what graduation could not - good teachers, proper courses, and a sense that I was finally moving forward. But the gaps from those early years kept slapping me on basic things, foundational things. Some of them still do.</p>
 
-<p style="font-family: Georgia, serif;">Through all of it I kept teaching. I always thank the classmates who bunked lectures and came to me after. Especially those to whom I taught Vector Calculus, Measure Theory and Topology during my B.Sc. and M.Sc. days.</p>
+<p style="font-family: Georgia, serif;">Through all of it I kept teaching. I always thank the classmates who bunked lectures and came to me after. Especially with whom I discussed many topics in mathematics during my B.Sc. and M.Sc. days.</p>
 
 <p style="font-family: Georgia, serif; color: #0b6623;">
   <strong>I didn't choose mathematics. Mathematics somehow adjusted with me and so far, neither of us has walked away.</strong> (nonsense apart:)
