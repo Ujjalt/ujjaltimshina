@@ -37,7 +37,7 @@ redirect_from:
   </div>
 
   <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px;">
-    <em>"Even without language, the world follows its own internal mathematics, and I'm trying to understand a fraction of it. Analysis appeals to me as a form of structured thought and I always think of and honour the ancestors who felt time for the first time irrespective of the fact that time was already there, watching them feel it"</em>
+    <em>"Even without language, the world follows its own internal mathematics, and I'm trying to understand a fraction of it. Analysis appeals to me as a form of structured thought and I always think of and honour the ancestors who felt time for the first time irrespective of the fact that time was already there, watching them, feel it"</em>
   </div>
 
   <div style="margin-top: 14px; background:#f7f2e7; padding:16px 20px; border-left:6px solid #8c6d3a; border-radius:6px; font-family:Georgia, serif; font-size:15.5px; color:#4a3b2a;">
