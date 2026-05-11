@@ -42,34 +42,29 @@ author_profile: true
   <h3 style="color: #2a5d9f; margin-top: 0;">Some of My Favorite Books (and a Few I'm Exploring Soon)</h3>
 
  <div style="border: 1px solid #7f8c8d; background: #fff5e6; padding: 12px 16px; margin: 20px 0; font-family: 'Calibri', Georgia, serif; box-shadow: 0 0 0 1px #e0e0e0; border-radius: 0px;">
-  <p style="margin: 0 0 8px 0; color: #1a5c1a; font-family: Georgia, serif; font-weight: bold;">
+<div style="border: 1px solid #7f8c8d; background: #1e3a6b; padding: 12px 16px; margin: 20px 0; font-family: 'Calibri', Georgia, serif; box-shadow: 0 0 0 1px #e0e0e0; border-radius: 0px;">
+  <p style="margin: 0 0 8px 0; color: #000000; font-family: Georgia, serif; font-weight: bold;">
    Reading List
   </p>
-  <ol style="margin: 0; padding-left: 20px; line-height: 1.55; color: #1a5c1a; font-family: Georgia, serif; font-weight: bold;">
-    <!-- New Books First -->
+  <ol style="margin: 0; padding-left: 20px; line-height: 1.55; color: #000000; font-family: Georgia, serif; font-weight: bold;">
     <li><em>Banach Algebraic Techniques in Operator Theory</em> — Ronald G. Douglas</li>
     <li><em>Hilbert Spaces of Entire Functions</em> — Louis de Branges</li>
     <li><em>The Brown–Douglas–Fillmore Theory</em> — BDF-Gadadhar Misra and Sameer Chavan</li>
     <li><em>Pick Interpolation and Hilbert Function Spaces</em> — Jim Agler & John E. McCarthy</li>
     <li><em>Operator Theory</em> — Barry Simon</li>
     <li><em>Noncommutative Function Theory</em> — Victor Vinnikov</li>
-    <!-- Complex Analysis & Topology -->
     <li><em>Complex Analysis in One and Several Variables</em> — Raghavan Narasimhan</li>
     <li><em>Introduction to Topology and Modern Analysis</em> — George F. Simmons</li>
     <li><em>General Topology</em> — Nicolas Bourbaki</li>
-    <!-- Complex Analysis Classics -->
     <li><em>Basic Complex Analysis</em> — Tristan Needham</li>
     <li><em>Complex Analysis</em> — Theodore Gamelin</li>
     <li><em>Princeton Lectures in Analysis (Complex Analysis)</em> — Stein & Shakarchi</li>
     <li><em>Function Theory of One Complex Variable</em> — Greene & Krantz</li>
     <li><em>Complex Analysis: The Geometric Viewpoint</em> — Steven Krantz</li>
-    <!-- Geometry -->
     <li><em>Visual Differential Geometry</em> — Tristan Needham</li>
-    <!-- Foundations -->
     <li><em>Calculus on Manifolds</em> — Michael Spivak</li>
     <li><em>A Course in Functional Analysis</em> — J.B. Conway</li>
     <li><em>Differential Analysis on Complex Manifolds</em> — R.O. Wells</li>
-    <!-- Linear Algebra & Algebra (New) -->
     <li><em>Linear Algebra</em> — Hoffman & Kunze</li>
     <li><em>Algebra</em> — Michael Artin</li>
     <li><em>Algebra</em> — Serge Lang</li>
