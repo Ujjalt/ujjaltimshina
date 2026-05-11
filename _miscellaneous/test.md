@@ -1,3 +1,14 @@
+---
+layout: single
+title: "Miscellaneous"
+permalink: /miscellaneous/
+author_profile: true
+classes: wide
+---
+
+
+
+
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
   <!-- Personal Note -->
