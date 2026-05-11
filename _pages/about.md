@@ -51,7 +51,7 @@ redirect_from:
       — Robert P. Langlands, in <em>Mathematicians: An Outer View of the Inner World</em>, p. 142
     </footer>
   </blockquote>
-
+</div>
 
 </div>
   <p style="font-family: Georgia, serif;">Paul Halmos once said:
