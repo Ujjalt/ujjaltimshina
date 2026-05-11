@@ -59,169 +59,130 @@ redirect_from:
   </p>
 
 </div>
-  <p style="font-family: Georgia, serif;">Paul Halmos once said:
-  <strong><span style="color:green;">"The only way to learn mathematics is to do mathematics."</span></strong></p>
-  <p style="font-family: Georgia, serif;">For a long time, I appreciated this line only at the surface. I understood the words, but not the warning embedded in them. Looking back, I can identify many moments when I held a vague intuition about a concept and mistook that vagueness for understanding, a kind of intellectual comfort that asked nothing of me. That false satisfaction, I now realize, is precisely what Halmos meant to caution against. Genuine understanding is not passive. It is earned through careful engagement with ideas, through the discomfort of not knowing, and through the slow, deliberate work of working things out, not merely feeling as though one has.</p>
 
-  <p style="font-family: Georgia, serif;">This understanding is shaping me how I approach my research and studies. Mathematics, for me, is not a performance of knowledge but a patient and honest pursuit of it, one that demands both rigor and humility in equal measure.</p>
+## A Note Before Anything Else
 
-   <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
- 
-<p style="font-family: Georgia, serif; color: #2f4f2f;">
-  My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the 
-  <a href="https://www.iiitd.ac.in/people/phd/current" style="color: #145a32; font-weight: bold; text-decoration: none;">
-    Indraprastha Institute of Information Technology Delhi (IIIT Delhi)
-  </a>, 
-  working under the supervision of 
-  <a href="https://www.iiitd.ac.in/prahllad" style="color: #145a32; font-weight: bold; text-decoration: none;">
-    Dr. Prahllad Deb
-  </a>. 
-  I joined IIIT Delhi after being awarded the 
-  <a href="https://online-inspire.gov.in/" style="color: #145a32; font-weight: bold; text-decoration: none;">
-    INSPIRE Research Fellowship
-  </a> 
-  by the Department of Science and Technology (DST), Government of India.
-</p>
+Paul Halmos once said: **"The only way to learn mathematics is to do mathematics."**
 
-<p style="font-family: Georgia, serif; color: #2f4f2f;">
-My research interests lie in <strong>
-<a href="https://en.wikipedia.org/wiki/Functional_analysis" style="color: #145a32; font-weight: bold; text-decoration: none;">Functional Analysis</a>, 
-<a href="https://en.wikipedia.org/wiki/Operator_theory" style="color: #145a32; font-weight: bold; text-decoration: none;">Multivariable Operator Theory</a> and 
-<a href="https://en.wikipedia.org/wiki/Complex_analysis" style="color: #145a32; font-weight: bold; text-decoration: none;">Complex Analysis</a>
-</strong> with a focus on the 
-<a href="https://en.wikipedia.org/wiki/Cowen%E2%80%93Douglas_operators" style="color: #145a32; font-weight: bold; text-decoration: none;">Cowen–Douglas theory of operators</a> 
-and its interplay with 
-<a href="https://en.wikipedia.org/wiki/Complex_geometry" style="color: #145a32; font-weight: bold; text-decoration: none;">Complex Geometry</a> and 
-<a href="https://en.wikipedia.org/wiki/Differential_geometry" style="color: #145a32; font-weight: bold; text-decoration: none;">Differential Geometry</a>.
-</p>
+For a long time, I appreciated this line only at the surface. I understood the words, but not the warning embedded in them. Looking back, I can identify many moments when I held a vague intuition about a concept and mistook that vagueness for understanding — a kind of intellectual comfort that asked nothing of me. That false satisfaction, I now realize, is precisely what Halmos meant to caution against.
 
-<p style="font-family: Georgia, serif; color: #2f4f2f;">
-  I am open to discussions and research collaborations in areas such as 
-  <a style="color: #145a32; font-weight: bold; text-decoration: none;">Operator Theory</a>, 
-  <a style="color: #145a32; font-weight: bold; text-decoration: none;">Reproducing Kernel Hilbert Spaces</a>, 
-  <a style="color: #145a32; font-weight: bold; text-decoration: none;">Complex Analysis</a>, 
-  <a style="color: #145a32; font-weight: bold; text-decoration: none;">Complex Geometry</a>, 
-  as well as in 
-  <a style="color: #145a32; font-weight: bold; text-decoration: none;">General Topology and Geometry</a>, 
-  which I am actively learning.
-</p>
-<hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
+Genuine understanding is not passive. It is earned through careful engagement with ideas, through the discomfort of not knowing, and through the slow, deliberate work of working things out — not merely *feeling* as though one has.
 
-<p style="font-family: Georgia, serif; color: #2f4f2f; font-style: italic;">
-  I am working on the classification of homogeneous operators in the Cowen–Douglas class B_r(Ω) of certain rank up to unitary equivalence. This problem lies at the intersection of operator theory and complex geometry and seeks to understand how symmetry and representation-theoretic properties influence the structure of operators within the Cowen–Douglas framework.
-</p>
+This understanding shapes how I approach my research and studies. Mathematics, for me, is not a performance of knowledge but a patient and honest pursuit of it — one that demands both rigor and humility in equal measure.
 
-<p style="font-family: Georgia, serif; color: #2f4f2f; font-style: italic;">
-  The study of homogeneous operators is central to understanding geometric models of Hilbert space operators, where each operator can be associated with a homogeneous holomorphic Hermitian vector bundle over a complex domain.
-</p>
+> *"Even without language, the world follows its own internal mathematics, and I'm trying to understand a fraction of it. Analysis appeals to me as a form of structured thought."*
 
-<p style="font-family: Georgia, serif; color: #2f4f2f; font-style: italic;">
-  My current research focuses on describing these operators using the actions of Lie groups and identifying invariants that determine their equivalence classes under unitary transformations.
-</p>
+**This is my Automemoriomathography.**
 
-<hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
+---
 
-<p style="font-family: Georgia, serif; color: #2f4f2f;">
-  I am planning to study 
-  <span style="font-weight: bold; color: #2f4f2f;">Probabilistic Measure Theory</span> and 
-  <span style="font-weight: bold; color: #2f4f2f;">Banach Algebra Techniques in Operator Theory</span> 
-  in the upcoming semester.
-</p>
+## Who I Am
 
-<p style="font-family: Georgia, serif; color: #2f4f2f;">
-  I have completed doctoral-level coursework in 
-  Reproducing Kernel Hilbert Spaces (RKHS), 
-  the Complex Analytic Approach to Elliptic Curves and Modular Forms, 
-  Topics in Functional Analysis: Operator Algebras, 
-  Functional Analysis, 
-  Complex Analysis, 
-  Several Complex Variables, 
-  Introduction to Non-commutative Function Theory, and 
-  Matrix Groups.
-</p>
+I am a **PhD Scholar** in the Department of Mathematics at the [Indraprastha Institute of Information Technology Delhi (IIIT Delhi)](https://www.iiitd.ac.in/people/phd/current), working under the supervision of [Dr. Prahllad Deb](https://www.iiitd.ac.in/prahllad). I joined IIIT Delhi after being awarded the [INSPIRE Research Fellowship](https://online-inspire.gov.in/) by the Department of Science and Technology (DST), Government of India.
 
-<p style="font-family: Georgia, serif; color: #2f4f2f;">
-  Going forward, I plan to delve deeper into 
-  <a href="https://en.wikipedia.org/wiki/Spectral_theory" style="color: #145a32; font-weight: bold; text-decoration: none;">Spectral Theory</a>, 
-  <a href="https://en.wikipedia.org/wiki/Representation_theory" style="color: #145a32; font-weight: bold; text-decoration: none;">Representation Theory</a> and 
-  the <a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)" style="color: #145a32; font-weight: bold; text-decoration: none;">Lean Programming Language</a>.
-</p>
+My research interests lie in **[Functional Analysis](https://en.wikipedia.org/wiki/Functional_analysis)**, **[Multivariable Operator Theory](https://en.wikipedia.org/wiki/Operator_theory)**, and **[Complex Analysis](https://en.wikipedia.org/wiki/Complex_analysis)** — with a focus on the [Cowen–Douglas theory of operators](https://en.wikipedia.org/wiki/Cowen%E2%80%93Douglas_operators) and its interplay with [Complex Geometry](https://en.wikipedia.org/wiki/Complex_geometry) and [Differential Geometry](https://en.wikipedia.org/wiki/Differential_geometry).
 
-<p style="font-family: Georgia, serif; color: #2f4f2f;">
-  I am also keenly interested in subjects such as 
-  <a href="https://en.wikipedia.org/wiki/Measure_theory" style="color: #145a32; font-weight: bold; text-decoration: none;">Measure Theory</a> 
-  and 
-  <a href="https://en.wikipedia.org/wiki/General_topology" style="color: #145a32; font-weight: bold; text-decoration: none;">General Topology</a>, 
-  which continue to shape my mathematical perspective.
-</p>
+I am open to discussions and research collaborations in:
 
-<hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
+- Operator Theory & Reproducing Kernel Hilbert Spaces
+- Complex Analysis & Complex Geometry
+- General Topology and Geometry *(actively learning)*
 
-<p style="font-family: Georgia, serif; color: #2f4f2f;">
-Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/" style="color: #145a32; font-weight: bold; text-decoration: none;">Sikkim University</a>, a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and received the University Gold Medal. My master's thesis, titled 
-<em> <span style="font-style: italic; font-weight: bold; color: #2f4f2f;">
-    "Nets and Filters in Topology" </span> </em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2" style="color: #145a32; font-weight: bold; text-decoration: none;">Dr. Namita Behera</a>. I completed my undergraduate studies at <a href="https://nbbgc.org/" style="color: #145a32; font-weight: bold; text-decoration: none;">Nar Bahadur Bhandari Government College</a>.
-</p>
+---
 
-<p style="font-family: Georgia, serif; color: #2f4f2f;">
-  My undergraduate project is titled 
-  <em>
-    <span style="font-style: italic; font-weight: bold; color: #2f4f2f;">
-      "Foundations of Set Theory: The Zermelo–Fraenkel Axioms with Choice"
-    </span>
-  </em>.
-</p>
+## Research
 
-<p style="font-family: Georgia, serif; color: #2f4f2f;">
-I am also deeply interested in teaching, outreach, and sharing ideas. I have worked as a teaching assistant at IIIT Delhi and as a guest lecturer at Sikkim Global Technical University. I enjoy participating in mathematics Olympiad training camps, workshops, and mentoring students. I am also a student member of the <span style="color: #1a3d2f;">
-Institute of Mathematical Statistics (IMS)
-</span>, with my membership valid through December 2025 (<strong>Membership ID: 38250</strong>).
-  
-<p style="font-family: Georgia, serif;">
-  I have authored a book, 
-  <span style="font-weight: bold; color: #2f4f2f;">Beyond Answers: Beauty of Mathematical Questions</span>. 
-  It was my first attempt at writing and not perfect, but it reflects my interest in learning through questions. 
-  The book is available on Amazon and Notion Press.
-</p>
+I am working on the **classification of homogeneous operators** in the Cowen–Douglas class $\mathcal{B}_r(\Omega)$ of certain rank, up to unitary equivalence. This problem lies at the intersection of operator theory and complex geometry, and seeks to understand how symmetry and representation-theoretic properties influence the structure of operators within the Cowen–Douglas framework.
 
-<p style="font-family: Georgia, serif; color: #2f4f2f;">
-Outside of academics, I enjoy writing blogs, exploring web design and coding, and learning about open educational technologies. A selection of my talks and presentations (some with slides) is available <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/slides-selected-talks" style="color: #1f7a1f; font-weight: bold;">here</a>. My updated CV can be accessed <a href="https://drive.google.com/drive/folders/1GEbPbSA5sfkBQYyckeMoTF3b4LUb8NJ9?usp=drive_link" style="color: #1f7a1f; font-weight: bold;">here</a> <em>(last updated: 31st August 2025)</em>.
-</p>
-<hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
+The study of homogeneous operators is central to understanding *geometric models* of Hilbert space operators, where each operator is associated with a homogeneous holomorphic Hermitian vector bundle over a complex domain.
 
-I have always liked writing that explains ideas clearly and with real enthusiasm. I especially enjoy the careful and well-structured exposition in <a href="https://terrytao.wordpress.com/category/teaching/246c-complex-analysis/">Terry Tao</a>’s lecture notes, the precise and reliable style of <a href="https://www.jmilne.org/math/">J. S. Milne</a>, and the thoughtful blog posts of <a href="https://gowers.wordpress.com/">Timothy Gowers</a>. What I admire in all of them is a genuine focus on understanding things properly, written clearly and without unnecessary complexity or decoration.
+My current research focuses on describing these operators via **Lie group actions** and identifying invariants that determine their equivalence classes under unitary transformations.
 
-<p style="font-family: Georgia, serif; color: #2f4f2f;">
+---
 
- <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
-<p style="font-family: Georgia, serif;">
-  <span style="color: #0b6623;"><strong>I ended up in mathematics by accident.</strong></span><br><br>
+## Studies & Coursework
 
-After class 12th, I had no cellphone, no electronic devices, and very little idea of what to do next. The world beyond my immediate surroundings was largely invisible to me. There was no one guiding me, no roadmap. For me, there was only one option that felt real — filling up a form in one of the Sikkim government colleges, the way everyone around me did. That was the horizon I could see.
-</p>
+**Upcoming:** Probabilistic Measure Theory · Banach Algebra Techniques in Operator Theory
 
-<p style="font-family: Georgia, serif;">I wanted to study Physics - Nuclear Physics, specifically. I went to a nearby cyber cafe, asked the person there to fill up the form with Physics as my first priority and Mathematics as the second. He switched them. My name appeared in Mathematics. That was it. Not a decision. Not a calling. A clerical error.</p>
+**Completed doctoral-level coursework in:**
 
-<p style="font-family: Georgia, serif;">In the beginning I understood almost nothing. I copied Gallian line by line. I wrote down every word of Professor S.H. Kulkarni's NPTEL lectures on Real Analysis into two thick hardcover notebooks, whatever he spoke, I wrote. I still have those notebooks. For most of my graduation, that was my reality: not mathematics, but a slow, confused search for how to learn mathematics. I did not know what I was doing. I was not sure anyone could tell me.</p>
+| Course | Course |
+|---|---|
+| Reproducing Kernel Hilbert Spaces | Functional Analysis |
+| Complex Analytic Approach to Elliptic Curves & Modular Forms | Complex Analysis |
+| Topics in Functional Analysis: Operator Algebras | Several Complex Variables |
+| Introduction to Non-commutative Function Theory | Matrix Groups |
 
-<p style="font-family: Georgia, serif;">Then, towards the end of my graduation, I had the opportunity to attend the Mathematics Training and Talent Search Programme — MTTS Level 1. It was the first time I understood what mathematical learning was actually supposed to feel like. The confusion did not disappear overnight, but something shifted. A direction appeared where before there had been none. I also understood, clearly and a little painfully, how lost I had been all along.</p>
+**Future directions:** [Spectral Theory](https://en.wikipedia.org/wiki/Spectral_theory) · [Representation Theory](https://en.wikipedia.org/wiki/Representation_theory) · [Lean Proof Assistant](https://en.wikipedia.org/wiki/Lean_(proof_assistant))
 
-<p style="font-family: Georgia, serif;">Sikkim University came after that, and it gave me what graduation could not - good teachers, proper courses, and a sense that I was finally moving forward. But the gaps from those early years kept slapping me on basic things, foundational things. Some of them still do.</p>
+I am also keenly interested in [Measure Theory](https://en.wikipedia.org/wiki/Measure_theory) and [General Topology](https://en.wikipedia.org/wiki/General_topology), which continue to shape my mathematical perspective.
 
-<p style="font-family: Georgia, serif;">Through all of it I kept teaching. I always thank the classmates who bunked lectures and came to me after. Especially with whom I discussed many topics in mathematics during my B.Sc. and M.Sc. days.</p>
+---
 
-<p style="font-family: Georgia, serif; color: #0b6623;">
-  <strong>I didn't choose mathematics. Mathematics somehow adjusted with me and so far, neither of us has walked away.</strong> (nonsense apart:)
-</p>
+## Background
 
-<hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
-My mathematical philosophy is simple to state:
+I completed my **M.Sc. in Mathematics** from [Sikkim University](https://cus.ac.in/) with a CGPA of **9.81**, receiving the **University Gold Medal**. My master's thesis — *"Nets and Filters in Topology"* — was completed under the supervision of [Dr. Namita Behera](https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2).
 
-We humans speak many languages, and I personally understand only English, Nepali, and Hindi. But mathematics works in a different way. It is not tied to any particular culture or tongue. Patterns, structures, and relationships are present everywhere, and they are reflected not only in living beings but also in the behaviour of non-living systems. Movement, symmetry, stability, variation, and balance appear long before we give them names. Even without language, the world follows its own internal mathematics.
+My undergraduate studies were at [Nar Bahadur Bhandari Government College](https://nbbgc.org/), where my project was titled *"Foundations of Set Theory: The Zermelo–Fraenkel Axioms with Choice."*
 
-Because of this, mathematics feels like a quiet kind of communication that reaches beyond words. Even when we cannot understand one another’s spoken languages, and even when other beings cannot speak ours, there is still a shared structure in the world that we all sense. <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; font-weight:bold;">
-Through mathematics we interpret nature, and nature, in its own patient logic, communicates back.
-</div>
+---
+
+## Teaching, Outreach & Writing
+
+I am deeply interested in **teaching and mathematical outreach**. I have worked as a Teaching Assistant at IIIT Delhi and as a Guest Lecturer at Sikkim Global Technical University. I enjoy participating in Mathematics Olympiad training camps, workshops, and mentoring students.
+
+I am a student member of the **Institute of Mathematical Statistics (IMS)** *(Membership ID: 38250)*.
+
+I have also authored a book — **[Beyond Answers: Beauty of Mathematical Questions](https://www.amazon.in/)** — my first attempt at writing. Not perfect, but an honest reflection of my interest in learning through questions. It is available on Amazon and Notion Press.
+
+Outside of academics, I enjoy writing blogs, exploring web design and coding, and learning about open educational technologies.
+
+📄 [Selected Talks & Slides](https://sites.google.com/iiitd.ac.in/ujjal-timshina/slides-selected-talks) · [Updated CV](https://drive.google.com/drive/folders/1GEbPbSA5sfkBQYyckeMoTF3b4LUb8NJ9?usp=drive_link) *(last updated: 31 August 2025)*
+
+---
+
+## Mathematical Influences
+
+I have always admired writing that explains ideas clearly and with genuine enthusiasm — not for performance, but for understanding. Three writers I return to most:
+
+- **[Terence Tao](https://terrytao.wordpress.com/category/teaching/246c-complex-analysis/)** — careful, well-structured, and always illuminating
+- **[J. S. Milne](https://www.jmilne.org/math/)** — precise, reliable, and effortlessly trustworthy
+- **[Timothy Gowers](https://gowers.wordpress.com/)** — thoughtful, honest, genuinely exploratory
+
+What I admire in all of them is a focus on understanding things *properly* — written clearly and without unnecessary complexity or decoration. *Colorless green ideas sleep furiously* — Noam Chomsky. Language can be grammatically sound and semantically empty. I try to write the other way.
+
+---
+
+## How I Ended Up Here
+
+**I ended up in mathematics by accident.**
+
+After class 12, I had no cellphone, no electronic devices, and very little idea of what to do next. The world beyond my immediate surroundings was largely invisible to me. There was no one guiding me, no roadmap. For me, there was only one option that felt real — filling up a form at one of the Sikkim government colleges, the way everyone around me did. That was the horizon I could see.
+
+I wanted to study Physics — Nuclear Physics, specifically. I went to a nearby cyber cafe and asked the person there to fill up the form with Physics as my first priority and Mathematics as the second. **He switched them.** My name appeared in Mathematics. That was it. Not a decision. Not a calling. A clerical error.
+
+In the beginning I understood almost nothing. I copied Gallian line by line. I wrote down every word of Professor S. H. Kulkarni's NPTEL lectures on Real Analysis into two thick hardcover notebooks — whatever he spoke, I wrote. I still have those notebooks. For most of my graduation, that was my reality: not mathematics, but a slow, confused search for *how to learn* mathematics. I did not know what I was doing. I was not sure anyone could tell me.
+
+Then, towards the end of my graduation, I attended the **Mathematics Training and Talent Search Programme — MTTS Level 1**. It was the first time I understood what mathematical learning was actually supposed to feel like. The confusion did not disappear overnight, but something shifted. A direction appeared where before there had been none. I also understood, clearly and a little painfully, how lost I had been all along.
+
+Sikkim University came after that, and it gave me what graduation could not — good teachers, proper courses, and a sense that I was finally moving forward. But the gaps from those early years kept slapping me on basic, foundational things. Some of them still do.
+
+Through all of it I kept teaching. I always thank the classmates who bunked lectures and came to me after — especially those with whom I discussed mathematics during my B.Sc. and M.Sc. days.
+
+**I didn't choose mathematics. Mathematics somehow adjusted with me — and so far, neither of us has walked away.**
+
+---
+
+## A Mathematical Philosophy
+
+We humans speak many languages. I personally understand only English, Nepali, and Hindi. But mathematics works differently — it is not tied to any particular culture or tongue. Patterns, structures, and relationships are present everywhere, reflected not only in living beings but in the behaviour of non-living systems too. Movement, symmetry, stability, variation, balance — these appear long before we give them names.
+
+Even without language, the world follows its own internal mathematics.
+
+Because of this, mathematics feels like a quiet kind of communication that reaches beyond words. Even when we cannot understand one another's spoken languages, and even when other beings cannot speak ours, there is still a shared structure in the world that we all sense.
+
+> *Through mathematics we interpret nature — and nature, in its own patient logic, communicates back.*
+
 
  <div style="border: 1px solid #2f4f2f; border-radius: 8px; padding: 14px 18px; margin: 20px 0; text-align: center; background-color: #f6faf6;">
   <p style="margin: 0; font-family: Georgia, serif; font-weight: bold; color: #2f4f2f;">
