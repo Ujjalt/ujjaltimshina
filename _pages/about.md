@@ -77,7 +77,11 @@ redirect_from:
 
   <p style="font-family: Georgia, serif; color: #2f4f2f;">I am planning to study <span style="font-weight: bold; color: #2f4f2f;">Probabilistic Measure Theory</span> and <span style="font-weight: bold; color: #2f4f2f;">Banach Algebra Techniques in Operator Theory</span> in the upcoming semester.</p>
 
-  <p style="font-family: Georgia, serif; color: #2f4f2f;">I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces (RKHS), the Complex Analytic Approach to Elliptic Curves and Modular Forms, Topics in Functional Analysis: Operator Algebras, Functional Analysis, Complex Analysis, Several Complex Variables, Introduction to Non-commutative Function Theory, and Matrix Groups.</p>
+<div style="border: 1px solid #7f8c8d; background: #ffffff; padding: 12px 16px; margin: 20px 0; font-family: 'Calibri', Georgia, serif; box-shadow: 0 0 0 1px #e0e0e0; border-radius: 0px;">
+  <p style="margin: 0; color: #2f4f2f; font-family: Georgia, serif;">
+    I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces (RKHS), the Complex Analytic Approach to Elliptic Curves and Modular Forms, Topics in Functional Analysis: Operator Algebras, Functional Analysis, Complex Analysis, Several Complex Variables, Introduction to Non-commutative Function Theory, and Matrix Groups.
+  </p>
+</div>
 
   <p style="font-family: Georgia, serif; color: #2f4f2f;">Going forward, I plan to delve deeper into <a href="https://en.wikipedia.org/wiki/Spectral_theory" style="color: #145a32; font-weight: bold; text-decoration: none;">Spectral Theory</a>, <a href="https://en.wikipedia.org/wiki/Representation_theory" style="color: #145a32; font-weight: bold; text-decoration: none;">Representation Theory</a> and the <a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)" style="color: #145a32; font-weight: bold; text-decoration: none;">Lean Programming Language</a>.</p>
 
