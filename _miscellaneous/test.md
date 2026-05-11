@@ -16,7 +16,7 @@ author_profile: true
       I have some friends, but they often feel more like colleagues than true companions, as I have always been somewhat unsuccessful in forming bonds deeply connected by the heart. 
       There are a few who are truly my friends, yet I feel I fall short in the trueness of those friendships. 
       Still, I value everyone who has come, passed by, and will come into my life.
-      Nonsense apart, I get down to the business of mathematics. I love history and words along with mathematics, because history structures my brain in a way that helps me retain things — something I am really poor at. \
+      Nonsense apart, I get down to the business of mathematics. I love history and words along with mathematics, because history structures my brain in a way that helps me retain things — something I am really poor at. 
       <br><br>
       I like words because they help me communicate mathematics better than only using formal symbols. You may say I copied the philosophy of Halmos, and I do agree in some sense, he mentions the same in his book <i>I Want to Be a Mathematician</i>.
       <br><br>
@@ -41,11 +41,15 @@ author_profile: true
 <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
   <h3 style="color: #2a5d9f; margin-top: 0;">Some of My Favorite Books (and a Few I'm Exploring Soon)</h3>
 
-  <ul style="margin-top: 10px; line-height: 1.55;">
+ <div style="border: 1px solid #7f8c8d; background: #fff5e6; padding: 12px 16px; margin: 20px 0; font-family: 'Calibri', Georgia, serif; box-shadow: 0 0 0 1px #e0e0e0; border-radius: 0px;">
+  <p style="margin: 0 0 8px 0; color: #1a5c1a; font-family: Georgia, serif; font-weight: bold;">
+   Reading List
+  </p>
+  <ol style="margin: 0; padding-left: 20px; line-height: 1.55; color: #1a5c1a; font-family: Georgia, serif; font-weight: bold;">
     <!-- New Books First -->
     <li><em>Banach Algebraic Techniques in Operator Theory</em> — Ronald G. Douglas</li>
     <li><em>Hilbert Spaces of Entire Functions</em> — Louis de Branges</li>
-    <li><em>The Brown–Douglas–Fillmore Theory</em> — BDF-Gadadhar Misra and Sameer Chavan
+    <li><em>The Brown–Douglas–Fillmore Theory</em> — BDF-Gadadhar Misra and Sameer Chavan</li>
     <li><em>Pick Interpolation and Hilbert Function Spaces</em> — Jim Agler & John E. McCarthy</li>
     <li><em>Operator Theory</em> — Barry Simon</li>
     <li><em>Noncommutative Function Theory</em> — Victor Vinnikov</li>
@@ -70,7 +74,8 @@ author_profile: true
     <li><em>Algebra</em> — Michael Artin</li>
     <li><em>Algebra</em> — Serge Lang</li>
     <li><em>Linear Fractional Transformations</em> — Arseniy Sheydvasser</li>
-
+  </ol>
+</div>
 
   <p style="color: #2a5d9f; font-size: 14px; margin-top: 10px;">
     Some of these I’m actively studying especially the first few.
