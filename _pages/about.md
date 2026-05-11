@@ -58,56 +58,11 @@ redirect_from:
     Colorless <span style="color: #008000; font-weight: bold;">green</span> ideas sleep furiously — Noam Chomsky
   </p>
 
-  <p style="
-    font-family: Georgia, serif;
-    color: rgba(0, 0, 0, 0.78);
-    font-style: italic;
-    line-height: 1.6;
-    letter-spacing: 0.2px;
-    margin-top: 18px;
-  ">
-    Many... predicates will be useless in application to attributes; thus it would be false, at best, to affirm, and useless, at best, to deny, that an attribute is pink or divisible by four. Ryle branded such predications category mistakes; he declares them meaningless and so did Russell in his theory of types. So did Carnap.
-    <br><br>
-    Over the years I have represented a minority of philosophers who preferred the opposite line: we can simplify grammar and logic by minimizing the number of our grammatical categories and maximizing their size. Instead of agreeing with Carnap that it is meaningless to say 'This stone is thinking about Vienna', and with Russell that it is meaningless to say 'Quadruplicity drinks procrastination', we can accommodate these sentences as meaningful and trivially false. Stones simply never think, as it happens, and quadruplicity never drinks.
-  </p>
-
-  <p style="
-    font-family: Georgia, serif;
-    color: rgba(0, 0, 0, 0.75);
-    margin-top: 12px;
-  ">
-    — Willard Van Orman Quine, <em>Theories and Things</em> (1981), p. 110
-  </p>
-
 </div>
   <p style="font-family: Georgia, serif;">Paul Halmos once said:
   <strong><span style="color:green;">"The only way to learn mathematics is to do mathematics."</span></strong></p>
 
-  <p style="font-family: Georgia, serif;">For a long time, I appreciated this line only at the surface. I understood the words, but not the warning embedded in them. Looking back, I can identify many moments when I held a vague intuition about a concept and mistook that vagueness for understanding, a kind of intellectual comfort that asked nothing of me. That false satisfaction, I now realize, is precisely what Halmos meant to caution against. Genuine understanding is not passive. It is earned through careful engagement with ideas, through the discomfort of not knowing, and through the slow, deliberate work of working things out, not merely feeling as though one has.</p>
-
-  <p style="font-family: Georgia, serif;">This understanding is shaping me how I approach my research and studies. Mathematics, for me, is not a performance of knowledge but a patient and honest pursuit of it, one that demands both rigor and humility in equal measure.</p>
-
- <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
-<p style="font-family: Georgia, serif;">
-  <span style="color: #0b6623;"><strong>I ended up in mathematics by accident.</strong></span><br><br>
-
-After class 12th, I had no cellphone, no electronic devices, and very little idea of what to do next. The world beyond my immediate surroundings was largely invisible to me. There was no one guiding me, no roadmap. For me, there was only one option that felt real — filling up a form in one of the Sikkim government colleges, the way everyone around me did. That was the horizon I could see.
-</p>
-
-<p style="font-family: Georgia, serif;">I wanted to study Physics - Nuclear Physics, specifically. I went to a nearby cyber cafe, asked the person there to fill up the form with Physics as my first priority and Mathematics as the second. He switched them. My name appeared in Mathematics. That was it. Not a decision. Not a calling. A clerical error.</p>
-
-<p style="font-family: Georgia, serif;">In the beginning I understood almost nothing. I copied Gallian line by line. I wrote down every word of Professor S.H. Kulkarni's NPTEL lectures on Real Analysis into two thick hardcover notebooks, whatever he spoke, I wrote. I still have those notebooks. For most of my graduation, that was my reality: not mathematics, but a slow, confused search for how to learn mathematics. I did not know what I was doing. I was not sure anyone could tell me.</p>
-
-<p style="font-family: Georgia, serif;">Then, towards the end of my graduation, I had the opportunity to attend the Mathematics Training and Talent Search Programme — MTTS Level 1. It was the first time I understood what mathematical learning was actually supposed to feel like. The confusion did not disappear overnight, but something shifted. A direction appeared where before there had been none. I also understood, clearly and a little painfully, how lost I had been all along.</p>
-
-<p style="font-family: Georgia, serif;">Sikkim University came after that, and it gave me what graduation could not - good teachers, proper courses, and a sense that I was finally moving forward. But the gaps from those early years kept slapping me on basic things, foundational things. Some of them still do.</p>
-
-<p style="font-family: Georgia, serif;">Through all of it I kept teaching. I always thank the classmates who bunked lectures and came to me after. Especially with whom I discussed many topics in mathematics during my B.Sc. and M.Sc. days.</p>
-
-<p style="font-family: Georgia, serif; color: #0b6623;">
-  <strong>I didn't choose mathematics. Mathematics somehow adjusted with me and so far, neither of us has walked away.</strong> (nonsense apart:)
-</p>
- <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
+   <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
  
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
   My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the 
@@ -234,6 +189,31 @@ Outside of academics, I enjoy writing blogs, exploring web design and coding, an
 I have always liked writing that explains ideas clearly and with real enthusiasm. I especially enjoy the careful and well-structured exposition in <a href="https://terrytao.wordpress.com/category/teaching/246c-complex-analysis/">Terry Tao</a>’s lecture notes, the precise and reliable style of <a href="https://www.jmilne.org/math/">J. S. Milne</a>, and the thoughtful blog posts of <a href="https://gowers.wordpress.com/">Timothy Gowers</a>. What I admire in all of them is a genuine focus on understanding things properly, written clearly and without unnecessary complexity or decoration.
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
+
+  <p style="font-family: Georgia, serif;">For a long time, I appreciated this line only at the surface. I understood the words, but not the warning embedded in them. Looking back, I can identify many moments when I held a vague intuition about a concept and mistook that vagueness for understanding, a kind of intellectual comfort that asked nothing of me. That false satisfaction, I now realize, is precisely what Halmos meant to caution against. Genuine understanding is not passive. It is earned through careful engagement with ideas, through the discomfort of not knowing, and through the slow, deliberate work of working things out, not merely feeling as though one has.</p>
+
+  <p style="font-family: Georgia, serif;">This understanding is shaping me how I approach my research and studies. Mathematics, for me, is not a performance of knowledge but a patient and honest pursuit of it, one that demands both rigor and humility in equal measure.</p>
+
+ <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
+<p style="font-family: Georgia, serif;">
+  <span style="color: #0b6623;"><strong>I ended up in mathematics by accident.</strong></span><br><br>
+
+After class 12th, I had no cellphone, no electronic devices, and very little idea of what to do next. The world beyond my immediate surroundings was largely invisible to me. There was no one guiding me, no roadmap. For me, there was only one option that felt real — filling up a form in one of the Sikkim government colleges, the way everyone around me did. That was the horizon I could see.
+</p>
+
+<p style="font-family: Georgia, serif;">I wanted to study Physics - Nuclear Physics, specifically. I went to a nearby cyber cafe, asked the person there to fill up the form with Physics as my first priority and Mathematics as the second. He switched them. My name appeared in Mathematics. That was it. Not a decision. Not a calling. A clerical error.</p>
+
+<p style="font-family: Georgia, serif;">In the beginning I understood almost nothing. I copied Gallian line by line. I wrote down every word of Professor S.H. Kulkarni's NPTEL lectures on Real Analysis into two thick hardcover notebooks, whatever he spoke, I wrote. I still have those notebooks. For most of my graduation, that was my reality: not mathematics, but a slow, confused search for how to learn mathematics. I did not know what I was doing. I was not sure anyone could tell me.</p>
+
+<p style="font-family: Georgia, serif;">Then, towards the end of my graduation, I had the opportunity to attend the Mathematics Training and Talent Search Programme — MTTS Level 1. It was the first time I understood what mathematical learning was actually supposed to feel like. The confusion did not disappear overnight, but something shifted. A direction appeared where before there had been none. I also understood, clearly and a little painfully, how lost I had been all along.</p>
+
+<p style="font-family: Georgia, serif;">Sikkim University came after that, and it gave me what graduation could not - good teachers, proper courses, and a sense that I was finally moving forward. But the gaps from those early years kept slapping me on basic things, foundational things. Some of them still do.</p>
+
+<p style="font-family: Georgia, serif;">Through all of it I kept teaching. I always thank the classmates who bunked lectures and came to me after. Especially with whom I discussed many topics in mathematics during my B.Sc. and M.Sc. days.</p>
+
+<p style="font-family: Georgia, serif; color: #0b6623;">
+  <strong>I didn't choose mathematics. Mathematics somehow adjusted with me and so far, neither of us has walked away.</strong> (nonsense apart:)
+</p>
 
 <hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
 My mathematical philosophy is simple to state:
