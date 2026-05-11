@@ -93,7 +93,7 @@ redirect_from:
 
   <p style="font-family: Georgia, serif; color: #2f4f2f;">My undergraduate project is titled <em><span style="font-style: italic; font-weight: bold; color: #2f4f2f;">"Foundations of Set Theory: The Zermelo–Fraenkel Axioms with Choice"</span></em>.</p>
 
-  <p style="font-family: Georgia, serif; color: #2f4f2f;">I am also deeply interested in teaching, outreach, and sharing ideas. I have worked as a teaching assistant at IIIT Delhi and as a guest lecturer at Sikkim Global Technical University. I enjoy participating in mathematics Olympiad training camps, workshops, and mentoring students. I am also a student member of the <span style="color: #1a3d2f;">Institute of Mathematical Statistics (IMS)</span>, with my membership valid through December 2025 (<strong>Membership ID: 38250</strong>).</p>
+  <p style="font-family: Georgia, serif; color: #2f4f2f;">I am also deeply interested in teaching, outreach, and sharing ideas. I have worked as a teaching assistant at IIIT Delhi and as a guest lecturer at Sikkim Global Technical University. I enjoy participating in mathematics Olympiad training camps, workshops, and mentoring students. I am also a student member of the <span style="color: #1a3d2f;">Institute of Mathematical Statistics (IMS)</span>, with my <strong>Membership ID: 38250</strong>.</p>
 
   <p style="font-family: Georgia, serif;">I have authored a book, <span style="font-weight: bold; color: #2f4f2f;">Beyond Answers: Beauty of Mathematical Questions</span>. It was my first attempt at writing and not perfect, but it reflects my interest in learning through questions. The book is available on Amazon and Notion Press.</p>
 
