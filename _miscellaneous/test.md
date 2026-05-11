@@ -29,7 +29,7 @@
 
   <!-- Favorite Books Section -->
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 10px;">📖 Some of My Favorite Books (and a Few I'm Exploring Soon)</h3>
+    <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 10px;">Some of My Favorite Books (and a Few I'm Exploring Soon)</h3>
     <ol style="margin: 0; padding-left: 20px; line-height: 1.55; color: #1a2a4f;">
       <li><em>Banach Algebraic Techniques in Operator Theory</em> — Ronald G. Douglas</li>
       <li><em>Hilbert Spaces of Entire Functions</em> — Louis de Branges</li>
