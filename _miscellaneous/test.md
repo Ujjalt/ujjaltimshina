@@ -1,15 +1,8 @@
----
-layout: archive
-title: "Miscellaneous"
-permalink: /miscellaneous/
-author_profile: true
----
-
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
   <!-- Personal Note -->
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <p>
+    <p style="margin: 0; color: #1a2a4f;">
       Well, the only things I have in my life are a few books, a laptop, and a few gifts. I have my Mom and Sister, and the most valuable friend of mine, Radhika, along with some memories to share. 
       I have a few notes prepared so far, and I love to teach myself and make myself learn, and in that process, I can be loud enough at times.
       <br><br>
@@ -26,21 +19,21 @@ author_profile: true
 
   <!-- Tutorial Problems Section -->
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <h3 style="color: #2a5d9f; margin-top: 0;"> Tutorial Problems & Lecture Materials</h3>
-    <p>You can try some of the interesting tutorial problems and materials prepared by me as part of various delivered lecture series.</p>
+    <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 10px;">📚 Tutorial Problems & Lecture Materials</h3>
+    <p style="margin: 0 0 12px 0; color: #1a2a4f;">You can try some of the interesting tutorial problems and materials prepared by me as part of various delivered lecture series.</p>
     <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/tutorial-problems-delivered-lecture-series" target="_blank" 
-       style="display: inline-block; background-color: #2a5d9f; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none; margin-top: 8px;">
+       style="display: inline-block; background-color: #2a5d9f; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none;">
       View Tutorial Problems
     </a>
   </div>
 
   <!-- Favorite Books Section -->
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <h3 style="color: #2a5d9f; margin-top: 0;">📖 Some of My Favorite Books (and a Few I'm Exploring Soon)</h3>
-    <ol style="margin: 8px 0 0 0; padding-left: 20px; line-height: 1.55; color: #1a2a4f;">
+    <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 10px;">📖 Some of My Favorite Books (and a Few I'm Exploring Soon)</h3>
+    <ol style="margin: 0; padding-left: 20px; line-height: 1.55; color: #1a2a4f;">
       <li><em>Banach Algebraic Techniques in Operator Theory</em> — Ronald G. Douglas</li>
       <li><em>Hilbert Spaces of Entire Functions</em> — Louis de Branges</li>
-      <li><em>The Brown–Douglas–Fillmore Theory</em> — BDF-Gadadhar Misra and Sameer Chavan</li>
+      <li><em>The Brown–Douglas–Fillmore Theorem</em> — BDF-Gadadhar Misra and Sameer Chavan</li>
       <li><em>Pick Interpolation and Hilbert Function Spaces</em> — Jim Agler & John E. McCarthy</li>
       <li><em>Operator Theory</em> — Barry Simon</li>
       <li><em>Noncommutative Function Theory</em> — Victor Vinnikov</li>
@@ -63,21 +56,6 @@ author_profile: true
     </ol>
   </div>
 
-</div>
-  <p style="color: #2a5d9f; font-size: 14px; margin-top: 10px;">
-    Some of these I’m actively studying especially the first few.
-  </p>
-
-  <!-- Highlights Header in Dark Blue Box -->
-  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-weight: bold; color: #2a5d9f; font-weight: bold;">
-    Highlights from Recent Academic Engagements
-  </div>
-
-<div style="background: #d4edda; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px; font-family: Georgia, serif; line-height: 1.6;">
-  <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 8px;"> RMS Annual Conference — 2025</h3>
-  The 40th Annual Conference of the Ramanujan Mathematical Society, hosted by the Department of Mathematics, IIIT-Delhi, in collaboration with the Ramanujan Mathematical Society (December 18–20, 2025).<br>
-  Served as the institute volunteer and also as a classroom volunteer in the Functional & Harmonic Analysis Symposium and the Geometry & Topology Symposium.<br>
-  <em>(Such a fantastic learning experience.)</em>
 </div>
 
 
