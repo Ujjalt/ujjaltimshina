@@ -8,7 +8,7 @@ author_profile: true
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
   <!-- Personal Note -->
-  <div style="background: #e8f5e8; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <div style="background: #fff5e6; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
     <p>
       Well, the only things I have in my life are a few books, a laptop, and the few gifts. I have my Mom and Sister, and the most valuable friend of mine, Radhika, along with some memories to share. 
       I have a few notes prepared so far, and I love to teach myself and make myself learn and in that process, I can be loud enough at times.
