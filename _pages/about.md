@@ -215,7 +215,9 @@ My mathematical philosophy is simple to state:
 
 We humans speak many languages, and I personally understand only English, Nepali, and Hindi. But mathematics works in a different way. It is not tied to any particular culture or tongue. Patterns, structures, and relationships are present everywhere, and they are reflected not only in living beings but also in the behaviour of non-living systems. Movement, symmetry, stability, variation, and balance appear long before we give them names. Even without language, the world follows its own internal mathematics.
 
-Because of this, mathematics feels like a quiet kind of communication that reaches beyond words. Even when we cannot understand one another’s spoken languages, and even when other beings cannot speak ours, there is still a shared structure in the world that we all sense. <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; font-weight:bold;">
+Because of this, mathematics feels like a quiet kind of communication that reaches beyond words. Even when we cannot understand one another’s spoken languages, and even when other beings cannot speak ours, there is still a shared structure in the world that we all sense. 
+
+<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; font-weight:bold;">
 Through mathematics we interpret nature, and nature, in its own patient logic, communicates back.
 </div>
 
