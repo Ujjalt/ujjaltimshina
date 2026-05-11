@@ -19,7 +19,7 @@
 
   <!-- Tutorial Problems Section -->
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 10px;">📚 Tutorial Problems & Lecture Materials</h3>
+    <h3 style="color: #2a5d9f; margin-top: 0; margin-bottom: 10px;">Tutorial Problems & Lecture Materials</h3>
     <p style="margin: 0 0 12px 0; color: #1a2a4f;">You can try some of the interesting tutorial problems and materials prepared by me as part of various delivered lecture series.</p>
     <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/tutorial-problems-delivered-lecture-series" target="_blank" 
        style="display: inline-block; background-color: #2a5d9f; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none;">
