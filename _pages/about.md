@@ -196,7 +196,7 @@ It’s a long story — shaped by a few unexpected choices and circumstances but
 
 **I didn’t so much choose mathematics as much as it became the discipline I gradually grew into.**
 
-I remain grateful to the classmates who often missed lectures and later discussed the material with me. Many of my early B.Sc. and M.Sc. mathematical conversations — and much of my initial learning — emerged from those interactions.
+I remain grateful to the classmates who often missed lectures and later discussed the material with me. Many of my early B.Sc. and M.Sc. mathematical conversations and much of my initial learning emerged from those interactions.
 
 **I didn’t choose mathematics. It just happened, and I’ve been rolling with it ever since.** I always thank the classmates who bunked lectures and came to me after. Especially with whom I discussed many topics in mathematics during my B.Sc. and M.Sc. days.</p>
 
