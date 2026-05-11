@@ -77,8 +77,8 @@ redirect_from:
 
   <p style="font-family: Georgia, serif; color: #2f4f2f;">I am planning to study <span style="font-weight: bold; color: #2f4f2f;">Probabilistic Measure Theory</span> and <span style="font-weight: bold; color: #2f4f2f;">Banach Algebra Techniques in Operator Theory</span> in the upcoming semester.</p>
 
-<div style="border: 1px solid #7f8c8d; background: #ffffff; padding: 12px 16px; margin: 20px 0; font-family: 'Calibri', Georgia, serif; box-shadow: 0 0 0 1px #e0e0e0; border-radius: 0px;">
-  <p style="margin: 0; color: #2f4f2f; font-family: Georgia, serif;">
+<div style="border: 1px solid #7f8c8d; background: #f0f7f0; padding: 12px 16px; margin: 20px 0; font-family: 'Calibri', Georgia, serif; box-shadow: 0 0 0 1px #e0e0e0; border-radius: 0px;">
+  <p style="margin: 0; color: #1a5c1a; font-family: Georgia, serif; font-weight: bold;">
     I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces (RKHS), the Complex Analytic Approach to Elliptic Curves and Modular Forms, Topics in Functional Analysis: Operator Algebras, Functional Analysis, Complex Analysis, Several Complex Variables, Introduction to Non-commutative Function Theory, and Matrix Groups.
   </p>
 </div>
