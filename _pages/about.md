@@ -52,7 +52,6 @@ redirect_from:
     </footer>
   </blockquote>
 
-<div style="font-family: Georgia, serif; background: #e6f0ff; padding: 18px 22px; border-left: 6px solid #3b78d8; border-radius: 6px; color: #000000;">
 
 </div>
   <p style="font-family: Georgia, serif;">Paul Halmos once said:
