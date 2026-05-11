@@ -192,18 +192,13 @@ I have always liked writing that explains ideas clearly and with real enthusiasm
 <p style="font-family: Georgia, serif;">
   <span style="color: #0b6623;"><strong>I ended up in mathematics by accident.</strong></span><br><br>
 
-After class 12th, I had no cellphone, no electronic devices, and very little idea of what to do next. The world beyond my immediate surroundings was largely invisible to me. There was no one guiding me, no roadmap. For me, there was only one option that felt real — filling up a form in one of the Sikkim government colleges, the way everyone around me did. That was the horizon I could see.
-</p>
+It’s a long story — shaped by a few unexpected choices and circumstances but the short version is that I found myself in mathematics and continued along that direction.
 
-<p style="font-family: Georgia, serif;">I wanted to study Physics - Nuclear Physics, specifically. I went to a nearby cyber cafe, asked the person there to fill up the form with Physics as my first priority and Mathematics as the second. He switched them. My name appeared in Mathematics. That was it. Not a decision. Not a calling. A clerical error.</p>
+**I didn’t so much choose mathematics as much as it became the discipline I gradually grew into.**
 
-<p style="font-family: Georgia, serif;">In the beginning I understood almost nothing. I copied Gallian line by line. I wrote down every word of Professor S.H. Kulkarni's NPTEL lectures on Real Analysis into two thick hardcover notebooks, whatever he spoke, I wrote. I still have those notebooks. For most of my graduation, that was my reality: not mathematics, but a slow, confused search for how to learn mathematics. I did not know what I was doing. I was not sure anyone could tell me.</p>
+I remain grateful to the classmates who often missed lectures and later discussed the material with me. Many of my early B.Sc. and M.Sc. mathematical conversations — and much of my initial learning — emerged from those interactions.
 
-<p style="font-family: Georgia, serif;">Then, towards the end of my graduation, I had the opportunity to attend the Mathematics Training and Talent Search Programme — MTTS Level 1. It was the first time I understood what mathematical learning was actually supposed to feel like. The confusion did not disappear overnight, but something shifted. A direction appeared where before there had been none. I also understood, clearly and a little painfully, how lost I had been all along.</p>
-
-<p style="font-family: Georgia, serif;">Sikkim University came after that, and it gave me what graduation could not - good teachers, proper courses, and a sense that I was finally moving forward. But the gaps from those early years kept slapping me on basic things, foundational things. Some of them still do.</p>
-
-<p style="font-family: Georgia, serif;">Through all of it I kept teaching. I always thank the classmates who bunked lectures and came to me after. Especially with whom I discussed many topics in mathematics during my B.Sc. and M.Sc. days.</p>
+**I didn’t choose mathematics. It just happened, and I’ve been rolling with it ever since.** I always thank the classmates who bunked lectures and came to me after. Especially with whom I discussed many topics in mathematics during my B.Sc. and M.Sc. days.</p>
 
 <p style="font-family: Georgia, serif; color: #0b6623;">
   <strong>I didn't choose mathematics. Mathematics somehow adjusted with me and so far, neither of us has walked away.</strong> (nonsense apart:)
