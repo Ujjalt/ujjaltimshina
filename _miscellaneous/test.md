@@ -16,7 +16,7 @@ author_profile: true
       I have some friends, but they often feel more like colleagues than true companions, as I have always been somewhat unsuccessful in forming bonds deeply connected by the heart. 
       There are a few who are truly my friends, yet I feel I fall short in the trueness of those friendships. 
       Still, I value everyone who has come, passed by, and will come into my life.
-      Nonsense apart, I get down to the business of mathematics. I love history and words along with mathematics, because history structures my brain in a way that helps me retain things — something I am really poor at. I jump from one thought to another multiple times, and most days I forget in the evening what I studied in the morning.
+      Nonsense apart, I get down to the business of mathematics. I love history and words along with mathematics, because history structures my brain in a way that helps me retain things — something I am really poor at. \
       <br><br>
       I like words because they help me communicate mathematics better than only using formal symbols. You may say I copied the philosophy of Halmos, and I do agree in some sense, he mentions the same in his book <i>I Want to Be a Mathematician</i>.
       <br><br>
