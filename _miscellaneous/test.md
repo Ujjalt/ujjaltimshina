@@ -25,10 +25,9 @@ author_profile: true
 
   
   <!-- Tutorial Problems Section -->
-  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <h3 style="color: #2a5d9f; margin-top: 0;">Tutorial Problems & Lecture Materials</h3>
-   You can try some of the interesting tutorial problems and materials prepared by me as part of various delivered lecture series.
-  </div>
+<div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <h3 style="color: #2a5d9f; margin-top: 0;">📚 Reading List</h3>
+  <ol style="margin: 8px 0 0 0; padding-left: 20px; line-height: 1.55; color: #1a2a4f; font-family: Georgia, serif;">
 
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
     <p>Visit the external links below to explore:</p>
