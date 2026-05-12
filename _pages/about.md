@@ -12,7 +12,7 @@ redirect_from:
 <div style="font-family: Georgia, serif; text-align: justify;">
 
   <div align="center" style="margin-top: -10px;">
-    <p style="font-size: 16px; color: #5A4634;">2nd March 2001</p>
+
     <p style="font-size: 16px; color: #5A4634; margin-top: -10px;">Gangtok, Sikkim, India</p>
   </div>
 
