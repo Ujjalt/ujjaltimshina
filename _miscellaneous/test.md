@@ -831,3 +831,35 @@ classes: wide
     Simple moments like these — warm, genuine, and shared with people who walk the same long 
     academic journey stay close to the heart.
 </p>
+
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <h3 style="color: #2a5d9f; margin-top: 0;">Yeti Himalayan Kitchen, East of Kailash, New Delhi</h3>
+  <p align="center"><strong>7th May 2026</strong></p>
+  <p>
+    A memorable day after completing my TA responsibilities under Dr. Subhajit Ghosechowdhury in the Differential Equations course,
+    and of course after the very classic and unforgettable course on RKHS with him. This visit to Yeti Himalayan Kitchen will always 
+    stay close to my heart.
+  </p>
+
+<div align="center" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
+
+  <img 
+    src="https://github.com/Ujjalt/ujjaltimshina/blob/4e56b860c4c6952e30693bd218ce2a63e42b221e/images/SG-1.jpeg"
+    width="200"
+    style="border: 2px solid #444; border-radius: 10px;"
+  />
+
+  <img 
+    src="https://github.com/Ujjalt/ujjaltimshina/blob/4e56b860c4c6952e30693bd218ce2a63e42b221e/images/SG-2.jpeg"
+    width="200"
+    style="border: 2px solid #444; border-radius: 10px;"
+  />
+
+  <img 
+    src="https://github.com/Ujjalt/ujjaltimshina/blob/4e56b860c4c6952e30693bd218ce2a63e42b221e/images/SG-3.jpeg"
+    width="200"
+    style="border: 2px solid #444; border-radius: 10px;"
+  />
+
+</div>
+</div>
