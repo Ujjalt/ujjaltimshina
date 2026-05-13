@@ -722,6 +722,28 @@ classes: wide
                 box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   </div>
 
+
+
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+  <h3 style="color: #2a5d9f; margin-top: 0;">Sona Sweets & Restaurant, Nehru Place, New Delhi</h3>
+  <p align="center"><strong>13th December 2025 &nbsp; • &nbsp; 5:37 PM</strong></p>
+  <p>
+    Taken just after the final exam of the Matrix Groups course.  
+    A small celebration at Sona Sweets and Restaurant at Nehru Place.
+  </p>
+
+<div align="center" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
+
+  <img 
+    src="https://github.com/Ujjalt/ujjaltimshina/blob/088479e4f768457dfc55c20e900328d8be0548f5/images/MG.jpg?raw=true"
+    width="220"
+    style="border: 2px solid #444; border-radius: 10px;"
+  />
+
+</div>
+</div>
+
+
   <p>
     A lovely day out in QBA at Connaught Place with my department colleagues and my PhD supervisor. 
     7th February 2026 felt warm and full, endless conversations, shared laughter, and the quiet 
@@ -765,24 +787,6 @@ classes: wide
 </div>
 
 
-<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-  <h3 style="color: #2a5d9f; margin-top: 0;">Sona Sweets & Restaurant, Nehru Place, New Delhi</h3>
-  <p align="center"><strong>13th December 2025 &nbsp; • &nbsp; 5:37 PM</strong></p>
-  <p>
-    Taken just after the final exam of the Matrix Groups course.  
-    A small celebration at Sona Sweets and Restaurant at Nehru Place.
-  </p>
-
-<div align="center" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
-
-  <img 
-    src="https://github.com/Ujjalt/ujjaltimshina/blob/088479e4f768457dfc55c20e900328d8be0548f5/images/MG.jpg?raw=true"
-    width="220"
-    style="border: 2px solid #444; border-radius: 10px;"
-  />
-
-</div>
-</div>
 
 
 <!-- SECTION: ORGANIC OIL KITCHEN -->
