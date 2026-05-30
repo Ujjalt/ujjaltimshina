@@ -189,7 +189,7 @@ My undergraduate project is titled <em><span style="font-style: italic; font-wei
     width="340"
     style="border-radius: 6px;"
   />
-</div>
+
 
 
 <div style="border: 1px solid #2f4f2f; border-radius: 8px; padding: 14px 18px; margin: 20px 0; text-align: center; background-color: #f6faf6;">
