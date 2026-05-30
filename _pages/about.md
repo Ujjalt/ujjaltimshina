@@ -122,8 +122,13 @@ Previously, I completed my M.Sc. in Mathematics from
 a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and was awarded the University Gold Medal (Top-1), which I received from 
 <span style="color: #145a32; font-weight: bold;">the Honourable 15th President of India, Madam Draupadi Murmu</span> at the 
 <span style="color: #145a32; font-weight: bold;">7th Convocation Ceremony of Sikkim University</span>.
-My master's thesis, titled <em><span style="font-style: italic; font-weight: bold; color: #2f4f2f;">"Nets and Filters in Topology"</span></em>, was completed under the supervision of 
-<a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2" style="color: #145a32; font-weight: bold; text-decoration: none;">Dr. Namita Behera</a>. 
+ <br><br>
+  Link to watch the prestigious moment of my life, filled with a deep sense of responsibility towards nation-building:
+  <a href="https://drive.google.com/file/d/1cv4o7gEijySyA5N2hJm4AfScHZGv4a71/view?usp=drive_link" target="_blank">
+    Click here to watch
+  </a>.
+</div>
+My master's thesis, titled <em><span style="font-style: italic; font-weight: bold; color: #2f4f2f;">"Nets and Filters in Topology"</span></em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2" style="color: #145a32; font-weight: bold; text-decoration: none;">Dr. Namita Behera</a>. 
 I completed my undergraduate studies at 
 <a href="https://nbbgc.org/" style="color: #145a32; font-weight: bold; text-decoration: none;">Nar Bahadur Bhandari Government College</a>.
 </p>
