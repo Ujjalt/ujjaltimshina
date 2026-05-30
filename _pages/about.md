@@ -86,14 +86,23 @@ redirect_from:
   <p style="font-family: Georgia, serif; color: #2f4f2f;">Going forward, I plan to delve deeper into <a href="https://en.wikipedia.org/wiki/Spectral_theory" style="color: #145a32; font-weight: bold; text-decoration: none;">Spectral Theory</a>, <a href="https://en.wikipedia.org/wiki/Representation_theory" style="color: #145a32; font-weight: bold; text-decoration: none;">Representation Theory</a> and the <a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)" style="color: #145a32; font-weight: bold; text-decoration: none;">Lean Programming Language</a>.</p>
 
   <p style="font-family: Georgia, serif; color: #2f4f2f;">I am also keenly interested in subjects such as <a href="https://en.wikipedia.org/wiki/Measure_theory" style="color: #145a32; font-weight: bold; text-decoration: none;">Measure Theory</a> and <a href="https://en.wikipedia.org/wiki/General_topology" style="color: #145a32; font-weight: bold; text-decoration: none;">General Topology</a>, which continue to shape my mathematical perspective.</p>
+<hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
 
-  <hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
-  <p style="font-family: Georgia, serif; color: #2f4f2f;">
-Previously, I completed my M.Sc. in Mathematics from <a href="https://cus.ac.in/" style="color: #145a32; font-weight: bold; text-decoration: none;">Sikkim University</a>, a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and was awarded the University Gold Medal (Top-1), which I received from <span style="color: #145a32; font-weight: bold;">the Honourable President of India</span> at the <span style="color: #145a32; font-weight: bold;">7th Convocation Ceremony of Sikkim University</span>.
-My master's thesis, titled <em><span style="font-style: italic; font-weight: bold; color: #2f4f2f;">"Nets and Filters in Topology"</span></em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2" style="color: #145a32; font-weight: bold; text-decoration: none;">Dr. Namita Behera</a>. I completed my undergraduate studies at <a\href="https://nbbgc.org/" style="color: #145a32; font-weight: bold; text-decoration: none;">Nar Bahadur Bhandari Government College</a>.
+<p style="font-family: Georgia, serif; color: #2f4f2f;">
+Previously, I completed my M.Sc. in Mathematics from 
+<a href="https://cus.ac.in/" style="color: #145a32; font-weight: bold; text-decoration: none;">Sikkim University</a>, 
+a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and was awarded the University Gold Medal (Top-1), which I received from 
+<span style="color: #145a32; font-weight: bold;">the Honourable President of India, Madam Draupadi Murmu</span> at the 
+<span style="color: #145a32; font-weight: bold;">7th Convocation Ceremony of Sikkim University</span>.
+My master's thesis, titled <em><span style="font-style: italic; font-weight: bold; color: #2f4f2f;">"Nets and Filters in Topology"</span></em>, was completed under the supervision of 
+<a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2" style="color: #145a32; font-weight: bold; text-decoration: none;">Dr. Namita Behera</a>. 
+I completed my undergraduate studies at 
+<a href="https://nbbgc.org/" style="color: #145a32; font-weight: bold; text-decoration: none;">Nar Bahadur Bhandari Government College</a>.
+</p>
 
-  <p style="font-family: Georgia, serif; color: #2f4f2f;">My undergraduate project is titled <em><span style="font-style: italic; font-weight: bold; color: #2f4f2f;">"Foundations of Set Theory: The Zermelo–Fraenkel Axioms with Choice"</span></em>.</p>
-
+<p style="font-family: Georgia, serif; color: #2f4f2f;">
+My undergraduate project is titled <em><span style="font-style: italic; font-weight: bold; color: #2f4f2f;">"Foundations of Set Theory: The Zermelo–Fraenkel Axioms with Choice"</span></em>.
+</p>
   <p style="font-family: Georgia, serif; color: #2f4f2f;">I am also deeply interested in teaching, outreach, and sharing ideas. I have worked as a teaching assistant at IIIT Delhi and as a guest lecturer at Sikkim Global Technical University. I enjoy participating in mathematics Olympiad training camps, workshops, and mentoring students. I am also a student member of the <span style="color: #1a3d2f;">Institute of Mathematical Statistics (IMS)</span>, with my <strong>Membership ID: 38250</strong>.</p>
 
   <p style="font-family: Georgia, serif;">I have authored a book, <span style="font-weight: bold; color: #2f4f2f;">Beyond Answers: Beauty of Mathematical Questions</span>. It was my first attempt at writing and not perfect, but it reflects my interest in learning through questions. The book is available on Amazon and Notion Press.</p>
