@@ -139,13 +139,8 @@ at the
 >
   Click here to watch
 </a>.
-</p>
-My master's thesis, titled <em><span style="font-style: italic; font-weight: bold; color: #2f4f2f;">"Nets and Filters in Topology"</span></em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2" style="color: #145a32; font-weight: bold; text-decoration: none;">Dr. Namita Behera</a>. 
-I completed my undergraduate studies at 
-<a href="https://nbbgc.org/" style="color: #145a32; font-weight: bold; text-decoration: none;">Nar Bahadur Bhandari Government College</a>.
-</p>
 
-<p style="font-family: Georgia, serif; color: #2f4f2f;">
+My master's thesis, titled <em><span style="font-style: italic; font-weight: bold; color: #2f4f2f;">"Nets and Filters in Topology"</span></em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2" style="color: #145a32; font-weight: bold; text-decoration: none;">Dr. Namita Behera</a>. I completed my undergraduate studies at <a href="https://nbbgc.org/" style="color: #145a32; font-weight: bold; text-decoration: none;">Nar Bahadur Bhandari Government College</a>. <p style="font-family: Georgia, serif; color: #2f4f2f;">
 My undergraduate project is titled <em><span style="font-style: italic; font-weight: bold; color: #2f4f2f;">"Foundations of Set Theory: The Zermelo–Fraenkel Axioms with Choice"</span></em>.
 </p>
   <p style="font-family: Georgia, serif; color: #2f4f2f;">I am also deeply interested in teaching, outreach, and sharing ideas. I have worked as a teaching assistant at IIIT Delhi and as a guest lecturer at Sikkim Global Technical University. I enjoy participating in mathematics Olympiad training camps, workshops, and mentoring students. I am also a student member of the <span style="color: #1a3d2f;">Institute of Mathematical Statistics (IMS)</span>, with my <strong>Membership ID: 38250</strong>.</p>
