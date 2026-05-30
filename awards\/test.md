@@ -75,6 +75,5 @@ Please refer to the video link of the prestigious moment of my life:
     <strong>Certificate of Merit</strong> — Awarded by Cipla Foundation for outstanding academic performance in Class 10 and 12.
   </div>
 
-</div>
 
 <hr style="border: 0; height: 2px; background-color: #064d17; margin-top: 25px;">
