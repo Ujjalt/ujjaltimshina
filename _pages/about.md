@@ -36,9 +36,9 @@ redirect_from:
     />
   </div>
 
-  <div style="
+<div style="
   display: flex;
-  justify-content: center;
+  flex-direction: column;
   align-items: center;
   gap: 15px;
   border: 2px solid #444;
@@ -47,14 +47,14 @@ redirect_from:
   background: #f9f9f9;
 ">
 
-  <!-- Image 1 -->
+  <!-- Image 1 (Top) -->
   <img 
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a5e4f7431866936a39e3073f11f1a75ec75735f7/images/POI.jpg" 
     alt="POI"
     style="border:1px solid #666; border-radius:6px;"
   />
 
-  <!-- Image 2 -->
+  <!-- Image 2 (Below) -->
   <img 
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/2014bdf2e94047aec21d09a869fd279247b5db5a/images/poi2.jpg" 
     alt="POI 2"
