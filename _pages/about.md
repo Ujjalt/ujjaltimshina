@@ -36,6 +36,34 @@ redirect_from:
     />
   </div>
 
+  <div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  border: 2px solid #444;
+  padding: 12px;
+  border-radius: 10px;
+  background: #f9f9f9;
+">
+
+  <!-- Image 1 -->
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a5e4f7431866936a39e3073f11f1a75ec75735f7/images/POI.jpg" 
+    alt="POI"
+    style="border:1px solid #666; border-radius:6px;"
+  />
+
+  <!-- Image 2 -->
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/2014bdf2e94047aec21d09a869fd279247b5db5a/images/poi2.jpg" 
+    alt="POI 2"
+    style="border:1px solid #666; border-radius:6px;"
+  />
+
+</div>
+
+
   <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px;">
     <em>"Even without language, the world follows its own internal mathematics, and I'm trying to understand a fraction of it. Analysis appeals to me as a form of structured thought and I always think of and honour the ancestors who felt time for the first time irrespective of the fact that time was already there, watching them, feel it"</em>
   </div>
