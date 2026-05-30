@@ -21,6 +21,10 @@ author_profile: true
   <strong>University Gold Medal</strong> — Awarded by the Honourable 15th President of India for securing the highest CGPA (9.81) in M.Sc. Mathematics, Sikkim University (2023).
 </div>
 
+Please refer to the video link of the prestigious moment of my life: 
+  <a href="https://drive.google.com/file/d/1cv4o7gEijySyA5N2hJm4AfScHZGv4a71/view?usp=drive_link" target="_blank">Click here to watch</a>.
+</div>
+
 <div style="
   display: flex;
   flex-direction: column;
