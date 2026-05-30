@@ -139,7 +139,7 @@ at the
 >
   Click here to watch
 </a>.
-</div>
+</p>
 My master's thesis, titled <em><span style="font-style: italic; font-weight: bold; color: #2f4f2f;">"Nets and Filters in Topology"</span></em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2" style="color: #145a32; font-weight: bold; text-decoration: none;">Dr. Namita Behera</a>. 
 I completed my undergraduate studies at 
 <a href="https://nbbgc.org/" style="color: #145a32; font-weight: bold; text-decoration: none;">Nar Bahadur Bhandari Government College</a>.
