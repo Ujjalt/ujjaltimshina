@@ -66,8 +66,7 @@ classes: wide
       <li><em>Linear Fractional Transformations</em> — Arseniy Sheydvasser</li>
     </ol>
   </div>
-
-  <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
   <h3 style="color: #2a5d9f; margin-top: 0;">Manan Kendra, Gangtok, Sikkim, India</h3>
 
   <p align="center"><strong>27th May 2026</strong></p>
@@ -79,47 +78,42 @@ classes: wide
   <div align="center"
        style="display:flex; flex-wrap:nowrap; gap:10px; overflow-x:auto; padding:10px 0;">
 
-  <img
+
+   <img
       src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-7.jpeg"
-      width="220"
-      style="border:2px solid #444; border-radius:10px; flex-shrink:0;" />
+      style="height:320px; width:auto; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
 
-  <img
+   <img
       src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-1.jpeg"
-      width="220"
-      style="border:2px solid #444; border-radius:10px; flex-shrink:0;" />
+      style="height:320px; width:auto; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
 
-  <img
+   <img
       src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-2.jpeg"
-      width="220"
-      style="border:2px solid #444; border-radius:10px; flex-shrink:0;" />
+      style="height:320px; width:auto; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
 
    <img
       src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-3.jpeg"
-      width="220"
-      style="border:2px solid #444; border-radius:10px; flex-shrink:0;" />
+      style="height:320px; width:auto; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
 
-  <img
+   <!-- Remaining images -->
+
+   <img
       src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-4.jpeg"
-      width="220"
-      style="border:2px solid #444; border-radius:10px; flex-shrink:0;" />
+      style="height:280px; width:auto; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
+
+   <img
+      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-5.jpeg"
+      style="height:280px; width:auto; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
 
   <img
-      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-5.jpeg"
-      width="220"
-      style="border:2px solid #444; border-radius:10px; flex-shrink:0;" />
-
-   <img
       src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-6.jpeg"
-      width="220"
-      style="border:2px solid #444; border-radius:10px; flex-shrink:0;" />
+      style="height:280px; width:auto; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
 
    <img
-     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-8.jpeg"
-      width="220"
-     style="border:2px solid #444; border-radius:10px; flex-shrink:0;" />  
-</div>
+      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-8.jpeg"
+      style="height:280px; width:auto; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
 
+</div>
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
 
   <h3 style="color: #2a5d9f; margin-top: 0;">
