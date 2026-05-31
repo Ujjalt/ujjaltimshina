@@ -47,16 +47,36 @@ redirect_from:
   background: #f9f9f9;
 ">
 
-  <!-- Image 1 (Top) -->
+  <!-- Fixed Image -->
   <img 
-    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a5e4f7431866936a39e3073f11f1a75ec75735f7/images/POI.jpg" 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a5e4f7431866936a39e3073f11f1a75ec75735f7/images/POI.jpg"
     alt="POI"
     style="border:1px solid #666; border-radius:6px;"
   />
 
+  <!-- Scrollable Gallery -->
+  <div style="
+    display:flex;
+    overflow-x:auto;
+    gap:12px;
+    width:100%;
+    padding:8px 0;
+    scroll-behavior:smooth;
+  ">
+    
+   <img
+      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d60de2a86b29aaba906701d54a8dac4d5a0c42d3/images/AAA-1.jpeg"
+      alt="AAA-1"
+      style="
+        height:300px;
+        border:1px solid #666;
+        border-radius:6px;
+        flex-shrink:0;
+      "
+    />
 
+  </div>
 
-</div>
 
 
   <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px;">
