@@ -157,7 +157,6 @@ My undergraduate project is titled <em><span style="font-style: italic; font-wei
     Through mathematics we interpret nature, and nature, in its own patient logic, communicates back.
   </div>
 
-</div>
 
 <hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
 
