@@ -49,15 +49,6 @@ redirect_from:
     style="border:2px solid #444; border-radius:10px;"
   />
 
-  <div align="center" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto; width:100%;">
-
-   <img
-      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d60de2a86b29aaba906701d54a8dac4d5a0c42d3/images/AAA-1.jpeg"
-      width="200"
-      style="border: 2px solid #444; border-radius: 10px;"
-    />
-
-  </div>
 
 </div>
 
