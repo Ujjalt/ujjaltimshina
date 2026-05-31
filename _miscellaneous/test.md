@@ -945,8 +945,4 @@ classes: wide
 
 
 
-   <img
-      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-8.jpeg"
-      width="220"
-      style="border:2px solid #444; border-radius:10px; flex-shrink:0;" />
-</div>
+
