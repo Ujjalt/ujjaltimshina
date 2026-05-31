@@ -54,12 +54,7 @@ redirect_from:
     style="border:1px solid #666; border-radius:6px;"
   />
 
-  <!-- Image 2 (Below) -->
-  <img 
-    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/2014bdf2e94047aec21d09a869fd279247b5db5a/images/poi2.jpg" 
-    alt="POI 2"
-    style="border:1px solid #666; border-radius:6px;"
-  />
+
 
 </div>
 
