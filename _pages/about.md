@@ -120,7 +120,7 @@ redirect_from:
 Previously, I completed my M.Sc. in Mathematics from 
 <a href="https://cus.ac.in/" style="color: #2f4f2f; font-weight: bold; text-decoration: none;">Sikkim University</a>, 
 a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and was awarded the University Gold Medal (Top-1), which I received from 
-<span style="color:  #2f4f2f; font-weight: bold;">
+<span style="color:  #b30000; font-weight: bold;">
   the Honourable 15th President of India, Madam Draupadi Murmu
 </span> 
 at the 
