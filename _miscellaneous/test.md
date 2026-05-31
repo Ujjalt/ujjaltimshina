@@ -70,49 +70,47 @@ classes: wide
   <h3 style="color: #2a5d9f; margin-top: 0;">Manan Kendra, Gangtok, Sikkim, India</h3>
 
   <p align="center"><strong>27th May 2026</strong></p>
+<p>
+  A glimpse of the Seventh Convocation Ceremony of Sikkim University held at Manan Kendra, Gangtok. The occasion was especially memorable as it gave me the opportunity to meet my batchmates after a span of three years. The day was filled with laughter, conversations, nostalgia, and the joy of reconnecting with old friends. It was wonderful to see how everyone had grown and embarked on their own journeys since graduation. The celebrations concluded with a delightful dinner in the evening with my family, making the day even more special and unforgettable.
+</p>
 
-  <p>
-    A glimpse of the Seventh Convocation Ceremony of Sikkim University held at Manan Kendra, Gangtok. The occasion was especially memorable as it gave me the opportunity to meet my batchmates after a span of three years. The day was filled with laughter, conversations, nostalgia, and the joy of reconnecting with old friends. It was wonderful to see how everyone had grown and embarked on their own journeys since graduation. The celebrations concluded with a delightful dinner in the evening with my family, making the day even more special and unforgettable.
-  </p>
+<div align="center"
+     style="display:flex; flex-wrap:nowrap; gap:10px; overflow-x:auto; padding:10px 0;">
 
-  <div align="center"
-       style="display:flex; flex-wrap:nowrap; gap:10px; overflow-x:auto; padding:10px 0;">
-
-
-   <img
+  <img
       src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-7.jpeg"
-      style="height:320px; width:auto; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
+      style="height:320px; width:260px; object-fit:cover; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
 
-   <img
+  <img
       src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-1.jpeg"
-      style="height:320px; width:auto; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
+      style="height:320px; width:260px; object-fit:cover; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
 
-   <img
+  <img
       src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-2.jpeg"
-      style="height:320px; width:auto; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
+      style="height:320px; width:260px; object-fit:cover; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
 
-   <img
+  <img
       src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-3.jpeg"
-      style="height:320px; width:auto; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
+      style="height:320px; width:260px; object-fit:cover; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
 
-   <!-- Remaining images -->
-
-   <img
+  <img
       src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-4.jpeg"
-      style="height:280px; width:auto; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
+      style="height:280px; width:230px; object-fit:cover; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
 
-   <img
+  <img
       src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-5.jpeg"
-      style="height:280px; width:auto; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
+      style="height:280px; width:230px; object-fit:cover; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
 
   <img
       src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-6.jpeg"
-      style="height:280px; width:auto; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
+      style="height:280px; width:230px; object-fit:cover; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
 
-   <img
+  <img
       src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-8.jpeg"
-      style="height:280px; width:auto; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
+      style="height:280px; width:230px; object-fit:cover; border:2px solid #444; border-radius:10px; flex-shrink:0;" />
 
+
+ 
 </div>
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6; background: #f0f8ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
 
