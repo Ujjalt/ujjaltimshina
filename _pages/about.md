@@ -13,7 +13,7 @@ redirect_from:
 
   <div align="center" style="margin-top: -10px;">
 
-    <p style="font-size: 16px; color: #5A4634; margin-top: -10px;">Gangtok, Sikkim, India</p>
+   <p style="font-size: 16px; color: #5A4634; margin-top: -10px;">Gangtok, Sikkim, India</p>
   </div>
 
   <div align="center" style="margin: 15px 0;">
@@ -37,47 +37,29 @@ redirect_from:
   </div>
 
 <div style="
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 15px;
-  border: 2px solid #444;
-  padding: 12px;
-  border-radius: 10px;
-  background: #f9f9f9;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:15px;
 ">
 
-  <!-- Fixed Image -->
-  <img 
+  <img
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a5e4f7431866936a39e3073f11f1a75ec75735f7/images/POI.jpg"
     alt="POI"
-    style="border:1px solid #666; border-radius:6px;"
+    style="border:2px solid #444; border-radius:10px;"
   />
 
-  <!-- Scrollable Gallery -->
-  <div style="
-    display:flex;
-    overflow-x:auto;
-    gap:12px;
-    width:100%;
-    padding:8px 0;
-    scroll-behavior:smooth;
-  ">
-    
+  <div align="center" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto; width:100%;">
+
    <img
       src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d60de2a86b29aaba906701d54a8dac4d5a0c42d3/images/AAA-1.jpeg"
-      alt="AAA-1"
-      style="
-        height:300px;
-        border:1px solid #666;
-        border-radius:6px;
-        flex-shrink:0;
-      "
+      width="200"
+      style="border: 2px solid #444; border-radius: 10px;"
     />
 
   </div>
 
-
+</div>
 
   <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px;">
     <em>"Even without language, the world follows its own internal mathematics, and I'm trying to understand a fraction of it. Analysis appeals to me as a form of structured thought and I always think of and honour the ancestors who felt time for the first time irrespective of the fact that time was already there, watching them, feel it"</em>
