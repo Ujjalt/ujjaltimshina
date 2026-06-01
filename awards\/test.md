@@ -32,14 +32,9 @@ author_profile: true
     </a>
     </li>
 
-   <li>
-      <a href="https://www.youtube.com/live/1Me9VH0-YkU?si=5Q-E1_onAv5lWIIS" target="_blank">
-        Watch Live Video (YouTube)
-      </a>
-    </li>
 
    <li>
-      <a href="https://drive.google.com/file/d/1cv4o7gEijySyA5N2hJm4AfScHZGv4a71/view?usp=drive_link" target="_blank">
+      <a href="https://drive.google.com/file/d/1eU9TfyTHcX9gPf8Z1tV3H74QPFm598j2/view?usp=drive_link">
         Watch Backup Video (Google Drive)
       </a>
     </li>
