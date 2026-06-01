@@ -20,10 +20,6 @@ author_profile: true
  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
   <strong>University Gold Medal</strong> — Awarded by the Honourable 15th President of India for securing the highest CGPA (9.81) in M.Sc. Mathematics, Sikkim University (2023).
 </div>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-
 
   <p>
     Video links as a memory of the prestigious moment of my life:
@@ -49,8 +45,7 @@ author_profile: true
     </li>
   </ul>
 
-</body>
-</html>
+
 
 <div style="
   display: flex;
