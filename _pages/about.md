@@ -107,8 +107,8 @@ redirect_from:
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
 Previously, I completed my M.Sc. in Mathematics from 
 <a href="https://cus.ac.in/" style="color: #2f4f2f; font-weight: bold; text-decoration: none;">Sikkim University</a>, 
-a central university established by an Act of Parliament, Government of India. I graduated with a CGPA of 9.81 and was awarded the University Gold Medal, which I received from 
-<span style="color:  #b30000; font-weight: bold;">
+a central university established by an Act of Parliament, Government of India. I was awarded the University Gold Medal, which I received from 
+<span style="color:  #2f4f2f; font-weight: bold;">
   the Honourable 15th President of India, Madam Draupadi Murmu
 </span> 
 at the 
@@ -117,13 +117,13 @@ at the
 </span>.
 <br><br>
 
-<span style="color: #b30000;">
+<span style="color: #2f4f2f;">
   Link to watch the prestigious moment of my life, filled with a deep sense of responsibility towards nation-building:
 </span>
 <a 
   href="https://drive.google.com/file/d/1cv4o7gEijySyA5N2hJm4AfScHZGv4a71/view?usp=drive_link" 
   target="_blank"
-  style="color: #b30000; font-weight: bold;"
+  style="color:#2f4f2f; font-weight: bold;"
 >
   Click here to watch
 </a>.
