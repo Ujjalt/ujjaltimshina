@@ -45,7 +45,7 @@ redirect_from:
 
   <img
     src="https://github.com/Ujjalt/ujjaltimshina/blob/65c0b99f8b4e88b5f5b4bd220b652279825dd9cb/images/POIII.png"
-    alt="POI"
+    alt="POIII"
     style="border:2px solid #444; border-radius:10px;"
   />
 
