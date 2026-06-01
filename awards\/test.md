@@ -20,17 +20,37 @@ author_profile: true
  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
   <strong>University Gold Medal</strong> — Awarded by the Honourable 15th President of India for securing the highest CGPA (9.81) in M.Sc. Mathematics, Sikkim University (2023).
 </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
-<p>
-  Please refer to the video link of the prestigious moment of my life:
-  <a href="https://drive.google.com/file/d/1cv4o7gEijySyA5N2hJm4AfScHZGv4a71/view?usp=drive_link" target="_blank">
-    Watch Video
-  </a>
-  |
-  <a href="https://drive.google.com/uc?export=download&id=1cv4o7gEijySyA5N2hJm4AfScHZGv4a71" target="_blank">
-    Download Video
-  </a>.
-</p>
+
+  <p>
+    Video links as a memory of the prestigious moment of my life:
+  </p>
+
+  <ul>
+    <li>
+      <a href="https://drive.google.com/file/d/1cv4o7gEijySyA5N2hJm4AfScHZGv4a71/view?usp=drive_link" target="_blank">
+        Watch Video (Google Drive)
+      </a>
+    </li>
+
+   <li>
+      <a href="https://www.youtube.com/live/1Me9VH0-YkU?si=5Q-E1_onAv5lWIIS" target="_blank">
+        Watch Live Video (YouTube)
+      </a>
+    </li>
+
+   <li>
+      <a href="https://drive.google.com/file/d/1cv4o7gEijySyA5N2hJm4AfScHZGv4a71/view?usp=drive_link" target="_blank">
+        Watch Backup Video (Google Drive)
+      </a>
+    </li>
+  </ul>
+
+</body>
+</html>
 
 <div style="
   display: flex;
