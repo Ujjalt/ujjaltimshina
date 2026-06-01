@@ -107,18 +107,18 @@ redirect_from:
 
 <p style="font-family: Georgia, serif; color: #2f4f2f;">
 Previously, I completed my M.Sc. in Mathematics from 
-<a href="https://cus.ac.in/" style="color: #2f4f2f; font-weight: bold; text-decoration: none;">Sikkim University</a>, 
+<a href="https://cus.ac.in/" style="color: #D4AF37; font-weight: bold; text-decoration: none;">Sikkim University</a>, 
 a central university established by an Act of Parliament, Government of India. I was awarded the University Gold Medal, which I received from 
-<span style="color:  #00008B; font-weight: bold;">
+<span style="color:  #D4AF37; font-weight: bold;">
   the Honourable 15th President of India, Madam Draupadi Murmu
 </span> 
 at the 
-<span style="color:  #00008B; font-weight: bold;">
+<span style="color:  #D4AF37; font-weight: bold;">
   7th Convocation Ceremony of Sikkim University
 </span>.
 <br><br>
 
-<span style="color: #00008B;">
+<span style="color: #D4AF37;">
   Link to watch the prestigious moment of my life, filled with a deep sense of responsibility towards nation-building:
 </span>
 <a 
