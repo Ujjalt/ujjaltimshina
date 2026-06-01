@@ -31,8 +31,8 @@ author_profile: true
 
   <ul>
     <li>
-      <a href="https://drive.google.com/file/d/1cv4o7gEijySyA5N2hJm4AfScHZGv4a71/view?usp=drive_link" target="_blank">
-        Watch Video (Google Drive)
+      <a href="https://www.youtube.com/live/1Me9VH0-YkU?si=5Q-E1_onAv5lWIIS" target="_blank">
+        Watch Video (Youtube)
       </a>
     </li>
 
