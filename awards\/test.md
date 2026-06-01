@@ -29,8 +29,7 @@ author_profile: true
     <li>
    <a href="https://youtu.be/aEPQUhgT0Yg?si=5POSlOA-vE9NoEJ8" target="_blank">
   The historic day (Sikkim is declared a fully literate state)
-</a>
-      </a>
+    </a>
     </li>
 
    <li>
