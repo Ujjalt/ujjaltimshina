@@ -49,8 +49,6 @@ redirect_from:
   style="border:2px solid #444; border-radius:10px;"
 />
    
-
-
 </div>
 
   <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px;">
@@ -98,6 +96,7 @@ redirect_from:
     I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces (RKHS), the Complex Analytic Approach to Elliptic Curves and Modular Forms, Topics in Functional Analysis: Operator Algebras, Functional Analysis, Complex Analysis, Several Complex Variables, Introduction to Non-commutative Function Theory, and Matrix Groups.
   </p>
 </div>
+
 <p style="font-family: Georgia, serif; color: #e8f5e8;">Going forward, I plan to delve deeper into <a href="https://en.wikipedia.org/wiki/Spectral_theory" style="color: #e8f5e8; font-weight: bold; text-decoration: none;">Spectral Theory</a>, <a href="https://en.wikipedia.org/wiki/Representation_theory" style="color: #e8f5e8; font-weight: bold; text-decoration: none;">Representation Theory</a> and the <a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)" style="color: #e8f5e8; font-weight: bold; text-decoration: none;">Lean Programming Language</a>.</p>
 
 <p style="font-family: Georgia, serif; color: #e8f5e8;">I am also keenly interested in subjects such as <a href="https://en.wikipedia.org/wiki/Measure_theory" style="color: #e8f5e8; font-weight: bold; text-decoration: none;">Measure Theory</a> and <a href="https://en.wikipedia.org/wiki/General_topology" style="color: #e8f5e8; font-weight: bold; text-decoration: none;">General Topology</a>, which continue to shape my mathematical perspective.</p>
@@ -130,28 +129,26 @@ at the <span style="color: #e8f5e8; font-weight: bold;">7th Convocation Ceremony
 
 <p style="font-family: Georgia, serif; color: #e8f5e8;">My mathematical philosophy is simple to state: We humans speak many languages, and I personally understand only English, Nepali, and Hindi. But mathematics works in a different way. It is not tied to any particular culture or tongue. Patterns, structures, and relationships are present everywhere, and they are reflected not only in living beings but also in the behaviour of non-living systems. Movement, symmetry, stability, variation, and balance appear long before we give them names. Even without language, the world follows its own internal mathematics. Because of this, mathematics feels like a quiet kind of communication that reaches beyond words. Even when we cannot understand one another's spoken languages, and even when other beings cannot speak ours, there is still a shared structure in the world that we all sense.</p>
 
-  <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; font-weight:bold;">
-    Through mathematics we interpret nature, and nature, in its own patient logic, communicates back.
-  </div>
-
+<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; font-weight:bold;">
+  Through mathematics we interpret nature, and nature, in its own patient logic, communicates back.
+</div>
 
 <hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
 
- <div style="border: 1px solid #2f4f2f; border-radius: 8px; padding: 14px 18px; margin: 20px 0; text-align: center; background-color: #f6faf6;">
+<div style="border: 1px solid #2f4f2f; border-radius: 8px; padding: 14px 18px; margin: 20px 0; text-align: center; background-color: #f6faf6;">
   <p style="margin: 0; font-family: Georgia, serif; font-weight: bold; color: #2f4f2f;">
     When rigor takes a coffee break.
   </p>
 </div>
 
-  <div align="center" style="margin: 20px 0;">
-    <img 
-      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8544fc672224e62ab6ce76a4515938515f644535/images/Unknown.jpg"
-      alt="Unknown"
-      width="350"
-      style="border-radius: 6px;"
-    />
-  </div>
-
+<div align="center" style="margin: 20px 0;">
+  <img 
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8544fc672224e62ab6ce76a4515938515f644535/images/Unknown.jpg"
+    alt="Unknown"
+    width="350"
+    style="border-radius: 6px;"
+  />
+</div>
 
 <div align="center" style="margin: 20px 0;">
   <img 
@@ -160,11 +157,12 @@ at the <span style="color: #e8f5e8; font-weight: bold;">7th Convocation Ceremony
     width="340"
     style="border-radius: 6px;"
   />
-
-
+</div>
 
 <div style="border: 1px solid #2f4f2f; border-radius: 8px; padding: 14px 18px; margin: 20px 0; text-align: center; background-color: #f6faf6;">
   <p style="margin: 0; font-family: Georgia, serif; font-weight: bold; color: #2f4f2f;">
     Mountains. Solitude. Breath. Peace.
   </p>
+</div>
 
+</div>
