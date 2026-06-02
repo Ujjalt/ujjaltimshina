@@ -19,28 +19,26 @@ author_profile: true
 
   <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
     <strong style="color: #e8f5e8;">University Gold Medal</strong> — Awarded by the Honourable 15th President of India for securing the highest CGPA (9.81) in M.Sc. Mathematics, Sikkim University (2023).
+    
+    <p style="color: #e8f5e8; margin-top: 12px; margin-bottom: 8px;">
+      Video links as a memory of the prestigious moment of my life:
+    </p>
+
+    <ul style="color: #e8f5e8; margin-top: 0; margin-bottom: 0;">
+      <li>
+        <a href="https://youtu.be/aEPQUhgT0Yg?si=5POSlOA-vE9NoEJ8" target="_blank" style="color: #e8f5e8; font-weight: bold; text-decoration: none;">
+          The historic day (Sikkim is declared a fully literate state)
+        </a>
+      </li>
+      <li>
+        <a href="https://drive.google.com/file/d/1eU9TfyTHcX9gPf8Z1tV3H74QPFm598j2/view?usp=drive_link" style="color: #e8f5e8; font-weight: bold; text-decoration: none;">
+          Watch Video (Google Drive)
+        </a>
+      </li>
+    </ul>
   </div>
 
-  <p style="color: #e8f5e8;">
-    Video links as a memory of the prestigious moment of my life:
-  </p>
-
-  <ul style="color: #e8f5e8;">
-    <li>
-      <a href="https://youtu.be/aEPQUhgT0Yg?si=5POSlOA-vE9NoEJ8" target="_blank" style="color: #e8f5e8; font-weight: bold; text-decoration: none;">
-        The historic day (Sikkim is declared a fully literate state)
-      </a>
-    </li>
-    <li>
-      <a href="https://drive.google.com/file/d/1eU9TfyTHcX9gPf8Z1tV3H74QPFm598j2/view?usp=drive_link" style="color: #e8f5e8; font-weight: bold; text-decoration: none;">
-        Watch Video (Google Drive)
-      </a>
-    </li>
-  </ul>
-
-  <br><br>
-
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px; border: 2px solid #e8f5e8; padding: 15px; border-radius: 10px; background: #0e2e0e;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px; border: 2px solid #e8f5e8; padding: 15px; border-radius: 10px; background: #0e2e0e; margin-bottom: 12px;">
     <!-- Image 1 -->
     <img 
       src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a5e4f7431866936a39e3073f11f1a75ec75735f7/images/POI.jpg" 
@@ -55,7 +53,7 @@ author_profile: true
     />
   </div>
 
-  <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; margin-top:15px; color: #e8f5e8;">
+  <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
     <strong style="color: #e8f5e8;">NEC Merit Scholarship</strong> — Government of India (2022–23), for meritorious students from the North Eastern Region.
   </div>
 
