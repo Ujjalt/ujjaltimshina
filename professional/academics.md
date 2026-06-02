@@ -19,7 +19,6 @@ author_profile: true
 
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
-
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
     <strong>Volunteer, 40th Annual Conference of the Ramanujan Mathematical Society – Functional and Harmonic Analysis Symposium and Geometry and Topology Symposium.</strong>  
     Organized by the Department of Mathematics, IIIT Delhi, in collaboration with the Ramanujan Mathematical Society, December 18–20, 2025.
@@ -34,11 +33,11 @@ author_profile: true
   </div>
 
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <strong>Tutorial Assistant, National Mathematics Day (NMD) 2024</strong> — Under Department of Science and Technology, Govt. of Sikkim.
+    <strong>Tutorial Assistant, National Mathematics Day (NMD) 2024</strong> — Under Department of Science and Technology, Govt of Sikkim.
   </div>
 
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <strong>Departmental Representative, Mathematics Department</strong> — Sikkim University Students’ Association (2022–2023).
+    <strong>Departmental Representative, Mathematics Department</strong> — Sikkim University Students' Association (2022–2023).
   </div>
 
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
@@ -46,7 +45,6 @@ author_profile: true
   </div>
 
 </div>
-
 
 <!-- ===== Heading 2 ===== -->
 <div style="background: #d9e8ff; padding: 18px 25px; border-radius: 10px; margin-bottom: 18px; margin-top: 25px;">
@@ -62,11 +60,10 @@ author_profile: true
   </div>
 
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <strong>Energy Literacy Training (SWAYAM – NPTEL)</strong> — 12-week course by Prof. Chetan Singh Solanki, March 2024.
+    <strong>Energy Literacy Training (SWAYAM – NPTEL)</strong> — 12-week course by Prof Chetan Singh Solanki, March 2024.
   </div>
 
 </div>
-
 
 <!-- ===== Heading 3 ===== -->
 <div style="background: #d9e8ff; padding: 18px 25px; border-radius: 10px; margin-bottom: 18px; margin-top: 25px;">
@@ -86,7 +83,6 @@ author_profile: true
   </div>
 
 </div>
-
 
 <!-- ===== Heading 4 ===== -->
 <div style="background: #d9e8ff; padding: 18px 25px; border-radius: 10px; margin-bottom: 18px; margin-top: 25px;">
