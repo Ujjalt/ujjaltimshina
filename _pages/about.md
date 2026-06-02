@@ -57,7 +57,7 @@ redirect_from:
   <em>"Even without language, the world follows its own internal mathematics, and I'm trying to understand a fraction of it. Analysis appeals to me as a form of structured thought and I always think of and honour the ancestors who felt time for the first time irrespective of the fact that time was already there, watching them, feel it"</em>
 </div>
 
-<div style="margin-top: 14px; background:#f7f2e7; padding:16px 20px; border-left:6px solid #8c6d3a; border-radius:6px; font-family:Georgia, serif; font-size:15.5px; color:#1a3d1a;">
+<div style="margin-top: 14px; background:#f7f2e7; padding:16px 20px; border-radius:6px; font-family:Georgia, serif; font-size:15.5px; color:#1a3d1a;">
   <strong style="color: #1a3d1a;">This is my Automemoriomathography</strong>
 
 <blockquote style="font-family: Georgia, serif; border-left: 4px solid #0e2e0e; margin: 24px 0; padding: 12px 20px; background: #f0f6f0; color: #1a3d1a; font-style: italic; border-radius: 4px;">
@@ -66,7 +66,6 @@ redirect_from:
     — Robert P. Langlands, in <em>Mathematicians: An Outer View of the Inner World</em>, p 142
   </footer>
 </blockquote>
-
 <div style="background:#0e2e0e; padding:22px 28px; border-radius:12px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; line-height:1.6;">
 
   <p style="margin:0 0 15px 0; color:#e8f5e8;">Paul Halmos once said: <strong style="color:#e8f5e8;">"The only way to learn mathematics is to do mathematics."</strong></p>
