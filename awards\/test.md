@@ -18,24 +18,25 @@ author_profile: true
   </div>
 
  <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-  <strong>University Gold Medal</strong> — Awarded by the Honourable 15th President of India for securing the highest CGPA (9.81) in M.Sc. Mathematics, Sikkim University (2023).
+  <strong style="color: green;">University Gold Medal</strong> — Awarded by the Honourable 15th President of India for securing the highest CGPA (9.81) in M.Sc. Mathematics, Sikkim University (2023).
 </div>
 
-  <p>
-    Video links as a memory of the prestigious moment of my life:
-  </p>
+<p>
+  Video links as a memory of the prestigious moment of my life:
+</p>
 
-  <ul>
-    <li>
-   <a href="https://youtu.be/aEPQUhgT0Yg?si=5POSlOA-vE9NoEJ8" target="_blank">
-  The historic day (Sikkim is declared a fully literate state)
+<ul>
+  <li>
+    <a href="https://youtu.be/aEPQUhgT0Yg?si=5POSlOA-vE9NoEJ8" target="_blank" style="color: green; font-weight: bold; text-decoration: none;">
+      The historic day (Sikkim is declared a fully literate state)
     </a>
-    </li>
+  </li>
+</ul>
 
 
    <li>
       <a href="https://drive.google.com/file/d/1eU9TfyTHcX9gPf8Z1tV3H74QPFm598j2/view?usp=drive_link">
-        Watch Backup Video (Google Drive)
+        Watch Video (Google Drive)
       </a>
     </li>
   </ul>
