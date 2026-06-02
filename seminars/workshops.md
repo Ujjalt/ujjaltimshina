@@ -56,7 +56,7 @@ author_profile: true
   </div>
 
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
-    <strong>Lecture Series on Number Theory</strong> — delivered by Prof. Komatsu, SLIET, August 10–13, 2023.
+    <strong>Lecture Series on Number Theory</strong> — delivered by Prof Komatsu, SLIET, August 10–13, 2023.
   </div>
 
   <div style="background: #e6f0ff; padding: 15px 20px; border-radius: 8px; margin-bottom: 12px;">
