@@ -8,14 +8,13 @@ date: 2025-01-01
 location: "New Delhi, India"
 ---
 
-<div style="background: #e6f0ff; color: #2a5d9f; padding: 15px 20px; border-radius: 8px; font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-<strong>Lead Teaching Assistant — MTH204: ODE/PDEs and Numerical Methods</strong><br>
-  <em>IIIT Delhi, Spring 2025</em> 
+<div style="background:#0e2e0e; color:#e8f5e8; padding:15px 20px; border-radius:8px; font-family: Georgia, serif; font-size:16px; line-height:1.6;">
+<strong style="color:#e8f5e8;">Lead Teaching Assistant — MTH204: ODE/PDEs and Numerical Methods</strong><br>
+  <em style="color:#e8f5e8;">IIIT Delhi, Spring 2025</em> 
 <br><br>
-I served as the Lead Teaching Assistant for the undergraduate course <strong>MTH204</strong>, 
-  taught by <strong>Dr. Sarthok Sircar</strong>, for a large class of <strong>198 students</strong>. My work 
+I served as the Lead Teaching Assistant for the undergraduate course <strong style="color:#e8f5e8;">MTH204</strong>, 
+  taught by <strong style="color:#e8f5e8;">Dr Sarthok Sircar</strong>, for a large class of <strong style="color:#e8f5e8;">198 students</strong>. My work 
   included academic, administrative, and coordination responsibilities.
 <br><br>
-<strong>Responsibilities:</strong>
- Same as mentiond above.
+<strong style="color:#e8f5e8;">Responsibilities:</strong> Same as mentioned above.
 </div>
