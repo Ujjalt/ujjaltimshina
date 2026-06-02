@@ -67,40 +67,35 @@ redirect_from:
   </footer>
 </blockquote>
 
-<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; margin-bottom:20px;">
+<div style="background:#0e2e0e; padding:22px 28px; border-radius:12px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; line-height:1.6;">
+
   <p style="margin:0 0 15px 0; color:#e8f5e8;">Paul Halmos once said: <strong style="color:#e8f5e8;">"The only way to learn mathematics is to do mathematics."</strong></p>
 
   <p style="margin:0 0 15px 0; color:#e8f5e8;">For a long time, I appreciated this line only at the surface. I understood the words, but not the warning embedded in them. Looking back, I can identify many moments when I held a vague intuition about a concept and mistook that vagueness for understanding, a kind of intellectual comfort that asked nothing of me. That false satisfaction, I now realize, is precisely what Halmos meant to caution against. Genuine understanding is not passive. It is earned through careful engagement with ideas, through the discomfort of not knowing, and through the slow, deliberate work of working things out, not merely feeling as though one has.</p>
 
   <p style="margin:0 0 15px 0; color:#e8f5e8;">This understanding is shaping me how I approach my research and studies. Mathematics, for me, is not a performance of knowledge but a patient and honest pursuit of it, one that demands both rigor and humility in equal measure.</p>
-</div>
 
-<hr style="border:0; border-top:1px solid #0e2e0e; margin:18px 0;">
+  <hr style="border:0; border-top:1px solid #e8f5e8; margin:20px 0;">
 
-<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; margin-bottom:20px;">
   <p style="margin:0 0 15px 0; color:#e8f5e8;">My name is Ujjal Timshina, and I am currently a PhD scholar in the Department of Mathematics at the <a href="https://www.iiitd.ac.in/people/phd/current" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Indraprastha Institute of Information Technology Delhi (IIIT Delhi)</a> working under the supervision of <a href="https://www.iiitd.ac.in/prahllad" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Dr Prahllad Deb</a>. I joined IIIT Delhi after being awarded the <a href="https://online-inspire.gov.in/" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">INSPIRE Research Fellowship</a> by the Department of Science and Technology (DST), Government of India.</p>
 
   <p style="margin:0 0 15px 0; color:#e8f5e8;">My research interests lie in <strong><a href="https://en.wikipedia.org/wiki/Functional_analysis" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Functional Analysis</a>, <a href="https://en.wikipedia.org/wiki/Operator_theory" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Multivariable Operator Theory</a> and <a href="https://en.wikipedia.org/wiki/Complex_analysis" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Complex Analysis</a></strong> with a focus on the <a href="https://en.wikipedia.org/wiki/Cowen%E2%80%93Douglas_operators" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Cowen–Douglas theory of operators</a> and its interplay with <a href="https://en.wikipedia.org/wiki/Complex_geometry" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Complex Geometry</a> and <a href="https://en.wikipedia.org/wiki/Differential_geometry" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Differential Geometry</a>.</p>
 
-  <p style="margin:0; color:#e8f5e8;">I am open to discussions and research collaborations in areas such as <a style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Operator Theory</a>, <a style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Reproducing Kernel Hilbert Spaces</a>, <a style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Complex Analysis</a>, <a style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Complex Geometry</a>, as well as in <a style="color:#e8f5e8; font-weight:bold; text-decoration:none;">General Topology and Geometry</a>, which I am actively learning.</p>
-</div>
+  <p style="margin:0 0 15px 0; color:#e8f5e8;">I am open to discussions and research collaborations in areas such as <a style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Operator Theory</a>, <a style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Reproducing Kernel Hilbert Spaces</a>, <a style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Complex Analysis</a>, <a style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Complex Geometry</a>, as well as in <a style="color:#e8f5e8; font-weight:bold; text-decoration:none;">General Topology and Geometry</a>, which I am actively learning.</p>
 
-<hr style="border:0; border-top:1px solid #0e2e0e; margin:18px 0;">
+  <hr style="border:0; border-top:1px solid #e8f5e8; margin:20px 0;">
 
-<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; font-style:italic; margin-bottom:20px;">
-  <p style="margin:0 0 15px 0; color:#e8f5e8;">I am working on the classification of homogeneous operators in the Cowen–Douglas class $\mathrm{B_r}(\Omega)$ over a bounded symmetric complex domains $\Omega$ in $\mathbb{C}^n$ up to unitary equivalence. This problem lies at the intersection of operator theory and complex geometry and seeks to understand how symmetry and representation-theoretic properties influence the structure of operators within the Cowen–Douglas framework.</p>
+  <p style="margin:0 0 15px 0; color:#e8f5e8; font-style:italic;">I am working on the classification of homogeneous operators in the Cowen–Douglas class $\mathrm{B_r}(\Omega)$ over a bounded symmetric complex domains $\Omega$ in $\mathbb{C}^n$ up to unitary equivalence. This problem lies at the intersection of operator theory and complex geometry and seeks to understand how symmetry and representation-theoretic properties influence the structure of operators within the Cowen–Douglas framework.</p>
 
-  <p style="margin:0 0 15px 0; color:#e8f5e8;">The study of homogeneous operators is central to understanding geometric models of Hilbert space operators, where each operator can be associated with a homogeneous holomorphic Hermitian vector bundle over a complex domain.</p>
+  <p style="margin:0 0 15px 0; color:#e8f5e8; font-style:italic;">The study of homogeneous operators is central to understanding geometric models of Hilbert space operators, where each operator can be associated with a homogeneous holomorphic Hermitian vector bundle over a complex domain.</p>
 
-  <p style="margin:0; color:#e8f5e8;">My current research focuses on describing these operators using the actions of Lie groups and identifying invariants that determine their equivalence classes under unitary transformations.</p>
-</div>
+  <p style="margin:0 0 15px 0; color:#e8f5e8; font-style:italic;">My current research focuses on describing these operators using the actions of Lie groups and identifying invariants that determine their equivalence classes under unitary transformations.</p>
 
-<hr style="border:0; border-top:1px solid #0e2e0e; margin:18px 0;">
+  <hr style="border:0; border-top:1px solid #e8f5e8; margin:20px 0;">
 
-<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; margin-bottom:20px;">
   <p style="margin:0 0 15px 0; color:#e8f5e8;">I am planning to study <span style="font-weight:bold; color:#e8f5e8;">Probabilistic Measure Theory</span> and <span style="font-weight:bold; color:#e8f5e8;">Banach Algebra Techniques in Operator Theory</span> in the upcoming semester.</p>
 
-  <div style="border:1px solid #e8f5e8; background:#0e2e0e; padding:12px 16px; margin:15px 0; border-radius:8px;">
+  <div style="border:1px solid #e8f5e8; background:transparent; padding:12px 16px; margin:15px 0; border-radius:8px;">
     <p style="margin:0; font-weight:bold; color:#e8f5e8;">
       I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces (RKHS), the Complex Analytic Approach to Elliptic Curves and Modular Forms, Topics in Functional Analysis: Operator Algebras, Functional Analysis, Complex Analysis, Several Complex Variables, Introduction to Non-commutative Function Theory, and Matrix Groups.
     </p>
@@ -108,12 +103,10 @@ redirect_from:
 
   <p style="margin:0 0 15px 0; color:#e8f5e8;">Going forward, I plan to delve deeper into <a href="https://en.wikipedia.org/wiki/Spectral_theory" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Spectral Theory</a>, <a href="https://en.wikipedia.org/wiki/Representation_theory" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Representation Theory</a> and the <a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Lean Programming Language</a>.</p>
 
-  <p style="margin:0; color:#e8f5e8;">I am also keenly interested in subjects such as <a href="https://en.wikipedia.org/wiki/Measure_theory" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Measure Theory</a> and <a href="https://en.wikipedia.org/wiki/General_topology" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">General Topology</a>, which continue to shape my mathematical perspective.</p>
-</div>
+  <p style="margin:0 0 15px 0; color:#e8f5e8;">I am also keenly interested in subjects such as <a href="https://en.wikipedia.org/wiki/Measure_theory" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Measure Theory</a> and <a href="https://en.wikipedia.org/wiki/General_topology" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">General Topology</a>, which continue to shape my mathematical perspective.</p>
 
-<hr style="border:0; border-top:1px solid #0e2e0e; margin:18px 0;">
+  <hr style="border:0; border-top:1px solid #e8f5e8; margin:20px 0;">
 
-<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; margin-bottom:20px;">
   <p style="margin:0 0 15px 0; color:#e8f5e8;">Previously, I completed my M.Sc. in Mathematics from 
   <a href="https://cus.ac.in/" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Sikkim University</a>, 
   a central university established by an Act of Parliament, Government of India. I was awarded the University Gold Medal, which I received from 
@@ -130,53 +123,46 @@ redirect_from:
 
   <p style="margin:0 0 15px 0; color:#e8f5e8;">I have authored a book, <span style="font-weight:bold; color:#e8f5e8;">Beyond Answers: Beauty of Mathematical Questions</span>. It was my first attempt at writing and not perfect, but it reflects my interest in learning through questions. The book is available on Amazon and Notion Press.</p>
 
-  <p style="margin:0; color:#e8f5e8;">Outside of academics, I enjoy writing blogs, exploring web design and coding, and learning about open educational technologies. A selection of my talks and presentations (some with slides) is available <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/slides-selected-talks" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">here</a>. My updated CV can be accessed <a href="https://drive.google.com/drive/folders/1GEbPbSA5sfkBQYyckeMoTF3b4LUb8NJ9?usp=drive_link" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">here</a> <em>(last updated: 31st August 2025)</em>.</p>
-</div>
+  <p style="margin:0 0 15px 0; color:#e8f5e8;">Outside of academics, I enjoy writing blogs, exploring web design and coding, and learning about open educational technologies. A selection of my talks and presentations (some with slides) is available <a href="https://sites.google.com/iiitd.ac.in/ujjal-timshina/slides-selected-talks" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">here</a>. My updated CV can be accessed <a href="https://drive.google.com/drive/folders/1GEbPbSA5sfkBQYyckeMoTF3b4LUb8NJ9?usp=drive_link" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">here</a> <em>(last updated: 31st August 2025)</em>.</p>
 
-<hr style="border:0; border-top:1px solid #0e2e0e; margin:18px 0;">
+  <hr style="border:0; border-top:1px solid #e8f5e8; margin:20px 0;">
 
-<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; margin-bottom:20px;">
   <p style="margin:0 0 15px 0; color:#e8f5e8;">I have always liked writing that explains ideas clearly and with real enthusiasm. I especially enjoy the careful and well-structured exposition in <a href="https://terrytao.wordpress.com/category/teaching/246c-complex-analysis/" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Terry Tao</a>'s lecture notes, the precise and reliable style of <a href="https://www.jmilne.org/math/" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">J S Milne</a>, and the thoughtful blog posts of <a href="https://gowers.wordpress.com/" style="color:#e8f5e8; font-weight:bold; text-decoration:none;">Timothy Gowers</a>. What I admire in all of them is a genuine focus on understanding things properly, written clearly and without unnecessary complexity or decoration.</p>
-</div>
 
-<hr style="border:0; border-top:1px solid #0e2e0e; margin:18px 0;">
+  <hr style="border:0; border-top:1px solid #e8f5e8; margin:20px 0;">
 
-<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; margin-bottom:20px;">
-  <p style="margin:0; color:#e8f5e8;">My mathematical philosophy is simple to state: We humans speak many languages, and I personally understand only English, Nepali, and Hindi. But mathematics works in a different way. It is not tied to any particular culture or tongue. Patterns, structures, and relationships are present everywhere, and they are reflected not only in living beings but also in the behaviour of non-living systems. Movement, symmetry, stability, variation, and balance appear long before we give them names. Even without language, the world follows its own internal mathematics. Because of this, mathematics feels like a quiet kind of communication that reaches beyond words. Even when we cannot understand one another's spoken languages, and even when other beings cannot speak ours, there is still a shared structure in the world that we all sense.</p>
-</div>
+  <p style="margin:0 0 15px 0; color:#e8f5e8;">My mathematical philosophy is simple to state: We humans speak many languages, and I personally understand only English, Nepali, and Hindi. But mathematics works in a different way. It is not tied to any particular culture or tongue. Patterns, structures, and relationships are present everywhere, and they are reflected not only in living beings but also in the behaviour of non-living systems. Movement, symmetry, stability, variation, and balance appear long before we give them names. Even without language, the world follows its own internal mathematics. Because of this, mathematics feels like a quiet kind of communication that reaches beyond words. Even when we cannot understand one another's spoken languages, and even when other beings cannot speak ours, there is still a shared structure in the world that we all sense.</p>
 
-<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; font-weight:bold; margin-bottom:20px;">
-  Through mathematics we interpret nature, and nature, in its own patient logic, communicates back.
-</div>
+  <div style="margin:20px 0; padding:15px 0; border-top:1px solid #e8f5e8; border-bottom:1px solid #e8f5e8; text-align:center;">
+    <p style="margin:0; font-weight:bold;">Through mathematics we interpret nature, and nature, in its own patient logic, communicates back.</p>
+  </div>
 
-<hr style="border:0; border-top:1px solid #0e2e0e; margin:18px 0;">
+  <hr style="border:0; border-top:1px solid #e8f5e8; margin:20px 0;">
 
-<div style="border:1px solid #e8f5e8; border-radius:8px; padding:14px 18px; margin:20px 0; text-align:center; background:#0e2e0e;">
-  <p style="margin:0; font-family:Georgia, serif; font-weight:bold; color:#e8f5e8;">
-    When rigor takes a coffee break.
-  </p>
-</div>
+  <div style="border:1px solid #e8f5e8; border-radius:8px; padding:14px 18px; margin:20px 0; text-align:center;">
+    <p style="margin:0; font-weight:bold;">When rigor takes a coffee break.</p>
+  </div>
 
-<div align="center" style="margin:20px 0;">
-  <img 
-    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8544fc672224e62ab6ce76a4515938515f644535/images/Unknown.jpg"
-    alt="Unknown"
-    width="350"
-    style="border-radius:6px; border:2px solid #e8f5e8;"
-  />
-</div>
+  <div align="center" style="margin:20px 0;">
+    <img 
+      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8544fc672224e62ab6ce76a4515938515f644535/images/Unknown.jpg"
+      alt="Unknown"
+      width="350"
+      style="border-radius:8px; border:2px solid #e8f5e8;"
+    />
+  </div>
 
-<div align="center" style="margin:20px 0;">
-  <img 
-    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/239aaec9f51e03e9b8253bdb175965861c10c604/images/Final.png"
-    alt="Final Image"
-    width="340"
-    style="border-radius:6px; border:2px solid #e8f5e8;"
-  />
-</div>
+  <div align="center" style="margin:20px 0;">
+    <img 
+      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/239aaec9f51e03e9b8253bdb175965861c10c604/images/Final.png"
+      alt="Final Image"
+      width="340"
+      style="border-radius:8px; border:2px solid #e8f5e8;"
+    />
+  </div>
 
-<div style="border:1px solid #e8f5e8; border-radius:8px; padding:14px 18px; margin:20px 0; text-align:center; background:#0e2e0e;">
-  <p style="margin:0; font-family:Georgia, serif; font-weight:bold; color:#e8f5e8;">
-    Mountains. Solitude. Breath. Peace.
-  </p>
+  <div style="border:1px solid #e8f5e8; border-radius:8px; padding:14px 18px; margin:20px 0; text-align:center;">
+    <p style="margin:0; font-weight:bold;">Mountains. Solitude. Breath. Peace.</p>
+  </div>
+
 </div>
