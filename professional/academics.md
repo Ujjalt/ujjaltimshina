@@ -6,10 +6,20 @@ author_profile: true
 ---
 
 <!-- ===== Heading 1 ===== -->
-## Professional Memberships
+<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; margin-bottom:18px; margin-top:10px;">
+  <h2 style="margin: 0; font-family: Georgia, serif; font-size: 26px; color: #e8f5e8; text-align: center;">
+    Professional Memberships
+  </h2>
+</div>
 
-- **Institute of Mathematical Statistics (IMS)** — Member (Student Membership ID: 38250)  
-  [Institute of Mathematical Statistics — Wikipedia](https://en.wikipedia.org/wiki/Institute_of_Mathematical_Statistics)
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+
+  <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
+    <strong style="color: #e8f5e8;">Institute of Mathematical Statistics (IMS)</strong> — Member (Student Membership ID: 38250)<br>
+    <a href="https://en.wikipedia.org/wiki/Institute_of_Mathematical_Statistics" style="color: #e8f5e8; text-decoration: none;">Institute of Mathematical Statistics — Wikipedia</a>
+  </div>
+
+</div>
 
 <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; margin-bottom:18px; margin-top:10px;">
   <h2 style="margin: 0; font-family: Georgia, serif; font-size: 26px; color: #e8f5e8; text-align: center;">
@@ -99,4 +109,4 @@ author_profile: true
 
 </div>
 
-<hr>
+<hr style="border: 0; height: 2px; background-color: #0e2e0e; margin-top: 25px;">
