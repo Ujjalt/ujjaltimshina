@@ -11,9 +11,12 @@ author_profile: true
   </h2>
 </div>
 
-<p style="font-family: Georgia, serif; font-size: 16px; color: #e8f5e8; margin-bottom: 25px;">
-  Below is a complete list of workshops, seminars, and lecture series I have attended over the years.
-</p>
+<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; font-family:Georgia, serif; font-size:16px; margin-bottom:25px;">
+  <p style="margin:0; color:#e8f5e8;">
+    Below is a complete list of workshops, seminars, and lecture series I have attended over the years.
+  </p>
+</div>
+
 <!-- ===== Individual Entries in Dark Green Boxes ===== -->
 
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
