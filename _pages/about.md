@@ -120,8 +120,8 @@ at the
 </span>.
 </p>
 
-<span style="color: black;">Link to watch the prestigious moment of my life, filled with a deep sense of responsibility towards nation-building:
-</span>
+<span>Link to watch the prestigious moment of my life, filled with a deep sense of responsibility towards nation-building:</span>
+<br><br>
 <a 
   href="https://drive.google.com/file/d/17OSQbl90FQaJ28DW6JvyrAJXke__Ti8I/view?usp=drivesdk" 
   target="_blank"
@@ -129,6 +129,7 @@ at the
 >
   Click here to watch
 </a>.
+<br><br>
 
 My master's thesis, titled <em><span style="font-style: italic; font-weight: bold; color: green;">"Nets and Filters in Topology"</span></em>, was completed under the supervision of <a href="https://cus.ac.in/index.php/en/schools-e/physical-sciences/mathematics-dept/dr-namita-behera-2" style="color: green; font-weight: bold; text-decoration: none;">Dr. Namita Behera</a>. I completed my undergraduate studies at <a href="https://nbbgc.org/" style="color: green; font-weight: bold; text-decoration: none;">Nar Bahadur Bhandari Government College</a>. 
 
