@@ -53,7 +53,7 @@ redirect_from:
 
 <br>
 
-<div style="background:#f5f0e0; padding:18px 22px; border-radius:8px; color:#1a5c1a; font-family:Georgia, serif; font-size:16px;">
+<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px;">
   <em>"Even without language, the world follows its own internal mathematics, and I'm trying to understand a fraction of it. Analysis appeals to me as a form of structured thought and I always think of and honour the ancestors who felt time for the first time irrespective of the fact that time was already there, watching them, feel it"</em>
 </div>
 
