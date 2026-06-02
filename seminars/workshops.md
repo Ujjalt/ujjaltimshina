@@ -14,7 +14,6 @@ author_profile: true
 <p style="font-family: Georgia, serif; font-size: 16px; color: #e8f5e8; margin-bottom: 25px;">
   Below is a complete list of workshops, seminars, and lecture series I have attended over the years.
 </p>
-
 <!-- ===== Individual Entries in Dark Green Boxes ===== -->
 
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
