@@ -56,7 +56,7 @@ redirect_from:
   </div>
 
 <div style="margin-top: 14px; background:#f7f2e7; padding:16px 20px; border-left:6px solid #8c6d3a; border-radius:6px; font-family:Georgia, serif; font-size:15.5px; color:#1a3d1a;">
-  <strong style="color: #1a3d1a;">This is my Automemoriomathography</strong>
+  <strong style="color: #1a3d1a;">This is my Automemoriomathography – The person and the work are still being written. This is the manuscript."</strong>
 
   <blockquote style="font-family: Georgia, serif; border-left: 4px solid #3b78d8; margin: 24px 0; padding: 12px 20px; background: #f0f6ff; color: #1a3d1a; font-style: italic; border-radius: 4px;">
     "Certainly the best times were when I was alone with mathematics, free of ambition and pretense, and indifferent to the world."
