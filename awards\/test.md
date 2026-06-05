@@ -20,11 +20,11 @@ author_profile: true
   <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
     <strong style="color: #e8f5e8;">University Gold Medal</strong> — Awarded by the Honourable 15th President of India for securing the highest CGPA (9.81) in M.Sc. Mathematics, Sikkim University (2023).
     
-    <p style="color: #e8f5e8; margin-top: 12px; margin-bottom: 8px;">
+  <p style="color: #e8f5e8; margin-top: 12px; margin-bottom: 8px;">
       Video links as a memory of the prestigious moment of my life:
     </p>
 
-    <ul style="color: #e8f5e8; margin-top: 0; margin-bottom: 0;">
+  <ul style="color: #e8f5e8; margin-top: 0; margin-bottom: 0;">
       <li>
         <a href="https://youtu.be/aEPQUhgT0Yg?si=5POSlOA-vE9NoEJ8" target="_blank" style="color: #e8f5e8; font-weight: bold; text-decoration: none;">
           The historic day (Sikkim is declared a fully literate state)
@@ -32,7 +32,7 @@ author_profile: true
       </li>
       <li>
         <a href="https://drive.google.com/file/d/1eU9TfyTHcX9gPf8Z1tV3H74QPFm598j2/view?usp=drive_link" style="color: #e8f5e8; font-weight: bold; text-decoration: none;">
-          Watch Video (Google Drive)
+        Watch the video of me receiving the University Gold from the graduating batches of 2023, 2024, and 2025 (combined over three years).
         </a>
       </li>
     </ul>
