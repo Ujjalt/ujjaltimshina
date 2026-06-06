@@ -5,12 +5,20 @@ permalink: /awards/
 author_profile: true
 ---
 
-<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; margin-bottom:20px;">
+<div style="background:#0e2e0e; padding:22px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; margin-bottom:30px; text-align:center;">
+  <strong style="font-size:28px;">
+    Awards
+  </strong>
+</div>
+
+<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; margin-bottom:30px;">
   This page records some of the fellowships, scholarships, awards, and recognitions I have received during my academic journey. I am deeply grateful to my teachers, mentors, institutions, and family members whose support made these opportunities possible.
 </div>
 
-<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:22px; font-weight:bold; margin-bottom:20px; text-align:center;">
-  Fellowships and Academic Honors
+<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; margin-top:30px; margin-bottom:20px; text-align:center;">
+  <strong style="font-size:24px;">
+    Fellowships and Academic Honors
+  </strong>
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
@@ -22,7 +30,7 @@ author_profile: true
 
   <br><br>
 
-  Related Media:
+  <strong>Related Media</strong>
 
   <ul style="margin-top:10px;">
     <li>
@@ -30,6 +38,7 @@ author_profile: true
         Sikkim declared a Fully Literate State during the Convocation Ceremony
       </a>
     </li>
+
     <li>
       <a href="https://drive.google.com/file/d/1eU9TfyTHcX9gPf8Z1tV3H74QPFm598j2/view?usp=drive_link" target="_blank" style="color:#e8f5e8;">
         Video of receiving the University Gold Medal
@@ -38,7 +47,7 @@ author_profile: true
   </ul>
 </div>
 
-<div style="display:flex; flex-direction:column; align-items:center; gap:15px; border:2px solid #0e2e0e; padding:15px; border-radius:8px; margin-bottom:20px;">
+<div style="display:flex; flex-direction:column; align-items:center; gap:15px; border:2px solid #0e2e0e; padding:15px; border-radius:8px; margin-bottom:30px;">
   <img
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a5e4f7431866936a39e3073f11f1a75ec75735f7/images/POI.jpg"
     alt="University Gold Medal"
@@ -52,8 +61,10 @@ author_profile: true
   />
 </div>
 
-<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:22px; font-weight:bold; margin-bottom:20px; text-align:center;">
-  Scholarships and Grants
+<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; margin-top:30px; margin-bottom:20px; text-align:center;">
+  <strong style="font-size:24px;">
+    Scholarships and Grants
+  </strong>
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
@@ -68,12 +79,14 @@ author_profile: true
   <strong>Hon'ble Chief Minister's Financial Grant for Education</strong> — Government of Sikkim.
 </div>
 
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8;">
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:30px; color:#e8f5e8;">
   <strong>Post-Matric Merit Scholarship</strong> — Government of Sikkim (2022).
 </div>
 
-<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:22px; font-weight:bold; margin-bottom:20px; text-align:center;">
-  Other Recognitions
+<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; margin-top:30px; margin-bottom:20px; text-align:center;">
+  <strong style="font-size:24px;">
+    Other Recognitions
+  </strong>
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
@@ -84,3 +97,4 @@ author_profile: true
   <strong>Certificate of Merit</strong> — Awarded by the Cipla Foundation for outstanding academic performance in Classes 10 and 12.
 </div>
 
+<hr style="border:0; height:2px; background-color:#0e2e0e; margin-top:30px;">
