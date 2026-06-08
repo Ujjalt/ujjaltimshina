@@ -5,84 +5,133 @@ permalink: /workshops/
 author_profile: true
 ---
 
-<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; margin-bottom:22px; margin-top:10px;">
-  <h2 style="margin: 0; font-family: Georgia, serif; font-size: 28px; color: #e8f5e8; text-align: center;">
-    Attended Workshops, FDPs, Conferences and Seminars
-  </h2>
+<div style="font-family: Georgia, serif; font-size: 15px; color: #c8e6c8; margin-bottom: 20px; line-height: 1.6;">
+  Below is a complete list of workshops, conferences, seminars, and lecture series I have attended over the years.
 </div>
 
-<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; font-family:Georgia, serif; font-size:16px; margin-bottom:25px;">
-  <p style="margin:0; color:#e8f5e8;">
-    Below is a complete list of workshops, seminars, and lecture series I have attended over the years.
-  </p>
-</div>
+<!-- ===== Conferences ===== -->
 
-<!-- ===== Individual Entries in Dark Green Boxes ===== -->
+<div style="background:#0e2e0e; padding:12px 18px; border-radius:8px; margin-bottom:10px; margin-top:24px;">
+  <h3 style="margin: 0; font-family: Georgia, serif; font-size: 18px; color: #e8f5e8; letter-spacing: 0.03em;">
+    Conferences
+  </h3>
+</div>
 
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">40th Annual Conference of the Ramanujan Mathematical Society</strong> — held on December 18–20, 2025, organized by the Department of Mathematics, IIIT Delhi, in collaboration with the Ramanujan Mathematical Society.
+  <strong style="color: #e8f5e8;">40th Annual Conference of the Ramanujan Mathematical Society</strong><br>
+  <span style="color: #a8d5a8; font-size: 14px;">Department of Mathematics, IIIT Delhi &middot; December 18–20, 2025</span>
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">ICMAM Latin America Satellite Conference on Differential Geometry 2025</strong> — held on September 25–26, 2025, jointly organized by Universidade Estadual de Maringá and Universidad de las Américas.
+  <strong style="color: #e8f5e8;">ICMAM Latin America Satellite Conference on Differential Geometry 2025</strong><br>
+  <span style="color: #a8d5a8; font-size: 14px;">Universidade Estadual de Maringá &amp; Universidad de las Américas &middot; September 25–26, 2025</span>
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">Math IntroSeries, Course-1: Generalized Weyl Algebras and Their Representations</strong> — organized by the Institute of Mathematics, University of the Philippines Diliman; North-Eastern Hill University; Mindanao State University – Iligan Institute of Technology; Central Mindanao University; and Linnaeus University, held from June 30 to July 10, 2025.
+  <strong style="color: #e8f5e8;">Recent Advances in Mathematics and Its Applications (RAMA)</strong><br>
+  <span style="color: #a8d5a8; font-size: 14px;">Calcutta University &middot; 2022 and 2023</span>
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">Workshop on Young Mathematicians in Operator Algebra (YMOA)</strong> — Indian Statistical Institute, Delhi (March 2025).
+  <strong style="color: #e8f5e8;">National Seminar on Recent Trends in Topology and Its Applications</strong><br>
+  <span style="color: #a8d5a8; font-size: 14px;">North Eastern Hill University, Shillong &middot; August 4–5, 2022</span>
+</div>
+
+</div>
+
+<!-- ===== Workshops & Schools ===== -->
+
+<div style="background:#0e2e0e; padding:12px 18px; border-radius:8px; margin-bottom:10px; margin-top:24px;">
+  <h3 style="margin: 0; font-family: Georgia, serif; font-size: 18px; color: #e8f5e8; letter-spacing: 0.03em;">
+    Workshops &amp; Schools
+  </h3>
+</div>
+
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
+  <strong style="color: #e8f5e8;">Young Mathematicians in Operator Algebra (YMOA)</strong><br>
+  <span style="color: #a8d5a8; font-size: 14px;">Indian Statistical Institute, Delhi &middot; March 2025</span>
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">Instructional School for Teachers in Real Analysis</strong> — jointly organized by IIT Bombay and TIFR Mumbai, held at Manipal Institute of Technology, Sikkim (December 2022).
+  <strong style="color: #e8f5e8;">Math IntroSeries, Course 1: Generalized Weyl Algebras and Their Representations</strong><br>
+  <span style="color: #a8d5a8; font-size: 14px;">University of the Philippines Diliman &middot; NEHU &middot; MSU-IIT &middot; CMU &middot; Linnaeus University &middot; June 30 – July 10, 2025</span>
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">CREST School on Applied Combinatorics – Cryptography and Combinatorial Topology</strong> — organized by TCG CREST, Kolkata, from 11 July to 23 July 2022.
+  <strong style="color: #e8f5e8;">Instructional School for Teachers in Real Analysis</strong><br>
+  <span style="color: #a8d5a8; font-size: 14px;">IIT Bombay &amp; TIFR Mumbai &middot; Manipal Institute of Technology, Sikkim &middot; December 2022</span>
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">Faculty Development Program on Recent Research Area and Its Applications in Mathematics</strong> — organized by Vel Tech Multi Tech, IIC (Ministry of HRD), 10–15 October 2022.
+  <strong style="color: #e8f5e8;">CREST School on Applied Combinatorics — Cryptography and Combinatorial Topology</strong><br>
+  <span style="color: #a8d5a8; font-size: 14px;">TCG CREST, Kolkata &middot; July 11–23, 2022</span>
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">National Seminar on Recent Trends in Topology and Its Applications</strong> — held on 4th–5th August 2022, organized by the Department of Mathematics, North Eastern Hill University, Shillong.
+  <strong style="color: #e8f5e8;">Mathematics Training and Talent Search Program (MTTS) Level 1</strong><br>
+  <span style="color: #a8d5a8; font-size: 14px;">Funded by NBHM, Department of Atomic Energy, Government of India &middot; 2021</span>
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">Workshop on Graph Theory and Its Applications</strong> — Nar Bahadur Bhandari Government College, Tadong (2023).
+  <strong style="color: #e8f5e8;">Workshop on Graph Theory and Its Applications</strong><br>
+  <span style="color: #a8d5a8; font-size: 14px;">Nar Bahadur Bhandari Government College, Tadong &middot; 2023</span>
+</div>
+
+</div>
+
+<!-- ===== Lecture Series & Seminars ===== -->
+
+<div style="background:#0e2e0e; padding:12px 18px; border-radius:8px; margin-bottom:10px; margin-top:24px;">
+  <h3 style="margin: 0; font-family: Georgia, serif; font-size: 18px; color: #e8f5e8; letter-spacing: 0.03em;">
+    Lecture Series &amp; Seminars
+  </h3>
+</div>
+
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
+  <strong style="color: #e8f5e8;">Lecture Series on Number Theory</strong><br>
+  <span style="color: #a8d5a8; font-size: 14px;">Prof Komatsu &middot; SLIET &middot; August 10–13, 2023</span>
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">Lecture Series on Number Theory</strong> — delivered by Prof Komatsu, SLIET, August 10–13, 2023.
+  <strong style="color: #e8f5e8;">International Webinar on Fundamental Mathematics</strong><br>
+  <span style="color: #a8d5a8; font-size: 14px;">Department of Mathematics, The Assam Kaziranga University &middot; August 30 – September 1, 2021</span>
+</div>
+
+</div>
+
+<!-- ===== Faculty Development Programs ===== -->
+
+<div style="background:#0e2e0e; padding:12px 18px; border-radius:8px; margin-bottom:10px; margin-top:24px;">
+  <h3 style="margin: 0; font-family: Georgia, serif; font-size: 18px; color: #e8f5e8; letter-spacing: 0.03em;">
+    Faculty Development Programs
+  </h3>
+</div>
+
+<div style="font-family: Georgia, serif; font-size: 14px; color: #a8d5a8; margin-bottom: 10px; font-style: italic;">
+  Attended as participant during M.Sc. years.
+</div>
+
+<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
+  <strong style="color: #e8f5e8;">FDP on Recent Research Areas and Applications in Mathematics</strong><br>
+  <span style="color: #a8d5a8; font-size: 14px;">Vel Tech Multi Tech, IIC (Ministry of HRD) &middot; October 10–15, 2022</span>
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">Faculty Development Program on Machine Learning (Participant)</strong> — organized by SRM Institute of Science and Technology, 20–24 February 2023.
+  <strong style="color: #e8f5e8;">FDP on Differential Equations and Its Applications</strong><br>
+  <span style="color: #a8d5a8; font-size: 14px;">Vellore Institute of Technology &middot; January 18–20, 2023</span>
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">Faculty Development Programme on Differential Equations and Its Applications (Participant)</strong> — organized by Vellore Institute of Technology, 18–20 January 2023.
-</div>
-
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">Recent Advances in Mathematics and Its Applications (RAMA)</strong> — Calcutta University, 2022.
-</div>
-
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">Recent Advances in Mathematics and Its Applications (RAMA)</strong> — Calcutta University, 2023.
-</div>
-
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">International Webinar on Fundamental Mathematics</strong> — organized by the Department of Mathematics, School of Basic Science, The Assam Kaziranga University, 30 August – 1 September 2021.
-</div>
-
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">Mathematics Training and Talent Search Program (MTTS) Level-1 (2021)</strong> — funded by the National Board for Higher Mathematics (NBHM), Department of Atomic Energy, Government of India.
+  <strong style="color: #e8f5e8;">FDP on Machine Learning</strong><br>
+  <span style="color: #a8d5a8; font-size: 14px;">SRM Institute of Science and Technology &middot; February 20–24, 2023</span>
 </div>
 
 </div>
