@@ -5,7 +5,7 @@ permalink: /workshops/
 author_profile: true
 ---
 
-<div style="font-family: Georgia, serif; font-size: 15px; color: #c8e6c8; margin-bottom: 20px; line-height: 1.6;">
+<div style="font-family: Georgia, serif; font-size: 15px; color: ##0e2e0e; margin-bottom: 20px; line-height: 1.6;">
   Below is a complete list of workshops, conferences, seminars, and lecture series I have attended over the years.
 </div>
 
