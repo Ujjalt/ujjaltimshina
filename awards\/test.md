@@ -26,7 +26,7 @@ author_profile: true
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8;">
-  <strong>University Gold Medal</strong> — Awarded by the Honourable 15th President of India, Smt. Droupadi Murmu, for securing the highest CGPA (9.81) in M.Sc. Mathematics at Sikkim University (2023).
+  <strong>University Gold Medal</strong> — Awarded by the Honourable 15th President of India, Smt. Droupadi Murmu, for securing the highest CGPA (9.81) in M.Sc. Mathematics at Sikkim University (Batch: 2021-2023).
 
   <br><br>
 
