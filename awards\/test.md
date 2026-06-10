@@ -22,7 +22,7 @@ author_profile: true
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
-  <strong>DST INSPIRE Doctoral Fellowship</strong> — Department of Science and Technology, Government of India (2023–Present).
+  <strong>DST INSPIRE Doctoral Fellowship</strong> — Department of Science and Technology, Government of India (2024).
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8;">
@@ -38,7 +38,6 @@ author_profile: true
         Sikkim declared a Fully Literate State during the Convocation Ceremony
       </a>
     </li>
-
     <li>
       <a href="https://drive.google.com/file/d/1eU9TfyTHcX9gPf8Z1tV3H74QPFm598j2/view?usp=drive_link" target="_blank" style="color:#e8f5e8;">
         Video of receiving the University Gold Medal
