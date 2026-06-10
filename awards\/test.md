@@ -21,10 +21,6 @@ author_profile: true
   </strong>
 </div>
 
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
-  <strong>DST INSPIRE Doctoral Fellowship</strong> — Department of Science and Technology, Government of India (2024).
-</div>
-
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8;">
   <strong>University Gold Medal</strong> — Awarded by the Honourable 15th President of India, Smt. Droupadi Murmu, for securing the highest CGPA (9.81) in M.Sc. Mathematics at Sikkim University (Batch: 2021-2023).
 
@@ -64,6 +60,11 @@ author_profile: true
   <strong style="font-size:24px;">
     Scholarships and Grants
   </strong>
+</div>
+
+
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+  <strong>DST INSPIRE Doctoral Fellowship</strong> — Department of Science and Technology, Government of India (2024).
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
