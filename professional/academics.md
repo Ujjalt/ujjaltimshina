@@ -16,7 +16,8 @@ author_profile: true
 
   <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
     <strong style="color: #e8f5e8;">Institute of Mathematical Statistics (IMS)</strong> — Member (Student Membership ID: 38250)<br>
-    <a href="https://en.wikipedia.org/wiki/Institute_of_Mathematical_Statistics" style="color: #e8f5e8; text-decoration: none;">Institute of Mathematical Statistics — Wikipedia</a>
+   
+
   </div>
 
 </div>
