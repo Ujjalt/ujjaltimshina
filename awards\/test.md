@@ -76,7 +76,7 @@ author_profile: true
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
-  <strong>Hon'ble Chief Minister's Financial Grant for Education</strong> — Government of Sikkim.
+  <strong>Hon'ble Chief Minister's Financial Grant for Education</strong> — Government of Sikkim (2019-2023).
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:30px; color:#e8f5e8;">
