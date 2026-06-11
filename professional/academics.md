@@ -70,29 +70,19 @@ author_profile: true
     <strong style="color: #e8f5e8;">Panelist, Yuvawani – Youth Program 2024, All India Radio</strong> — Discussion on promoting mathematics in the hills of Sikkim and beyond.
   </div>
 
-  <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-    <strong style="color: #e8f5e8;">Energy Literacy Training (SWAYAM – NPTEL)</strong> — 12-week course by Prof Chetan Singh Solanki, March 2024.
-  </div>
 
-</div>
 
 <!-- ===== Heading 3 ===== -->
 <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; margin-bottom:18px; margin-top:25px;">
   <h2 style="margin: 0; font-family: Georgia, serif; font-size: 26px; color: #e8f5e8; text-align: center;">
-    Academic Competitions
+   NPTEL Courses
   </h2>
 </div>
 
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
   <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-    <strong style="color: #e8f5e8;">Participated in Maths Olympiad of Kascade</strong> — Organized by KSHITIJ 2022, IIT Kharagpur.
-  </div>
-
-  <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-    <strong style="color: #e8f5e8;">Participated in Madhava Mathematics Competition</strong> — January 12, 2020, and February 7, 2021.
-  </div>
-
+    <strong style="color: #e8f5e8;">Energy Literacy Training (SWAYAM – NPTEL)</strong> — 12-week course by Prof Chetan Singh Solanki, March 2024.
 </div>
 
 <!-- ===== Heading 4 ===== -->
