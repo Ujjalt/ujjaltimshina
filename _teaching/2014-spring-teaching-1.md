@@ -16,5 +16,4 @@ I served as the Lead Teaching Assistant for the undergraduate course <strong sty
   taught by <strong style="color:#e8f5e8;">Dr Sarthok Sircar</strong>, for a large class of <strong style="color:#e8f5e8;">198 students</strong>. My work 
   included academic, administrative, and coordination responsibilities.
 <br><br>
-<strong style="color:#e8f5e8;">Responsibilities:</strong> Same as mentioned above.
-</div>
+<strong style="color:#e8f5e8;">Responsibilities:</strong> Responsibilities included preparing question papers for quizzes, mid-semester and end-semester examinations (including makeup examinations), conducting tutorials, grading assignments and examinations, managing course logistics, and assisting with the overall administration of the course.
