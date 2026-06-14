@@ -563,7 +563,8 @@ classes: wide
 </div>
 
 <!-- Al Jawahar Restaurant Gallery -->
-<div align="center" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/0be5641ed4a8f30fb4224a7ea9e269ba12792336/images/Jama%20Masjid.jpg" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/0be5641ed4a8f30fb4224a7ea9e269ba12792336/images/Jama%20Masjid.jpg"
+       width="200"
+       style="border:2px solid #e8f5e8; border-radius:10px;" />
 </div>
