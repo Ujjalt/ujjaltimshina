@@ -552,5 +552,18 @@ classes: wide
     <img src="https://github.com/Ujjalt/ujjaltimshina/blob/088479e4f768457dfc55c20e900328d8be0548f5/images/SG-2.jpeg?raw=true" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
     <img src="https://github.com/Ujjalt/ujjaltimshina/blob/088479e4f768457dfc55c20e900328d8be0548f5/images/SG-3.jpeg?raw=true" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
   </div>
+  
+<!-- Al Jawahar Restaurant Section -->
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+  <h3 style="color:#e8f5e8; margin-top:0;">Al Jawahar Restaurant, Jama Masjid, Delhi</h3>
+  <p align="center"><strong style="color:#e8f5e8;">13th June 2026 (Saturday)</strong></p>
+  <p style="color:#e8f5e8;">
+    A pleasant escape from the institute's Saturday khichri dinner, which none of us particularly enjoy. Along with Pankaj and Subhankar (who have already appeared in previous memories here 😄) and Sujit, a mathematics graduate from the University of Delhi spending a month as an intern under my supervisor, I visited the iconic Al Jawahar near Jama Masjid. While Pankaj stayed loyal to vegetarian food, the rest of us enjoyed Chicken Afghani Gravy, Chicken Tikka, and tandoori rotis that turned out to be much heavier than expected. The evening became even more memorable on the journey back when Sujit and Pankaj accidentally missed getting off at Govindpuri and continued to Harkesh Nagar. Subhankar and I spent quite some time laughing at what seemed like an unfortunate mistake, only to discover that the usually closed late-night gate to the campus was open, allowing them an easy return. A small disappointment for us, but a very amusing memory nonetheless.
+  </p>
+</div>
+
+<!-- Al Jawahar Restaurant Gallery -->
+<div align="center" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/0be5641ed4a8f30fb4224a7ea9e269ba12792336/images/Jama%20Masjid.jpg" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
 
 </div>
