@@ -565,6 +565,6 @@ classes: wide
 <!-- Al Jawahar Restaurant Gallery -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/0be5641ed4a8f30fb4224a7ea9e269ba12792336/images/Jama%20Masjid.jpg"
-       width="500"
+       width="400"
        style="border:2px solid #e8f5e8; border-radius:10px;" />
 </div>
