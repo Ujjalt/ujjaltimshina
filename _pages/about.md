@@ -56,7 +56,7 @@ redirect_from:
   </div>
 
 <div style="margin-top: 14px; background:#f7f2e7; padding:16px 20px; border-left:6px solid #8c6d3a; border-radius:6px; font-family:Georgia, serif; font-size:15.5px; color:#1a3d1a;">
-  <strong style="color: #1a3d1a;">This is my Automemoriomathography. Read slowly, or not at all. The mathematics will wait.
+  <strong style="color: #1a3d1a;">This is my Automemoriomathography. The mathematics will wait.
 
 </strong>
 
