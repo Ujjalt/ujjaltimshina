@@ -580,8 +580,7 @@ classes: wide
   <p align="center"><strong style="color:#e8f5e8;">Summer 2026</strong></p>
 
   <p style="color:#e8f5e8;">
-    Summer evenings at the Sports Complex, IIIT Delhi.
-    A few quiet moments away from mathematics, captured between long days of research.
+    Summer evenings at the Sports Complex.
   </p>
 </div>
 
