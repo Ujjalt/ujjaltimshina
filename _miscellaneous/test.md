@@ -569,14 +569,26 @@ classes: wide
        style="border:2px solid #e8f5e8; border-radius:10px;" />
 </div>
 
-<!-- Personal Reflection Section -->
+
+<!-- Closing Reflection -->
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
-  <h3 style="color:#e8f5e8; margin-top:0;">THANKS FOR YOUR TIME!!</h3>
-  <p align="center"><strong style="color:#e8f5e8;">A thought that quietly stays with me.</strong></p>
-  <p style="color:#e8f5e8; text-align:center; font-style:italic; font-size:18px; line-height:1.8;">
-    “I love the world as much as I love myself.<br>
-    And just as I have very little to hide from myself,<br>
+  <h3 style="color:#e8f5e8; margin-top:0;">THANK YOU FOR YOUR TIME</h3>
+
+  <p align="center">
+    <strong style="color:#e8f5e8;">A small reflection before you leave.</strong>
+  </p>
+
+  <p style="color:#e8f5e8; text-align:center; font-style:italic; font-size:18px; line-height:1.9;">
+    “I love the world as deeply as I love myself.<br>
+    Just as I have very little to hide from myself,<br>
     I have very little to hide from the world.”
+  </p>
+
+  <p style="color:#e8f5e8; text-align:center; line-height:1.8; margin-top:20px;">
+    One day, this youthful energy will quietly fade, as it does for everyone.
+    My hair will turn grey, my body will grow older, and my footsteps will become slower.
+    Yet I hope that curiosity, kindness, and the joy of learning remain unchanged.
+    If these pages preserve even a small part of who I am today, they will have served their purpose.
   </p>
 </div>
 
