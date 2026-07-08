@@ -568,3 +568,22 @@ classes: wide
        width="400"
        style="border:2px solid #e8f5e8; border-radius:10px;" />
 </div>
+
+<!-- Personal Reflection Section -->
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+  <h3 style="color:#e8f5e8; margin-top:0;">THANKS FOR YOUR TIME!!</h3>
+  <p align="center"><strong style="color:#e8f5e8;">A thought that quietly stays with me.</strong></p>
+  <p style="color:#e8f5e8; text-align:center; font-style:italic; font-size:18px; line-height:1.8;">
+    “I love the world as much as I love myself.<br>
+    And just as I have very little to hide from myself,<br>
+    I have very little to hide from the world.”
+  </p>
+</div>
+
+<!-- Personal Photograph -->
+<div align="center" style="margin-bottom:25px;">
+  <img
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7aa2f35934cb5292d6b8e172e95cb04dfdc79fc3/images/fav.%20picture.jpg"
+    width="420"
+    style="border:3px solid #e8f5e8; border-radius:12px; box-shadow:0 0 12px rgba(0,0,0,0.35);" />
+</div>
