@@ -3,9 +3,6 @@ title: "Beyond Answers: The Beauty of Mathematical Questions: My Thought Book"
 collection: publications
 category: Book
 date: 2023-10-01
-venue: "Amazon Kindle & Notion Press"
-paperurl: "https://www.amazon.in/Beyond-Answers-Mathematical-Questions-Thought-ebook/dp/B0CTRY5HRB"
-notionpressurl: "https://notionpress.com/..."
 ---
 
 Mathematics is often presented as a collection of answers, formulas, and theorems. Yet, every theorem begins with a question. This book is a personal reflection on the beauty of mathematical curiosity—the habit of asking *why*, *what if*, and *could there be another way?*
