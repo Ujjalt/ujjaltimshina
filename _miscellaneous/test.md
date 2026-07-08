@@ -569,14 +569,6 @@ classes: wide
        style="border:2px solid #e8f5e8; border-radius:10px;" />
 </div>
 
-<!-- Summer 2026 Gallery -->
-<div align="center" style="display:flex; flex-wrap:nowrap; gap:10px; overflow-x:auto; align-items:flex-start;">
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/176ef2ce01de5e654de5bfd507ca51278540a294/images/Aq1.jpeg"
-       style="max-width:140px; height:auto; border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0;" />
-
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/176ef2ce01de5e654de5bfd507ca51278540a294/images/Aq2.jpeg"
-       style="max-width:140px; height:auto; border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0;" />
-</div>
 
 <!-- Closing Reflection -->
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
