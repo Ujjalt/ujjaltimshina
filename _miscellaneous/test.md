@@ -569,24 +569,13 @@ classes: wide
        style="border:2px solid #e8f5e8; border-radius:10px;" />
 </div>
 
-<!-- Sports Complex Section -->
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
-  <h3 style="color:#e8f5e8; margin-top:0;">Sports Complex, IIIT Delhi</h3>
-  <p align="center"><strong style="color:#e8f5e8;">Summer 2026</strong></p>
-
 <!-- Summer 2026 Gallery -->
-<div align="center" style="display:flex; flex-wrap:nowrap; gap:10px; overflow-x:auto;">
+<div align="center" style="display:flex; flex-wrap:nowrap; gap:10px; overflow-x:auto; align-items:flex-start;">
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/176ef2ce01de5e654de5bfd507ca51278540a294/images/Aq1.jpeg"
-       width="160"
-       style="height:auto; border:2px solid #e8f5e8; border-radius:10px;" />
+       style="max-width:140px; height:auto; border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0;" />
 
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/176ef2ce01de5e654de5bfd507ca51278540a294/images/Aq2.jpeg"
-       width="160"
-       style="height:auto; border:2px solid #e8f5e8; border-radius:10px;" />
-
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/176ef2ce01de5e654de5bfd507ca51278540a294/images/Aq3.jpeg"
-       width="160"
-       style="height:auto; border:2px solid #e8f5e8; border-radius:10px;" />
+       style="max-width:140px; height:auto; border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0;" />
 </div>
 
 <!-- Closing Reflection -->
