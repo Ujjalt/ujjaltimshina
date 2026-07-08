@@ -569,6 +569,30 @@ classes: wide
        style="border:2px solid #e8f5e8; border-radius:10px;" />
 </div>
 
+<!-- Sports Complex Section -->
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+  <h3 style="color:#e8f5e8; margin-top:0;">Sports Complex, IIIT Delhi</h3>
+  <p align="center"><strong style="color:#e8f5e8;">Summer 2026</strong></p>
+
+  <p style="color:#e8f5e8;">
+ A few photographs from the Sports Complex at IIIT Delhi during the summer of 2026. Nothing extraordinary happened here, yet perhaps that is exactly why these moments deserve to be remembered.
+  </p>
+</div>
+
+<!-- Sports Complex Gallery -->
+<div align="center" style="display:flex; flex-wrap:nowrap; gap:10px; overflow-x:auto;">
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/176ef2ce01de5e654de5bfd507ca51278540a294/images/Aq1.jpeg"
+       width="200"
+       style="border:2px solid #e8f5e8; border-radius:10px;" />
+
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/176ef2ce01de5e654de5bfd507ca51278540a294/images/Aq2.jpeg"
+       width="200"
+       style="border:2px solid #e8f5e8; border-radius:10px;" />
+
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/176ef2ce01de5e654de5bfd507ca51278540a294/images/Aq3.jpeg"
+       width="200"
+       style="border:2px solid #e8f5e8; border-radius:10px;" />
+</div>
 
 <!-- Closing Reflection -->
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
