@@ -71,14 +71,14 @@ classes: wide
   <h3 style="color:#e8f5e8; margin-top:0;">ICMAM Latin America 2026 (Online)</h3>
   <p align="center"><strong style="color:#e8f5e8;">July 2026</strong></p>
   <p align="center"><strong style="color:#e8f5e8;">Special Lecture by Fields Medalist Prof. June Huh</strong></p>
-  <p style="color:#e8f5e8;">
-  <p style="color:#e8f5e8;">
-  One of the most memorable moments of the <strong>ICMAM Latin America 2026</strong> conference was the extraordinary lecture delivered by <strong>Prof. June Huh</strong>, recipient of the <strong>2022 Fields Medal</strong> and Professor at Princeton University. What fascinated me most was not only the depth of the mathematics, but also the remarkable simplicity and clarity with which he explained sophisticated ideas. He transformed highly abstract concepts into intuitive and accessible mathematics, making the lecture engaging for participants from diverse mathematical backgrounds.
-</p>
 
-<p style="color:#e8f5e8;">
-  Another aspect that left a lasting impression on me was his presentation style. Rather than relying on conventional presentation slides, much of the mathematics appeared to be beautifully handwritten, with every diagram, equation, and explanation arranged with exceptional care and elegance. The presentation felt natural and thoughtfully crafted, making it easy to follow even highly technical arguments. It was inspiring to see how such clear exposition, combined with mathematical depth, could make advanced ideas feel approachable and aesthetically beautiful. Watching a mathematician of his stature present mathematics with such precision and simplicity was truly an unforgettable experience.
-</p>
+  <p style="color:#e8f5e8;">
+    One of the most memorable moments of the <strong>ICMAM Latin America 2026</strong> conference was the extraordinary lecture delivered by <strong>Prof. June Huh</strong>, recipient of the <strong>2022 Fields Medal</strong> and Professor at Princeton University. What fascinated me most was not only the depth of the mathematics, but also the remarkable simplicity and clarity with which he explained sophisticated ideas. He transformed highly abstract concepts into intuitive and accessible mathematics, making the lecture engaging for participants from diverse mathematical backgrounds.
+  </p>
+
+  <p style="color:#e8f5e8;">
+    Another aspect that left a lasting impression on me was his presentation style. Rather than relying on conventional presentation slides, much of the mathematics appeared to be beautifully handwritten, with every diagram, equation, and explanation arranged with exceptional care and elegance. The presentation felt natural and thoughtfully crafted, making it easy to follow even highly technical arguments. It was inspiring to see how such clear exposition, combined with mathematical depth, could make advanced ideas feel approachable and aesthetically beautiful. Watching a mathematician of his stature present mathematics with such precision and simplicity was truly an unforgettable experience.
+  </p>
 </div>
 
 <!-- ICMAM Images -->
@@ -87,6 +87,22 @@ classes: wide
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/1d7fb5b31d38cb1bd445f6875b1871f1392cec6e/images/ABCC.png" width="650" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 </div>
 
+<!-- Recommended Video -->
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-top:15px; color:#e8f5e8;">
+  <h4 style="margin-top:0; color:#e8f5e8;">A Memorable Video</h4>
+
+  <p style="color:#e8f5e8;">
+    During the COVID-19 pandemic, I came across this video of Prof. June Huh shortly after he was awarded the <strong>2022 Fields Medal</strong>. Long before I had the opportunity to attend one of his talks, this video introduced me to his personality and his thoughtful perspective on mathematics. It left a lasting impression on me, and meeting him virtually again through his lecture at <strong>ICMAM Latin America 2026</strong> made the experience even more meaningful.
+  </p>
+
+  <p>
+    <a href="https://youtu.be/yO8lQWb6TZ4?si=Cho68tin_YYuXIDX"
+       target="_blank"
+       style="color:#90ee90; font-weight:bold; text-decoration:none;">
+      ▶ Watch the Fields Medal interview on YouTube
+    </a>
+  </p>
+</div>
 
   <!-- Manan Kendra Section -->
   <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
