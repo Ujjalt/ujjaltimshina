@@ -72,14 +72,13 @@ classes: wide
   <p align="center"><strong style="color:#e8f5e8;">July 2026</strong></p>
   <p align="center"><strong style="color:#e8f5e8;">Special Lecture by Fields Medalist Prof. June Huh</strong></p>
 
-  <p style="color:#e8f5e8;">
-    One of the most memorable moments of the <strong>ICMAM Latin America 2026</strong> conference was the extraordinary lecture delivered by <strong>Prof. June Huh</strong>, recipient of the <strong>2022 Fields Medal</strong> and Professor at Princeton University. What fascinated me most was not only the depth of the mathematics, but also the remarkable simplicity and clarity with which he explained sophisticated ideas. He transformed highly abstract concepts into intuitive and accessible mathematics, making the lecture engaging for participants from diverse mathematical backgrounds.
-  </p>
+ <p style="color:#e8f5e8;">
+  One of the most memorable moments of the <strong>ICMAM Latin America 2026</strong> conference was the extraordinary lecture delivered by <strong>Prof. June Huh</strong>, recipient of the <strong>2022 Fields Medal</strong> and Professor at Princeton University. What fascinated me most was not only the depth of the mathematics, but also the remarkable simplicity and clarity with which he explained sophisticated ideas. He transformed highly abstract concepts into intuitive and accessible mathematics, making the lecture engaging for participants from diverse mathematical backgrounds.
+</p>
 
-  <p style="color:#e8f5e8;">
-    Another aspect that left a lasting impression on me was his presentation style. Rather than relying on conventional presentation slides, much of the mathematics appeared to be beautifully handwritten, with every diagram, equation, and explanation arranged with exceptional care and elegance. The presentation felt natural and thoughtfully crafted, making it easy to follow even highly technical arguments. It was inspiring to see how such clear exposition, combined with mathematical depth, could make advanced ideas feel approachable and aesthetically beautiful. Watching a mathematician of his stature present mathematics with such precision and simplicity was truly an unforgettable experience.
-  </p>
-</div>
+<p style="color:#e8f5e8;">
+  Another aspect that left a lasting impression on me was his presentation style. Rather than relying on conventional presentation slides, much of the mathematics appeared to be beautifully handwritten, with every diagram, equation, and explanation arranged with exceptional care and elegance. The presentation felt natural and thoughtfully crafted, making it easy to follow even highly technical arguments. It reminded me of a thought he shared after receiving the Fields Medal—that he sees himself as only a small part of a vast and ancient mathematical tradition. That humility was reflected not only in his words but also in the way he presented mathematics: with clarity, care, and deep respect for the subject itself. Watching a mathematician of his stature present mathematics with such precision and simplicity was truly an unforgettable experience.
+</p>
 
 <!-- ICMAM Images -->
 <div align="center">
