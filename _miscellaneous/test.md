@@ -64,6 +64,30 @@ classes: wide
     </ol>
   </div>
 
+
+
+<!-- ICMAM Latin America 2026 -->
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+  <h3 style="color:#e8f5e8; margin-top:0;">ICMAM Latin America 2026 (Online)</h3>
+  <p align="center"><strong style="color:#e8f5e8;">July 2026</strong></p>
+  <p align="center"><strong style="color:#e8f5e8;">Special Lecture by Fields Medalist Prof. June Huh</strong></p>
+  <p style="color:#e8f5e8;">
+  <p style="color:#e8f5e8;">
+  One of the most memorable moments of the <strong>ICMAM Latin America 2026</strong> conference was the extraordinary lecture delivered by <strong>Prof. June Huh</strong>, recipient of the <strong>2022 Fields Medal</strong> and Professor at Princeton University. What fascinated me most was not only the depth of the mathematics, but also the remarkable simplicity and clarity with which he explained sophisticated ideas. He transformed highly abstract concepts into intuitive and accessible mathematics, making the lecture engaging for participants from diverse mathematical backgrounds.
+</p>
+
+<p style="color:#e8f5e8;">
+  Another aspect that left a lasting impression on me was his presentation style. Rather than relying on conventional presentation slides, much of the mathematics appeared to be beautifully handwritten, with every diagram, equation, and explanation arranged with exceptional care and elegance. The presentation felt natural and thoughtfully crafted, making it easy to follow even highly technical arguments. It was inspiring to see how such clear exposition, combined with mathematical depth, could make advanced ideas feel approachable and aesthetically beautiful. Watching a mathematician of his stature present mathematics with such precision and simplicity was truly an unforgettable experience.
+</p>
+</div>
+
+<!-- ICMAM Images -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/1d7fb5b31d38cb1bd445f6875b1871f1392cec6e/images/ABC.png" width="650" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/1d7fb5b31d38cb1bd445f6875b1871f1392cec6e/images/ABCC.png" width="650" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+</div>
+
+
   <!-- Manan Kendra Section -->
   <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
     <h3 style="color:#e8f5e8; margin-top:0;">Manan Kendra, Gangtok, Sikkim, India</h3>
