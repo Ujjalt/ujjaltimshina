@@ -91,7 +91,7 @@ classes: wide
   <h4 style="margin-top:0; color:#e8f5e8;">A Memorable Video</h4>
 
   <p style="color:#e8f5e8;">
-    During the COVID-19 pandemic, I came across this video of Prof. June Huh shortly after he was awarded the <strong>2022 Fields Medal</strong>. Long before I had the opportunity to attend one of his talks, this video introduced me to his personality and his thoughtful perspective on mathematics. It left a lasting impression on me, and meeting him virtually again through his lecture at <strong>ICMAM Latin America 2026</strong> made the experience even more meaningful.
+    During the COVID-19 pandemic, I came across this video of Prof. June Huh shortly after he was awarded the <strong>2022 Fields Medal</strong>. Long before I had the opportunity to attend one of his talks, this video introduced me to his personality and his thoughtful perspective on mathematics. It left a lasting impression on me. So much to appreciate and so much to learn about the honesty and life.
   </p>
 
   <p>
