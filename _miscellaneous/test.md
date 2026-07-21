@@ -608,6 +608,29 @@ classes: wide
        style="border:2px solid #e8f5e8; border-radius:10px;" />
 </div>
 
+<!-- Jaipur Section -->
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+  <h3 style="color:#e8f5e8; margin-top:0;">Jaipur, Rajasthan, India</h3>
+  <p align="center"><strong style="color:#e8f5e8;">18th–19th July 2026</strong></p>
+  <p style="color:#e8f5e8;">
+    Jaipur, the Pink City of India, beautifully blends royal history, vibrant culture, magnificent forts, colorful markets, and delicious traditional cuisine. Rather than trying to know every page of its history, I simply wanted to experience the city in my own way. This memorable two-day trip was explored together with my friends <strong>Soumin, Mahesh, and Amrut</strong>, with Amrut leading our entire journey.
+    <br><br>
+    Like every good adventure, ours began with a last-minute rush. Our train was scheduled to leave at <strong>5:25 PM on Friday evening</strong>, and we were literally running through the metro station to catch it. The funniest moment came when Soumin accidentally stepped onto an escalator that was moving downward while he was trying to go up. Watching him struggle with all his determination while the escalator kept bringing him back down had all of us laughing uncontrollably. Somehow, we managed to board the train just in time.
+    <br><br>
+    Over the next two days, we wandered through Jaipur's beautiful streets, admired its architectural wonders, enjoyed its rich culinary heritage, and created memories that will stay with us for years. Every journey becomes special because of the people you travel with, and this one was no exception. We returned yesterday on an overnight bus, reaching back around <strong>5:00 AM</strong>, tired but carrying countless unforgettable memories.
+  </p>
+</div>
+
+<!-- Jaipur Gallery -->
+<div align="center" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-6.jpeg" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-5.jpeg" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-4.jpeg" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-3.jpeg" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-2.jpeg" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-1.jpeg" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
+</div>
+
 
 <!-- Closing Reflection -->
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
