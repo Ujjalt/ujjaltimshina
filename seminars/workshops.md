@@ -20,6 +20,11 @@ author_profile: true
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
+  <strong style="color: #e8f5e8;">ICMAM Latin America Satellite Conference 2026</strong><br>
+  <span style="color: #a8d5a8; font-size: 14px;">held online from July 13–17, 2026.</span>
+</div>
+
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
   <strong style="color: #e8f5e8;">40th Annual Conference of the Ramanujan Mathematical Society</strong><br>
   <span style="color: #a8d5a8; font-size: 14px;">Department of Mathematics, IIIT Delhi &middot; December 18–20, 2025</span>
 </div>
