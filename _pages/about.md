@@ -36,35 +36,30 @@ redirect_from:
     />
   </div>
 
-<div style="
-  display:flex;
-  flex-direction:column;
-  align-items:center;
-  gap:15px;
-">
 
-<div align="center">
+  <div align="center">
 
   <img
-    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/4230f5b4e3ea73209e49120e7d00ab134ca00fbd/images/POI.jpg"
-    alt="POI"
-    style="border:2px solid #444; border-radius:10px;"
-  />
+      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/4230f5b4e3ea73209e49120e7d00ab134ca00fbd/images/POI.jpg"
+      alt="POI"
+      style="border:2px solid #444; border-radius:10px;"
+    />    
+    <div style="display:flex; justify-content:center; gap:10px; overflow-x:auto; margin-top:10px;">
+      <img
+        src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-1.jpeg"
+        width="200"
+        style="border:2px solid #e8f5e8; border-radius:10px;"
+      />
+      <img
+        src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-4.jpeg"
+        width="200"
+        style="border:2px solid #e8f5e8; border-radius:10px;"
+      />
+    </div>
 
-  <div style="display:flex; justify-content:center; gap:10px; overflow-x:auto; margin-top:10px;">
-    <img
-      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-1.jpeg"
-      width="200"
-      style="border:2px solid #e8f5e8; border-radius:10px;"
-    />
-  <img
-      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-4.jpeg"
-      width="200"
-      style="border:2px solid #e8f5e8; border-radius:10px;"
-    />
   </div>
 
-  
+</div>
 
   <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px;">
     <em>"Even without language, the world follows its own internal mathematics, and I'm trying to understand a fraction of it. Analysis appeals to me as a form of structured thought and I always think of and honour the ancestors who felt time for the first time irrespective of the fact that time was already there, watching them, feel it"</em>
