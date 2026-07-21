@@ -5,22 +5,6 @@ permalink: /professionaldevelopment/
 author_profile: true
 ---
 
-<!-- ===== Heading 1 ===== -->
-<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; margin-bottom:18px; margin-top:10px;">
-  <h2 style="margin: 0; font-family: Georgia, serif; font-size: 26px; color: #e8f5e8; text-align: center;">
-    Professional Memberships
-  </h2>
-</div>
-
-<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-
-  <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-    <strong style="color: #e8f5e8;">Institute of Mathematical Statistics (IMS)</strong> — Member (Student Membership ID: 38250)<br>
-   
-
-  </div>
-
-</div>
 
 <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; margin-bottom:18px; margin-top:10px;">
   <h2 style="margin: 0; font-family: Georgia, serif; font-size: 26px; color: #e8f5e8; text-align: center;">
