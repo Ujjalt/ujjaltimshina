@@ -45,11 +45,7 @@ redirect_from:
       style="border:2px solid #444; border-radius:10px;"
     />    
   <div style="display:flex; justify-content:center; gap:15px; overflow-x:auto; margin-top:10px;">
-  <img
-    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-1.jpeg"
-    width="300"
-    style="border:2px solid #e8f5e8; border-radius:10px;"
-  />
+
   <img
     src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-4.jpeg"
     width="300"
