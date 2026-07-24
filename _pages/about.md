@@ -38,15 +38,17 @@ redirect_from:
   </a>
 </div>
 
-  <div align="center" style="margin: 15px 0;">
-    <img 
-      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/0242c7065868da2f89c58fa6a7ef59f59da5492d/images/lord%20bhuddha.webp"
-      alt="Lord Buddha"
-      width="340"
-      style="border-radius: 6px;"
+<div align="center" style="margin: 20px 0 10px 0;">
+  <a href="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7bc346bda454be79f45be47e1b9a7fca427e2207/images/MY%20life.png" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7bc346bda454be79f45be47e1b9a7fca427e2207/images/MY%20life.png"
+      alt="My Life"
+      width="380"
+      height="380"
+      style="border-radius:50%; object-fit:cover;"
     />
-  </div>
-
+  </a>
+</div>
 
   <div align="center">
 
