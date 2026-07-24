@@ -17,10 +17,10 @@ redirect_from:
   </div>
 
 <div align="center" style="margin: 20px 0 10px 0;">
-  <a href="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ecac517b87485c8e314471bf5ad93a16e9014c4e/images/Pic.png" target="_blank">
+  <a href="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7bc346bda454be79f45be47e1b9a7fca427e2207/images/MY%20life.png" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ecac517b87485c8e314471bf5ad93a16e9014c4e/images/Pic.png"
-      alt="Abstract"
+      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7bc346bda454be79f45be47e1b9a7fca427e2207/images/MY%20life.png"
+      alt="My Life"
       width="700"
       style="max-width:100%; border-radius:8px;"
     />
