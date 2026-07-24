@@ -16,16 +16,27 @@ redirect_from:
    <p style="font-size: 16px; color: #5A4634; margin-top: -10px;">Gangtok, Sikkim, India</p>
   </div>
 
-  <div align="center" style="margin: 15px 0;">
-    <a href="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ff5289b4d96068b11d56f0009fa9d58ba12f1686/images/Mountain.jpg" target="_blank">
-      <img 
-        src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ff5289b4d96068b11d56f0009fa9d58ba12f1686/images/Mountain.jpg"
-        alt="Mountain"
-        width="340"
-        style="border-radius: 6px;"
-      />
-    </a>
-  </div>
+<div align="center" style="margin: 20px 0 10px 0;">
+  <a href="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ecac517b87485c8e314471bf5ad93a16e9014c4e/images/Pic.png" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ecac517b87485c8e314471bf5ad93a16e9014c4e/images/Pic.png"
+      alt="Abstract"
+      width="700"
+      style="max-width:100%; border-radius:8px;"
+    />
+  </a>
+</div>
+
+<div align="center" style="margin: 10px 0 25px 0;">
+  <a href="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ff5289b4d96068b11d56f0009fa9d58ba12f1686/images/Mountain.jpg" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ff5289b4d96068b11d56f0009fa9d58ba12f1686/images/Mountain.jpg"
+      alt="Mountain"
+      width="340"
+      style="border-radius:6px;"
+    />
+  </a>
+</div>
 
   <div align="center" style="margin: 15px 0;">
     <img 
