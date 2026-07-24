@@ -16,27 +16,6 @@ redirect_from:
    <p style="font-size: 16px; color: #5A4634; margin-top: -10px;">Gangtok, Sikkim, India</p>
   </div>
 
-<div align="center" style="margin: 20px 0 10px 0;">
-  <a href="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7bc346bda454be79f45be47e1b9a7fca427e2207/images/MY%20life.png" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7bc346bda454be79f45be47e1b9a7fca427e2207/images/MY%20life.png"
-      alt="My Life"
-      width="700"
-      style="max-width:100%; border-radius:8px;"
-    />
-  </a>
-</div>
-
-<div align="center" style="margin: 10px 0 25px 0;">
-  <a href="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ff5289b4d96068b11d56f0009fa9d58ba12f1686/images/Mountain.jpg" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ff5289b4d96068b11d56f0009fa9d58ba12f1686/images/Mountain.jpg"
-      alt="Mountain"
-      width="340"
-      style="border-radius:6px;"
-    />
-  </a>
-</div>
 
 <div align="center" style="margin: 20px 0 10px 0;">
   <a href="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7bc346bda454be79f45be47e1b9a7fca427e2207/images/MY%20life.png" target="_blank">
@@ -46,6 +25,30 @@ redirect_from:
       width="380"
       height="380"
       style="border-radius:50%; object-fit:cover;"
+    />
+  </a>
+
+  <div style="
+    margin-top:18px;
+    font-family: Georgia, serif;
+    font-size: 1.35rem;
+    font-weight: bold;
+    color: #d8ecd2;
+    letter-spacing: 0.4px;
+  ">
+    No mind is so dark that it cannot radiate light.
+  </div>
+</div>
+
+
+
+<div align="center" style="margin: 10px 0 25px 0;">
+  <a href="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ff5289b4d96068b11d56f0009fa9d58ba12f1686/images/Mountain.jpg" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ff5289b4d96068b11d56f0009fa9d58ba12f1686/images/Mountain.jpg"
+      alt="Mountain"
+      width="340"
+      style="border-radius:6px;"
     />
   </a>
 </div>
