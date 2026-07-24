@@ -28,18 +28,28 @@ redirect_from:
     />
   </a>
 
-  <div style="
-    margin-top:18px;
-    font-family: Georgia, serif;
-    font-size: 1.35rem;
-    font-weight: bold;
-    color: #d8ecd2;
-    letter-spacing: 0.4px;
-  ">
-    No mind is so dark that it cannot radiate light.
-  </div>
+<div style="
+  margin-top:18px;
+  font-family: Georgia, serif;
+  font-size: 1.35rem;
+  font-weight: bold;
+  color: #d8ecd2;
+  letter-spacing: 0.4px;
+  text-align: center;
+">
+  No mind is so dark that it cannot radiate light.
 </div>
 
+<div style="
+  margin-top:8px;
+  font-family: Georgia, serif;
+  font-size: 0.95rem;
+  font-style: italic;
+  color: #b9d6b4;
+  text-align: center;
+">
+  To experience the artwork, keep your cursor fixed on a single line and continuously zoom in and out of the image.
+</div>
 
 
 <div align="center" style="margin: 10px 0 25px 0;">
