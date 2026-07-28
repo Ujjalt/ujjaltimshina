@@ -123,7 +123,6 @@ classes: wide
   <div align="center" style="display:flex; flex-wrap:nowrap; gap:10px; overflow-x:auto; padding:10px 0;">
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-3.jpeg" width="250" style="border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0;" />
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-4.jpeg" width="250" style="border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0;" />
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-5.jpeg" width="250" style="border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0;" />
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-6.jpeg" width="250" style="border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0;" />
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-8.jpeg" width="250" style="border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0;" />
  <img 
