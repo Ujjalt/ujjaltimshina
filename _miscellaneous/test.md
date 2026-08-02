@@ -98,6 +98,7 @@ classes: wide
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d217dff067038c61c61e5dcf60de1930ed1488a7/images/RAM-4.jpeg"
          width="650"
          style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+      <img src="https://github.com/Ujjalt/ujjaltimshina/blob/18a4fad732a6e8749da83d1c8b0430451c41e345/images/RAM...jpeg" width="650" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
   </div>
 </div>
 
@@ -120,6 +121,8 @@ classes: wide
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/1d7fb5b31d38cb1bd445f6875b1871f1392cec6e/images/ABC.png" width="650" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/1d7fb5b31d38cb1bd445f6875b1871f1392cec6e/images/ABCC.png" width="650" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 </div>
+
+
 
 <!-- Recommended Video -->
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-top:15px; color:#e8f5e8;">
