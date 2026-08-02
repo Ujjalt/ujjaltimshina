@@ -14,6 +14,23 @@ author_profile: true
 
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+  <strong style="color:#e8f5e8;">
+    Mentor (from August 2026), RAM Math Circle – Delhi Chapter
+  </strong><br>
+
+  A collaborative initiative of the <strong style="color:#e8f5e8;">Raising A Mathematician Foundation</strong> and
+  <strong style="color:#e8f5e8;">IIIT Delhi</strong>, dedicated to nurturing young mathematics enthusiasts through
+  interactive mathematics circle activities that foster curiosity, creative problem solving, and a lifelong passion
+  for mathematical learning and discovery.
+
+  <div align="center" style="margin-top:18px;">
+    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d217dff067038c61c61e5dcf60de1930ed1488a7/images/Ram-1.jpeg"
+         width="700"
+         style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.25);" />
+  </div>
+</div>
+
   <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
     <strong style="color: #e8f5e8;">Volunteer, 40th Annual Conference of the Ramanujan Mathematical Society – Functional and Harmonic Analysis Symposium and Geometry and Topology Symposium</strong>  
     Organized by the Department of Mathematics, IIIT Delhi, in collaboration with the Ramanujan Mathematical Society, December 18–20, 2025.
