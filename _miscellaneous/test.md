@@ -87,19 +87,21 @@ classes: wide
     The experience was truly inspiring. What impressed me most was the excitement of the students as they explored mathematical ideas, asked thoughtful questions, and enjoyed the process of problem solving. Their curiosity and eagerness to learn created an atmosphere that was both energetic and encouraging. It reminded me that mathematics flourishes best in an environment where exploration, discussion, and creativity are valued. I look forward to contributing more actively in the upcoming sessions and helping these young learners discover the beauty and joy of mathematics.
   </p>
 
-  <!-- Session Images -->
-  <div align="center">
+<div align="center">
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d217dff067038c61c61e5dcf60de1930ed1488a7/images/RAM-2.jpeg"
          width="650"
          style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d217dff067038c61c61e5dcf60de1930ed1488a7/images/RAM-3.jpeg"
+
+   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d217dff067038c61c61e5dcf60de1930ed1488a7/images/RAM-3.jpeg"
          width="650"
          style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d217dff067038c61c61e5dcf60de1930ed1488a7/images/RAM-4.jpeg"
+
+   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d217dff067038c61c61e5dcf60de1930ed1488a7/images/RAM-4.jpeg"
          width="650"
          style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
-      <img src="https://github.com/Ujjalt/ujjaltimshina/blob/18a4fad732a6e8749da83d1c8b0430451c41e345/images/RAM...jpeg" width="650" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
-  </div>
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/48fabfc3a78d714b38b636e71c94fbf97ce025de/images/RAM...jpeg"
+     width="650"
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 </div>
 
 <!-- ICMAM Latin America 2026 -->
