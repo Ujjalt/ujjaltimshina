@@ -48,8 +48,7 @@ redirect_from:
   color: #b9d6b4;
   text-align: center;
 ">
-Truth is rarely seen at a single scale. Keep your cursor fixed on one line and slowly zoom in and out to see what matters most.
-</div>
+Truth is rarely seen at a single scale. 
 
 
 <div align="center" style="margin: 10px 0 25px 0;">
