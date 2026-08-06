@@ -206,7 +206,7 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
 
   <p style="font-family: Georgia, serif; font-size: 1.08em; color: #2f4f2f; line-height: 1.8; max-width: 850px; margin: auto;">
     <em>
-      This photograph was taken by me on a beautiful evening at IIIT Delhi. As the daylight gently faded,
+      This photograph was taken by me on a beautiful evening at IIIT Delhi, of course edited. As the daylight gently faded,
       the sky opened up and the moon appeared at just the perfect place, creating a moment that felt both
       peaceful and extraordinary. It was one of those rare scenes that made me pause and appreciate the
       beauty hidden in everyday campus life. Beyond its architecture and classrooms, this institute has
