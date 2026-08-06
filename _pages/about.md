@@ -198,10 +198,28 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
     />
   </div>
 
-  <div style="border: 1px solid #2f4f2f; border-radius: 8px; padding: 14px 18px; margin: 20px 0; text-align: center; background-color: #f6faf6;">
-    <p style="margin: 0; font-family: Georgia, serif; font-weight: bold; color: #2f4f2f;">
-      Mountains. Solitude. Breath. Peace.
-    </p>
-  </div>
+<div style="border: 1px solid #2f4f2f; border-radius: 8px; padding: 18px; margin: 20px 0; background-color: #f6faf6; text-align: center;">
+
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/1869d9d4389e4ae0c9378389d1f502db7caf0ac3/images/IMG_7800.png"
+       alt="Moon over IIIT Delhi Campus"
+       style="max-width: 100%; width: 650px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin-bottom: 18px;">
+
+  <p style="font-family: Georgia, serif; font-size: 1.08em; color: #2f4f2f; line-height: 1.8; max-width: 850px; margin: auto;">
+    <em>
+      This photograph was taken by me on a beautiful evening at IIIT Delhi. As the daylight gently faded,
+      the sky opened up and the moon appeared at just the perfect place, creating a moment that felt both
+      peaceful and extraordinary. It was one of those rare scenes that made me pause and appreciate the
+      beauty hidden in everyday campus life. Beyond its architecture and classrooms, this institute has
+      shaped me in countless ways—academically, professionally, and personally. Every corner of this campus
+      carries memories of learning, growth, and inspiration, making this image much more than a photograph;
+      it is a reflection of a place that continues to shape who I am.
+    </em>
+  </p>
+
+  <hr style="margin: 22px auto; width: 60%; border: none; border-top: 1px solid #b8cdb8;">
+
+  <p style="margin: 0; font-family: Georgia, serif; font-weight: bold; color: #2f4f2f; font-size: 1.05em;">
+    Mountains. Solitude. Breath. Peace.
+  </p>
 
 </div>
