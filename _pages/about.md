@@ -127,15 +127,16 @@ My current research focuses on describing these operators using the actions of L
 
   <hr style="border:0; border-top:1px solid #b7d7b7; margin:18px 0;">
 
-  <p style="font-family: Georgia, serif; color: #1a3d1a;">I am planning to study <span style="font-weight: bold; color: #1a3d1a;">Probabilistic Measure Theory</span> and <span style="font-weight: bold; color: #1a3d1a;">Banach Algebra Techniques in Operator Theory</span> in the upcoming semester.</p>
+  <p style="font-family: Georgia, serif; color: #1a3d1a;">I'm studying  <span style="font-weight: bold; color: #1a3d1a;">Probabilistic Measure Theory</span> and <span style="font-weight: bold; color: #1a3d1a;">Introduction to Free Non Commutative Function Theory</span> in the current semester.</p>
 
   <div style="border: 1px solid #7f8c8d; background: #f0f7f0; padding: 12px 16px; margin: 20px 0; font-family: 'Calibri', Georgia, serif; box-shadow: 0 0 0 1px #e0e0e0; border-radius: 0px;">
     <p style="margin: 0; font-family: Georgia, serif; font-weight: bold; color: #1a3d1a;">
-      I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces (RKHS), the Complex Analytic Approach to Elliptic Curves and Modular Forms, Topics in Functional Analysis: Operator Algebras, Functional Analysis, Complex Analysis, Several Complex Variables, Introduction to Non-commutative Function Theory, and Matrix Groups.
+I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces (RKHS), the Complex Analytic Approach to Elliptic Curves and Modular Forms, Topics in Functional Analysis: Operator Algebras, Functional Analysis, Complex Analysis, Several Complex Variables, and Matrix Groups.
     </p>
   </div>
 
-  <p style="font-family: Georgia, serif; color: #1a3d1a;">Going forward, I plan to delve deeper into <a href="https://en.wikipedia.org/wiki/Spectral_theory" style="color: #1a3d1a; font-weight: bold; text-decoration: none;">Spectral Theory</a>, <a href="https://en.wikipedia.org/wiki/Representation_theory" style="color: #1a3d1a; font-weight: bold; text-decoration: none;">Representation Theory</a> and the <a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)" style="color: #1a3d1a; font-weight: bold; text-decoration: none;">Lean Programming Language</a>.</p>
+  
+  <p style="font-family: Georgia, serif; color: #1a3d1a;">Going forward, I plan to delve deeper into <a href="https://en.wikipedia.org/wiki/Spectral_theory" style="color: #1a3d1a; font-weight: bold; text-decoration: none;">Spectral Theory</a>, <a href="https://en.wikipedia.org/wiki/Representation_theory" style="color: #1a3d1a; font-weight: bold; text-decoration: none;">Representation Theory</a> and the <a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)" style="color: #1a3d1a; font-weight: bold; text-decoration: none;">Lean Programming Language and Differential Geometry</a>.</p>
 
   <p style="font-family: Georgia, serif; color: #1a3d1a;">I am also keenly interested in subjects such as <a href="https://en.wikipedia.org/wiki/Measure_theory" style="color: #1a3d1a; font-weight: bold; text-decoration: none;">Measure Theory</a> and <a href="https://en.wikipedia.org/wiki/General_topology" style="color: #1a3d1a; font-weight: bold; text-decoration: none;">General Topology</a>, which continue to shape my mathematical perspective.</p>
 
