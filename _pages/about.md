@@ -199,11 +199,7 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
   </div>
 
 <div style="max-width:800px; margin:20px auto; border:1px solid #2f4f2f; border-radius:8px; padding:22px; background-color:#f6faf6; text-align:center;">
-
-  <hr style="width:60%; margin:24px auto; border:none; border-top:1px solid #b8cdb8;">
-
-  <p style="margin:0; font-family:Georgia, serif; font-weight:bold; color:#2f4f2f; font-size:1.05em;">
-    Mountains. Solitude. Breath. Peace.
+   Mountains. Solitude. Breath. Peace.
   </p>
 
 </div>
