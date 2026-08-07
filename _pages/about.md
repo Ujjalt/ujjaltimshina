@@ -209,7 +209,6 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
 
   <p style="font-family:Georgia, serif; font-size:1.08em; color:#2f4f2f; line-height:1.8; text-align:justify; margin:0 auto; max-width:700px;">
     <em>
-    Here's a more natural version that acknowledges the edit while keeping the sentiment genuine:
 What began as an ordinary daytime photograph became a way of expressing how I remember this campus. Beyond its architecture and classrooms, this institute has shaped me in countless ways—academically, professionally, and personally. Every corner of this campus carries memories of learning, growth, and inspiration.
 
   <hr style="width:60%; margin:24px auto; border:none; border-top:1px solid #b8cdb8;">
