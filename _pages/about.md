@@ -199,8 +199,6 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
   </div>
 
 <div style="max-width:800px; margin:20px auto; border:1px solid #2f4f2f; border-radius:8px; padding:22px; background-color:#f6faf6; text-align:center;">
-   Mountains. Solitude. Breath. Peace.
-  </p>
 
 
 <div style="max-width:800px; margin:20px auto; border:1px solid #2f4f2f; border-radius:8px; padding:22px; background-color:#f6faf6; text-align:center;">
@@ -212,10 +210,7 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
   <p style="font-family:Georgia, serif; font-size:1.08em; color:#2f4f2f; line-height:1.8; text-align:justify; margin:0 auto; max-width:700px;">
     <em>
     Here's a more natural version that acknowledges the edit while keeping the sentiment genuine:
-
-> What began as an ordinary daytime photograph became a way of expressing how I remember this campus—not merely as a collection of buildings, but as a place filled with quiet moments of reflection and inspiration. Beyond its architecture and classrooms, this institute has shaped me in countless ways—academically, professionally, and personally. Every corner of this campus carries memories of learning, growth, and inspiration, making this image much more than a photograph; it is a reflection of a place that continues to shape who I am.
-
-  </p>
+What began as an ordinary daytime photograph became a way of expressing how I remember this campus. Beyond its architecture and classrooms, this institute has shaped me in countless ways—academically, professionally, and personally. Every corner of this campus carries memories of learning, growth, and inspiration.
 
   <hr style="width:60%; margin:24px auto; border:none; border-top:1px solid #b8cdb8;">
 
@@ -223,5 +218,4 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
     Mountains. Solitude. Breath. Peace.
   </p>
 
-</div>
 
