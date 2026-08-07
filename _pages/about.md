@@ -28,7 +28,7 @@ redirect_from:
     />
   </a>
 
-<div style="
+  <div style="
   margin-top:18px;
   font-family: Georgia, serif;
   font-size: 1.35rem;
