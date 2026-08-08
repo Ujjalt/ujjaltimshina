@@ -99,7 +99,7 @@ classes: wide
 
   <p style="font-family:Georgia, serif; font-size:1.08em; color:#2f4f2f; line-height:1.8; text-align:justify; margin:0 auto; max-width:700px;">
     <em>
-    I, of course, do not particularly enjoy such risky adventures. But this one happened at Bhimtal, with Sawan and Govinda. Sawan was super excited about trying it, and his excitement somehow pushed us to give it a shot. So, there we were, doing something I would probably never have planned on my own. And honestly, I felt nothing really! Maybe the adventure itself did not excite me much, but seeing Sawan so happy and excited made the whole experience worth remembering. Sometimes, we try things not because they are meant for us, but to simply experience it and decide whether we really like it or not.
+    I, of course, do not particularly enjoy adventures like this. But this one happened at Bhimtal, with Sawan and Govinda. Sawan was super excited about trying it, and his excitement somehow pushed us to give it a shot. So, there we were, doing something I would probably never have planned on my own. And honestly, I felt nothing really! Maybe the adventure itself did not excite me much, but seeing Sawan so happy and excited made the whole experience worth remembering. Sometimes, we try things not because they are meant for us, but to simply experience it and decide whether we really like it or not.
 
 
 
