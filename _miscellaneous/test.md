@@ -67,6 +67,23 @@ classes: wide
 </div>
 
 
+<div style="width:100%; max-width:750px; margin:0 auto 30px auto;">
+
+  <div style="display:flex; justify-content:center; align-items:center; margin:0 auto 20px auto;">
+    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/30b5d7ce519c8a857f5e14fcf467c14e8f25f86b/images/Bhimtal.jpg"
+         alt="Bhimtal"
+         style="display:block; width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+  </div>
+
+  <p style="font-family:Georgia, serif; font-size:1.08em; color:#2f4f2f; line-height:1.8; text-align:justify; margin:0 auto; max-width:700px;">
+    <em>
+      I, of course, do not particularly enjoy such risky adventures. But this one happened at Bhimtal, with Sawan and Govinda. Sawan was super excited about trying it, and his excitement somehow pushed us to give it a shot. So, there we were, doing something I would probably never have planned on my own. And honestly, I felt nothing really! Maybe the adventure itself did not excite me much, but seeing Sawan so happy and excited made the whole experience worth remembering. Sometimes, we try things not because they are meant for us, but simply because the excitement of the people around us becomes our reason to say yes.
+    </em>
+  </p>
+
+</div>
+
+
   <!-- Tutorial Problems Section -->
   <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
     <h3 style="color:#e8f5e8; margin-top:0; margin-bottom:10px;">Tutorial Problems & Lecture Materials</h3>
