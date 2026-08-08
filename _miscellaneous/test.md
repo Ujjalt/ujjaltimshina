@@ -69,7 +69,7 @@ classes: wide
  <p style="font-family:Georgia, serif; font-size:0.9em; color:#777; text-align:center; margin:8px 0 15px 0;">
   ← Swipe or scroll sideways to view the other photograph →
 </p>
-
+  </div>
 <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; line-height:1.8;">
 
   <p style="margin:0; color:#e8f5e8; text-align:justify;">
