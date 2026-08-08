@@ -8,6 +8,18 @@ classes: wide
 
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
+A more intimate and poetic version, while keeping it short:
+
+<h2 style="font-family:Georgia, serif; color:#2f4f2f; text-align:center; margin:35px auto 15px auto;">
+  A Little Piece of My Life
+</h2>
+
+<p style="font-family:Georgia, serif; font-size:1.08em; color:#2f4f2f; line-height:1.8; text-align:center; margin:0 auto 30px auto; max-width:700px;">
+  <em>
+    I have lived so many moments worth remembering, yet I don't want to spend too much of today living in yesterday. So, I keep these little pieces of happiness here, memories I wish to revisit. The difficult ones, I simply keep to myself.
+  </em>
+</p>
+
   <!-- Personal Note -->
   <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
     <p style="margin: 0; color:#e8f5e8;">
