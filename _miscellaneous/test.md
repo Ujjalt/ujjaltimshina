@@ -222,34 +222,50 @@ classes: wide
 
 
 
-  <!-- Manan Kendra Section -->
-  <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
-    <h3 style="color:#e8f5e8; margin-top:0;">Manan Kendra, Gangtok, Sikkim, India</h3>
-    <p align="center"><strong style="color:#e8f5e8;">27th May 2026</strong></p>
-    <p style="color:#e8f5e8;">
-      A glimpse of the Seventh Convocation Ceremony of Sikkim University held at Manan Kendra, Gangtok. The occasion was especially memorable as it gave me the opportunity to meet my batchmates after a span of three years. The day was filled with laughter, conversations, nostalgia, and the joy of reconnecting with old friends. It was wonderful to see how everyone had grown and embarked on their own journeys since graduation. The celebrations concluded with a delightful dinner in the evening with my family, making the day even more special and unforgettable.
-    </p>
-  </div>
+<!-- Manan Kendra Section -->
 
-  <!-- Featured Images -->
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-7.jpeg" width="650" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-1.jpeg" width="650" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-2.jpeg" width="650" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
-  </div>
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+  <h3 style="color:#e8f5e8; margin-top:0;">Manan Kendra, Gangtok, Sikkim, India</h3>
+  <p align="center"><strong style="color:#e8f5e8;">27th May 2026</strong></p>
+  <p style="color:#e8f5e8;">
+    A glimpse of the Seventh Convocation Ceremony of Sikkim University held at Manan Kendra, Gangtok. The occasion was especially memorable as it gave me the opportunity to meet my batchmates after a span of three years. The day was filled with laughter, conversations, nostalgia, and the joy of reconnecting with old friends. It was wonderful to see how everyone had grown and embarked on their own journeys since graduation. The celebrations concluded with a delightful dinner in the evening with my family, making the day even more special and unforgettable.
+  </p>
+</div>
 
-  <!-- Scroll Gallery -->
-  <div align="center" style="display:flex; flex-wrap:nowrap; gap:10px; overflow-x:auto; padding:10px 0;">
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-3.jpeg" width="250" style="border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0;" />
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-4.jpeg" width="250" style="border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0;" />
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-6.jpeg" width="250" style="border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0;" />
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-8.jpeg" width="250" style="border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0;" />
- <img 
-  src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7a23c3c32b0e3341ac607fe5e3657803518bf831/images/MM.jpg" 
-  width="250" 
-  style="border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0;" 
-/>
-  </div>
+<!-- Featured Images -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-7.jpeg" width="650" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-1.jpeg" width="650" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-2.jpeg" width="650" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+</div>
+
+<!-- Scroll Gallery -->
+
+<div style="display:flex; flex-wrap:nowrap; gap:10px; overflow-x:auto; overflow-y:hidden; width:100%; padding:10px 0; -webkit-overflow-scrolling:touch; scrollbar-width:auto;">
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-3.jpeg"
+    width="250"
+    style="border:2px solid #e8f5e8; border-radius:10px; flex:0 0 250px; max-width:none;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-4.jpeg"
+    width="250"
+    style="border:2px solid #e8f5e8; border-radius:10px; flex:0 0 250px; max-width:none;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-6.jpeg"
+    width="250"
+    style="border:2px solid #e8f5e8; border-radius:10px; flex:0 0 250px; max-width:none;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-8.jpeg"
+    width="250"
+    style="border:2px solid #e8f5e8; border-radius:10px; flex:0 0 250px; max-width:none;" />
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7a23c3c32b0e3341ac607fe5e3657803518bf831/images/MM.jpg"
+    width="250"
+    style="border:2px solid #e8f5e8; border-radius:10px; flex:0 0 250px; max-width:none;" />
+
+</div>
+
 
   <!-- RMS Conference Section -->
   <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
