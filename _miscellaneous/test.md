@@ -29,22 +29,20 @@ classes: wide
 
   <!-- Swipeable Driving Photos -->
 
-  <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; gap:20px; padding:5px 0 15px 0; scrollbar-width:thin;">
+<div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; scrollbar-width:thin;">
 
-<!-- Driving Photo 1 -->
-<div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+<!-- Image 1 -->
+<div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8f567bc25abca7dd76d51b8721fdcc6fa1dd421a/images/Driving-1.jpeg"
        alt="Night drive"
-       style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+       style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
 </div>
 
-<!-- Driving Photo 2 -->
-<div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+<!-- Image 2 -->
+<div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8f567bc25abca7dd76d51b8721fdcc6fa1dd421a/images/driving.jpg"
        alt="Relaxing night drive"
-       style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-</div>
-
+       style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
  </div>
 
   <!-- Swipe Indicator -->
