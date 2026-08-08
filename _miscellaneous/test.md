@@ -25,6 +25,45 @@ classes: wide
     </p>
   </div>
 
+<div style="width:100%; max-width:750px; margin:0 auto 30px auto;">
+
+  <!-- Swipeable Driving Photos -->
+
+  <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; gap:20px; padding:5px 0 15px 0; scrollbar-width:thin;">
+
+<!-- Driving Photo 1 -->
+<div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8f567bc25abca7dd76d51b8721fdcc6fa1dd421a/images/Driving-1.jpeg"
+       alt="Night drive"
+       style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+</div>
+
+<!-- Driving Photo 2 -->
+<div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8f567bc25abca7dd76d51b8721fdcc6fa1dd421a/images/driving.jpg"
+       alt="Relaxing night drive"
+       style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+</div>
+
+ </div>
+
+  <!-- Swipe Indicator -->
+
+  <p style="font-family:Georgia, serif; font-size:0.9em; color:#777; text-align:center; margin:5px 0 25px 0;">
+    ← Swipe or scroll sideways to view the other photograph →
+  </p>
+
+  <!-- Reflection -->
+
+  <p style="font-family:Georgia, serif; font-size:1.08em; color:#2f4f2f; line-height:1.8; text-align:justify; margin:0 auto; max-width:700px;">
+    <em>
+      Do you know what I love? A quiet night ride with a song playing in the background. These may seem like non-mathematical moments, but perhaps there is a kind of mathematics hidden here too—the mathematics of rhythm. It is a language I do not fully understand, yet somehow it interacts with my soul in a way that words cannot. The steady rhythm of the music, the movement of the road, and the silence of the night create a strange harmony that calms me. For a while, there are no equations to solve, no problems to prove, and no answers to find—just the road, the music, and a moment of peace.
+    </em>
+  </p>
+
+</div>
+
+
   <!-- Tutorial Problems Section -->
   <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
     <h3 style="color:#e8f5e8; margin-top:0; margin-bottom:10px;">Tutorial Problems & Lecture Materials</h3>
