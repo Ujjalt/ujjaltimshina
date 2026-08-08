@@ -814,10 +814,19 @@ classes: wide
        style="border:2px solid #e8f5e8; border-radius:10px;" />
 </div>
 
+
 <!-- Jaipur Section -->
+
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
-  <h3 style="color:#e8f5e8; margin-top:0;">Jaipur, Rajasthan, India</h3>
-  <p align="center"><strong style="color:#e8f5e8;">18th–19th July 2026</strong></p>
+
+  <h3 style="color:#e8f5e8; margin-top:0;">
+    Jaipur, Rajasthan, India
+  </h3>
+
+  <p align="center">
+    <strong style="color:#e8f5e8;">18th–19th July 2026</strong>
+  </p>
+
   <p style="color:#e8f5e8;">
     Jaipur, the Pink City of India, beautifully blends royal history, vibrant culture, magnificent forts, colorful markets, and delicious traditional cuisine. Rather than trying to know every page of its history, I simply wanted to experience the city in my own way. This memorable two-day trip was explored together with my friends <strong>Soumin, Mahesh, and Amrut</strong>, with Amrut leading our entire journey.
     <br><br>
@@ -825,17 +834,67 @@ classes: wide
     <br><br>
     Over the next two days, we wandered through Jaipur's beautiful streets, admired its architectural wonders, enjoyed its rich culinary heritage, and created memories that will stay with us for years. Every journey becomes special because of the people you travel with, and this one was no exception. We returned yesterday on an overnight bus, reaching back around <strong>5:00 AM</strong>, tired but carrying countless unforgettable memories.
   </p>
+
 </div>
 
-<!-- Jaipur Gallery -->
-<div align="center" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-6.jpeg" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-5.jpeg" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-4.jpeg" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-3.jpeg" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-2.jpeg" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-1.jpeg" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
+<!-- Swipeable Jaipur Image Gallery -->
+
+<div style="width:100%; max-width:750px; margin:0 auto 30px auto;">
+
+  <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; gap:20px; padding:5px 0 15px 0; scrollbar-width:thin;">
+
+    <!-- Photograph 1 -->
+    <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-6.jpeg"
+           alt="Jaipur Photograph 1"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+
+    <!-- Photograph 2 -->
+    <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-5.jpeg"
+           alt="Jaipur Photograph 2"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+
+    <!-- Photograph 3 -->
+    <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-4.jpeg"
+           alt="Jaipur Photograph 3"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+
+    <!-- Photograph 4 -->
+    <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-3.jpeg"
+           alt="Jaipur Photograph 4"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+
+    <!-- Photograph 5 -->
+    <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-2.jpeg"
+           alt="Jaipur Photograph 5"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+
+    <!-- Photograph 6 -->
+    <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-1.jpeg"
+           alt="Jaipur Photograph 6"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+
+  </div>
+
+  <!-- Swipe Indicator -->
+
+  <p style="font-family:Georgia, serif; font-size:0.9em; color:#777; text-align:center; margin:5px 0 25px 0;">
+    ← Swipe or scroll sideways to view the other photographs →
+  </p>
+
 </div>
+
 
 
 <!-- Closing Reflection -->
