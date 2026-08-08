@@ -203,13 +203,44 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
 
 <div style="max-width:800px; margin:20px auto; border:1px solid #2f4f2f; border-radius:8px; padding:22px; background-color:#f6faf6; text-align:center;">
 
-<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/fc617decdcaf8d52703113af5053a69232f7a2c4/images/IMG_7794.png"
-     alt="Moon over IIIT Delhi Campus"
-     style="display:block; width:100%; max-width:650px; margin:0 auto 20px auto; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+<div style="width:100%; max-width:750px; margin:0 auto 30px auto;">
+
+  <!-- Swipeable Image Comparison -->
+
+  <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; gap:20px; padding:5px 0 15px 0; scrollbar-width:thin;">
+
+<!-- Original Photograph -->
+<div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/fc617decdcaf8d52703113af5053a69232f7a2c4/images/IMG_7794.png"
+       alt="Moon over IIIT Delhi Campus - Original"
+       style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+</div>
+
+<!-- Edited Dark Version -->
+<div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/1546be94fd12fe918c28379f20ab132f41966c47/images/IMG_7800.png"
+       alt="Moon over IIIT Delhi Campus - Edited Dark Version"
+       style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+</div>
+
+
+  </div>
+
+  <!-- Swipe Indicator -->
+
+  <p style="font-family:Georgia, serif; font-size:0.9em; color:#777; text-align:center; margin:5px 0 25px 0;">
+    ← Swipe or scroll sideways to view the edited version →
+  </p>
+
+  <!-- Description -->
 
   <p style="font-family:Georgia, serif; font-size:1.08em; color:#2f4f2f; line-height:1.8; text-align:justify; margin:0 auto; max-width:700px;">
     <em>
-What began as an ordinary daytime photograph became a way of expressing how I remember this campus. Beyond its architecture and classrooms, this institute has shaped me in countless ways—academically, professionally, and personally. Every corner of this campus carries memories of learning, growth, and inspiration.
+      What began as an ordinary daytime photograph became an attempt to capture the campus in a different light. Through careful editing, I transformed the original photograph into a darker, moonlit composition, revealing a quieter and more contemplative side of the place I have come to know so well. Beyond its architecture and classrooms, IIIT Delhi has shaped me in countless ways—academically, professionally, and personally. Every corner of this campus carries memories of learning, growth, and inspiration. The editing was not intended to change the essence of the photograph, but rather to bring out another mood and perspective of a place that has become an important part of my journey.
+    </em>
+  </p>
+
+</div>
 
   <hr style="width:60%; margin:24px auto; border:none; border-top:1px solid #b8cdb8;">
 
