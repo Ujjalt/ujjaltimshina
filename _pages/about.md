@@ -203,9 +203,9 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
 
 <div style="max-width:800px; margin:20px auto; border:1px solid #2f4f2f; border-radius:8px; padding:22px; background-color:#f6faf6; text-align:center;">
 
-  <img src="https://github.com/Ujjalt/ujjaltimshina/blob/fc617decdcaf8d52703113af5053a69232f7a2c4/images/IMG_7794.png"
-       alt="Moon over IIIT Delhi Campus"
-       style="display:block; width:100%; max-width:650px; margin:0 auto 20px auto; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/fc617decdcaf8d52703113af5053a69232f7a2c4/images/IMG_7794.png"
+     alt="Moon over IIIT Delhi Campus"
+     style="display:block; width:100%; max-width:650px; margin:0 auto 20px auto; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
 
   <p style="font-family:Georgia, serif; font-size:1.08em; color:#2f4f2f; line-height:1.8; text-align:justify; margin:0 auto; max-width:700px;">
     <em>
