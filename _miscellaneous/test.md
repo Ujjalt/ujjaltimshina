@@ -8,7 +8,6 @@ classes: wide
 
 <div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
 
-A more intimate and poetic version, while keeping it short:
 
 <h2 style="font-family:Georgia, serif; color:#2f4f2f; text-align:center; margin:35px auto 15px auto;">
   A Little Piece of My Life
