@@ -15,7 +15,13 @@ classes: wide
 
 <p style="font-family:Georgia, serif; font-size:1.08em; color:#2f4f2f; line-height:1.8; text-align:center; margin:0 auto 30px auto; max-width:700px;">
   <em>
-    I have lived so many moments worth remembering, yet I don't want to spend too much of today living in yesterday. So, I keep these little pieces of happiness here, memories I wish to revisit. The difficult ones, I simply keep to myself.
+
+<p style="font-family:Georgia, serif; font-size:1.08em; color:#2f4f2f; line-height:1.8; text-align:center; margin:0 auto 30px auto; max-width:700px;">
+  <em>
+    I have lived so many moments worth remembering, yet I don't want to spend too much of today living in yesterday. So, I keep these little pieces of happiness here—memories I wish to revisit. The difficult ones, I simply keep to myself. Perhaps they are the little secrets behind all of this, and some secrets are better left unrevealed.
+  </em>
+</p>
+
   </em>
 </p>
 
