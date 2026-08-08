@@ -6,13 +6,13 @@ author_profile: true
 classes: wide
 ---
 
-<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
+<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; line-height:1.8;">
 
-  <h2 style="font-family:Georgia, serif; color:#2f4f2f; text-align:center; margin:35px auto 15px auto;">
+  <h2 style="font-family:Georgia, serif; color:#e8f5e8; text-align:center; margin:5px auto 15px auto;">
     A Little Piece of My Life
   </h2>
 
-  <p style="font-family:Georgia, serif; font-size:1.08em; color:#2f4f2f; line-height:1.8; text-align:center; margin:0 auto 30px auto; max-width:700px;">
+  <p style="margin:0; color:#e8f5e8; text-align:center;">
     <em>
       I have lived so many moments worth remembering, some beautiful, some hilarious, like the time the three of us ended up lost in a jungle simply because we trusted one of our friends! Yet, I don't want to spend too much of today living in yesterday. So, I keep these little pieces of happiness here, memories I wish to revisit. The difficult ones, I simply keep to myself. Perhaps they are the little secrets behind all of this, and some secrets are better left unrevealed.
     </em>
@@ -64,13 +64,13 @@ classes: wide
 
   <!-- Swipe Indicator -->
 
-  <p style="font-family:Georgia, serif; font-size:0.9em; color:#777; text-align:center; margin:8px 0 25px 0;">
-    ← Swipe or scroll sideways to view the other photograph →
-  </p>
+ <p style="font-family:Georgia, serif; font-size:0.9em; color:#777; text-align:center; margin:8px 0 15px 0;">
+  ← Swipe or scroll sideways to view the other photograph →
+</p>
 
-  <!-- Reflection / Write-up -->
+<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; line-height:1.8;">
 
-  <p style="font-family:Georgia, serif; font-size:1.08em; color:#2f4f2f; line-height:1.8; text-align:justify; margin:0 auto; max-width:700px;">
+  <p style="margin:0; color:#e8f5e8; text-align:justify;">
     <em>
       Do you know what I love? A quiet night ride with a song playing in the background. These may seem like non-mathematical moments, but perhaps there is a kind of mathematics hidden here too—the mathematics of rhythm. It is a language I do not fully understand, yet somehow it interacts with my soul in a way that words cannot. The steady rhythm of the music, the movement of the road, and the silence of the night create a strange harmony that calms me. For a while, there are no equations to solve, no problems to prove, and no answers to find—just the road, the music, and a moment of peace.
     </em>
@@ -89,8 +89,15 @@ classes: wide
 
   <p style="font-family:Georgia, serif; font-size:1.08em; color:#2f4f2f; line-height:1.8; text-align:justify; margin:0 auto; max-width:700px;">
     <em>
- I, of course, never particularly enjoyed adventures like this—or at least, that is what I used to say without ever really knowing how they felt. Looking back, that was perhaps one of my own follies: judging something before I had even experienced it. But this one happened at Bhimtal, with Sawan and Govinda. Sawan was super excited about trying it, and his excitement somehow pushed us to give it a shot. So, there we were, doing something I would probably never have planned on my own. And honestly, I felt nothing really! Maybe the adventure itself did not excite me much, but seeing Sawan so happy and excited made the whole experience worth remembering. Sometimes, we try things not because they are meant for us, but to simply experience it and decide whether we really like it or not.
+<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; line-height:1.8;">
 
+  <p style="margin:0; color:#e8f5e8; text-align:justify;">
+    <em>
+      I, of course, never particularly enjoyed adventures like this—or at least, that is what I used to say without ever really knowing how they felt. Looking back, that was perhaps one of my own follies: judging something before I had even experienced it. But this one happened at Bhimtal, with Sawan and Govinda. Sawan was super excited about trying it, and his excitement somehow pushed us to give it a shot. So, there we were, doing something I would probably never have planned on my own. And honestly, I felt nothing really! Maybe the adventure itself did not excite me much, but seeing Sawan so happy and excited made the whole experience worth remembering. Sometimes, we try things not because they are meant for us, but to simply experience it and decide whether we really like it or not.
+    </em>
+  </p>
+
+</div>
 
 
   <!-- Tutorial Problems Section -->
