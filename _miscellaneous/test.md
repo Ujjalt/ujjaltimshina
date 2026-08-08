@@ -561,38 +561,94 @@ classes: wide
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/44bfc7e8c4af61c9ae7863662362e0f2c6406974/images/Moment-3.jpeg" width="650" style="border-radius:12px; border:3px solid #e8f5e8; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
   </div>
 
-<!-- Agra Gallery -->
-<div align="center" style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; flex-wrap:nowrap; gap:10px; padding:5px 0 15px 0; scrollbar-width:thin;">
 
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A1.jpeg"
-       width="200"
-       style="border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0; scroll-snap-align:center;" />
+<!-- Agra Section -->
 
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-2.jpeg"
-       width="200"
-       style="border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0; scroll-snap-align:center;" />
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
 
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-3.jpeg"
-       width="200"
-       style="border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0; scroll-snap-align:center;" />
+  <h3 style="color:#e8f5e8; margin-top:0;">
+    Agra, Uttar Pradesh, India
+  </h3>
 
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-4.jpeg"
-       width="200"
-       style="border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0; scroll-snap-align:center;" />
+  <p align="center">
+    <strong style="color:#e8f5e8;">28th December 2025</strong>
+  </p>
 
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-5.jpeg"
-       width="200"
-       style="border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0; scroll-snap-align:center;" />
-
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/e8199e30b20870a6c2db9bf976900a4860925b6c/images/A-6.jpeg"
-       width="200"
-       style="border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0; scroll-snap-align:center;" />
-
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/e8199e30b20870a6c2db9bf976900a4860925b6c/images/A-7.jpeg"
-       width="200"
-       style="border:2px solid #e8f5e8; border-radius:10px; flex-shrink:0; scroll-snap-align:center;" />
+  <p style="color:#e8f5e8;">
+    Agra is a historic city in India's Uttar Pradesh state, famous globally for the stunning white marble Taj Mahal. 
+    Once the Mughal capital, Agra holds world-class monuments such as Agra Fort and Itmad-ud-Daulah, 
+    each carrying centuries of history and architectural brilliance. I don't know the complete history, 
+    but sometimes it is best to enjoy a place in my own way.
+  </p>
 
 </div>
+
+<!-- Swipeable Agra Image Gallery -->
+
+<div style="width:100%; max-width:750px; margin:0 auto 30px auto;">
+
+  <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; gap:20px; padding:5px 0 15px 0; scrollbar-width:thin;">
+
+    <!-- Photograph 1 -->
+    <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A1.jpeg"
+           alt="Agra Photograph 1"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+
+    <!-- Photograph 2 -->
+    <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-2.jpeg"
+           alt="Agra Photograph 2"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+
+    <!-- Photograph 3 -->
+    <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-3.jpeg"
+           alt="Agra Photograph 3"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+
+    <!-- Photograph 4 -->
+    <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-4.jpeg"
+           alt="Agra Photograph 4"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+
+    <!-- Photograph 5 -->
+    <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-5.jpeg"
+           alt="Agra Photograph 5"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+
+    <!-- Photograph 6 -->
+    <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/e8199e30b20870a6c2db9bf976900a4860925b6c/images/A-6.jpeg"
+           alt="Agra Photograph 6"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+
+    <!-- Photograph 7 -->
+    <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/e8199e30b20870a6c2db9bf976900a4860925b6c/images/A-7.jpeg"
+           alt="Agra Photograph 7"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+
+  </div>
+
+  <!-- Swipe Indicator -->
+
+  <p style="font-family:Georgia, serif; font-size:0.9em; color:#777; text-align:center; margin:5px 0 25px 0;">
+    ← Swipe or scroll sideways to view the other photographs →
+  </p>
+
+</div>
+
+
 
 <!-- New Delhi Section -->
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
@@ -842,42 +898,36 @@ classes: wide
 <div style="width:100%; max-width:750px; margin:0 auto 30px auto;">
 
   <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; gap:20px; padding:5px 0 15px 0; scrollbar-width:thin;">
-
     <!-- Photograph 1 -->
     <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
       <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-6.jpeg"
            alt="Jaipur Photograph 1"
            style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
-
     <!-- Photograph 2 -->
     <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
       <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-5.jpeg"
            alt="Jaipur Photograph 2"
            style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
-
     <!-- Photograph 3 -->
     <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
       <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-4.jpeg"
            alt="Jaipur Photograph 3"
            style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
-
     <!-- Photograph 4 -->
     <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
       <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-3.jpeg"
            alt="Jaipur Photograph 4"
            style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
-
     <!-- Photograph 5 -->
     <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
       <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-2.jpeg"
            alt="Jaipur Photograph 5"
            style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
-
     <!-- Photograph 6 -->
     <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
       <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-1.jpeg"
