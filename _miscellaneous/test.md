@@ -28,8 +28,11 @@ classes: wide
 <div style="width:100%; max-width:750px; margin:0 auto 30px auto;">
 
   <!-- Swipeable Driving Photos -->
+<div style="width:100%; max-width:750px; margin:0 auto 30px auto;">
 
-<div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; scrollbar-width:thin;">
+  <!-- Centered Horizontal Scroll Gallery -->
+
+  <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; scrollbar-width:thin;">
 
 <!-- Image 1 -->
 <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
@@ -43,15 +46,17 @@ classes: wide
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8f567bc25abca7dd76d51b8721fdcc6fa1dd421a/images/driving.jpg"
        alt="Relaxing night drive"
        style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
- </div>
+</div>
+
+  </div>
 
   <!-- Swipe Indicator -->
 
-  <p style="font-family:Georgia, serif; font-size:0.9em; color:#777; text-align:center; margin:5px 0 25px 0;">
+  <p style="font-family:Georgia, serif; font-size:0.9em; color:#777; text-align:center; margin:8px 0 25px 0;">
     ← Swipe or scroll sideways to view the other photograph →
   </p>
 
-  <!-- Reflection -->
+  <!-- Reflection / Write-up -->
 
   <p style="font-family:Georgia, serif; font-size:1.08em; color:#2f4f2f; line-height:1.8; text-align:justify; margin:0 auto; max-width:700px;">
     <em>
