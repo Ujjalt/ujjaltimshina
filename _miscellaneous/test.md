@@ -1547,7 +1547,6 @@ classes: wide
   <p style="color:#e8f5e8; line-height:1.8; margin-bottom:0;">
     And perhaps there is one more reason this photograph feels particularly meaningful to me now. As I have grown older and moved deeper into academia, I have sometimes found myself recognising the same qualities I learnt from Thulaba in people I meet along my own academic journey. In particular, I see something of him in <strong>Subhajit Sir</strong>—in the way he approaches mathematics, responsibility, guidance, and the growth of those around him. It is a strange and beautiful feeling to realise that the values someone once quietly planted in you can later help you recognise the same qualities in someone else.
   </p>
-```html
 <p style="color:#e8f5e8;">
   The above photograph was taken on the occasion of his retirement as a teacher from the very same school where I had my own schooling. 
 </p>
