@@ -1202,7 +1202,7 @@ classes: wide
   </p>
 
   <p style="color:#e8f5e8; line-height:1.8;">
-    This was my <strong>first treat to my academic sister, Sonali</strong>, who had recently joined my advisor for her PhD. It felt special to have her there and to mark this new beginning together.
+    This was my <strong> welcome treat to my academic sister, Sonali</strong>, who had recently joined my advisor for her PhD. It felt special to have her there and to mark this new beginning together.
   </p>
 
   <p style="color:#e8f5e8; line-height:1.8;">
