@@ -1482,3 +1482,71 @@ classes: wide
     width="420"
     style="border:3px solid #e8f5e8; border-radius:12px; box-shadow:0 0 12px rgba(0,0,0,0.35);" />
 </div>
+
+<!-- The Person Behind My Academic Journey -->
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+
+  <!-- Photograph -->
+  <div style="width:100%; max-width:750px; margin:0 auto 20px auto; text-align:center;">
+    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8db3f9fb8d4ef96bc980cbb72e81bb085d361b20/images/thulaba.jpg"
+         alt="Thulaba, one of the greatest influences on my life"
+         style="width:100%; height:auto; border-radius:8px; display:block;">
+  </div>
+
+  <h3 style="color:#e8f5e8; margin-top:0;">
+    THULABA
+  </h3>
+
+<!-- The Person Behind My Academic Journey -->
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+
+  <!-- Photograph -->
+  <div style="width:100%; max-width:750px; margin:0 auto 20px auto; text-align:center;">
+    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8db3f9fb8d4ef96bc980cbb72e81bb085d361b20/images/thulaba.jpg"
+         alt="Thulaba, one of the greatest influences on my life"
+         style="width:100%; height:auto; border-radius:8px; display:block;">
+  </div>
+
+  <p style="color:#e8f5e8; text-align:center; font-style:italic;">
+    A father figure, a guide, and one of the heroes of my life
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    There are people whose influence on our lives cannot be adequately described by a formal relationship. They may not be our parents by birth, but they can nevertheless become parental figures in the ways that truly matter. For me, he is one of those people.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    I call him <strong>Thulaba</strong>. He is my mother's sister's husband, but to me, he has always been much more than simply a relative. He is one of the real heroes behind my journey into academia and one of the people who taught me to value learning and intellectual life.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    He taught me so many things about life, about people, about responsibility, perseverance, and most importantly, about <strong>karma</strong>. He taught me to respect work for its own sake, to do things sincerely, and to keep moving forward without constantly measuring everything by what I would receive in return.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    His influence also played an important role in helping me discover and eventually love academia. He helped me see education not merely as a means of earning a living, but as a way of thinking, questioning, learning, and contributing something meaningful to the world.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    Sometimes I wonder how different my life might have been without his guidance. Perhaps I would be writing an entirely different story today. I might have been sharing stories of being a taxi driver instead. And honestly, that would have been another story altogether.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    There is dignity in every honest profession, and I do not say this to compare one life with another. I say it because life can take us in directions we never anticipate. I was fortunate to have someone who helped me recognise a path that eventually led me toward mathematics and academia, a world that I now genuinely love.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    When I look at this photograph, I see much more than a family member. I see someone whose advice, values, and presence quietly stand behind many of the chapters I have written here.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    My degrees, my research, my teaching, my writing, and whatever I may accomplish in the future carry my name, but the journey behind them belongs to many people. Thulaba is one of those people who helped shape that journey long before I fully understood where it was taking me.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8; margin-bottom:0;">
+    If I have learnt to love academia, to respect honest work, and to continue doing my <em>karma</em> with sincerity, without constantly asking what I will receive in return, then a significant part of that lesson came from him. For that, I will always remain deeply grateful.
+  </p>
+
+</div>
+
+
