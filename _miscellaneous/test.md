@@ -1151,6 +1151,14 @@ classes: wide
 </div>
 
 
+  <h3 style="color:#e8f5e8; margin-top:0;">
+    THE HOUSE OF CUISINE
+  </h3>
+
+  <p style="color:#e8f5e8; text-align:center; font-style:italic;">
+    9 August 2026
+  </p>
+
 <!-- The House of Cuisine -->
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
 
@@ -1160,14 +1168,6 @@ classes: wide
          alt="An evening at The House of Cuisine"
          style="width:100%; height:auto; border-radius:8px; display:block;">
   </div>
-
-  <h3 style="color:#e8f5e8; margin-top:0;">
-    THE HOUSE OF CUISINE
-  </h3>
-
-  <p style="color:#e8f5e8; text-align:center; font-style:italic;">
-    9 August 2026
-  </p>
 
   <p style="color:#e8f5e8; line-height:1.8;">
     Sometimes, choosing a restaurant for a group feels like taking a small personal risk. I have a history of selecting restaurants that do not always turn out to be particularly successful for the people I take along. So, when I selected <strong>The House of Cuisine Restaurants and Cafes</strong> this time, I already had a similar thought somewhere in the back of my mind.
