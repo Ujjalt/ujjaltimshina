@@ -1401,6 +1401,58 @@ classes: wide
 </div>
 
 
+<!-- Why I Shared These Memories -->
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+
+  <h3 style="color:#e8f5e8; margin-top:0;">
+    WHY I SHARED THESE MEMORIES
+  </h3>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    You may wonder why I have shared so many personal memories, photographs, people, places, and fragments of my life here. The reason is simple. When I look back at these years, I can see a transformation in myself that I may not have noticed while it was happening.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    What I was before is, in many ways, recorded in my book <em>Beyond Answers: The Beauty of Mathematical Questions</em>. It is often described as a book about mathematics, but I do not really think of it as a mathematical book. In fact, perhaps it cannot be a mathematical book in the conventional sense, because I have always felt that <strong>life is mathematics, and mathematics is life.</strong>
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    Mathematics is not merely something we write on paper or study in classrooms. It is one of the ways through which we understand the world. We use it to build bridges, send satellites into space, model the environment, communicate information, understand nature, and describe patterns that existed long before we gave them names. In some sense, mathematics is a language through which we interact with the universe, while the universe constantly gives us mathematics in return.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    That book therefore records a version of me who was searching for questions, meaning, and beauty through mathematics. It preserves something of who I was then.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    These pages are different. They record where I am now.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    The people I have met, the places I have travelled, the friendships I have made, the family who has stood beside me, the academic environments that shaped me, the moments that made me laugh, the moments that made me think, and even the experiences that changed the way I see the world have all contributed to the person I have become.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    Perhaps that is why I wanted these memories to exist somewhere outside my own mind. Not because every moment was extraordinary, but because together they tell a story of change. They show not only what I have achieved, but also who I have become along the way.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    And when I look at all of it now, I realise something rather simple.
+  </p>
+
+  <p style="color:#e8f5e8; text-align:center; font-style:italic; font-size:20px; line-height:1.9; margin-top:20px;">
+    I simply love my life.<br>
+    And I love the person I have become.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8; margin-bottom:0;">
+    Perhaps these pages are my way of saying thank you to that journey.
+  </p>
+
+</div>
+
+
+
 <!-- Closing Reflection -->
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
   <h3 style="color:#e8f5e8; margin-top:0;">THANK YOU FOR YOUR TIME</h3>
