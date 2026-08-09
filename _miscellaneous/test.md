@@ -223,7 +223,17 @@ classes: wide
 
 
 <!-- The Mathematics Department, Sikkim University -->
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+
+
+  <h3 style="color:#e8f5e8; margin-top:0;">
+    JUST A FRACTION OF WHAT WE WERE
+  </h3>
+
+  <p style="color:#e8f5e8; text-align:center; font-style:italic;">
+    The Mathematics Department, Sikkim University
+  </p>
+
+  <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
 
   <!-- Departmental Photographs -->
   <div style="width:100%; max-width:750px; margin:0 auto 20px auto;">
@@ -256,14 +266,6 @@ classes: wide
      </div>
     </div>
   </div>
-
-  <h3 style="color:#e8f5e8; margin-top:0;">
-    JUST A FRACTION OF WHAT WE WERE
-  </h3>
-
-  <p style="color:#e8f5e8; text-align:center; font-style:italic;">
-    The Mathematics Department, Sikkim University
-  </p>
 
   <p style="color:#e8f5e8; line-height:1.8;">
     These photographs are perhaps only one percent of how vibrant the Mathematics Department at Sikkim University actually was. Even now, when I look at them, I feel that photographs can capture faces and moments, but they can never quite capture the energy of a place.
