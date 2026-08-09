@@ -1151,6 +1151,94 @@ classes: wide
 </div>
 
 
+<!-- The House of Cuisine -->
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+
+  <!-- Photograph -->
+  <div style="width:100%; max-width:750px; margin:0 auto 20px auto; text-align:center;">
+    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/c896d2490fb7173d3fa90debc24e553f9f6b7f82/images/IMG_7821.jpeg"
+         alt="An evening at The House of Cuisine"
+         style="width:100%; height:auto; border-radius:8px; display:block;">
+  </div>
+
+  <h3 style="color:#e8f5e8; margin-top:0;">
+    THE HOUSE OF CUISINE
+  </h3>
+
+  <p style="color:#e8f5e8; text-align:center; font-style:italic;">
+    9 August 2026
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    Sometimes, choosing a restaurant for a group feels like taking a small personal risk. I have a history of selecting restaurants that do not always turn out to be particularly successful for the people I take along. So, when I selected <strong>The House of Cuisine Restaurants and Cafes</strong> this time, I already had a similar thought somewhere in the back of my mind.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    I even warned everyone in my department beforehand, <em>"Please do not blame me if this turns out to be the worst place you have ever eaten."</em>
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    We had to walk for a while after getting off the metro. By the time we finally reached the place, the reaction from almost everyone was immediate. Just looking at the restaurant from outside, they said, <em>"Let's not go here."</em> Honestly, I was thinking exactly the same thing. But after having walked all that way, we decided to at least go inside and see.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    The tables were already full. We were told that we would have to wait for about six minutes, so while waiting, we started looking around for other places where we could eat.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    And then came the unexpected turn.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    At some point, one of the staff members asked us, <em>"Is this your first time here?"</em> We said yes. He then offered us some momos to taste before we actually ordered anything.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    That small gesture completely changed the evening. Everyone liked the momos so much that, instead of leaving and searching for another place, we decided to stay and eat there itself. I remember feeling genuinely relieved and, more than that, pleasantly surprised. Once again, my questionable restaurant selection reputation had narrowly survived.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    But what made the evening special was not really the food. It was the people I was sharing it with.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    This was my <strong>first treat to my academic sister, Sonali</strong>, who had recently joined my advisor for her PhD. It felt special to have her there and to mark this new beginning together.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    It was also wonderful to spend time with <strong>Shivani</strong>, with whom I had the opportunity to work as a TA. Working with her was a genuinely fantastic experience, and it was nice to sit together outside the usual academic setting and simply enjoy an evening.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    Then there was <strong>Satya</strong>, with whom I had my Agra trip. He is also the person who, quite remarkably, was the first one in the department to ask me, <em>"How are you?"</em> and <em>"How is it going?"</em> These questions may sound ordinary, but sometimes they mean much more than we realize. I hope I remember that kindness for a long time.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    And then there was <strong>Mahesh</strong>, whose energy is almost impossible to miss. Mahesh, if you are reading this someday, I will probably remember you with <strong>ghee paratha</strong>. Consider that a small inside joke preserved here for the future.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    He was also one of the people who witnessed a rather different version of me. When I first joined IIIT Delhi, I was a very different Ujjal. Over time, somehow, I transformed from the Ujjal of my first semester into the Ujjal who sat at that table that evening. Perhaps Mahesh noticed that transformation more clearly than most.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    Looking back, what makes this evening memorable is almost the opposite of how it began. We arrived expecting disappointment. We were ready to leave. We had already started searching for alternatives.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    And yet, sometimes, the places we almost walk away from become the places where the best memories quietly begin.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    Perhaps that is what I will remember most about this evening. Not simply that the momos were good, or that the restaurant turned out to be better than we expected, but that a group of people from my department walked a little farther than necessary, almost gave up on the place, and somehow ended up creating an evening worth remembering.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8; margin-bottom:0;">
+    And, for once, I am glad nobody had to blame me for choosing the restaurant.
+  </p>
+
+</div>
+
 
 <!-- Closing Reflection -->
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
