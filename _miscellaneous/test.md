@@ -322,6 +322,57 @@ classes: wide
 </div>
 
 
+<!-- The Library Stairs -->
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+
+  <!-- Photograph -->
+  <div style="width:100%; max-width:750px; margin:0 auto 20px auto; text-align:center;">
+    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d5504389f54c3977bc32a0b04192c06c1eab5d90/images/RR.jpeg"
+         alt="A moment at the Library stairs, Sikkim University"
+         style="width:100%; height:auto; border-radius:8px; display:block;">
+  </div>
+
+  <h3 style="color:#e8f5e8; margin-top:0;">
+    AN ORDINARY STAIRCASE, AN UNEXPECTED BEGINNING
+  </h3>
+
+  <p style="color:#e8f5e8; text-align:center; font-style:italic;">
+    Sikkim University
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    Some memories begin without any intention of becoming memories. This was one of them.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    We happened to meet on the library stairs at Sikkim University. She was walking ahead of me, while I was a few steps behind. At one point, she turned around, and our eyes met.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    Nothing extraordinary had happened. There was no plan, no particular occasion, and no expectation that the moment would become significant. Yet, somehow, that brief exchange became the beginning of something that would eventually become a meaningful part of my life.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    It is strange how certain moments appear completely ordinary when they happen. Only much later do we realise that we were standing at the beginning of a story we could not yet see.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    I will leave the rest of the story here. Not because there is nothing more to say, but because some stories are better experienced than explained. The person in this photograph is still very much a part of my life, and perhaps that is all that needs to be said.
+  </p>
+
+  <!-- Personal Life Note -->
+  <div style="margin-top:25px; padding:12px 15px; border-top:1px solid #4f6f4f; border-bottom:1px solid #4f6f4f; text-align:center;">
+    <p style="color:#e8f5e8; line-height:1.8; font-style:italic; font-size:16px; margin:0;">
+      If you feel that my personal stories are a little too personal,
+      please feel free to skip ahead to the last page.
+      I promise, the mathematics will still be there.
+    </p>
+
+  </div>
+
+</div>
+
+
 
 <!-- Manan Kendra Section -->
 
