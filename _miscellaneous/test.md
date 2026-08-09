@@ -380,7 +380,7 @@ classes: wide
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family:Georgia, serif;">
 
   <h3 style="color:#e8f5e8; margin-top:0;">
-    Manan Kendra, Gangtok, Sikkim, India (It was possible because of the previous post)
+    Manan Kendra, Gangtok, Sikkim, India (This was possible because of few things I have shared in the previous posts, the memories, people, experiences, and lessons that shaped this journey, and above all, because of the unforgettable love, encouragement, and support of my family, who have stood quietly behind me through every chapter.)
   </h3>
 
   <p align="center">
