@@ -1484,22 +1484,29 @@ classes: wide
 </div>
 
 
-<!-- The Person Behind My Academic Journey -->
+
+<!-- Thulaba -->
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
 
+  <!-- Reflection Before Thulaba -->
+  <p style="color:#e8f5e8; line-height:1.8; font-style:italic; margin-top:0;">
+    I chose to place this after the closing reflection because, to me, he is one of the real heroes of my life. Real heroes rarely stand at the centre of the story. They remain quietly in the background, often without even knowing how deeply their actions, values, and guidance are shaping someone. They do not create dependence; they help a person become capable of standing independently. And perhaps that is the greatest kind of influence anyone can have on another life.
+  </p>
+
+  <h3 style="color:#e8f5e8; margin-top:25px;">
+    THULABA
+  </h3>
+
+  <p style="color:#e8f5e8; text-align:center; font-style:italic;">
+    A father figure, a guide, and one of the heroes of my life
+  </p>
+
   <!-- Photograph -->
-  <div style="width:100%; max-width:750px; margin:0 auto 20px auto; text-align:center;">
+  <div style="width:100%; max-width:750px; margin:20px auto;">
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8db3f9fb8d4ef96bc980cbb72e81bb085d361b20/images/thulaba.jpg"
          alt="Thulaba, one of the greatest influences on my life"
          style="width:100%; height:auto; border-radius:8px; display:block;">
   </div>
-
-  <p style="color:#e8f5e8; text-align:center; font-style:italic;">
-**A father figure, a guide, and one of the heroes of my life**
-
-*I chose to place this after the closing reflection because, to me, he is one of the real heroes of my life. Real heroes rarely stand at the centre of the story. They remain quietly in the background, often without even knowing how deeply their actions, values, and guidance are shaping someone. They do not create dependence; they help a person become capable of standing independently. And perhaps that is the greatest kind of influence anyone can have on another life.*
-
-  </p>
 
   <p style="color:#e8f5e8; line-height:1.8;">
     There are people whose influence on our lives cannot be adequately described by a formal relationship. They may not be our parents by birth, but they can nevertheless become parental figures in the ways that truly matter. For me, he is one of those people.
@@ -1533,8 +1540,12 @@ classes: wide
     My degrees, my research, my teaching, my writing, and whatever I may accomplish in the future carry my name, but the journey behind them belongs to many people. Thulaba is one of those people who helped shape that journey long before I fully understood where it was taking me.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8; margin-bottom:0;">
+  <p style="color:#e8f5e8; line-height:1.8;">
     If I have learnt to love academia, to respect honest work, and to continue doing my <em>karma</em> with sincerity, without constantly asking what I will receive in return, then a significant part of that lesson came from him. For that, I will always remain deeply grateful.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8; margin-bottom:0;">
+    And perhaps there is one more reason this photograph feels particularly meaningful to me now. As I have grown older and moved deeper into academia, I have sometimes found myself recognising the same qualities I learnt from Thulaba in people I meet along my own academic journey. In particular, I see something of him in <strong>Subhajit Sir</strong>—in the way he approaches mathematics, responsibility, guidance, and the growth of those around him. It is a strange and beautiful feeling to realise that the values someone once quietly planted in you can later help you recognise the same qualities in someone else.
   </p>
 
 </div>
