@@ -562,284 +562,300 @@ classes: wide
   </div>
 
 
+
 <!-- Agra Section -->
 
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+<div style="
+  background:#0e2e0e;
+  padding:20px 20px 10px 20px;
+  border-radius:8px;
+  margin-bottom:12px;
+  color:#e8f5e8;
+">
 
-<!-- Swipeable Agra Image Gallery -->
+  <!-- Agra Write-up -->
 
-<div style="width:100%; max-width:750px; margin:0 auto 30px auto;">
+  <h3 style="color:#e8f5e8; margin-top:0; margin-bottom:8px;">
+    Agra, Uttar Pradesh, India
+  </h3>
+
+  <p align="center" style="margin-top:0;">
+    <strong style="color:#e8f5e8;">28th December 2025</strong>
+  </p>
+
+  <p style="
+    color:#e8f5e8;
+    line-height:1.6;
+    text-align:justify;
+    margin-bottom:20px;
+  ">
+    Agra is a historic city in India's Uttar Pradesh state, famous globally
+    for the stunning white marble Taj Mahal. Once the Mughal capital, Agra
+    holds world-class monuments such as Agra Fort and Itmad-ud-Daulah, each
+    carrying centuries of history and architectural brilliance. I don't know
+    the complete history, but sometimes it is best to enjoy a place in my own way.
+  </p>
+
+  <!-- Swipeable Agra Image Gallery -->
 
   <div style="
     width:100%;
-    overflow-x:auto;
-    scroll-snap-type:x mandatory;
-    display:flex;
-    gap:20px;
-    padding:10px 0 20px 0;
-    scrollbar-width:thin;
+    max-width:750px;
+    margin:0 auto 10px auto;
   ">
-    <!-- Photograph 1 -->
-    <div style="
-      flex:0 0 100%;
-      scroll-snap-align:center;
+
+  <div style="
+      width:100%;
+      overflow-x:auto;
+      overflow-y:hidden;
+      scroll-snap-type:x mandatory;
       display:flex;
-      justify-content:center;
-      align-items:center;
+      gap:20px;
+      padding:10px 0 18px 0;
+      scrollbar-width:thin;
+      -webkit-overflow-scrolling:touch;
     ">
+      <!-- Photograph 1 -->
       <div style="
-        width:520px;
-        height:360px;
-        max-width:90%;
-        padding:12px;
-        background:#ffffff;
-        border:1px solid #d8d8d8;
-        border-radius:10px;
-        box-shadow:0 4px 14px rgba(0,0,0,0.18);
+        flex:0 0 100%;
+        scroll-snap-align:center;
         display:flex;
         justify-content:center;
         align-items:center;
-        box-sizing:border-box;
       ">
-        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A1.jpeg"
-             alt="Agra Photograph 1"
-             style="
-               display:block;
-               max-width:100%;
-               max-height:100%;
-               width:auto;
-               height:auto;
-               object-fit:contain;
-               border-radius:5px;
-             ">
+        <div style="
+          width:520px;
+          height:360px;
+          max-width:90%;
+          padding:12px;
+          background:#ffffff;
+          border:1px solid #d8d8d8;
+          border-radius:10px;
+          box-shadow:0 4px 14px rgba(0,0,0,0.20);
+          box-sizing:border-box;
+        ">
+          <img
+            src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A1.jpeg"
+            alt="Agra Photograph 1"
+            style="
+              display:block;
+              width:100%;
+              height:100%;
+              object-fit:cover;
+              object-position:center;
+              border-radius:5px;
+            ">
+        </div>
       </div>
-    </div>
-    <!-- Photograph 2 -->
-    <div style="
-      flex:0 0 100%;
-      scroll-snap-align:center;
-      display:flex;
-      justify-content:center;
-      align-items:center;
-    ">
+  <!-- Photograph 2 -->
       <div style="
-        width:520px;
-        height:360px;
-        max-width:90%;
-        padding:12px;
-        background:#ffffff;
-        border:1px solid #d8d8d8;
-        border-radius:10px;
-        box-shadow:0 4px 14px rgba(0,0,0,0.18);
+        flex:0 0 100%;
+        scroll-snap-align:center;
         display:flex;
         justify-content:center;
         align-items:center;
-        box-sizing:border-box;
       ">
-        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-2.jpeg"
-             alt="Agra Photograph 2"
-             style="
-               display:block;
-               max-width:100%;
-               max-height:100%;
-               width:auto;
-               height:auto;
-               object-fit:contain;
-               border-radius:5px;
-             ">
+        <div style="
+          width:520px;
+          height:360px;
+          max-width:90%;
+          padding:12px;
+          background:#ffffff;
+          border:1px solid #d8d8d8;
+          border-radius:10px;
+          box-shadow:0 4px 14px rgba(0,0,0,0.20);
+          box-sizing:border-box;
+        ">
+          <img
+            src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-2.jpeg"
+            alt="Agra Photograph 2"
+            style="
+              display:block;
+              width:100%;
+              height:100%;
+              object-fit:cover;
+              object-position:center;
+              border-radius:5px;
+            ">
+        </div>
       </div>
-    </div>
-    <!-- Photograph 3 -->
-    <div style="
-      flex:0 0 100%;
-      scroll-snap-align:center;
-      display:flex;
-      justify-content:center;
-      align-items:center;
-    ">
+      <!-- Photograph 3 -->
       <div style="
-        width:520px;
-        height:360px;
-        max-width:90%;
-        padding:12px;
-        background:#ffffff;
-        border:1px solid #d8d8d8;
-        border-radius:10px;
-        box-shadow:0 4px 14px rgba(0,0,0,0.18);
+        flex:0 0 100%;
+        scroll-snap-align:center;
         display:flex;
         justify-content:center;
         align-items:center;
-        box-sizing:border-box;
       ">
-        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-3.jpeg"
-             alt="Agra Photograph 3"
-             style="
-               display:block;
-               max-width:100%;
-               max-height:100%;
-               width:auto;
-               height:auto;
-               object-fit:contain;
-               border-radius:5px;
-             ">
+        <div style="
+          width:520px;
+          height:360px;
+          max-width:90%;
+          padding:12px;
+          background:#ffffff;
+          border:1px solid #d8d8d8;
+          border-radius:10px;
+          box-shadow:0 4px 14px rgba(0,0,0,0.20);
+          box-sizing:border-box;
+        ">
+          <img
+            src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-3.jpeg"
+            alt="Agra Photograph 3"
+            style="
+              display:block;
+              width:100%;
+              height:100%;
+              object-fit:cover;
+              object-position:center;
+              border-radius:5px;
+            ">
+        </div>
       </div>
-    </div>
-   <!-- Photograph 4 -->
-    <div style="
-      flex:0 0 100%;
-      scroll-snap-align:center;
-      display:flex;
-      justify-content:center;
-      align-items:center;
-    ">
+      <!-- Photograph 4 -->
       <div style="
-        width:520px;
-        height:360px;
-        max-width:90%;
-        padding:12px;
-        background:#ffffff;
-        border:1px solid #d8d8d8;
-        border-radius:10px;
-        box-shadow:0 4px 14px rgba(0,0,0,0.18);
+        flex:0 0 100%;
+        scroll-snap-align:center;
         display:flex;
         justify-content:center;
         align-items:center;
-        box-sizing:border-box;
       ">
-        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-4.jpeg"
-             alt="Agra Photograph 4"
-             style="
-               display:block;
-               max-width:100%;
-               max-height:100%;
-               width:auto;
-               height:auto;
-               object-fit:contain;
-               border-radius:5px;
-             ">
+        <div style="
+          width:520px;
+          height:360px;
+          max-width:90%;
+          padding:12px;
+          background:#ffffff;
+          border:1px solid #d8d8d8;
+          border-radius:10px;
+          box-shadow:0 4px 14px rgba(0,0,0,0.20);
+          box-sizing:border-box;
+        ">
+          <img
+            src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-4.jpeg"
+            alt="Agra Photograph 4"
+            style="
+              display:block;
+              width:100%;
+              height:100%;
+              object-fit:cover;
+              object-position:center;
+              border-radius:5px;
+            ">
+        </div>
       </div>
-    </div>
-  <!-- Photograph 5 -->
-    <div style="
-      flex:0 0 100%;
-      scroll-snap-align:center;
-      display:flex;
-      justify-content:center;
-      align-items:center;
-    ">
+    <!-- Photograph 5 -->
       <div style="
-        width:520px;
-        height:360px;
-        max-width:90%;
-        padding:12px;
-        background:#ffffff;
-        border:1px solid #d8d8d8;
-        border-radius:10px;
-        box-shadow:0 4px 14px rgba(0,0,0,0.18);
+        flex:0 0 100%;
+        scroll-snap-align:center;
         display:flex;
         justify-content:center;
         align-items:center;
-        box-sizing:border-box;
       ">
-        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-5.jpeg"
-             alt="Agra Photograph 5"
-             style="
-               display:block;
-               max-width:100%;
-               max-height:100%;
-               width:auto;
-               height:auto;
-               object-fit:contain;
-               border-radius:5px;
-             ">
+        <div style="
+          width:520px;
+          height:360px;
+          max-width:90%;
+          padding:12px;
+          background:#ffffff;
+          border:1px solid #d8d8d8;
+          border-radius:10px;
+          box-shadow:0 4px 14px rgba(0,0,0,0.20);
+          box-sizing:border-box;
+        ">
+          <img
+            src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A-5.jpeg"
+            alt="Agra Photograph 5"
+            style="
+              display:block;
+              width:100%;
+              height:100%;
+              object-fit:cover;
+              object-position:center;
+              border-radius:5px;
+            ">
+        </div>
       </div>
-    </div>
-    <!-- Photograph 6 -->
-    <div style="
-      flex:0 0 100%;
-      scroll-snap-align:center;
-      display:flex;
-      justify-content:center;
-      align-items:center;
-    ">
+      <!-- Photograph 6 -->
       <div style="
-        width:520px;
-        height:360px;
-        max-width:90%;
-        padding:12px;
-        background:#ffffff;
-        border:1px solid #d8d8d8;
-        border-radius:10px;
-        box-shadow:0 4px 14px rgba(0,0,0,0.18);
+        flex:0 0 100%;
+        scroll-snap-align:center;
         display:flex;
         justify-content:center;
         align-items:center;
-        box-sizing:border-box;
       ">
-        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/e8199e30b20870a6c2db9bf976900a4860925b6c/images/A-6.jpeg"
-             alt="Agra Photograph 6"
-             style="
-               display:block;
-               max-width:100%;
-               max-height:100%;
-               width:auto;
-               height:auto;
-               object-fit:contain;
-               border-radius:5px;
-             ">
+        <div style="
+          width:520px;
+          height:360px;
+          max-width:90%;
+          padding:12px;
+          background:#ffffff;
+          border:1px solid #d8d8d8;
+          border-radius:10px;
+          box-shadow:0 4px 14px rgba(0,0,0,0.20);
+          box-sizing:border-box;
+        ">
+          <img
+            src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/e8199e30b20870a6c2db9bf976900a4860925b6c/images/A-6.jpeg"
+            alt="Agra Photograph 6"
+            style="
+              display:block;
+              width:100%;
+              height:100%;
+              object-fit:cover;
+              object-position:center;
+              border-radius:5px;
+            ">
+        </div>
       </div>
-    </div>
-    <!-- Photograph 7 -->
-    <div style="
-      flex:0 0 100%;
-      scroll-snap-align:center;
-      display:flex;
-      justify-content:center;
-      align-items:center;
-    ">
+      <!-- Photograph 7 -->
       <div style="
-        width:520px;
-        height:360px;
-        max-width:90%;
-        padding:12px;
-        background:#ffffff;
-        border:1px solid #d8d8d8;
-        border-radius:10px;
-        box-shadow:0 4px 14px rgba(0,0,0,0.18);
+        flex:0 0 100%;
+        scroll-snap-align:center;
         display:flex;
         justify-content:center;
         align-items:center;
-        box-sizing:border-box;
       ">
-        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/e8199e30b20870a6c2db9bf976900a4860925b6c/images/A-7.jpeg"
-             alt="Agra Photograph 7"
-             style="
-               display:block;
-               max-width:100%;
-               max-height:100%;
-               width:auto;
-               height:auto;
-               object-fit:contain;
-               border-radius:5px;
-             ">
+        <div style="
+          width:520px;
+          height:360px;
+          max-width:90%;
+          padding:12px;
+          background:#ffffff;
+          border:1px solid #d8d8d8;
+          border-radius:10px;
+          box-shadow:0 4px 14px rgba(0,0,0,0.20);
+          box-sizing:border-box;
+        ">
+          <img
+            src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/e8199e30b20870a6c2db9bf976900a4860925b6c/images/A-7.jpeg"
+            alt="Agra Photograph 7"
+            style="
+              display:block;
+              width:100%;
+              height:100%;
+              object-fit:cover;
+              object-position:center;
+              border-radius:5px;
+            ">
+        </div>
       </div>
     </div>
+    <!-- Swipe Indicator -->
+    <p style="
+      font-family:Georgia, serif;
+      font-size:0.9em;
+      color:#b8c8b8;
+      text-align:center;
+      margin:3px 0 15px 0;
+    ">
+      ← Swipe or scroll sideways to view the other photographs →
+    </p>
 
   </div>
 
-  <!-- Swipe Indicator -->
-  <p style="
-    font-family:Georgia, serif;
-    font-size:0.9em;
-    color:#777;
-    text-align:center;
-    margin:5px 0 25px 0;
-  ">
-    ← Swipe or scroll sideways to view the other photographs →
-  </p>
-
 </div>
-```
+
+
 
 
 
