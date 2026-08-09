@@ -322,15 +322,7 @@ classes: wide
 </div>
 
 
-<!-- The Library Stairs -->
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
 
-  <!-- Photograph -->
-  <div style="width:100%; max-width:750px; margin:0 auto 20px auto; text-align:center;">
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d5504389f54c3977bc32a0b04192c06c1eab5d90/images/RR.jpeg"
-         alt="A moment at the Library stairs, Sikkim University"
-         style="width:100%; height:auto; border-radius:8px; display:block;">
-  </div>
 
   <h3 style="color:#e8f5e8; margin-top:0;">
     AN ORDINARY STAIRCASE, AN UNEXPECTED BEGINNING
@@ -340,6 +332,15 @@ classes: wide
     Sikkim University
   </p>
 
+<!-- The Library Stairs -->
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+
+  <!-- Photograph -->
+  <div style="width:100%; max-width:750px; margin:0 auto 20px auto; text-align:center;">
+    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d5504389f54c3977bc32a0b04192c06c1eab5d90/images/RR.jpeg"
+         alt="A moment at the Library stairs, Sikkim University"
+         style="width:100%; height:auto; border-radius:8px; display:block;">
+  </div>
   <p style="color:#e8f5e8; line-height:1.8;">
     Some memories begin without any intention of becoming memories. This was one of them.
   </p>
