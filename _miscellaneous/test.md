@@ -563,6 +563,7 @@ classes: wide
 
 
 
+
 <!-- Agra Section -->
 
 <div style="
@@ -601,7 +602,7 @@ classes: wide
   <div style="
     width:100%;
     max-width:750px;
-    margin:0 auto 10px auto;
+    margin:0 auto 20px auto;
   ">
 
   <div style="
@@ -615,7 +616,7 @@ classes: wide
       scrollbar-width:thin;
       -webkit-overflow-scrolling:touch;
     ">
-      <!-- Photograph 1 -->
+  <!-- Photograph 1 -->
       <div style="
         flex:0 0 100%;
         scroll-snap-align:center;
@@ -625,14 +626,16 @@ classes: wide
       ">
         <div style="
           width:520px;
-          height:360px;
           max-width:90%;
-          padding:12px;
+          padding:10px;
           background:#ffffff;
           border:1px solid #d8d8d8;
           border-radius:10px;
           box-shadow:0 4px 14px rgba(0,0,0,0.20);
           box-sizing:border-box;
+          display:flex;
+          justify-content:center;
+          align-items:center;
         ">
           <img
             src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/78bbccbf3bbf434ccc2379e49bafea4f1b5763b0/images/A1.jpeg"
@@ -640,9 +643,9 @@ classes: wide
             style="
               display:block;
               width:100%;
-              height:100%;
-              object-fit:cover;
-              object-position:center;
+              height:auto;
+              max-height:500px;
+              object-fit:contain;
               border-radius:5px;
             ">
         </div>
@@ -657,9 +660,8 @@ classes: wide
       ">
         <div style="
           width:520px;
-          height:360px;
           max-width:90%;
-          padding:12px;
+          padding:10px;
           background:#ffffff;
           border:1px solid #d8d8d8;
           border-radius:10px;
@@ -672,14 +674,14 @@ classes: wide
             style="
               display:block;
               width:100%;
-              height:100%;
-              object-fit:cover;
-              object-position:center;
+              height:auto;
+              max-height:500px;
+              object-fit:contain;
               border-radius:5px;
             ">
         </div>
       </div>
-      <!-- Photograph 3 -->
+     <!-- Photograph 3 -->
       <div style="
         flex:0 0 100%;
         scroll-snap-align:center;
@@ -689,9 +691,8 @@ classes: wide
       ">
         <div style="
           width:520px;
-          height:360px;
           max-width:90%;
-          padding:12px;
+          padding:10px;
           background:#ffffff;
           border:1px solid #d8d8d8;
           border-radius:10px;
@@ -704,14 +705,14 @@ classes: wide
             style="
               display:block;
               width:100%;
-              height:100%;
-              object-fit:cover;
-              object-position:center;
+              height:auto;
+              max-height:500px;
+              object-fit:contain;
               border-radius:5px;
             ">
         </div>
       </div>
-      <!-- Photograph 4 -->
+   <!-- Photograph 4 -->
       <div style="
         flex:0 0 100%;
         scroll-snap-align:center;
@@ -721,9 +722,8 @@ classes: wide
       ">
         <div style="
           width:520px;
-          height:360px;
           max-width:90%;
-          padding:12px;
+          padding:10px;
           background:#ffffff;
           border:1px solid #d8d8d8;
           border-radius:10px;
@@ -736,14 +736,14 @@ classes: wide
             style="
               display:block;
               width:100%;
-              height:100%;
-              object-fit:cover;
-              object-position:center;
+              height:auto;
+              max-height:500px;
+              object-fit:contain;
               border-radius:5px;
             ">
         </div>
       </div>
-    <!-- Photograph 5 -->
+      <!-- Photograph 5 -->
       <div style="
         flex:0 0 100%;
         scroll-snap-align:center;
@@ -753,9 +753,8 @@ classes: wide
       ">
         <div style="
           width:520px;
-          height:360px;
           max-width:90%;
-          padding:12px;
+          padding:10px;
           background:#ffffff;
           border:1px solid #d8d8d8;
           border-radius:10px;
@@ -768,14 +767,14 @@ classes: wide
             style="
               display:block;
               width:100%;
-              height:100%;
-              object-fit:cover;
-              object-position:center;
+              height:auto;
+              max-height:500px;
+              object-fit:contain;
               border-radius:5px;
             ">
         </div>
       </div>
-      <!-- Photograph 6 -->
+   <!-- Photograph 6 -->
       <div style="
         flex:0 0 100%;
         scroll-snap-align:center;
@@ -785,9 +784,8 @@ classes: wide
       ">
         <div style="
           width:520px;
-          height:360px;
           max-width:90%;
-          padding:12px;
+          padding:10px;
           background:#ffffff;
           border:1px solid #d8d8d8;
           border-radius:10px;
@@ -800,9 +798,9 @@ classes: wide
             style="
               display:block;
               width:100%;
-              height:100%;
-              object-fit:cover;
-              object-position:center;
+              height:auto;
+              max-height:500px;
+              object-fit:contain;
               border-radius:5px;
             ">
         </div>
@@ -817,9 +815,8 @@ classes: wide
       ">
         <div style="
           width:520px;
-          height:360px;
           max-width:90%;
-          padding:12px;
+          padding:10px;
           background:#ffffff;
           border:1px solid #d8d8d8;
           border-radius:10px;
@@ -832,16 +829,17 @@ classes: wide
             style="
               display:block;
               width:100%;
-              height:100%;
-              object-fit:cover;
-              object-position:center;
+              height:auto;
+              max-height:500px;
+              object-fit:contain;
               border-radius:5px;
             ">
         </div>
-      </div>
-    </div>
+      </div>    </div>
+
     <!-- Swipe Indicator -->
-    <p style="
+
+  <p style="
       font-family:Georgia, serif;
       font-size:0.9em;
       color:#b8c8b8;
@@ -854,8 +852,6 @@ classes: wide
   </div>
 
 </div>
-
-
 
 
 
