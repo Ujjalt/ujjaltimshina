@@ -222,13 +222,111 @@ classes: wide
 
 
 
+<!-- The Mathematics Department, Sikkim University -->
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+
+  <!-- Departmental Photographs -->
+  <div style="width:100%; max-width:750px; margin:0 auto 20px auto;">
+
+   <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; gap:15px; padding:5px 0 15px 0; scrollbar-width:thin;">
+      <div style="flex:0 0 100%; scroll-snap-align:center; text-align:center;">
+        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/e0a4747c6b9148e385468edb063e47df995aa799/images/F-2.jpeg"
+             alt="Mathematics Department, Sikkim University"
+             style="width:100%; height:auto; border-radius:8px; display:block;">
+      </div>
+      <div style="flex:0 0 100%; scroll-snap-align:center; text-align:center;">
+        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/e0a4747c6b9148e385468edb063e47df995aa799/images/F-3.jpeg"
+             alt="Mathematics Department, Sikkim University"
+             style="width:100%; height:auto; border-radius:8px; display:block;">
+      </div>
+      <div style="flex:0 0 100%; scroll-snap-align:center; text-align:center;">
+        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/e0a4747c6b9148e385468edb063e47df995aa799/images/F-4.jpeg"
+             alt="Mathematics Department, Sikkim University"
+             style="width:100%; height:auto; border-radius:8px; display:block;">
+      </div>
+      <div style="flex:0 0 100%; scroll-snap-align:center; text-align:center;">
+        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/e0a4747c6b9148e385468edb063e47df995aa799/images/F-5.jpeg"
+             alt="Mathematics Department, Sikkim University"
+             style="width:100%; height:auto; border-radius:8px; display:block;">
+      </div>
+      <div style="flex:0 0 100%; scroll-snap-align:center; text-align:center;">
+        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/e0a4747c6b9148e385468edb063e47df995aa799/images/F-6.jpeg"
+             alt="Mathematics Department, Sikkim University"
+             style="width:100%; height:auto; border-radius:8px; display:block;">
+     </div>
+    </div>
+  </div>
+
+  <h3 style="color:#e8f5e8; margin-top:0;">
+    JUST A FRACTION OF WHAT WE WERE
+  </h3>
+
+  <p style="color:#e8f5e8; text-align:center; font-style:italic;">
+    The Mathematics Department, Sikkim University
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    These photographs are perhaps only one percent of how vibrant the Mathematics Department at Sikkim University actually was. Even now, when I look at them, I feel that photographs can capture faces and moments, but they can never quite capture the energy of a place.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    Most of my classmates were not particularly interested in pursuing higher studies in mathematics. Everyone had different dreams, different plans, and different directions they wanted their lives to take. But that never stopped them from giving themselves completely to whatever they chose to do. Most of them did things with their whole heart, and that is something I deeply respected about them.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    The department was alive in ways that had very little to do with academic achievements alone. There was always some activity, some discussion, some event, some argument, some laughter, or simply someone around. Mathematics was certainly at the centre of our lives, but it was never the only thing that defined us.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    One thing I particularly remember was our departmental T-shirt. I designed it for us, and it became the <strong>first T-shirt designed for the Mathematics Department</strong>. The idea itself came to me while I was attending a CREST school at TCG CREST, Kolkata. I had met students from Presidency University who were attending the conference, and something about their sense of belonging and identity stayed with me. I wanted us to have something of our own too, something simple that could represent the department and the people who made it what it was.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    It may sound like a small thing now, but at the time it felt meaningful. We were creating our own little identity, not because anyone asked us to, but because we wanted to.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    I also remember <strong>Saurajyoti</strong>. We discussed mathematics together many times, and we participated in counterfactuals on numerous occasions. Those conversations remain among the things I value most from that period. Not every academic interaction needs to end in a theorem, a paper, or a result. Sometimes, simply having someone with whom you can question an idea, challenge an assumption, or imagine a different possibility is itself an academic experience worth remembering.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    In many ways, my M.Sc. journey remains the most fruitful academic environment I have experienced so far. Not necessarily because everything was perfect, and certainly not because everyone wanted the same things, but because there was a sense that people could simply be themselves around one another.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    We often hear people say that a department should be like a family. It sounds beautiful when written on paper. But being a family is not something that happens simply because people share a department, a classroom, an office, or a common goal.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    To really become a family, I think something much simpler and much harder is required. There has to be honesty. There has to be trust. There has to be space to be imperfect. There has to be an absence of unnecessary judgement. People should be able to laugh together, disagree with one another, help one another, and still remain comfortable in each other's presence.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    Most importantly, there has to be a genuine heart behind it.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    I think that is what made Sikkim University special to me. We did not spend our days trying to prove that we were a family. We simply lived together, worked together, argued, laughed, helped one another, and created memories without knowing that someday we would miss them.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8;">
+    These five photographs are only a tiny glimpse of that world. There were hundreds of moments that were never photographed, thousands of conversations that were never recorded, and countless ordinary days that I did not realise I would one day want to remember.
+  </p>
+
+  <p style="color:#e8f5e8; line-height:1.8; margin-bottom:0;">
+    Perhaps that is why I hold those years so close. My M.Sc. was not simply a degree that I completed. It was a place where I learnt mathematics, certainly, but also a place where I learnt what it can feel like when a group of people genuinely become a family. And that kind of academic environment is something I will always be grateful to have experienced.
+  </p>
+
+</div>
+
+
 
 <!-- Manan Kendra Section -->
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family:Georgia, serif;">
 
   <h3 style="color:#e8f5e8; margin-top:0;">
-    Manan Kendra, Gangtok, Sikkim, India
+    Manan Kendra, Gangtok, Sikkim, India (It was possible because of the previous post)
   </h3>
 
   <p align="center">
