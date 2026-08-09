@@ -1483,19 +1483,6 @@ classes: wide
     style="border:3px solid #e8f5e8; border-radius:12px; box-shadow:0 0 12px rgba(0,0,0,0.35);" />
 </div>
 
-<!-- The Person Behind My Academic Journey -->
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
-
-  <!-- Photograph -->
-  <div style="width:100%; max-width:750px; margin:0 auto 20px auto; text-align:center;">
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8db3f9fb8d4ef96bc980cbb72e81bb085d361b20/images/thulaba.jpg"
-         alt="Thulaba, one of the greatest influences on my life"
-         style="width:100%; height:auto; border-radius:8px; display:block;">
-  </div>
-
-  <h3 style="color:#e8f5e8; margin-top:0;">
-    THULABA
-  </h3>
 
 <!-- The Person Behind My Academic Journey -->
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
@@ -1508,7 +1495,10 @@ classes: wide
   </div>
 
   <p style="color:#e8f5e8; text-align:center; font-style:italic;">
-    A father figure, a guide, and one of the heroes of my life
+**A father figure, a guide, and one of the heroes of my life**
+
+*I chose to place this after the closing reflection because, to me, he is one of the real heroes of my life. Real heroes rarely stand at the centre of the story. They remain quietly in the background, often without even knowing how deeply their actions, values, and guidance are shaping someone. They do not create dependence; they help a person become capable of standing independently. And perhaps that is the greatest kind of influence anyone can have on another life.*
+
   </p>
 
   <p style="color:#e8f5e8; line-height:1.8;">
