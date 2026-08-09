@@ -387,9 +387,18 @@ classes: wide
     <strong style="color:#e8f5e8;">27th May 2026</strong>
   </p>
 
-  <p style="color:#e8f5e8;">
-    A glimpse of the Seventh Convocation Ceremony of Sikkim University held at Manan Kendra, Gangtok. The occasion was especially memorable as it gave me the opportunity to meet my batchmates after a span of three years. The day was filled with laughter, conversations, nostalgia, and the joy of reconnecting with old friends. It was wonderful to see how everyone had grown and embarked on their own journeys since graduation. The celebrations concluded with a delightful dinner in the evening with my family, making the day even more special and unforgettable.
-  </p>
+<p style="color:#e8f5e8;">
+  A glimpse of the Seventh Convocation Ceremony of Sikkim University, held at Manan Kendra, Gangtok. The occasion was especially memorable because it gave me the opportunity to meet my batchmates again after a span of three years. The day was filled with laughter, conversations, nostalgia, and the simple joy of reconnecting with old friends. It was wonderful to see how everyone had grown and embarked upon their own journeys since graduation.
+</p>
+
+<p style="color:#e8f5e8;">
+  The celebrations concluded with a delightful dinner in the evening with my family, making the day even more special and unforgettable. One of the photographs below includes my mother and sister, along with my maternal aunt's daughter and her husband. Family has always been an inseparable part of my journey, and behind every milestone I have reached is a story of their love, patience, sacrifices, and support.
+</p>
+
+<p style="color:#e8f5e8;">
+  My mother, in particular, has lived much of her life for us. Many of the things I have been able to experience, pursue, and become would not have been possible without the quiet sacrifices she made along the way. A convocation may mark the completion of a degree, but for me, this photograph also represents the people who made that journey possible. The achievement may carry my name, but its story belongs to my family as much as it belongs to me.
+</p>
+
 
 </div>
 
