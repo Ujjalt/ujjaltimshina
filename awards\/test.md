@@ -98,3 +98,65 @@ author_profile: true
 </div>
 
 <hr style="border:0; height:2px; background-color:#0e2e0e; margin-top:30px;">
+
+
+
+<!-- Mom -->
+<div style="text-align:center; margin:30px 0 20px 0;">
+
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5bc8d17aec4d243430bfb4f7ce8d94dc99f448e7/images/Mom.jpg"
+       alt="My Mom"
+       style="width:150px; height:auto; border:2px solid #2f4f2f; border-radius:8px; padding:3px; display:inline-block;">
+
+  <div style="margin-top:10px; font-family:Georgia, serif; font-size:16px; font-style:italic; font-weight:bold; color:#0e2e0e;">
+    A Hero of My Life
+  </div>
+
+</div>
+
+<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; line-height:1.6; margin-bottom:30px;">
+
+  <p style="margin-top:0;">
+    My mother is, without question, one of the greatest heroes of my life.
+  </p>
+
+  <p>
+    I am the first person in my family to pursue formal academic education to this
+    extent, and I know that this journey was possible because of her. She worked
+    incredibly hard, made sacrifices, and gave me the support and trust I needed to
+    continue walking a path that was not always familiar to our family.
+    I chose my path, but <strong style="color:#e8f5e8;">she gave me the trust to walk it.</strong>
+    She believed in me even when there was no certainty about where the road would lead.
+    Much of what I have become academically is therefore not mine alone; it carries the
+    strength, sacrifices, and faith of my mother.
+  </p>
+
+  <p>
+    I can show you the notebook from my first year of undergraduate studies. I used to
+    copy and paste from Gallian's book because, honestly, I understood almost nothing
+    at the time. I still have that notebook, and my mother has kept it so carefully
+    all these years. 😊 I can still find most of my old school books if I search for them properly. They
+    have all been kept so carefully. I think that says something about the value we
+    have always placed on education—not as something to be thrown away once an exam
+    is over, but as something worth preserving and remembering.
+    <strong style="color:#e8f5e8;">
+      I carry a lot of responsibility for her.
+    </strong>
+    Whatever I achieve in life, I want it to bring her some of the comfort and happiness
+    she deserves after everything she has done for me.
+  </p>
+
+  <p>
+    Whatever recognition I receive, a part of it will always belong to her.
+  </p>
+
+  <p style="margin-bottom:0;">
+    And whenever you find yourself in Sikkim, you are always welcome. I would be happy
+    to invite you home, where you can try some
+    <strong style="color:#e8f5e8;">homemade food prepared by her</strong>.
+    Write to me whenever you feel like it—I would be genuinely happy to hear from you.
+  </p>
+
+</div>
+
+
