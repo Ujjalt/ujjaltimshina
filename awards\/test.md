@@ -19,7 +19,7 @@ author_profile: true
 
   <p>
     I am including this small school-level recognition because, for me, it meant much
-    more than the certificate itself. In 2015, when I was in Class 9, I was considered
+    more and this is the reason behind who I'm right now. In 2015, when I was in Class 9, I was considered
     a rather poor student. I had even failed Science and somehow managed to pass the
     class, so I remember feeling quite dumb at the time. That same year, my school
     announced an essay competition. We were asked to write an essay at home, in our own
