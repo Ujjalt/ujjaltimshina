@@ -108,11 +108,7 @@ Tikallal Niroula Senior Secondary School
   I am including this small school-level recognition because, for me, it meant much
   more than the certificate itself. In 2015, when I was in Class 9, I was considered
   a rather poor student. I had even failed one subject, Science, and somehow managed
-  to pass the class. I remember feeling quite dumb at the time.
-</p>
-
-<p>
-  That same year, my school announced an essay competition. We were asked to write
+  to pass the class. I remember feeling quite dumb at the time. That same year, my school announced an essay competition. We were asked to write
   an essay at home, in our own words, and submit it. I did not have a cellphone or
   access to much of what students have today. I simply wrote whatever I could, in my
   own words and with my very broken English, and submitted it.
@@ -125,17 +121,11 @@ Tikallal Niroula Senior Secondary School
     the competition.
   </strong>
   And somehow, I still stood first. Haha.
-</p>
-
-<p>
   Looking back, that little recognition gave me an enormous amount of confidence.
   It was one of those small moments that made me think that perhaps I was not as
   incapable as I had believed. I decided to keep it here because, in many ways,
   <strong style="color:#e8f5e8;">this was me—and this was one of the moments that
-  pushed me forward.</strong>
-</p>
-
-<p style="margin-bottom:0;">
+  pushed me forward.</strong> <p style="margin-bottom:0;">
   And something funny happened today. It is <strong style="color:#e8f5e8;">14 August</strong>
   as I write this, and tomorrow is <strong style="color:#e8f5e8;">15 August</strong>.
   I suddenly remembered that the result of this little competition was announced on
