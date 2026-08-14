@@ -58,7 +58,7 @@ and I feel fortunate to have learned from him.
 <p>
 I remember a small incident that perhaps says more about him than any formal description
 could. One day, a faculty member asked him,
-<em style="color:#e8f5e8;">“I see Ujjal with you all the time in the department. What is the reason?”</em>
+<em style="color:#e8f5e8;">“I see Ujjal with you all the time. What is the reason?”</em>
 He simply smiled and replied,
 <strong style="color:#e8f5e8;">“My colleagues are students.”</strong>
 </p>
