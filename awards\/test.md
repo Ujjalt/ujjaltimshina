@@ -129,9 +129,7 @@ author_profile: true
     Something funny came back to me today. It is 14 August as I write this, and tomorrow
     is 15 August. I suddenly remembered that the result was announced on
     <strong style="color:#e8f5e8;">15 August 2015</strong>. Eleven years later, I am
-    sitting here remembering that boy who wrote an essay in his own broken English,
-    without a phone and without much confidence, and somehow stood first. Life is strange
-    sometimes. 😊
+    sitting here remembering  Life is strange sometimes. 😊
   </p>
 
 </div>
