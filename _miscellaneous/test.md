@@ -179,6 +179,33 @@ classes: wide
 
   <p style="color:#e8f5e8;">
     The experience was truly inspiring. What impressed me most was the excitement of the students as they explored mathematical ideas, asked thoughtful questions, and enjoyed the process of problem solving. Their curiosity and eagerness to learn created an atmosphere that was both energetic and encouraging. It reminded me that mathematics flourishes best in an environment where exploration, discussion, and creativity are valued. I look forward to contributing more actively in the upcoming sessions and helping these young learners discover the beauty and joy of mathematics.
+
+<p>
+  There is also something personal behind why I enjoy these sessions so much. I think
+  I am trying, in a small way, to recover some of the time I lost during my
+  undergraduate years. I would like to sit with the students, attend these sessions,
+  solve the problems alongside them, and experience the kind of mathematical
+  environment that I wish I had encountered earlier in my life. I especially think about the years before Class 9. I often wonder what might have
+  been different if I had received the right mathematical direction during those
+  years. After Class 9, however, I was fortunate to meet
+  <strong style="color:#e8f5e8;">Mr. Mahesh Chettri</strong>, a truly wonderful
+  teacher. He changed a lot for me and showed me what a good teacher can mean in a
+  student's life.
+</p>
+
+<p>
+  So when I sit with the children in the RAM classes and solve problems with them, I
+  am not only teaching them. In some strange way, I am also sitting with the child I
+  once was. I want to experience those problems with them, ask the questions I might
+  have asked years ago, and perhaps make up, little by little, for the mathematical
+  opportunities I did not have. I sometimes think that with the right guidance at the right age, I could have been
+  much better trained. But I cannot go back and change that. What I can do now is make
+  sure that perhaps another child gets a little of the direction, encouragement, and
+  mathematical curiosity that I once wished for.
+  <strong style="color:#e8f5e8;">No mind is so dark that it cannot radiate light.</strong>
+</p>
+
+
   </p>
 
 <div align="center">
