@@ -106,11 +106,13 @@ author_profile: true
 
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5bc8d17aec4d243430bfb4f7ce8d94dc99f448e7/images/Mom.jpg"
        alt="My Mom"
-       style="width:150px; height:auto; border:2px solid #2f4f2f; border-radius:8px; padding:3px; display:inline-block;">
+       style="width:180px; height:auto; border:2px solid #2f4f2f; border-radius:8px; padding:3px; display:inline-block;">
 
   <div style="margin-top:10px; font-family:Georgia, serif; font-size:16px; font-style:italic; font-weight:bold; color:#0e2e0e;">
     A Hero of My Life
   </div>
+
+</div>
 
 </div>
 
