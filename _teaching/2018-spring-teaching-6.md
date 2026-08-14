@@ -49,9 +49,6 @@ and I genuinely love that. With him, I feel that I can learn mathematics freely�
 freedom that no one has ever made me feel before. I can ask questions, think aloud, get
 things wrong, change my mind, and simply enjoy the mathematics. He is a wonderful teacher,
 and I feel fortunate to have learned from him.
-</p>
-
-<p>
 I remember a small incident that perhaps says more about him than any formal description
 could. One day, a faculty member asked him,
 <em style="color:#e8f5e8;">“I see Ujjal with you all the time. What is the reason?”</em>
@@ -68,13 +65,6 @@ feel so comfortable around him.
 </p>
 
 <p>
-He also has a remarkable ability to notice the little diamonds that many people miss
-while rushing through academic life. Ideas, questions, possibilities, and small moments
-that others might overlook—he seems to notice them. I think that is one of the things I
-have learned from being around him: to slow down enough to see what is worth seeing.
-</p>
-
-<p>
 Dr. Subhajit Sir is currently a <strong style="color:#e8f5e8;">Visiting Professor</strong>,
 and I sincerely hope that I will get many more opportunities to work with him in the
 future. I have rarely come across a teacher who makes mathematics feel so free and so
@@ -82,7 +72,7 @@ alive.
 </p>
 
 <p>
-For me, he is the <strong style="color:#e8f5e8;">Halmos of my life</strong>—not simply
+For me, he is the <strong style="color:#e8f5e8;">Halmos of my life</strong>, not simply
 because of mathematics, but because of the way he lives it, shares it, and makes those
 around him feel that they too belong to the world of mathematics.
 </p>
