@@ -151,12 +151,12 @@ author_profile: true
   </p>
 
   <p style="margin-bottom:0;">
-    And whenever you find yourself in Sikkim, you are always welcome. I would be happy
-    to invite you home, where you can try some
-    <strong style="color:#e8f5e8;">homemade food prepared by her</strong>.
-    Write to me whenever you feel like it—I would be genuinely happy to hear from you.
-  </p>
-
+  And whenever you find yourself in Sikkim, you are always welcome. I would be happy
+  to invite you home, where you can try some
+  <strong style="color:#e8f5e8;">homemade food prepared by her</strong>.
+  Write to me whenever you feel like it—I would be genuinely happy to hear from you,
+  whoever you are. I do things from my heart, always.
+</p>
 </div>
 
 
