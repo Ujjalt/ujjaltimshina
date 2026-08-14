@@ -182,8 +182,7 @@ classes: wide
 
 <p>
   There is also something personal behind why I enjoy these sessions so much. I think
-  I am trying, in a small way, to recover some of the time I lost during my
-  undergraduate years. I would like to sit with the students, attend these sessions,
+  I am trying, in a small way, to recover some of the time I lost when I was at their age. I would like to sit with the students, attend these sessions,
   solve the problems alongside them, and experience the kind of mathematical
   environment that I wish I had encountered earlier in my life. I especially think about the years before Class 9. I often wonder what might have
   been different if I had received the right mathematical direction during those
