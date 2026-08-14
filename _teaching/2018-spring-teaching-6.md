@@ -9,13 +9,9 @@ location: "New Delhi, India"
 ---
 
 <div style="background:#0e2e0e; padding:18px 22px; border-left:5px solid #e8f5e8; font-family:Georgia, serif; font-size:17px; line-height:1.55; border-radius:6px; color:#e8f5e8;">
-
 <p>
 <strong style="color:#e8f5e8;">Ongoing</strong>
-</p>
-
-<p>
-I am currently serving as a <strong style="color:#e8f5e8;">Teaching Assistant</strong> for
+</p><p> I am currently serving as a <strong style="color:#e8f5e8;">Teaching Assistant</strong> for
 <strong style="color:#e8f5e8;">MTH203: Mathematics III (Multivariate Calculus)</strong>
 during the <strong style="color:#e8f5e8;">Monsoon 2026</strong> semester at
 <strong style="color:#e8f5e8;">IIIT Delhi</strong>.
