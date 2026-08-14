@@ -5,6 +5,12 @@ permalink: /awards/
 author_profile: true
 ---
 
+<div style="width:150px; margin:0 auto 25px auto; text-align:center;">
+  <img src="/images/Monk.jpg"
+       alt="Monk"
+       style="width:150px; height:auto; border:2px solid #2f4f2f; border-radius:8px; padding:3px; display:block; margin-left:auto; margin-right:auto;">
+</div>
+
 <div style="background:#0e2e0e; padding:22px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; margin-bottom:30px; text-align:center;">
   <strong style="font-size:28px;">
     Awards
