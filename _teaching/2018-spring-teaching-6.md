@@ -61,11 +61,7 @@ I have carried that sentence with me ever since. There was no hierarchy in those
 only a beautiful idea of what it means to be a mathematician and a teacher. To him,
 students are not merely people who come to learn; they can be colleagues in the shared
 process of thinking, questioning, and discovering mathematics. Perhaps that is why I
-feel so comfortable around him.
-</p>
-
-<p>
-Dr. Subhajit Sir is currently a <strong style="color:#e8f5e8;">Visiting Professor</strong>,
+feel so comfortable around him. Subhajit Sir is currently a <strong style="color:#e8f5e8;">Visiting Professor</strong>,
 and I sincerely hope that I will get many more opportunities to work with him in the
 future. I have rarely come across a teacher who makes mathematics feel so free and so
 alive.
@@ -79,9 +75,7 @@ around him feel that they too belong to the world of mathematics.
 
 <p>
 I am genuinely <strong style="color:#e8f5e8;">loving this experience</strong>. There are
-wonderful people around, and I am grateful for the opportunity to teach, to learn, and
-to continue growing as both a mathematician and a teacher.
-</p>
+wonderful people around, and I am grateful for the opportunity to learn.
 
 </div>
 
