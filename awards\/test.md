@@ -100,9 +100,61 @@ author_profile: true
 <hr style="border:0; height:2px; background-color:#0e2e0e; margin-top:30px;">
 
 
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family:Georgia, serif; line-height:1.6;">
+<strong>First Prize — School Essay Competition (2015)</strong><br>
+Tikallal Niroula Senior Secondary School
+
+<p>
+  I am including this small school-level recognition because, for me, it meant much
+  more than the certificate itself. In 2015, when I was in Class 9, I was considered
+  a rather poor student. I had even failed one subject, Science, and somehow managed
+  to pass the class. I remember feeling quite dumb at the time.
+</p>
+
+<p>
+  That same year, my school announced an essay competition. We were asked to write
+  an essay at home, in our own words, and submit it. I did not have a cellphone or
+  access to much of what students have today. I simply wrote whatever I could, in my
+  own words and with my very broken English, and submitted it.
+</p>
+
+<p>
+  Much later, I realized something rather funny:
+  <strong style="color:#e8f5e8;">
+    I was actually the only student out of roughly 700 students who participated in
+    the competition.
+  </strong>
+  And somehow, I still stood first. Haha.
+</p>
+
+<p>
+  Looking back, that little recognition gave me an enormous amount of confidence.
+  It was one of those small moments that made me think that perhaps I was not as
+  incapable as I had believed. I decided to keep it here because, in many ways,
+  <strong style="color:#e8f5e8;">this was me—and this was one of the moments that
+  pushed me forward.</strong>
+</p>
+
+<p style="margin-bottom:0;">
+  And something funny happened today. It is <strong style="color:#e8f5e8;">14 August</strong>
+  as I write this, and tomorrow is <strong style="color:#e8f5e8;">15 August</strong>.
+  I suddenly remembered that the result of this little competition was announced on
+  <strong style="color:#e8f5e8;">15 August 2015</strong>. Eleven years later, I am
+  sitting here remembering that boy who wrote an essay in his own broken English,
+  without a phone and with very little confidence, and somehow stood first.
+  Life is strange sometimes. 😊
+</p>
 
 <!-- Mom -->
-<div style="text-align:center; margin:30px 0 20px 0;">
+
+
+<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; line-height:1.6; margin-bottom:30px;">
+
+  <p style="margin-top:0;">
+    My mother is, without question, one of the greatest heroes of my life.
+  </p>
+
+  <div style="text-align:center; margin:30px 0 20px 0;">
 
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5bc8d17aec4d243430bfb4f7ce8d94dc99f448e7/images/Mom.jpg"
        alt="My Mom"
@@ -115,12 +167,6 @@ author_profile: true
 </div>
 
 </div>
-
-<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; line-height:1.6; margin-bottom:30px;">
-
-  <p style="margin-top:0;">
-    My mother is, without question, one of the greatest heroes of my life.
-  </p>
 
   <p>
     I am the first person in my family to pursue formal academic education to this
