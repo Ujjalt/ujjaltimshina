@@ -76,5 +76,4 @@ around him feel that they too belong to the world of mathematics.
 I am genuinely <strong style="color:#e8f5e8;">loving this experience</strong>. There are
 wonderful people around, and I am grateful for the opportunity to learn.
 
-</div>
 
