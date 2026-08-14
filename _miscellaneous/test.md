@@ -159,13 +159,20 @@ classes: wide
 
   <p align="center"><strong style="color:#e8f5e8;">Raising A Mathematician (RAM) Foundation – Delhi Chapter</strong></p>
 
-  <!-- Cover Image -->
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d217dff067038c61c61e5dcf60de1930ed1488a7/images/Ram-1.jpeg"
-         width="650"
-         style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
-  </div>
+<!-- Cover Images -->
+<div align="center">
 
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/570262615b338f1f55b14193f40f68ac023c1577/Enjoying%20.jpg"
+       alt="Enjoying"
+       width="650"
+       style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d217dff067038c61c61e5dcf60de1930ed1488a7/images/Ram-1.jpeg"
+       alt="Ram"
+       width="650"
+       style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+</div>
   <p style="color:#e8f5e8;">
     Today marked the inaugural session of the <strong>Delhi Math Circle</strong> at <strong>IIIT Delhi</strong>, organized by the <strong>Raising A Mathematician (RAM) Foundation</strong>. It was wonderful to see so many school students come together with genuine enthusiasm and curiosity for mathematics. I am grateful to be part of the instructional team for this initiative. Since this was my very first session, I primarily observed and audited the class to understand how the sessions are conducted, how the instructors engage with the students, and how mathematical ideas are presented in such an interactive environment.
   </p>
