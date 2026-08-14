@@ -247,5 +247,14 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
   <p style="margin:0; font-family:Georgia, serif; font-weight:bold; color:#2f4f2f; font-size:1.05em;">
     Mountains. Solitude. Breath. Peace.
   </p>
+   <div style="text-align:center; margin:20px 0 30px 0;">
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5e036da2886f9a7b49034cdd454ae15a9ac89c2c/images/Monk.jpg"
+       alt="Monk"
+       style="width:150px; height:auto; border:2px solid #2f4f2f; border-radius:8px; padding:3px; display:inline-block;">
+
+  <div style="margin-top:8px; font-family:Georgia, serif; font-size:15px; font-style:italic; font-weight:bold; color:#0e2e0e;">
+    Just an unofficial monk.
+  </div>
+</div>
 
 
