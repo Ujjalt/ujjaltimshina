@@ -12,6 +12,16 @@ classes: wide
     A Little Piece of My Life
   </h2>
 
+  <div style="text-align:center; margin:20px 0 30px 0;">
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5e036da2886f9a7b49034cdd454ae15a9ac89c2c/images/Monk.jpg"
+       alt="Monk"
+       style="width:150px; height:auto; border:2px solid #2f4f2f; border-radius:8px; padding:3px; display:inline-block;">
+
+  <div style="margin-top:8px; font-family:Georgia, serif; font-size:15px; font-style:italic; font-weight:bold; color:#0e2e0e;">
+    Just an unofficial monk.
+  </div>
+</div>
+
   <p style="margin:0; color:#e8f5e8; text-align:center;">
     <em>
       I have lived so many moments worth remembering, some beautiful, some hilarious, like the time the three of us ended up lost in a jungle simply because we trusted one of our friends! Yet, I don't want to spend too much of today living in yesterday. So, I keep these little pieces of happiness here, memories I wish to revisit. The difficult ones, I simply keep to myself. Perhaps they are the little secrets behind all of this, and some secrets are better left unrevealed.
