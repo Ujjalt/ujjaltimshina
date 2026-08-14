@@ -148,15 +148,11 @@ author_profile: true
 
   <p>
     Whatever recognition I receive, a part of it will always belong to her.
-  </p>
-
-  <p style="margin-bottom:0;">
+<p style="margin-bottom:0;">
   And whenever you find yourself in Sikkim, you are always welcome. I would be happy
   to invite you home, where you can try some
-  <strong style="color:#e8f5e8;">homemade food prepared by her</strong>.
-  Write to me whenever you feel like it—I would be genuinely happy to hear from you,
-  whoever you are. I do things from my heart, always.
+  <strong style="color:#e8f5e8;">homemade food prepared by her</strong>—because, honestly,
+  I don't cook very well. 😊 Write to me whenever you feel like it; I would be genuinely
+  happy to hear from you, whoever you are, <strong style="color:#e8f5e8;">provided that I know you, haha.</strong>
 </p>
 </div>
-
-
