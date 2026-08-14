@@ -101,40 +101,40 @@ author_profile: true
 
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family:Georgia, serif; line-height:1.6;">
-<strong>First Prize — School Essay Competition (2015)</strong><br>
-Tikallal Niroula Senior Secondary School
 
-<p>
-  I am including this small school-level recognition because, for me, it meant much
-  more than the certificate itself. In 2015, when I was in Class 9, I was considered
-  a rather poor student. I had even failed one subject, Science, and somehow managed
-  to pass the class. I remember feeling quite dumb at the time. That same year, my school announced an essay competition. We were asked to write
-  an essay at home, in our own words, and submit it. I did not have a cellphone or
-  access to much of what students have today. I simply wrote whatever I could, in my
-  own words and with my very broken English, and submitted it.
-</p>
+  <strong>First Prize — School Essay Competition (2015)</strong><br>
+  Tikallal Niroula Senior Secondary School
 
-<p>
-  Much later, I realized something rather funny:
-  <strong style="color:#e8f5e8;">
-    I was actually the only student out of roughly 700 students who participated in
-    the competition.
-  </strong>
-  And somehow, I still stood first. Haha.
-  Looking back, that little recognition gave me an enormous amount of confidence.
-  It was one of those small moments that made me think that perhaps I was not as
-  incapable as I had believed. I decided to keep it here because, in many ways,
-  <strong style="color:#e8f5e8;">this was me—and this was one of the moments that
-  pushed me forward.</strong> <p style="margin-bottom:0;">
-  And something funny happened today. It is <strong style="color:#e8f5e8;">14 August</strong>
-  as I write this, and tomorrow is <strong style="color:#e8f5e8;">15 August</strong>.
-  I suddenly remembered that the result of this little competition was announced on
-  <strong style="color:#e8f5e8;">15 August 2015</strong>. Eleven years later, I am
-  sitting here remembering that boy who wrote an essay in his own broken English,
-  without a phone and with very little confidence, and somehow stood first.
-  Life is strange sometimes. 😊
-</p>
+  <p>
+    I am including this small school-level recognition because, for me, it meant much
+    more than the certificate itself. In 2015, when I was in Class 9, I was considered
+    a rather poor student. I had even failed Science and somehow managed to pass the
+    class, so I remember feeling quite dumb at the time. That same year, my school
+    announced an essay competition. We were asked to write an essay at home, in our own
+    words, and submit it. I did not have a cellphone or much access to anything that
+    could help me. I simply wrote what I could, in my own words and with my very broken
+    English, and submitted it.
+  </p>
 
+  <p>
+    Much later, I realized something rather funny. I was actually the only student out
+    of around 700 students who participated in the competition, and somehow, I still
+    stood first. Haha. Looking back, that little recognition gave me a lot of confidence.
+    It made me feel that perhaps I was not as incapable as I had thought. I decided to
+    keep this here because, in many ways, this was me. It was one of those small moments
+    that quietly pushed me forward.
+  </p>
+
+  <p style="margin-bottom:0;">
+    Something funny came back to me today. It is 14 August as I write this, and tomorrow
+    is 15 August. I suddenly remembered that the result was announced on
+    <strong style="color:#e8f5e8;">15 August 2015</strong>. Eleven years later, I am
+    sitting here remembering that boy who wrote an essay in his own broken English,
+    without a phone and without much confidence, and somehow stood first. Life is strange
+    sometimes. 😊
+  </p>
+
+</div>
 <!-- Mom -->
 
 
