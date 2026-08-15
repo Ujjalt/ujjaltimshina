@@ -47,16 +47,19 @@ author_profile: true
   <strong style="color:#e8f5e8;">no mind is so dark that it cannot radiate light.</strong>
 </p>
 
-  <p style="margin-bottom:0;">
-    Something funny came back to me today. It is 14 August as I write this, and tomorrow
-    is 15 August. I suddenly remembered that the result was announced on
-    <strong style="color:#e8f5e8;">15 August 2015</strong>. Eleven years later, I am
-    smiling at the memory of that boy who entered a competition, found out that he was
-    the only participant, and proudly came first. It was a very small victory, but
-    perhaps I needed that little bit of <strong style="color:#e8f5e8;">fake hope</strong>
-    more than I knew at the time. In many ways, <strong style="color:#e8f5e8;">this was
-    the beginning of my academic journey.</strong> 😊
-  </p>
+ <p style="margin-bottom:0;">
+  Something funny came back to me today. It is 14 August as I write this, and tomorrow
+  is 15 August. I suddenly remembered that the result was announced on
+  <strong style="color:#e8f5e8;">15 August 2015</strong>. Eleven years later, I am
+  smiling at the memory of that boy who entered a competition, found out that he was
+  the only participant, and proudly came first. It was a very small victory, but
+  perhaps I needed that little bit of <strong style="color:#e8f5e8;">fake hope</strong>
+  more than I knew at the time. Of course, it was never really the victory that
+  mattered; it was the <strong style="color:#e8f5e8;">hope</strong> it gave me.
+  I am not here simply to earn victories anyway. Things have come along the way,
+  and that little moment has now simply become a memory—one that I still smile
+  about eleven years later.
+</p>
 
 </div>
 <!-- Mom -->
