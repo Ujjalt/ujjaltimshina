@@ -22,7 +22,7 @@ teaching, grading</strong>, and other instructional activities associated with t
 After having taken on larger course-management and Lead TA responsibilities in previous
 semesters, it feels refreshing to return to the core experience of being a Teaching
 Assistant—focusing more directly on teaching, interacting with students, and learning
-from the faculty I work under.
+from the faculty I always love work under because I learn a lot.
 </p>
 </p>
 
