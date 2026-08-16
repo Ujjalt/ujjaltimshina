@@ -20,8 +20,7 @@ author_profile: true
   <p>
     I am including this small school-level recognition because, for me, it meant much
     more and this is the reason behind who I'm right now. In 2015, when I was in Class 9, I was considered
-    a rather poor student. I had even failed Science and somehow managed to pass the
-    class. I had even failed Science and somehow managed to pass the class, so I remember that I was considered dumb at the time. That same year, my school
+    a rather poor student. I had even failed Science and somehow managed to pass the class, so I remember that I was considered dumb at the time. That same year, my school
     announced an essay competition. We were asked to write an essay at home, in our own
     words, and submit it. I did not have a cellphone or much access to anything that
     could help me. I simply wrote what I could, in my own words and with my very broken
