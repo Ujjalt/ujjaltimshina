@@ -17,7 +17,13 @@ during the <strong style="color:#e8f5e8;">Monsoon 2026</strong> semester at
 This semester marks a somewhat different and special phase of my journey at IIIT Delhi.
 For the first time during my stay here, I am serving as a regular
 <strong style="color:#e8f5e8;">Teaching Assistant</strong>, rather than being involved in
-overall course management or serving as a Lead TA.
+overall course management or serving as a Lead TA. My responsibilities include conducting <strong style="color:#e8f5e8;">tutorials, classroom
+teaching, grading</strong>, and other instructional activities associated with the course.
+After having taken on larger course-management and Lead TA responsibilities in previous
+semesters, it feels refreshing to return to the core experience of being a Teaching
+Assistant—focusing more directly on teaching, interacting with students, and learning
+from the faculty I work under.
+</p>
 </p>
 
 <p>
@@ -29,14 +35,6 @@ opportunity to be around mathematicians whose work and teaching continue to shap
 own mathematical journey.
 </p>
 
-<p>
-My responsibilities include conducting <strong style="color:#e8f5e8;">tutorials, classroom
-teaching, grading</strong>, and other instructional activities associated with the course.
-After having taken on larger course-management and Lead TA responsibilities in previous
-semesters, it feels refreshing to return to the core experience of being a Teaching
-Assistant—focusing more directly on teaching, interacting with students, and learning
-from the faculty I work under.
-</p>
 
 <p>
 There is another reason why I keep finding myself working again and again with
