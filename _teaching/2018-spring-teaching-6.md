@@ -14,9 +14,6 @@ location: "New Delhi, India"
 <strong style="color:#e8f5e8;">MTH203: Mathematics III (Multivariate Calculus)</strong>
 during the <strong style="color:#e8f5e8;">Monsoon 2026</strong> semester at
 <strong style="color:#e8f5e8;">IIIT Delhi</strong>.
-</p>
-
-<p>
 This semester marks a somewhat different and special phase of my journey at IIIT Delhi.
 For the first time during my stay here, I am serving as a regular
 <strong style="color:#e8f5e8;">Teaching Assistant</strong>, rather than being involved in
