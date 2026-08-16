@@ -24,7 +24,7 @@ semesters, it feels refreshing to return to the core experience of being a Teach
 Assistant—focusing more directly on teaching, interacting with students, and learning
 from the faculty I always love work under because I learn a lot.
 </p>
-</p>
+
 
 <p>
 The department has appointed <strong style="color:#e8f5e8;">Dr. Jitendra</strong> and
