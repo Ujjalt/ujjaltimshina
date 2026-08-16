@@ -222,6 +222,10 @@ classes: wide
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/48fabfc3a78d714b38b636e71c94fbf97ce025de/images/RAM...jpeg"
      width="650"
      style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/9c70169de13f61a05c58e02c403b7fe575796b35/images/Math%20circle.jpg"
+     width="650"
+     style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 </div>
 
 <!-- ICMAM Latin America 2026 -->
