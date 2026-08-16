@@ -223,7 +223,7 @@ classes: wide
      width="650"
      style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/9c70169de13f61a05c58e02c403b7fe575796b35/images/Math%20circle.jpg"
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d55d67cbb9fd03d7b30b79fab63a086ac89b95d9/images/RAm.jpg"
      width="650"
      style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 </div>
