@@ -85,14 +85,21 @@ Truth is rarely seen at a single scale.
     <em>"Even without language, the world follows its own internal mathematics, and I'm trying to understand a fraction of it. Analysis appeals to me as a form of structured thought and I always think of and honour the ancestors who felt time for the first time irrespective of the fact that time was already there, watching them, feel it"</em>
   </div>
 
-  <div style="text-align:center; margin:20px 0 30px 0;">
+<div style="text-align:center; margin:20px 0 30px 0;">
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5e036da2886f9a7b49034cdd454ae15a9ac89c2c/images/Monk.jpg"
        alt="Monk"
        style="width:150px; height:auto; border:2px solid #2f4f2f; border-radius:8px; padding:3px; display:inline-block;">
 
-  <div style="margin-top:8px; font-family:Georgia, serif; font-size:15px; font-style:italic; font-weight:bold; color:#0e2e0e;">
+  <div style="
+    margin-top:8px;
+    font-family:Georgia, serif;
+    font-size:15px;
+    font-style:italic;
+    font-weight:bold;
+    color:#d8ecd2;
+  ">
     Just an unofficial monk.
-     </div>
+  </div>
 </div>
 
 <div style="margin-top: 14px; background:#f7f2e7; padding:16px 20px; border-left:6px solid #8c6d3a; border-radius:6px; font-family:Georgia, serif; font-size:15.5px; color:#1a3d1a;">
