@@ -92,7 +92,9 @@ Truth is rarely seen at a single scale.
 
   <div style="margin-top:8px; font-family:Georgia, serif; font-size:15px; font-style:italic; font-weight:bold; color:#0e2e0e;">
     Just an unofficial monk.
-    
+     </div>
+</div>
+
 <div style="margin-top: 14px; background:#f7f2e7; padding:16px 20px; border-left:6px solid #8c6d3a; border-radius:6px; font-family:Georgia, serif; font-size:15.5px; color:#1a3d1a;">
   <strong style="color: #1a3d1a;">This is my Automemoriomathography.
 
