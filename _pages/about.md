@@ -98,7 +98,6 @@ Truth is rarely seen at a single scale.
     font-weight:bold;
     color:#d8ecd2;
   ">
-    Just an unofficial monk.
   </div>
 </div>
 
@@ -277,6 +276,5 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
     font-weight:bold;
     color:#d8ecd2;
   ">
-    Again, just an unofficial monk.
   </div>
 </div>
