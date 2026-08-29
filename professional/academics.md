@@ -16,7 +16,7 @@ author_profile: true
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
   <strong style="color:#e8f5e8;">
-    Mentor (from August 2026), RAM Math Circle – Delhi Chapter
+    Instructor (from August 2026), RAM Math Circle – Delhi Chapter
   </strong><br>
 
   A collaborative initiative of the <strong style="color:#e8f5e8;">Raising A Mathematician Foundation</strong> and
