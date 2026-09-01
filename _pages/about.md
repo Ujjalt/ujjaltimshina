@@ -13,7 +13,7 @@ redirect_from:
 
   <div align="center" style="margin-top: -10px;">
 
-   <p style="font-size: 16px; color: #5A4634; margin-top: -10px;">Gangtok, Sikkim, India</p>
+   <p style="font-size: 16px; color: #d8ecd2; margin-top: -10px;">Gangtok, Sikkim, India</p>
   </div>
 
 
