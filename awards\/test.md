@@ -20,7 +20,7 @@ author_profile: true
 
 <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; margin-top:30px; margin-bottom:20px; text-align:center;">
   <strong style="font-size:24px;">
-    Fellowships and Academic Honors
+   Academic Honors
   </strong>
 </div>
 
