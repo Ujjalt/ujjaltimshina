@@ -24,13 +24,12 @@ author_profile: true
   </strong>
 </div>
 
-
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8;">
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8; font-family:Georgia, serif;">
   <strong>Distinguished TA Award</strong> — Presented on 8 September 2026 at the Annual Foundation Day Ceremony of Indraprastha Institute of Information Technology, Delhi, in recognition of outstanding contributions as a Teaching Assistant during the academic year 2025–26.
 </div>
 
 
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8;">
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8; font-family:Georgia, serif;">
   <strong>University Gold Medal</strong> — Awarded by the Honourable 15th President of India, Smt. Droupadi Murmu, for securing the highest CGPA (9.81) in M.Sc. Mathematics at Sikkim University (Batch: 2021-2023).
 
   <br><br>
@@ -72,23 +71,23 @@ author_profile: true
 </div>
 
 
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8; font-family:Georgia, serif;">
   <strong>DST INSPIRE Doctoral Fellowship</strong> — Department of Science and Technology, Government of India (2024).
 </div>
 
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8; font-family:Georgia, serif;">
   <strong>NEC Merit Scholarship</strong> — Government of India (2022–2023), awarded to meritorious students from the North Eastern Region.
 </div>
 
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8; font-family:Georgia, serif;">
   <strong>Merit-cum-Means Scholarship</strong> — Sikkim University (2021–2023), full freeship and fellowship support.
 </div>
 
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8; font-family:Georgia, serif;">
   <strong>Hon'ble Chief Minister's Financial Grant for Education</strong> — Government of Sikkim (2019-2023).
 </div>
 
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:30px; color:#e8f5e8;">
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8; font-family:Georgia, serif;">
   <strong>Post-Matric Merit Scholarship</strong> — Government of Sikkim (2022).
 </div>
 
@@ -98,11 +97,11 @@ author_profile: true
   </strong>
 </div>
 
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8; font-family:Georgia, serif;">
   <strong>Mathematical Excellence Award</strong> — Winner of the "Counterfactuals" Competition on National Mathematics Day, SVNIT Surat (2021 and 2022).
 </div>
 
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8; font-family:Georgia, serif;">
   <strong>Certificate of Merit</strong> — Awarded by the Cipla Foundation for outstanding academic performance in Classes 10 and 12.
 </div>
 
