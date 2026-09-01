@@ -35,36 +35,6 @@ opportunity to be around mathematicians whose work and teaching continue to shap
 own mathematical journey.
 </p>
 
-
-<p>
-There is another reason why I keep finding myself working again and again with
-<strong style="color:#e8f5e8;">Dr. Subhajit Sir</strong>. He does everything from the heart,
-and I genuinely love that. With him, I feel that I can learn mathematics freely—a kind of
-freedom that no one has ever made me feel before. I can ask questions, think aloud, get
-things wrong, change my mind, and simply enjoy the mathematics. He is a wonderful teacher,
-and I feel fortunate to have learned from him.
-I remember a small incident that perhaps says more about him than any formal description
-could. One day, a faculty member asked him,
-<em style="color:#e8f5e8;">“I see Ujjal with you all the time. What is the reason?”</em>
-He simply smiled and replied,
-<strong style="color:#e8f5e8;">“My colleagues are students.”</strong>
-</p>
-
-<p>
-I have carried that sentence with me ever since. There was no hierarchy in those words,
-only a beautiful idea of what it means to be a mathematician and a teacher. To him,
-students are not merely people who come to learn; they can be colleagues in the shared
-process of thinking, questioning, and discovering mathematics. Perhaps that is why I
-feel so comfortable around him. Subhajit Sir is currently a <strong style="color:#e8f5e8;">Visiting Professor</strong>,
-and I sincerely hope that I will get many more opportunities to work with him in the
-future. I have rarely come across a teacher who makes mathematics feel so free and so
-alive.
-</p>
-
-<p>
-For me, he is the <strong style="color:#e8f5e8;">Halmos of my life</strong>, not simply
-because of mathematics, but because of the way he lives it, shares it, and makes those
-around him feel that they too belong to the world of mathematics.
 </p>
 
 I am genuinely <strong style="color:#e8f5e8;">loving this experience</strong>. There are
