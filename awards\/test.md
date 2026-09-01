@@ -139,6 +139,12 @@ author_profile: true
   </strong>
 </div>
 
+
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8;">
+  <strong>Distinguished TA Award</strong> — Awarded for outstanding performance as a Teaching Assistant in Linear Algebra and ODE/PDEs, selected in two consecutive semesters during the academic year 2025–26. Presented on 8th September 2026 during the Annual Foundation Day ceremony at Indraprastha Institute of Information Technology, Delhi.
+</div>
+
+
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8;">
   <strong>University Gold Medal</strong> — Awarded by the Honourable 15th President of India, Smt. Droupadi Murmu, for securing the highest CGPA (9.81) in M.Sc. Mathematics at Sikkim University (Batch: 2021-2023).
 
