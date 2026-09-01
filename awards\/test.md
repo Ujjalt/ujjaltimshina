@@ -26,7 +26,7 @@ author_profile: true
 
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8;">
-  <strong>Distinguished TA Award</strong> — Awarded for outstanding performance as a Teaching Assistant in Linear Algebra and ODE/PDEs in two consecutive semesters during the academic year 2025–26. Will be presented on 8th September 2026 during the Annual Foundation Day ceremony at Indraprastha Institute of Information Technology, Delhi.
+  <strong>Distinguished TA Award</strong> — Presented on 8 September 2026 at the Annual Foundation Day Ceremony of Indraprastha Institute of Information Technology, Delhi, in recognition of outstanding contributions as a Teaching Assistant during the academic year 2025–26.
 </div>
 
 
