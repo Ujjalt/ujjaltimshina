@@ -253,6 +253,11 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5e036da2886f9a7b49034cdd454ae15a9ac89c2c/images/Monk.jpg"
        alt="Monk"
        style="width:150px; height:auto; border:2px solid #2f4f2f; border-radius:8px; padding:3px; display:inline-block;">
+  <div style="margin-top:8px; font-style:italic; color:#555;">
+    Just an unofficial monk
+  </div>
+</div>
+
 
   <div style="
     margin-top:8px;
