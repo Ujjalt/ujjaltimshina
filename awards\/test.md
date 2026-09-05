@@ -26,7 +26,14 @@ author_profile: true
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8; font-family:Georgia, serif;">
   <strong>Distinguished TA Award</strong> — Recognized as a Distinguished Teaching Assistant and will be presented with the Distinguished TA Award on 8 September 2026 at the Annual Foundation Day Ceremony of Indraprastha Institute of Information Technology, Delhi, in recognition of contributions as a Teaching Assistant during the academic year 2025–26.
+
+  <div style="text-align:center; margin-top:15px;">
+    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ffe893312e923d4124affcc02a636d621484867d/images/Foundation.jpg"
+         alt="Distinguished TA Award"
+         style="width:400px; max-width:100%; height:auto; border-radius:6px;">
+  </div>
 </div>
+
 
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8; font-family:Georgia, serif;">
