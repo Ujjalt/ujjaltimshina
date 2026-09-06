@@ -156,13 +156,17 @@ classes: wide
 
   <h3 style="font-family: 'Georgia', serif; color:#e8f5e8; text-align:center;">Teachers' Day Celebration – Department of Mathematics</h3>
 
-  <p style="font-family: 'Georgia', serif; color:#e8f5e8;">
-    We are already grown up PhDs, but coming together in the department for the very first time, probably to celebrate a small Teachers' Day. I saw everyone doing things from the heart, including me. Most of the people I know from my B.Sc. and M.Sc. days are now teachers in schools or assistant professors at various places. And here I am, still celebrating Teachers' Day, and I want to do it forever and ever.
+ <p style="font-family: 'Georgia', serif; color:#e8f5e8;">
+    We are already grown up PhDs but coming together in the department for the very first time, probably to celebrate a small Teachers' Day. I saw everyone doing things from the heart, and including me. Most of my batchmates from M.Sc and B.Sc are already teachers in some schools and are assistant professors at different places, and I'm here still celebrating a Teachers' Day, and I want to do it forever and ever.
   </p>
 
   <p style="font-family: 'Georgia', serif; color:#e8f5e8;">
-    This day was filled with deep fun and laughter, especially during a game of Tambola, which I played for the first time. Initially, I kept getting numbers and thought I might win, but in the end, I won nothing but my Tambola sheet. Yet, I felt so light and, for the very first time, felt like I'm also a part of this small family in the department.
+    Why I mentioned that most of them are teachers is because they, alongside me, saw posts of many of my colleagues who posted their celebrations as faculty, and I posted the celebration as a student, and so I loved the moments. This was a deep fun and laughter, especially in something called Tambola, which I played for the first time. Initially, I was getting a number and thought that I would win, but then I won nothing but a sheet of Tambola.
   </p>
+   <p style="font-family: 'Georgia', serif; color:#e8f5e8; text-align: center; font-style: italic; font-size: 1.1em; background: rgba(255,255,255,0.05); padding: 12px; border-radius: 8px; border-left: 4px solid #e8f5e8;">
+    "Doing things deeply from heart always increases my comfort zone."
+  </p>
+
 
   <p style="font-family: 'Georgia', serif; color:#e8f5e8; text-align: center; font-size: 1.2em;">
     <strong>Quote of the Day:</strong><br>
