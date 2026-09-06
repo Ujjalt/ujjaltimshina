@@ -712,11 +712,16 @@ Anyways, a quiet night ride with a song playing in the background. These may see
     <p style="color:#e8f5e8;">Govt. Senior Secondary School, Darap, Government of Sikkim, Under DST, Government of Sikkim — 2023</p>
   </div>
 
-  <!-- Darap Images -->
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/dc93d5c66929191e1ad1e245cdf278a9dc9a9976/images/Darimdin.jpeg" width="650" style="border-radius:12px; border:3px solid #e8f5e8; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
-    <img src="https://github.com/Ujjalt/ujjaltimshina/blob/c246561d4bdb9eb1e8e2b5d94669cae6730a7e76/images/485347857_1088605289948545_7360760875657371706_n.jpg" width="650" style="border-radius:12px; border:3px solid #e8f5e8; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
-  </div>
+ <!-- Darap Images -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/dc93d5c66929191e1ad1e245cdf278a9dc9a9976/images/Darimdin.jpeg" 
+       width="650" 
+       style="border-radius:12px; border:3px solid #e8f5e8; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+  
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/c246561d4bdb9eb1e8e2b5d94669cae6730a7e76/images/485347857_1088605289948545_7360760875657371706_n.jpg" 
+       width="650" 
+       style="border-radius:12px; border:3px solid #e8f5e8; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+</div>
 
   <!-- CREST School 2022 -->
   <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
