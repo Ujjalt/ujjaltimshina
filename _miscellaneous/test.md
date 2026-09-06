@@ -1514,8 +1514,14 @@ classes: wide
   <p style="font-family:'Georgia',serif; color:#e8f5e8; line-height:1.8; margin:0;">
     The above photograph was taken on the occasion of his retirement as a teacher from the very same school where I had my own schooling. There is something deeply meaningful about that coincidence. The place where I once began my own journey as a student became the place where he eventually completed an important chapter of his journey as a teacher. And perhaps that is why this photograph feels less like a photograph of a retirement and more like a photograph of a connection between two journeys—his, which influenced mine in ways I may never be able to fully measure, and mine, which continues to unfold.
   </p>
-
 </div>
+
+
+  <hr style="width:60%; margin:24px auto; border:none; border-top:1px solid #b8cdb8;">
+
+  <p style="margin:0; font-family:Georgia, serif; font-weight:bold; color:#2f4f2f; font-size:1.05em;">
+    Mountains. Solitude. Breath. Peace.
+  </p>
 
 </div>
 <!-- End Main Container -->
