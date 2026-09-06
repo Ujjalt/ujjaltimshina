@@ -518,59 +518,59 @@ Anyways, a quiet night ride with a song playing in the background. These may see
 <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; flex-wrap:nowrap; gap:10px; padding:5px 0 15px 0; scrollbar-width:thin;">
 
   <!-- Photograph 1 -->
-  <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+  <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-7.jpeg"
          alt="Sikkim University Convocation"
-         style="display:block; width:100%; max-width:650px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
+         style="display:block; width:100%; max-width:500px; height:auto; max-height:600px; object-fit:contain; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
   </div>
 
   <!-- Photograph 2 -->
-  <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+  <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-1.jpeg"
          alt="Sikkim University Convocation"
-         style="display:block; width:100%; max-width:650px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
+         style="display:block; width:100%; max-width:500px; height:auto; max-height:600px; object-fit:contain; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
   </div>
 
   <!-- Photograph 3 -->
-  <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+  <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-2.jpeg"
          alt="Sikkim University Convocation"
-         style="display:block; width:100%; max-width:650px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
+         style="display:block; width:100%; max-width:500px; height:auto; max-height:600px; object-fit:contain; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
   </div>
 
   <!-- Photograph 4 -->
-  <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+  <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-3.jpeg"
          alt="Sikkim University Convocation"
-         style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+         style="display:block; width:100%; max-width:500px; height:auto; max-height:600px; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
   </div>
 
   <!-- Photograph 5 -->
-  <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+  <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-4.jpeg"
          alt="Sikkim University Convocation"
-         style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+         style="display:block; width:100%; max-width:500px; height:auto; max-height:600px; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
   </div>
 
   <!-- Photograph 6 -->
-  <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+  <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-6.jpeg"
          alt="Sikkim University Convocation"
-         style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+         style="display:block; width:100%; max-width:500px; height:auto; max-height:600px; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
   </div>
 
   <!-- Photograph 7 -->
-  <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+  <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/a2e6fcc89dc0e5e06cd2c5eff80ecd6616031d3a/images/AAA-8.jpeg"
          alt="Sikkim University Convocation"
-         style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+         style="display:block; width:100%; max-width:500px; height:auto; max-height:600px; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
   </div>
 
   <!-- Photograph 8 -->
-  <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+  <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7a23c3c32b0e3341ac607fe5e3657803518bf831/images/MM.jpg"
          alt="Manan Kendra"
-         style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+         style="display:block; width:100%; max-width:500px; height:auto; max-height:600px; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
   </div>
 
 </div>
