@@ -22,6 +22,12 @@ classes: wide
   </div>
 </div>
 
+<!-- Scroll Indicator for Laptop Users -->
+<div style="text-align:center; margin:15px 0 5px 0; font-family:Georgia, serif; font-size:13px; color:#777; font-style:italic; border-top:1px dashed #2f4f2f; padding-top:12px;">
+    <span style="background:#0e2e0e; padding:0 10px; color:#e8f5e8;">🖱️ Please scroll from laptop for better writeup view</span>
+</div>
+
+</div>
   <p style="margin:0; color:#e8f5e8; text-align:center;">
     <em>
       I have lived so many moments worth remembering, some beautiful, some hilarious, like the time the three of us ended up lost in a jungle simply because we trusted one of our friends! Yet, I don't want to spend too much of today living in yesterday. So, I keep these little pieces of happiness here, memories I wish to revisit. The difficult ones, I simply keep to myself. Perhaps they are the little secrets behind all of this, and some secrets are better left unrevealed.
@@ -1301,135 +1307,350 @@ Anyways, a quiet night ride with a song playing in the background. These may see
 <!-- Main Container -->
 <div style="max-width:800px; margin:0 auto; padding:0 15px; box-sizing:border-box;">
 
-<!-- Yeti Himalayan Kitchen Section -->
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family:'Georgia',serif;">
-  <h3 style="font-family:'Georgia',serif; color:#e8f5e8; margin-top:0; word-wrap:break-word;">Yeti Himalayan Kitchen, East of Kailash, New Delhi</h3>
-  <p align="center"><strong style="font-family:'Georgia',serif; color:#e8f5e8;">7th May 2026</strong></p>
-  <p style="font-family:'Georgia',serif; color:#e8f5e8; line-height:1.8; word-wrap:break-word;">
-    A memorable day after completing my TA responsibilities under Dr. Subhajit Ghosechowdhury in the Differential Equations course, and of course after the very classic and unforgettable course on RKHS with him. This visit to Yeti Himalayan Kitchen will always stay close to my heart.
-  </p>
-</div>
+ <!-- Yeti Himalayan Kitchen Section -->
+  <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+    <h3 style="color:#e8f5e8; margin-top:0;">Yeti Himalayan Kitchen, East of Kailash, New Delhi</h3>
+    <p align="center"><strong style="color:#e8f5e8;">7th May 2026</strong></p>
+        <p style="color:#e8f5e8;">
+      A memorable day after completing my TA responsibilities under Dr. Subhajit Ghosechowdhury in the Differential Equations course,
+      and of course after the very classic and unforgettable course on RKHS with him. This visit to Yeti Himalayan Kitchen will always 
+      stay close to my heart.
+    </p>
+  </div>
 
-<!-- Yeti Himalayan Kitchen Gallery -->
-<div align="center" style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center; margin-bottom:20px;">
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/088479e4f768457dfc55c20e900328d8be0548f5/images/SG-1.jpeg" 
-       style="width:100%; max-width:200px; border:2px solid #e8f5e8; border-radius:10px; height:auto;" />
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/088479e4f768457dfc55c20e900328d8be0548f5/images/SG-2.jpeg" 
-       style="width:100%; max-width:200px; border:2px solid #e8f5e8; border-radius:10px; height:auto;" />
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/088479e4f768457dfc55c20e900328d8be0548f5/images/SG-3.jpeg" 
-       style="width:100%; max-width:200px; border:2px solid #e8f5e8; border-radius:10px; height:auto;" />
-</div>
-
+  <!-- Yeti Himalayan Kitchen Gallery -->
+  <div align="center" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
+    <img src="https://github.com/Ujjalt/ujjaltimshina/blob/088479e4f768457dfc55c20e900328d8be0548f5/images/SG-1.jpeg?raw=true" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
+    <img src="https://github.com/Ujjalt/ujjaltimshina/blob/088479e4f768457dfc55c20e900328d8be0548f5/images/SG-2.jpeg?raw=true" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
+    <img src="https://github.com/Ujjalt/ujjaltimshina/blob/088479e4f768457dfc55c20e900328d8be0548f5/images/SG-3.jpeg?raw=true" width="200" style="border:2px solid #e8f5e8; border-radius:10px;" />
+  </div>
+  
 <!-- Al Jawahar Restaurant Section -->
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family:'Georgia',serif;">
-  <h3 style="font-family:'Georgia',serif; color:#e8f5e8; margin-top:0; word-wrap:break-word;">Al Jawahar Restaurant, Jama Masjid, Delhi</h3>
-  <p align="center"><strong style="font-family:'Georgia',serif; color:#e8f5e8;">13th June 2026 (Saturday)</strong></p>
-  <p style="font-family:'Georgia',serif; color:#e8f5e8; line-height:1.8; word-wrap:break-word;">
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family: 'Georgia', serif;">
+  <h3 style="font-family: 'Georgia', serif; color:#e8f5e8; margin-top:0;">Al Jawahar Restaurant, Jama Masjid, Delhi</h3>
+  <p align="center"><strong style="font-family: 'Georgia', serif; color:#e8f5e8;">13th June 2026 (Saturday)</strong></p>
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     A pleasant escape from the institute's Saturday khichri dinner, which none of us particularly enjoy. Along with Pankaj and Subhankar (who have already appeared in previous memories here 😄) and Sujit, a mathematics graduate from the University of Delhi spending a month as an intern under my supervisor, I visited the iconic Al Jawahar near Jama Masjid. While Pankaj stayed loyal to vegetarian food, the rest of us enjoyed Chicken Afghani Gravy, Chicken Tikka, and tandoori rotis that turned out to be much heavier than expected. The evening became even more memorable on the journey back when Sujit and Pankaj accidentally missed getting off at Govindpuri and continued to Harkesh Nagar. Subhankar and I spent quite some time laughing at what seemed like an unfortunate mistake, only to discover that the usually closed late-night gate to the campus was open, allowing them an easy return. A small disappointment for us, but a very amusing memory nonetheless.
   </p>
 </div>
-
 <!-- Al Jawahar Restaurant Gallery -->
-<div align="center" style="margin-bottom:20px;">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/0be5641ed4a8f30fb4224a7ea9e269ba12792336/images/Jama%20Masjid.jpg"
-       style="width:100%; max-width:400px; border:2px solid #e8f5e8; border-radius:10px; height:auto;" />
+       width="400"
+       style="border:2px solid #e8f5e8; border-radius:10px;" />
 </div>
 
+
 <!-- Jaipur Section -->
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family:'Georgia',serif;">
-  <h3 style="font-family:'Georgia',serif; color:#e8f5e8; margin-top:0; word-wrap:break-word;">Jaipur, Rajasthan, India</h3>
-  <p align="center"><strong style="font-family:'Georgia',serif; color:#e8f5e8;">18th–19th July 2026</strong></p>
-  <p style="font-family:'Georgia',serif; color:#e8f5e8; line-height:1.8; word-wrap:break-word;">
+
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+
+  <h3 style="color:#e8f5e8; margin-top:0;">
+    Jaipur, Rajasthan, India
+  </h3>
+
+  <p align="center">
+    <strong style="color:#e8f5e8;">18th–19th July 2026</strong>
+  </p>
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     Jaipur, the Pink City of India, beautifully blends royal history, vibrant culture, magnificent forts, colorful markets, and delicious traditional cuisine. Rather than trying to know every page of its history, I simply wanted to experience the city in my own way. This memorable two-day trip was explored together with my friends <strong>Soumin, Mahesh, and Amrut</strong>, with Amrut leading our entire journey.
     <br><br>
     Like every good adventure, ours began with a last-minute rush. Our train was scheduled to leave at <strong>5:25 PM on Friday evening</strong>, and we were literally running through the metro station to catch it. The funniest moment came when Soumin accidentally stepped onto an escalator that was moving downward while he was trying to go up. Watching him struggle with all his determination while the escalator kept bringing him back down had all of us laughing uncontrollably. Somehow, we managed to board the train just in time.
     <br><br>
     Over the next two days, we wandered through Jaipur's beautiful streets, admired its architectural wonders, enjoyed its rich culinary heritage, and created memories that will stay with us for years. Every journey becomes special because of the people you travel with, and this one was no exception. We returned yesterday on an overnight bus, reaching back around <strong>5:00 AM</strong>, tired but carrying countless unforgettable memories.
-  </p>
-</div>
+</p>
 
 <!-- Swipeable Jaipur Image Gallery -->
+
 <div style="width:100%; max-width:750px; margin:0 auto 30px auto;">
-  <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; gap:20px; padding:5px 0 15px 0; scrollbar-width:thin; -webkit-overflow-scrolling:touch;">
+
+  <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; gap:20px; padding:5px 0 15px 0; scrollbar-width:thin;">
+    <!-- Photograph 1 -->
     <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-6.jpeg" style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15); height:auto;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-6.jpeg"
+           alt="Jaipur Photograph 1"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
+    <!-- Photograph 2 -->
     <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-5.jpeg" style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15); height:auto;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-5.jpeg"
+           alt="Jaipur Photograph 2"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
+    <!-- Photograph 3 -->
     <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-4.jpeg" style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15); height:auto;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-4.jpeg"
+           alt="Jaipur Photograph 3"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
+    <!-- Photograph 4 -->
     <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-3.jpeg" style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15); height:auto;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-3.jpeg"
+           alt="Jaipur Photograph 4"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
+    <!-- Photograph 5 -->
     <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-2.jpeg" style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15); height:auto;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-2.jpeg"
+           alt="Jaipur Photograph 5"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
+    <!-- Photograph 6 -->
     <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-1.jpeg" style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15); height:auto;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/58a6afecc95b225330b499c6665693150ea3f964/images/R-1.jpeg"
+           alt="Jaipur Photograph 6"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
+
   </div>
-  <p style="font-family:Georgia,serif; font-size:0.9em; color:#777; text-align:center; margin:5px 0 25px 0;">← Swipe or scroll sideways to view the other photographs →</p>
+
+  <!-- Swipe Indicator -->
+
+  <p style="font-family:Georgia, serif; font-size:0.9em; color:#777; text-align:center; margin:5px 0 25px 0;">
+    ← Swipe or scroll sideways to view the other photographs →
+  </p>
+
 </div>
 
+
+  <h3 style="color:#e8f5e8; margin-top:0;">
+    THE HOUSE OF CUISINE
+  </h3>
+
+  <p style="color:#e8f5e8; text-align:center; font-style:italic;">
+    9 August 2026
+  </p>
+
 <!-- The House of Cuisine -->
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family:'Georgia',serif;">
-  <h3 style="font-family:'Georgia',serif; color:#e8f5e8; margin-top:0; word-wrap:break-word;">THE HOUSE OF CUISINE</h3>
-  <p style="color:#e8f5e8; text-align:center; font-style:italic;">9 August 2026</p>
-  
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+
+<!-- Photograph -->
+<div style="font-family: 'Georgia', serif;">
+
   <div style="width:100%; max-width:750px; margin:0 auto 20px auto; text-align:center;">
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/c896d2490fb7173d3fa90debc24e553f9f6b7f82/images/IMG_7821.jpeg"
          alt="An evening at The House of Cuisine"
          style="width:100%; height:auto; border-radius:8px; display:block;">
   </div>
 
-  <p style="font-family:'Georgia',serif; color:#e8f5e8; line-height:1.8; word-wrap:break-word;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     Sometimes, choosing a restaurant for a group feels like taking a small personal risk. I have a history of selecting restaurants that do not always turn out to be particularly successful for the people I take along. So, when I selected <strong>The House of Cuisine Restaurants and Cafes</strong> this time, I already had a similar thought somewhere in the back of my mind.
   </p>
-  <!-- (Keep all remaining paragraphs for The House of Cuisine as they are, just add word-wrap:break-word and line-height:1.8) -->
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    I even warned everyone in my department beforehand, <em>"Please do not blame me if this turns out to be the worst place you have ever eaten."</em>
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    We had to walk for a while after getting off the metro. By the time we finally reached the place, the reaction from almost everyone was immediate. Just looking at the restaurant from outside, they said, <em>"Let's not go here."</em> Honestly, I was thinking exactly the same thing. But after having walked all that way, we decided to at least go inside and see.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    The tables were already full. We were told that we would have to wait for about six minutes, so while waiting, we started looking around for other places where we could eat.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    And then came the unexpected turn.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    At some point, one of the staff members asked us, <em>"Is this your first time here?"</em> We said yes. He then offered us some momos to taste before we actually ordered anything.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    That small gesture completely changed the evening. Everyone liked the momos so much that, instead of leaving and searching for another place, we decided to stay and eat there itself. I remember feeling genuinely relieved and, more than that, pleasantly surprised. Once again, my questionable restaurant selection reputation had narrowly survived.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    But what made the evening special was not really the food. It was the people I was sharing it with.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    This was my <strong>welcome treat to my academic sister, Sonali</strong>, who had recently joined my advisor for her PhD. It felt special to have her there and to mark this new beginning together.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    It was also wonderful to spend time with <strong>Shivani</strong>, with whom I had the opportunity to work as a TA. Working with her was a genuinely fantastic experience, and it was nice to sit together outside the usual academic setting and simply enjoy an evening.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    Then there was <strong>Satya</strong>, with whom I had my Agra trip. He is also the person who, quite remarkably, was the first one in the department to ask me, <em>"How are you?"</em> and <em>"How is it going?"</em> These questions may sound ordinary, but sometimes they mean much more than we realize. I hope I remember that kindness for a long time.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    And then there was <strong>Mahesh</strong>, whose energy is almost impossible to miss. Mahesh, if you are reading this someday, I will probably remember you with <strong>ghee paratha</strong>. Consider that a small inside joke preserved here for the future.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    He was also one of the people who witnessed a rather different version of me. When I first joined IIIT Delhi, I was a very different Ujjal. Over time, somehow, I transformed from the Ujjal of my first semester into the Ujjal who sat at that table that evening. Perhaps Mahesh noticed that transformation more clearly than most.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    Looking back, what makes this evening memorable is almost the opposite of how it began. We arrived expecting disappointment. We were ready to leave. We had already started searching for alternatives.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    And yet, sometimes, the places we almost walk away from become the places where the best memories quietly begin.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    Perhaps that is what I will remember most about this evening. Not simply that the momos were good, or that the restaurant turned out to be better than we expected, but that a group of people from my department walked a little farther than necessary, almost gave up on the place, and somehow ended up creating an evening worth remembering.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8; margin-bottom:0;">
+    And, for once, I am glad nobody had to blame me for choosing the restaurant.
+  </p>
+
 </div>
 
+<!-- Why I Shared These Memories -->
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family: 'Georgia', serif;">
+
+  <h3 style="font-family: 'Georgia', serif; color:#e8f5e8; margin-top:0;">
+    WHY I SHARED THESE MEMORIES
+  </h3>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    You may wonder why I have shared so many personal memories, photographs, people, places, and fragments of my life here. The reason is simple. When I look back at these years, I can see a transformation in myself that I may not have noticed while it was happening.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    What I was before is, in many ways, recorded in my book <em>Beyond Answers: The Beauty of Mathematical Questions</em>. It is often described as a book about mathematics, but I do not really think of it as a mathematical book. In fact, perhaps it cannot be a mathematical book in the conventional sense, because I have always felt that <strong>life is mathematics, and mathematics is life.</strong>
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    Mathematics is not merely something we write on paper or study in classrooms. It is one of the ways through which we understand the world. We use it to build bridges, send satellites into space, model the environment, communicate information, understand nature, and describe patterns that existed long before we gave them names. In some sense, mathematics is a language through which we interact with the universe, while the universe constantly gives us mathematics in return.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    That book therefore records a version of me who was searching for questions, meaning, and beauty through mathematics. It preserves something of who I was then.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    These pages are different. They record where I am now.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    The people I have met, the places I have travelled, the friendships I have made, the family who has stood beside me, the academic environments that shaped me, the moments that made me laugh, the moments that made me think, and even the experiences that changed the way I see the world have all contributed to the person I have become.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    Perhaps that is why I wanted these memories to exist somewhere outside my own mind. Not because every moment was extraordinary, but because together they tell a story of change. They show not only what I have achieved, but also who I have become along the way.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    And when I look at all of it now, I realise something rather simple.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; text-align:center; font-style:italic; font-size:20px; line-height:1.9; margin-top:20px;">
+    I simply love my life.<br>
+    And I love the person I have become.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8; margin-bottom:0;">
+    Perhaps these pages are my way of saying thank you to that journey.
+  </p>
+
+</div>
+
+
 <!-- Closing Reflection -->
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family:'Georgia',serif;">
-  <h3 style="font-family:'Georgia',serif; color:#e8f5e8; margin-top:0; word-wrap:break-word;">THANK YOU FOR YOUR TIME</h3>
-  <p align="center"><strong style="font-family:'Georgia',serif; color:#e8f5e8;">A small reflection before you leave.</strong></p>
-  <p style="font-family:'Georgia',serif; color:#e8f5e8; text-align:center; font-style:italic; font-size:18px; line-height:1.9; word-wrap:break-word;">
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+  <h3 style="color:#e8f5e8; margin-top:0;">THANK YOU FOR YOUR TIME</h3>
+
+  <p align="center">
+    <strong style="color:#e8f5e8;">A small reflection before you leave.</strong>
+  </p>
+
+  <p style="color:#e8f5e8; text-align:center; font-style:italic; font-size:18px; line-height:1.9;">
     “I love the world as deeply as I love myself.<br>
     Just as I have very little to hide from myself,<br>
     I have very little to hide from the world.”
   </p>
-  <p style="font-family:'Georgia',serif; color:#e8f5e8; text-align:center; line-height:1.8; word-wrap:break-word;">
-    One day, this youthful energy will quietly fade, as it does for everyone. My hair will turn grey, my body will grow older, and my footsteps will become slower. Yet I hope that curiosity, kindness, and the joy of learning remain unchanged. If these pages preserve even a small part of who I am today, they will have served their purpose.
+
+  <p style="color:#e8f5e8; text-align:center; line-height:1.8; margin-top:20px;">
+    One day, this youthful energy will quietly fade, as it does for everyone.
+    My hair will turn grey, my body will grow older, and my footsteps will become slower.
+    Yet I hope that curiosity, kindness, and the joy of learning remain unchanged.
+    If these pages preserve even a small part of who I am today, they will have served their purpose.
   </p>
 </div>
 
 <!-- Personal Photograph -->
 <div align="center" style="margin-bottom:25px;">
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7aa2f35934cb5292d6b8e172e95cb04dfdc79fc3/images/fav.%20picture.jpg"
-       style="width:100%; max-width:420px; border:3px solid #e8f5e8; border-radius:12px; box-shadow:0 0 12px rgba(0,0,0,0.35); height:auto;" />
+  <img
+    src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/7aa2f35934cb5292d6b8e172e95cb04dfdc79fc3/images/fav.%20picture.jpg"
+    width="420"
+    style="border:3px solid #e8f5e8; border-radius:12px; box-shadow:0 0 12px rgba(0,0,0,0.35);" />
 </div>
 
-<!-- Thulaba Section -->
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family:'Georgia',serif;">
-  <p style="font-family:'Georgia',serif; color:#e8f5e8; line-height:1.8; font-style:italic; word-wrap:break-word;">
+
+
+<!-- Thulaba -->
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+
+  <!-- Reflection Before Thulaba -->
+  <p style="color:#e8f5e8; line-height:1.8; font-style:italic; margin-top:0;">
     I chose to place this after the closing reflection because, to me, he is one of the real heroes of my life. Real heroes rarely stand at the centre of the story. They remain quietly in the background, often without even knowing how deeply their actions, values, and guidance are shaping someone. They do not create dependence; they help a person become capable of standing independently. And perhaps that is the greatest kind of influence anyone can have on another life.
   </p>
-  
-  <h3 style="font-family:'Georgia',serif; color:#e8f5e8; margin-top:25px; word-wrap:break-word;">THULABA</h3>
-  <p style="font-family:'Georgia',serif; color:#e8f5e8; text-align:center; font-style:italic;">A father figure, a guide, and one of the heroes of my life</p>
-  
+
+  <h3 style="color:#e8f5e8; margin-top:25px;">
+    THULABA
+  </h3>
+
+  <p style="color:#e8f5e8; text-align:center; font-style:italic;">
+    A father figure, a guide, and one of the heroes of my life
+  </p>
+
+  <!-- Photograph -->
   <div style="width:100%; max-width:750px; margin:20px auto;">
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8db3f9fb8d4ef96bc980cbb72e81bb085d361b20/images/thulaba.jpg"
          alt="Thulaba, one of the greatest influences on my life"
          style="width:100%; height:auto; border-radius:8px; display:block;">
   </div>
 
-  <p style="font-family:'Georgia',serif; color:#e8f5e8; line-height:1.8; word-wrap:break-word;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     There are people whose influence on our lives cannot be adequately described by a formal relationship. They may not be our parents by birth, but they can nevertheless become parental figures in the ways that truly matter. For me, he is one of those people.
-  </p>
-  <!-- (Keep all remaining paragraphs for Thulaba as they are, just add word-wrap:break-word and line-height:1.8) -->
-</div>
+</p>
 
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    I call him <strong>Thulaba</strong>. He is my mother's sister's husband, but to me, he has always been much more than simply a relative. He is one of the real heroes behind my journey into academia and one of the people who taught me to value learning and intellectual life.
+</p>
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    He taught me so many things about life, about people, about responsibility, perseverance, and most importantly, about <strong>karma</strong>. He taught me to respect work for its own sake, to do things sincerely, and to keep moving forward without constantly measuring everything by what I would receive in return.
+</p>
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    His influence also played an important role in helping me discover and eventually love academia. He helped me see education not merely as a means of earning a living, but as a way of thinking, questioning, learning, and contributing something meaningful to the world.
+</p>
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    Sometimes I wonder how different my life might have been without his guidance. Perhaps I would be writing an entirely different story today. I might have been sharing stories of being a taxi driver instead. And honestly, that would have been another story altogether.
+</p>
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    There is dignity in every honest profession, and I do not say this to compare one life with another. I say it because life can take us in directions we never anticipate. I was fortunate to have someone who helped me recognise a path that eventually led me toward mathematics and academia, a world that I now genuinely love.
+</p>
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    When I look at this photograph, I see much more than a family member. I see someone whose advice, values, and presence quietly stand behind many of the chapters I have written here.
+</p>
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    My degrees, my research, my teaching, my writing, and whatever I may accomplish in the future carry my name, but the journey behind them belongs to many people. Thulaba is one of those people who helped shape that journey long before I fully understood where it was taking me.
+</p>
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    If I have learnt to love academia, to respect honest work, and to continue doing my <em>karma</em> with sincerity, without constantly asking what I will receive in return, then a significant part of that lesson came from him. For that, I will always remain deeply grateful.
+</p>
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8; margin-bottom:0;">
+    And perhaps there is one more reason this photograph feels particularly meaningful to me now. As I have grown older and moved deeper into academia, I have sometimes found myself recognising the same qualities I learnt from Thulaba in people I meet along my own academic journey. In particular, I see something of him in <strong>Subhajit Sir</strong>—in the way he approaches mathematics, responsibility, guidance, and the growth of those around him. It is a strange and beautiful feeling to realise that the values someone once quietly planted in you can later help you recognise the same qualities in someone else.
+</p>
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8;">
+    The above photograph was taken on the occasion of his retirement as a teacher from the very same school where I had my own schooling.
+</p>
 </div>
-<!-- End Main Container -->
