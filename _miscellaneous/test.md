@@ -17,7 +17,7 @@ classes: wide
          alt="Monk"
          style="width:150px; height:auto; border:2px solid #2f4f2f; border-radius:8px; padding:3px; display:inline-block;">
     
-    <div style="margin-top:8px; font-family:Georgia, serif; font-size:15px; font-style:italic; font-weight:bold; color:#e8f5e8;">
+   <div style="margin-top:8px; font-family:Georgia, serif; font-size:15px; font-style:italic; font-weight:bold; color:#e8f5e8;">
       Just an unofficial monk.
     </div>
   </div>
@@ -60,15 +60,13 @@ classes: wide
 
   <!-- Centered Horizontal Scroll Gallery -->
   <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; scrollbar-width:thin; -webkit-overflow-scrolling:touch;">
-
     <!-- Image 1 -->
     <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
       <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8f567bc25abca7dd76d51b8721fdcc6fa1dd421a/images/Driving-1.jpeg"
            alt="Night drive"
            style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
-
-    <!-- Image 2 -->
+  <!-- Image 2 -->
     <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
       <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8f567bc25abca7dd76d51b8721fdcc6fa1dd421a/images/driving.jpg"
            alt="Relaxing night drive"
@@ -254,19 +252,18 @@ classes: wide
          alt="RAM Session 2"
          style="width:100%; max-width:650px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0; height:auto; display:block;" />
 
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d217dff067038c61c61e5dcf60de1930ed1488a7/images/RAM-3.jpeg"
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d217dff067038c61c61e5dcf60de1930ed1488a7/images/RAM-3.jpeg"
          alt="RAM Session 3"
          style="width:100%; max-width:650px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0; height:auto; display:block;" />
-
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d217dff067038c61c61e5dcf60de1930ed1488a7/images/RAM-4.jpeg"
          alt="RAM Session 4"
          style="width:100%; max-width:650px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0; height:auto; display:block;" />
 
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/48fabfc3a78d714b38b636e71c94fbf97ce025de/images/RAM...jpeg"
+   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/48fabfc3a78d714b38b636e71c94fbf97ce025de/images/RAM...jpeg"
          alt="RAM Session 5"
          style="width:100%; max-width:650px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0; height:auto; display:block;" />
 
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d55d67cbb9fd03d7b30b79fab63a086ac89b95d9/images/RAm.jpg"
+   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d55d67cbb9fd03d7b30b79fab63a086ac89b95d9/images/RAm.jpg"
          alt="RAM Session 6"
          style="width:100%; max-width:650px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0; height:auto; display:block;" />
   </div>
@@ -329,7 +326,7 @@ classes: wide
   <!-- Departmental Photographs -->
   <div style="width:100%; max-width:750px; margin:0 auto 20px auto;">
 
-    <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; gap:15px; padding:5px 0 15px 0; scrollbar-width:thin; -webkit-overflow-scrolling:touch;">
+   <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; gap:15px; padding:5px 0 15px 0; scrollbar-width:thin; -webkit-overflow-scrolling:touch;">
       <div style="flex:0 0 100%; scroll-snap-align:center; text-align:center;">
         <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/e0a4747c6b9148e385468edb063e47df995aa799/images/F-2.jpeg"
              alt="Mathematics Department, Sikkim University"
@@ -356,7 +353,7 @@ classes: wide
              style="width:100%; height:auto; border-radius:8px; display:block;">
       </div>
     </div>
-  </div>
+
 
   <p style="font-family:'Georgia',serif; color:#e8f5e8; line-height:1.8;">
     These photographs are perhaps only one percent of how vibrant the Mathematics Department at Sikkim University actually was. Even now, when I look at them, I feel that photographs can capture faces and moments, but they can never quite capture the energy of a place.
@@ -427,32 +424,29 @@ classes: wide
   <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
 
     <!-- Photograph -->
-    <div style="width:100%; max-width:750px; margin:0 auto 20px auto; text-align:center;">
+  <div style="width:100%; max-width:750px; margin:0 auto 20px auto; text-align:center;">
       <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d5504389f54c3977bc32a0b04192c06c1eab5d90/images/RR.jpeg"
            alt="A moment at the Library stairs, Sikkim University"
            style="width:100%; height:auto; border-radius:8px; display:block;">
     </div>
-
     <p style="font-family:'Georgia',serif; color:#e8f5e8; line-height:1.8;">
       Some memories begin without any intention of becoming memories. This was one of them.
     </p>
 
-    <p style="font-family:'Georgia',serif; color:#e8f5e8; line-height:1.8;">
+   <p style="font-family:'Georgia',serif; color:#e8f5e8; line-height:1.8;">
       We happened to meet on the library stairs at Sikkim University. She was walking ahead of me, while I was a few steps behind. At one point, she turned around, and our eyes met.
     </p>
 
-    <p style="font-family:'Georgia',serif; color:#e8f5e8; line-height:1.8;">
+  <p style="font-family:'Georgia',serif; color:#e8f5e8; line-height:1.8;">
       Nothing extraordinary had happened. There was no plan, no particular occasion, and no expectation that the moment would become significant. Yet, somehow, that brief exchange became the beginning of something that would eventually become a meaningful part of my life.
     </p>
-
     <p style="font-family:'Georgia',serif; color:#e8f5e8; line-height:1.8;">
       It is strange how certain moments appear completely ordinary when they happen. Only much later do we realise that we were standing at the beginning of a story we could not yet see.
     </p>
 
-    <p style="font-family:'Georgia',serif; color:#e8f5e8; line-height:1.8;">
+  <p style="font-family:'Georgia',serif; color:#e8f5e8; line-height:1.8;">
       I will leave the rest of the story here. Not because there is nothing more to say, but because some stories are better experienced than explained. The person in this photograph is still very much a part of my life, and perhaps that is all that needs to be said.
     </p>
-
     <!-- Personal Life Note -->
     <div style="margin-top:25px; padding:12px 15px; border-top:1px solid #4f6f4f; border-bottom:1px solid #4f6f4f; text-align:center;">
       <p style="color:#e8f5e8; line-height:1.8; font-style:italic; font-size:16px; margin:0; font-family:'Georgia',serif;">
