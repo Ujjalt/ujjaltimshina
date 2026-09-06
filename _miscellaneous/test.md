@@ -154,14 +154,18 @@ classes: wide
 
     <hr style="border-color:#2e5e2e; margin:25px 0;">
 
-  <h3 style="font-family: 'Georgia', serif; color:#e8f5e8; text-align:center;">Teachers' Day Celebration – Department of Mathematics</h3>
+ <h3 style="font-family: 'Georgia', serif; color:#e8f5e8; text-align:center;">Teachers' Day Celebration – Department of Mathematics</h3>
+
+<p align="center" style="font-family: 'Georgia', serif; color:#e8f5e8; margin-top: -5px;">
+  <strong>September 5, 2026 (Saturday)</strong>
+</p>
 
  <p style="font-family: 'Georgia', serif; color:#e8f5e8;">
-    We are already grown up PhDs but coming together in the department for the very first time, probably to celebrate a small Teachers' Day. I saw everyone doing things from the heart, and including me. Most of my batchmates from M.Sc and B.Sc are already teachers in some schools and are assistant professors at different places, and I'm here still celebrating a Teachers' Day, and I want to do it forever and ever.
+    We are already grown up PhDs but coming together in the department for the very first time, probably to celebrate a small Teachers' Day. I saw everyone doing things from the heart, and including me.
   </p>
 
   <p style="font-family: 'Georgia', serif; color:#e8f5e8;">
-    Why I mentioned that most of them are teachers is because they, alongside me, saw posts of many of my colleagues who posted their celebrations as faculty, and I posted the celebration as a student, and so I loved the moments. This was a deep fun and laughter, especially in something called Tambola, which I played for the first time. Initially, I was getting a number and thought that I would win, but then I won nothing but a sheet of Tambola.
+This was a deep fun and laughter, especially in something called Tambola, which I played for the first time. Initially, I was getting a number and thought that I would win, but then I won nothing but a sheet of Tambola.
   </p>
    <p style="font-family: 'Georgia', serif; color:#e8f5e8; text-align: center; font-style: italic; font-size: 1.1em; background: rgba(255,255,255,0.05); padding: 12px; border-radius: 8px; border-left: 4px solid #e8f5e8;">
     "Doing things deeply from heart always increases my comfort zone."
