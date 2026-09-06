@@ -108,37 +108,5 @@ author_profile: true
   <span style="color: #a8d5a8; font-size: 14px;">Department of Mathematics, The Assam Kaziranga University &middot; August 30 – September 1, 2021</span>
 </div>
 
-</div>
-
-<!-- ===== Faculty Development Programs ===== -->
-
-<div style="background:#0e2e0e; padding:12px 18px; border-radius:8px; margin-bottom:10px; margin-top:24px;">
-  <h3 style="margin: 0; font-family: Georgia, serif; font-size: 18px; color: #e8f5e8; letter-spacing: 0.03em;">
-    Faculty Development Programs
-  </h3>
-</div>
-
-<div style="font-family: Georgia, serif; font-size: 14px; color: #a8d5a8; margin-bottom: 10px; font-style: italic;">
-  Attended as participant during M.Sc. years.
-</div>
-
-<div style="font-family: Georgia, serif; font-size: 16px; line-height: 1.6;">
-
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">FDP on Recent Research Areas and Applications in Mathematics</strong><br>
-  <span style="color: #a8d5a8; font-size: 14px;">Vel Tech Multi Tech, IIC (Ministry of HRD) &middot; October 10–15, 2022</span>
-</div>
-
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">FDP on Differential Equations and Its Applications</strong><br>
-  <span style="color: #a8d5a8; font-size: 14px;">Vellore Institute of Technology &middot; January 18–20, 2023</span>
-</div>
-
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
-  <strong style="color: #e8f5e8;">FDP on Machine Learning</strong><br>
-  <span style="color: #a8d5a8; font-size: 14px;">SRM Institute of Science and Technology &middot; February 20–24, 2023</span>
-</div>
-
-</div>
 
 <hr style="border: 0; height: 2px; background-color: #0e2e0e; margin-top: 25px;">
