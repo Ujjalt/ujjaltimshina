@@ -179,7 +179,7 @@ classes: wide
   <p style="font-family:Georgia, serif; color:#e8f5e8; text-align: center; font-size: 1.2em;">
     <strong>Quote of the Day:</strong><br>
     <span style="font-size: 1.3em;">"सूर्य की संतान हो तुम, सोला बनो तुम"</span><br>
-    <span style="font-size: 0.9em;">– Satish Sir</span>
+    <span style="font-size: 0.9em;">–Mentioned by Satish Sir</span>
   </p>
 
 </div>
