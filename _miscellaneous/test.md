@@ -27,13 +27,12 @@ classes: wide
     <span style="background:#0e2e0e; padding:0 10px; color:#e8f5e8;">🖱️ Please scroll from laptop for better writeup view</span>
 </div>
 
-</div>
-  <p style="margin:0; color:#e8f5e8; text-align:center;">
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family:'Georgia',serif;">
+  <p style="margin:0; color:#e8f5e8; text-align:center; font-family:'Georgia',serif; line-height:1.8;">
     <em>
       I have lived so many moments worth remembering, some beautiful, some hilarious, like the time the three of us ended up lost in a jungle simply because we trusted one of our friends! Yet, I don't want to spend too much of today living in yesterday. So, I keep these little pieces of happiness here, memories I wish to revisit. The difficult ones, I simply keep to myself. Perhaps they are the little secrets behind all of this, and some secrets are better left unrevealed.
     </em>
   </p>
-
 </div>
 
  <!-- Personal Note -->
