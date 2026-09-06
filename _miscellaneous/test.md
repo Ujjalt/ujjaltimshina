@@ -151,6 +151,55 @@ classes: wide
     </ol>
   </div>
 
+
+    <hr style="border-color:#2e5e2e; margin:25px 0;">
+
+  <h3 style="font-family: 'Georgia', serif; color:#e8f5e8; text-align:center;">Teachers' Day Celebration – Department of Mathematics</h3>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8;">
+    We are already grown up PhDs, but coming together in the department for the very first time, probably to celebrate a small Teachers' Day. I saw everyone doing things from the heart, including me. Most of the people I know from my B.Sc. and M.Sc. days are now teachers in schools or assistant professors at various places. And here I am, still celebrating Teachers' Day, and I want to do it forever and ever.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8;">
+    This day was filled with deep fun and laughter, especially during a game of Tambola, which I played for the first time. Initially, I kept getting numbers and thought I might win, but in the end, I won nothing but my Tambola sheet. Yet, I felt so light and, for the very first time, felt like I'm also a part of this small family in the department.
+  </p>
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; text-align: center; font-size: 1.2em;">
+    <strong>Quote of the Day:</strong><br>
+    <span style="font-size: 1.3em;">"सूर्य की संतान हो तुम, सोला बनो तुम"</span><br>
+    <span style="font-size: 0.9em;">– Satish Sir</span>
+  </p>
+
+  <!-- Teachers' Day Images -->
+  <div align="center">
+    <img src="https://github.com/Ujjalt/ujjaltimshina/blob/c7e381086c04879fbdad813a8b5905ffa1ef3bc4/images/TD-1.jpg?raw=true"
+         alt="Teachers' Day 1"
+         width="650"
+         style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+    <img src="https://github.com/Ujjalt/ujjaltimshina/blob/c7e381086c04879fbdad813a8b5905ffa1ef3bc4/images/TD-2.jpg?raw=true"
+         alt="Teachers' Day 2"
+         width="650"
+         style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+    <img src="https://github.com/Ujjalt/ujjaltimshina/blob/c7e381086c04879fbdad813a8b5905ffa1ef3bc4/images/TD-3.jpg?raw=true"
+         alt="Teachers' Day 3"
+         width="650"
+         style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+    <img src="https://github.com/Ujjalt/ujjaltimshina/blob/c7e381086c04879fbdad813a8b5905ffa1ef3bc4/images/TD-4.jpg?raw=true"
+         alt="Teachers' Day 4"
+         width="650"
+         style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+    <img src="https://github.com/Ujjalt/ujjaltimshina/blob/c7e381086c04879fbdad813a8b5905ffa1ef3bc4/images/TD-5.jpg?raw=true"
+         alt="Teachers' Day 5"
+         width="650"
+         style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+    <img src="https://github.com/Ujjalt/ujjaltimshina/blob/c7e381086c04879fbdad813a8b5905ffa1ef3bc4/images/TD-6.jpg?raw=true"
+         alt="Teachers' Day 6"
+         width="650"
+         style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
+  </div>
+
+</div>
+
 <!-- Delhi Math Circle – Inaugural Session -->
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
   <h3 style="color:#e8f5e8; margin-top:0;">Delhi Math Circle – Inaugural Session (IIIT Delhi)</h3>
