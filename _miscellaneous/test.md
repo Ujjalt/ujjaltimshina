@@ -84,7 +84,12 @@ classes: wide
 
   <p style="margin:0; color:#e8f5e8; text-align:justify;">
     <em>
-      Do you know what I love? A quiet night ride with a song playing in the background. These may seem like non-mathematical moments, but perhaps there is a kind of mathematics hidden here too—the mathematics of rhythm. It is a language I do not fully understand, yet somehow it interacts with my soul in a way that words cannot. The steady rhythm of the music, the movement of the road, and the silence of the night create a strange harmony that calms me. For a while, there are no equations to solve, no problems to prove, and no answers to find—just the road, the music, and a moment of peace.
+       "Do you know what I love? Why you should?<br><br>
+    Camus once said,<br>
+    <span style="font-size: 1.3em; font-weight: bold;">
+      'We're born without reason, we suffer without reason, we die without purpose. The universe doesn't know we exist and it never cared.'
+  </span>"
+  </p> A quiet night ride with a song playing in the background. These may seem like non-mathematical moments, but perhaps there is a kind of mathematics hidden here too—the mathematics of rhythm. It is a language I do not fully understand, yet somehow it interacts with my soul in a way that words cannot. The steady rhythm of the music, the movement of the road, and the silence of the night create a strange harmony that calms me. For a while, there are no equations to solve, no problems to prove, and no answers to find—just the road, the music, and a moment of peace.
     </em>
   </p>
 
@@ -212,7 +217,7 @@ classes: wide
          style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
   </div>
 
-</div>
+
 
 <!-- Delhi Math Circle – Inaugural Session -->
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
