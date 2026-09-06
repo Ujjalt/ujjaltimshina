@@ -154,29 +154,35 @@ classes: wide
 
     <hr style="border-color:#2e5e2e; margin:25px 0;">
 
- <h3 style="font-family: 'Georgia', serif; color:#e8f5e8; text-align:center;">Teachers' Day Celebration – Department of Mathematics</h3>
+<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; line-height:1.8;">
 
-<p align="center" style="font-family: 'Georgia', serif; color:#e8f5e8; margin-top: -5px;">
-  <strong>September 5, 2026 (Saturday)</strong>
-</p>
+  <h3 style="font-family:Georgia, serif; color:#e8f5e8; text-align:center; margin:5px auto 15px auto;">
+    Teachers' Day Celebration – Department of Mathematics
+  </h3>
 
- <p style="font-family: 'Georgia', serif; color:#e8f5e8;">
+  <p align="center" style="font-family:Georgia, serif; color:#e8f5e8; margin-top: -5px;">
+    <strong>September 5, 2026 (Saturday)</strong>
+  </p>
+
+  <p style="font-family:Georgia, serif; color:#e8f5e8;">
     We are already grown up PhDs but coming together in the department for the very first time, probably to celebrate a small Teachers' Day. I saw everyone doing things from the heart, and including me.
   </p>
 
-  <p style="font-family: 'Georgia', serif; color:#e8f5e8;">
-This was a deep fun and laughter, especially in something called Tambola, which I played for the first time. Initially, I was getting a number and thought that I would win, but then I won nothing but a sheet of Tambola.
+  <p style="font-family:Georgia, serif; color:#e8f5e8;">
+    This was a deep fun and laughter, especially in something called Tambola, which I played for the first time. Initially, I was getting a number and thought that I would win, but then I won nothing but a sheet of Tambola.
   </p>
-   <p style="font-family: 'Georgia', serif; color:#e8f5e8; text-align: center; font-style: italic; font-size: 1.1em; background: rgba(255,255,255,0.05); padding: 12px; border-radius: 8px; border-left: 4px solid #e8f5e8;">
+
+  <p style="font-family:Georgia, serif; color:#e8f5e8; text-align: center; font-style: italic; font-size: 1.1em; background: rgba(255,255,255,0.05); padding: 12px; border-radius: 8px; border-left: 4px solid #e8f5e8;">
     "Doing things deeply from heart always increases my comfort zone."
   </p>
 
-
-  <p style="font-family: 'Georgia', serif; color:#e8f5e8; text-align: center; font-size: 1.2em;">
+  <p style="font-family:Georgia, serif; color:#e8f5e8; text-align: center; font-size: 1.2em;">
     <strong>Quote of the Day:</strong><br>
     <span style="font-size: 1.3em;">"सूर्य की संतान हो तुम, सोला बनो तुम"</span><br>
     <span style="font-size: 0.9em;">– Satish Sir</span>
   </p>
+
+</div>
 
   <!-- Teachers' Day Images -->
   <div align="center">
