@@ -257,7 +257,6 @@ Anyways, a quiet night ride with a song playing in the background. These may see
 
   <p style="font-family: 'Georgia', serif; color:#e8f5e8;">
     So when I sit with the children in the RAM classes and solve problems with them, I am not only teaching them. In some strange way, I am also sitting with the child I once was. I want to experience those problems with them, ask the questions I might have asked years ago, and perhaps make up, little by little, for the mathematical opportunities I did not have. I sometimes think that with the right guidance at the right age, I could have been much better trained. But I cannot go back and change that. What I can do now is make sure that perhaps another child gets a little of the direction, encouragement, and mathematical curiosity that I once wished for. <strong style="font-family: 'Georgia', serif; color:#e8f5e8;">No mind is so dark that it cannot radiate light.</strong>
-
 </div>
 
 
