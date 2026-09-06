@@ -236,37 +236,25 @@ Anyways, a quiet night ride with a song playing in the background. These may see
        width="650"
        style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0;" />
 
-</div>
-  <p style="color:#e8f5e8;">
+<div style="font-family: 'Georgia', serif;">
+
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8;">
     Today marked the inaugural session of the <strong>Delhi Math Circle</strong> at <strong>IIIT Delhi</strong>, organized by the <strong>Raising A Mathematician (RAM) Foundation</strong>. It was wonderful to see so many school students come together with genuine enthusiasm and curiosity for mathematics. I am grateful to be part of the instructional team for this initiative. Since this was my very first session, I primarily observed and audited the class to understand how the sessions are conducted, how the instructors engage with the students, and how mathematical ideas are presented in such an interactive environment.
   </p>
 
-  <p style="color:#e8f5e8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8;">
     The experience was truly inspiring. What impressed me most was the excitement of the students as they explored mathematical ideas, asked thoughtful questions, and enjoyed the process of problem solving. Their curiosity and eagerness to learn created an atmosphere that was both energetic and encouraging. It reminded me that mathematics flourishes best in an environment where exploration, discussion, and creativity are valued. I look forward to contributing more actively in the upcoming sessions and helping these young learners discover the beauty and joy of mathematics.
+  </p>
 
-<p>
-  There is also something personal behind why I enjoy these sessions so much. I think
-  I am trying, in a small way, to recover some of the time I lost when I was at their age. I would like to sit with the students, attend these sessions,
-  solve the problems alongside them, and experience the kind of mathematical
-  environment that I wish I had encountered earlier in my life. I especially think about the years before Class 9. I often wonder what might have
-  been different if I had received the right mathematical direction during those
-  years. After Class 9, however, I was fortunate to meet
-  <strong style="color:#e8f5e8;">Mr. Mahesh Chettri</strong>, a truly wonderful
-  teacher. He changed a lot for me and showed me what a good teacher can mean in a
-  student's life.
-</p>
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8;">
+    There is also something personal behind why I enjoy these sessions so much. I think I am trying, in a small way, to recover some of the time I lost when I was at their age. I would like to sit with the students, attend these sessions, solve the problems alongside them, and experience the kind of mathematical environment that I wish I had encountered earlier in my life. I especially think about the years before Class 9. I often wonder what might have been different if I had received the right mathematical direction during those years. After Class 9, however, I was fortunate to meet <strong style="font-family: 'Georgia', serif; color:#e8f5e8;">Mr. Mahesh Chettri</strong>, a truly wonderful teacher. He changed a lot for me and showed me what a good teacher can mean in a student's life.
+  </p>
 
-<p>
-  So when I sit with the children in the RAM classes and solve problems with them, I
-  am not only teaching them. In some strange way, I am also sitting with the child I
-  once was. I want to experience those problems with them, ask the questions I might
-  have asked years ago, and perhaps make up, little by little, for the mathematical
-  opportunities I did not have. I sometimes think that with the right guidance at the right age, I could have been
-  much better trained. But I cannot go back and change that. What I can do now is make
-  sure that perhaps another child gets a little of the direction, encouragement, and
-  mathematical curiosity that I once wished for.
-  <strong style="color:#e8f5e8;">No mind is so dark that it cannot radiate light.</strong>
-</p>
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8;">
+    So when I sit with the children in the RAM classes and solve problems with them, I am not only teaching them. In some strange way, I am also sitting with the child I once was. I want to experience those problems with them, ask the questions I might have asked years ago, and perhaps make up, little by little, for the mathematical opportunities I did not have. I sometimes think that with the right guidance at the right age, I could have been much better trained. But I cannot go back and change that. What I can do now is make sure that perhaps another child gets a little of the direction, encouragement, and mathematical curiosity that I once wished for. <strong style="font-family: 'Georgia', serif; color:#e8f5e8;">No mind is so dark that it cannot radiate light.</strong>
+  </p>
+
+</div>
 
 
   </p>
@@ -298,11 +286,11 @@ Anyways, a quiet night ride with a song playing in the background. These may see
   <p align="center"><strong style="color:#e8f5e8;">July 2026</strong></p>
   <p align="center"><strong style="color:#e8f5e8;">Special Lecture by Fields Medalist Prof. June Huh</strong></p>
 
- <p style="color:#e8f5e8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8;">
   One of the most memorable moments of the <strong>ICMAM Latin America 2026</strong> conference was the extraordinary lecture delivered by <strong>Prof. June Huh</strong>, recipient of the <strong>2022 Fields Medal</strong> and Professor at Princeton University. What fascinated me most was not only the depth of the mathematics, but also the remarkable simplicity and clarity with which he explained sophisticated ideas. He transformed highly abstract concepts into intuitive and accessible mathematics, making the lecture engaging for participants from diverse mathematical backgrounds.
 </p>
 
-<p style="color:#e8f5e8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8;">
   Another aspect that left a lasting impression on me was his presentation style. Rather than relying on conventional presentation slides, much of the mathematics appeared to be beautifully handwritten, with every diagram, equation, and explanation arranged with exceptional care and elegance. The presentation felt natural and thoughtfully crafted, making it easy to follow even highly technical arguments. It reminded me of a thought he shared after receiving the Fields Medal—that he sees himself as only a small part of a vast and ancient mathematical tradition. That humility was reflected not only in his words but also in the way he presented mathematics: with clarity, care, and deep respect for the subject itself. Watching a mathematician of his stature present mathematics with such precision and simplicity was truly an unforgettable experience.
 </p>
 
@@ -318,9 +306,9 @@ Anyways, a quiet night ride with a song playing in the background. These may see
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-top:15px; color:#e8f5e8;">
   <h4 style="margin-top:0; color:#e8f5e8;">A Memorable Video</h4>
 
-  <p style="color:#e8f5e8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8;">
     During the COVID-19 pandemic, I came across this video of Prof. June Huh shortly after he was awarded the <strong>2022 Fields Medal</strong>. Long before I had the opportunity to attend one of his talks, this video introduced me to his personality and his thoughtful perspective on mathematics. It left a lasting impression on me. So much to appreciate and so much to learn about the honesty and life.
-  </p>
+</p>
 
   <p>
     <a href="https://youtu.be/yO8lQWb6TZ4?si=Cho68tin_YYuXIDX"
@@ -378,59 +366,57 @@ Anyways, a quiet night ride with a song playing in the background. These may see
     </div>
   </div>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     These photographs are perhaps only one percent of how vibrant the Mathematics Department at Sikkim University actually was. Even now, when I look at them, I feel that photographs can capture faces and moments, but they can never quite capture the energy of a place.
-  </p>
+</p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     Most of my classmates were not particularly interested in pursuing higher studies in mathematics. Everyone had different dreams, different plans, and different directions they wanted their lives to take. But that never stopped them from giving themselves completely to whatever they chose to do. Most of them did things with their whole heart, and that is something I deeply respected about them.
-  </p>
+</p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     The department was alive in ways that had very little to do with academic achievements alone. There was always some activity, some discussion, some event, some argument, some laughter, or simply someone around. Mathematics was certainly at the centre of our lives, but it was never the only thing that defined us.
-  </p>
+</p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     One thing I particularly remember was our departmental T-shirt. I designed it for us, and it became the <strong>first T-shirt designed for the Mathematics Department</strong>. The idea itself came to me while I was attending a CREST school at TCG CREST, Kolkata. I had met students from Presidency University who were attending the conference, and something about their sense of belonging and identity stayed with me. I wanted us to have something of our own too, something simple that could represent the department and the people who made it what it was.
-  </p>
+</p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     It may sound like a small thing now, but at the time it felt meaningful. We were creating our own little identity, not because anyone asked us to, but because we wanted to.
-  </p>
+</p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     I also remember <strong>Saurajyoti</strong>. We discussed mathematics together many times, and we participated in counterfactuals on numerous occasions. Those conversations remain among the things I value most from that period. Not every academic interaction needs to end in a theorem, a paper, or a result. Sometimes, simply having someone with whom you can question an idea, challenge an assumption, or imagine a different possibility is itself an academic experience worth remembering.
-  </p>
+</p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     In many ways, my M.Sc. journey remains the most fruitful academic environment I have experienced so far. Not necessarily because everything was perfect, and certainly not because everyone wanted the same things, but because there was a sense that people could simply be themselves around one another.
-  </p>
+</p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     We often hear people say that a department should be like a family. It sounds beautiful when written on paper. But being a family is not something that happens simply because people share a department, a classroom, an office, or a common goal.
-  </p>
+</p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     To really become a family, I think something much simpler and much harder is required. There has to be honesty. There has to be trust. There has to be space to be imperfect. There has to be an absence of unnecessary judgement. People should be able to laugh together, disagree with one another, help one another, and still remain comfortable in each other's presence.
-  </p>
+</p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     Most importantly, there has to be a genuine heart behind it.
-  </p>
+</p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     I think that is what made Sikkim University special to me. We did not spend our days trying to prove that we were a family. We simply lived together, worked together, argued, laughed, helped one another, and created memories without knowing that someday we would miss them.
-  </p>
+</p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     These five photographs are only a tiny glimpse of that world. There were hundreds of moments that were never photographed, thousands of conversations that were never recorded, and countless ordinary days that I did not realise I would one day want to remember.
-  </p>
+</p>
 
-  <p style="color:#e8f5e8; line-height:1.8; margin-bottom:0;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8; margin-bottom:0;">
     Perhaps that is why I hold those years so close. My M.Sc. was not simply a degree that I completed. It was a place where I learnt mathematics, certainly, but also a place where I learnt what it can feel like when a group of people genuinely become a family. And that kind of academic environment is something I will always be grateful to have experienced.
-  </p>
-
-</div>
+</p>
 
 
 
@@ -452,25 +438,25 @@ Anyways, a quiet night ride with a song playing in the background. These may see
          alt="A moment at the Library stairs, Sikkim University"
          style="width:100%; height:auto; border-radius:8px; display:block;">
   </div>
-  <p style="color:#e8f5e8; line-height:1.8;">
+ <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     Some memories begin without any intention of becoming memories. This was one of them.
-  </p>
+</p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     We happened to meet on the library stairs at Sikkim University. She was walking ahead of me, while I was a few steps behind. At one point, she turned around, and our eyes met.
-  </p>
+</p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     Nothing extraordinary had happened. There was no plan, no particular occasion, and no expectation that the moment would become significant. Yet, somehow, that brief exchange became the beginning of something that would eventually become a meaningful part of my life.
-  </p>
+</p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     It is strange how certain moments appear completely ordinary when they happen. Only much later do we realise that we were standing at the beginning of a story we could not yet see.
-  </p>
+</p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     I will leave the rest of the story here. Not because there is nothing more to say, but because some stories are better experienced than explained. The person in this photograph is still very much a part of my life, and perhaps that is all that needs to be said.
-  </p>
+</p>
 
   <!-- Personal Life Note -->
   <div style="margin-top:25px; padding:12px 15px; border-top:1px solid #4f6f4f; border-bottom:1px solid #4f6f4f; text-align:center;">
@@ -584,14 +570,14 @@ Anyways, a quiet night ride with a song playing in the background. These may see
 
 
   <!-- RMS Conference Section -->
-  <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
-    <h3 style="color:#e8f5e8; margin-top:0;">IIIT Delhi, New Delhi, India</h3>
-    <p align="center"><strong style="color:#e8f5e8;">18th–20th December 2025</strong></p>
-    <p align="center"><strong style="color:#e8f5e8;">40th Annual Conference of the Ramanujan Mathematical Society (RMS 2025)</strong></p>
-    <p style="color:#e8f5e8;">
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family: 'Georgia', serif;">
+    <h3 style="font-family: 'Georgia', serif; color:#e8f5e8; margin-top:0;">IIIT Delhi, New Delhi, India</h3>
+    <p align="center"><strong style="font-family: 'Georgia', serif; color:#e8f5e8;">18th–20th December 2025</strong></p>
+    <p align="center"><strong style="font-family: 'Georgia', serif; color:#e8f5e8;">40th Annual Conference of the Ramanujan Mathematical Society (RMS 2025)</strong></p>
+    <p style="font-family: 'Georgia', serif; color:#e8f5e8;">
       The 40th Annual Conference of the Ramanujan Mathematical Society was hosted by the Department of Mathematics at IIIT Delhi from 18th to 20th December 2025. The conference brought together mathematicians, researchers, faculty members, and students from across the country, providing a vibrant platform for discussions spanning diverse areas of pure and applied mathematics. The event featured plenary lectures, invited talks, contributed presentations, poster sessions, and numerous opportunities for academic interaction. Beyond the mathematics, it was a memorable experience filled with insightful conversations, inspiring lectures, new collaborations, and the joy of meeting members of the mathematical community from different institutions and backgrounds.
     </p>
-  </div>
+</div>
 
   <!-- RMS Images -->
   <div align="center">
@@ -1301,17 +1287,13 @@ Anyways, a quiet night ride with a song playing in the background. These may see
     <div style="text-align:center; margin:20px 0;">
       <img src="https://github.com/Ujjalt/ujjaltimshina/blob/b350275780182846d4b9b467e7f8495533fa93d2/images/AA.jpg?raw=true" alt="With Satya and Subhankar" style="width:85%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
-    <p style="color:#e8f5e8;">
-      Another memorable moment with my PhD colleagues Satya and Subhankar. Satya is working 
-      in Number Theory, while Subhankar is in Algebraic Geometry at IIIT Delhi.
-      <br><br>
-      We went to Sopa Kitchen in Majnu ka Tila. They were happily exploring new food, while I 
-      enjoyed my own homely meal with the comfort I'm used to.
-      <br><br>
-      Simple moments like these — warm, genuine, and shared with people who walk the same long 
-      academic journey stay close to the heart.
-    </p>
-  </div>
+ <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    Another memorable moment with my PhD colleagues Satya and Subhankar. Satya is working in Number Theory, while Subhankar is in Algebraic Geometry at IIIT Delhi.
+    <br><br>
+    We went to Sopa Kitchen in Majnu ka Tila. They were happily exploring new food, while I enjoyed my own homely meal with the comfort I'm used to.
+    <br><br>
+    Simple moments like these — warm, genuine, and shared with people who walk the same long academic journey — stay close to the heart.
+</p>
 
   <!-- Yeti Himalayan Kitchen Section -->
   <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
@@ -1332,14 +1314,13 @@ Anyways, a quiet night ride with a song playing in the background. These may see
   </div>
   
 <!-- Al Jawahar Restaurant Section -->
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
-  <h3 style="color:#e8f5e8; margin-top:0;">Al Jawahar Restaurant, Jama Masjid, Delhi</h3>
-  <p align="center"><strong style="color:#e8f5e8;">13th June 2026 (Saturday)</strong></p>
-  <p style="color:#e8f5e8;">
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family: 'Georgia', serif;">
+  <h3 style="font-family: 'Georgia', serif; color:#e8f5e8; margin-top:0;">Al Jawahar Restaurant, Jama Masjid, Delhi</h3>
+  <p align="center"><strong style="font-family: 'Georgia', serif; color:#e8f5e8;">13th June 2026 (Saturday)</strong></p>
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     A pleasant escape from the institute's Saturday khichri dinner, which none of us particularly enjoy. Along with Pankaj and Subhankar (who have already appeared in previous memories here 😄) and Sujit, a mathematics graduate from the University of Delhi spending a month as an intern under my supervisor, I visited the iconic Al Jawahar near Jama Masjid. While Pankaj stayed loyal to vegetarian food, the rest of us enjoyed Chicken Afghani Gravy, Chicken Tikka, and tandoori rotis that turned out to be much heavier than expected. The evening became even more memorable on the journey back when Sujit and Pankaj accidentally missed getting off at Govindpuri and continued to Harkesh Nagar. Subhankar and I spent quite some time laughing at what seemed like an unfortunate mistake, only to discover that the usually closed late-night gate to the campus was open, allowing them an easy return. A small disappointment for us, but a very amusing memory nonetheless.
   </p>
 </div>
-
 <!-- Al Jawahar Restaurant Gallery -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/0be5641ed4a8f30fb4224a7ea9e269ba12792336/images/Jama%20Masjid.jpg"
@@ -1360,15 +1341,13 @@ Anyways, a quiet night ride with a song playing in the background. These may see
     <strong style="color:#e8f5e8;">18th–19th July 2026</strong>
   </p>
 
-  <p style="color:#e8f5e8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     Jaipur, the Pink City of India, beautifully blends royal history, vibrant culture, magnificent forts, colorful markets, and delicious traditional cuisine. Rather than trying to know every page of its history, I simply wanted to experience the city in my own way. This memorable two-day trip was explored together with my friends <strong>Soumin, Mahesh, and Amrut</strong>, with Amrut leading our entire journey.
     <br><br>
     Like every good adventure, ours began with a last-minute rush. Our train was scheduled to leave at <strong>5:25 PM on Friday evening</strong>, and we were literally running through the metro station to catch it. The funniest moment came when Soumin accidentally stepped onto an escalator that was moving downward while he was trying to go up. Watching him struggle with all his determination while the escalator kept bringing him back down had all of us laughing uncontrollably. Somehow, we managed to board the train just in time.
     <br><br>
     Over the next two days, we wandered through Jaipur's beautiful streets, admired its architectural wonders, enjoyed its rich culinary heritage, and created memories that will stay with us for years. Every journey becomes special because of the people you travel with, and this one was no exception. We returned yesterday on an overnight bus, reaching back around <strong>5:00 AM</strong>, tired but carrying countless unforgettable memories.
-  </p>
-
-</div>
+</p>
 
 <!-- Swipeable Jaipur Image Gallery -->
 
@@ -1434,134 +1413,134 @@ Anyways, a quiet night ride with a song playing in the background. These may see
 <!-- The House of Cuisine -->
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
 
-  <!-- Photograph -->
+<!-- Photograph -->
+<div style="font-family: 'Georgia', serif;">
+
   <div style="width:100%; max-width:750px; margin:0 auto 20px auto; text-align:center;">
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/c896d2490fb7173d3fa90debc24e553f9f6b7f82/images/IMG_7821.jpeg"
          alt="An evening at The House of Cuisine"
          style="width:100%; height:auto; border-radius:8px; display:block;">
   </div>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     Sometimes, choosing a restaurant for a group feels like taking a small personal risk. I have a history of selecting restaurants that do not always turn out to be particularly successful for the people I take along. So, when I selected <strong>The House of Cuisine Restaurants and Cafes</strong> this time, I already had a similar thought somewhere in the back of my mind.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     I even warned everyone in my department beforehand, <em>"Please do not blame me if this turns out to be the worst place you have ever eaten."</em>
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     We had to walk for a while after getting off the metro. By the time we finally reached the place, the reaction from almost everyone was immediate. Just looking at the restaurant from outside, they said, <em>"Let's not go here."</em> Honestly, I was thinking exactly the same thing. But after having walked all that way, we decided to at least go inside and see.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     The tables were already full. We were told that we would have to wait for about six minutes, so while waiting, we started looking around for other places where we could eat.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     And then came the unexpected turn.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     At some point, one of the staff members asked us, <em>"Is this your first time here?"</em> We said yes. He then offered us some momos to taste before we actually ordered anything.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     That small gesture completely changed the evening. Everyone liked the momos so much that, instead of leaving and searching for another place, we decided to stay and eat there itself. I remember feeling genuinely relieved and, more than that, pleasantly surprised. Once again, my questionable restaurant selection reputation had narrowly survived.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     But what made the evening special was not really the food. It was the people I was sharing it with.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
-    This was my <strong> welcome treat to my academic sister, Sonali</strong>, who had recently joined my advisor for her PhD. It felt special to have her there and to mark this new beginning together.
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    This was my <strong>welcome treat to my academic sister, Sonali</strong>, who had recently joined my advisor for her PhD. It felt special to have her there and to mark this new beginning together.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     It was also wonderful to spend time with <strong>Shivani</strong>, with whom I had the opportunity to work as a TA. Working with her was a genuinely fantastic experience, and it was nice to sit together outside the usual academic setting and simply enjoy an evening.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     Then there was <strong>Satya</strong>, with whom I had my Agra trip. He is also the person who, quite remarkably, was the first one in the department to ask me, <em>"How are you?"</em> and <em>"How is it going?"</em> These questions may sound ordinary, but sometimes they mean much more than we realize. I hope I remember that kindness for a long time.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     And then there was <strong>Mahesh</strong>, whose energy is almost impossible to miss. Mahesh, if you are reading this someday, I will probably remember you with <strong>ghee paratha</strong>. Consider that a small inside joke preserved here for the future.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     He was also one of the people who witnessed a rather different version of me. When I first joined IIIT Delhi, I was a very different Ujjal. Over time, somehow, I transformed from the Ujjal of my first semester into the Ujjal who sat at that table that evening. Perhaps Mahesh noticed that transformation more clearly than most.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     Looking back, what makes this evening memorable is almost the opposite of how it began. We arrived expecting disappointment. We were ready to leave. We had already started searching for alternatives.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     And yet, sometimes, the places we almost walk away from become the places where the best memories quietly begin.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     Perhaps that is what I will remember most about this evening. Not simply that the momos were good, or that the restaurant turned out to be better than we expected, but that a group of people from my department walked a little farther than necessary, almost gave up on the place, and somehow ended up creating an evening worth remembering.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8; margin-bottom:0;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8; margin-bottom:0;">
     And, for once, I am glad nobody had to blame me for choosing the restaurant.
   </p>
 
 </div>
 
-
 <!-- Why I Shared These Memories -->
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8;">
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family: 'Georgia', serif;">
 
-  <h3 style="color:#e8f5e8; margin-top:0;">
+  <h3 style="font-family: 'Georgia', serif; color:#e8f5e8; margin-top:0;">
     WHY I SHARED THESE MEMORIES
   </h3>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     You may wonder why I have shared so many personal memories, photographs, people, places, and fragments of my life here. The reason is simple. When I look back at these years, I can see a transformation in myself that I may not have noticed while it was happening.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     What I was before is, in many ways, recorded in my book <em>Beyond Answers: The Beauty of Mathematical Questions</em>. It is often described as a book about mathematics, but I do not really think of it as a mathematical book. In fact, perhaps it cannot be a mathematical book in the conventional sense, because I have always felt that <strong>life is mathematics, and mathematics is life.</strong>
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     Mathematics is not merely something we write on paper or study in classrooms. It is one of the ways through which we understand the world. We use it to build bridges, send satellites into space, model the environment, communicate information, understand nature, and describe patterns that existed long before we gave them names. In some sense, mathematics is a language through which we interact with the universe, while the universe constantly gives us mathematics in return.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     That book therefore records a version of me who was searching for questions, meaning, and beauty through mathematics. It preserves something of who I was then.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     These pages are different. They record where I am now.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     The people I have met, the places I have travelled, the friendships I have made, the family who has stood beside me, the academic environments that shaped me, the moments that made me laugh, the moments that made me think, and even the experiences that changed the way I see the world have all contributed to the person I have become.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     Perhaps that is why I wanted these memories to exist somewhere outside my own mind. Not because every moment was extraordinary, but because together they tell a story of change. They show not only what I have achieved, but also who I have become along the way.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     And when I look at all of it now, I realise something rather simple.
   </p>
 
-  <p style="color:#e8f5e8; text-align:center; font-style:italic; font-size:20px; line-height:1.9; margin-top:20px;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; text-align:center; font-style:italic; font-size:20px; line-height:1.9; margin-top:20px;">
     I simply love my life.<br>
     And I love the person I have become.
   </p>
 
-  <p style="color:#e8f5e8; line-height:1.8; margin-bottom:0;">
+  <p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8; margin-bottom:0;">
     Perhaps these pages are my way of saying thank you to that journey.
   </p>
 
 </div>
-
 
 
 <!-- Closing Reflection -->
@@ -1619,50 +1598,48 @@ Anyways, a quiet night ride with a song playing in the background. These may see
          style="width:100%; height:auto; border-radius:8px; display:block;">
   </div>
 
-  <p style="color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
     There are people whose influence on our lives cannot be adequately described by a formal relationship. They may not be our parents by birth, but they can nevertheless become parental figures in the ways that truly matter. For me, he is one of those people.
-  </p>
-
-  <p style="color:#e8f5e8; line-height:1.8;">
-    I call him <strong>Thulaba</strong>. He is my mother's sister's husband, but to me, he has always been much more than simply a relative. He is one of the real heroes behind my journey into academia and one of the people who taught me to value learning and intellectual life.
-  </p>
-
-  <p style="color:#e8f5e8; line-height:1.8;">
-    He taught me so many things about life, about people, about responsibility, perseverance, and most importantly, about <strong>karma</strong>. He taught me to respect work for its own sake, to do things sincerely, and to keep moving forward without constantly measuring everything by what I would receive in return.
-  </p>
-
-  <p style="color:#e8f5e8; line-height:1.8;">
-    His influence also played an important role in helping me discover and eventually love academia. He helped me see education not merely as a means of earning a living, but as a way of thinking, questioning, learning, and contributing something meaningful to the world.
-  </p>
-
-  <p style="color:#e8f5e8; line-height:1.8;">
-    Sometimes I wonder how different my life might have been without his guidance. Perhaps I would be writing an entirely different story today. I might have been sharing stories of being a taxi driver instead. And honestly, that would have been another story altogether.
-  </p>
-
-  <p style="color:#e8f5e8; line-height:1.8;">
-    There is dignity in every honest profession, and I do not say this to compare one life with another. I say it because life can take us in directions we never anticipate. I was fortunate to have someone who helped me recognise a path that eventually led me toward mathematics and academia, a world that I now genuinely love.
-  </p>
-
-  <p style="color:#e8f5e8; line-height:1.8;">
-    When I look at this photograph, I see much more than a family member. I see someone whose advice, values, and presence quietly stand behind many of the chapters I have written here.
-  </p>
-
-  <p style="color:#e8f5e8; line-height:1.8;">
-    My degrees, my research, my teaching, my writing, and whatever I may accomplish in the future carry my name, but the journey behind them belongs to many people. Thulaba is one of those people who helped shape that journey long before I fully understood where it was taking me.
-  </p>
-
-  <p style="color:#e8f5e8; line-height:1.8;">
-    If I have learnt to love academia, to respect honest work, and to continue doing my <em>karma</em> with sincerity, without constantly asking what I will receive in return, then a significant part of that lesson came from him. For that, I will always remain deeply grateful.
-  </p>
-
-  <p style="color:#e8f5e8; line-height:1.8; margin-bottom:0;">
-    And perhaps there is one more reason this photograph feels particularly meaningful to me now. As I have grown older and moved deeper into academia, I have sometimes found myself recognising the same qualities I learnt from Thulaba in people I meet along my own academic journey. In particular, I see something of him in <strong>Subhajit Sir</strong>—in the way he approaches mathematics, responsibility, guidance, and the growth of those around him. It is a strange and beautiful feeling to realise that the values someone once quietly planted in you can later help you recognise the same qualities in someone else.
-  </p>
-<p style="color:#e8f5e8;">
-  The above photograph was taken on the occasion of his retirement as a teacher from the very same school where I had my own schooling. 
 </p>
 
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    I call him <strong>Thulaba</strong>. He is my mother's sister's husband, but to me, he has always been much more than simply a relative. He is one of the real heroes behind my journey into academia and one of the people who taught me to value learning and intellectual life.
+</p>
 
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    He taught me so many things about life, about people, about responsibility, perseverance, and most importantly, about <strong>karma</strong>. He taught me to respect work for its own sake, to do things sincerely, and to keep moving forward without constantly measuring everything by what I would receive in return.
+</p>
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    His influence also played an important role in helping me discover and eventually love academia. He helped me see education not merely as a means of earning a living, but as a way of thinking, questioning, learning, and contributing something meaningful to the world.
+</p>
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    Sometimes I wonder how different my life might have been without his guidance. Perhaps I would be writing an entirely different story today. I might have been sharing stories of being a taxi driver instead. And honestly, that would have been another story altogether.
+</p>
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    There is dignity in every honest profession, and I do not say this to compare one life with another. I say it because life can take us in directions we never anticipate. I was fortunate to have someone who helped me recognise a path that eventually led me toward mathematics and academia, a world that I now genuinely love.
+</p>
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    When I look at this photograph, I see much more than a family member. I see someone whose advice, values, and presence quietly stand behind many of the chapters I have written here.
+</p>
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    My degrees, my research, my teaching, my writing, and whatever I may accomplish in the future carry my name, but the journey behind them belongs to many people. Thulaba is one of those people who helped shape that journey long before I fully understood where it was taking me.
+</p>
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+    If I have learnt to love academia, to respect honest work, and to continue doing my <em>karma</em> with sincerity, without constantly asking what I will receive in return, then a significant part of that lesson came from him. For that, I will always remain deeply grateful.
+</p>
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8; margin-bottom:0;">
+    And perhaps there is one more reason this photograph feels particularly meaningful to me now. As I have grown older and moved deeper into academia, I have sometimes found myself recognising the same qualities I learnt from Thulaba in people I meet along my own academic journey. In particular, I see something of him in <strong>Subhajit Sir</strong>—in the way he approaches mathematics, responsibility, guidance, and the growth of those around him. It is a strange and beautiful feeling to realise that the values someone once quietly planted in you can later help you recognise the same qualities in someone else.
+</p>
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8;">
+    The above photograph was taken on the occasion of his retirement as a teacher from the very same school where I had my own schooling.
+</p>
 </div>
-
 
