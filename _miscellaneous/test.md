@@ -1602,54 +1602,61 @@ Anyways, a quiet night ride with a song playing in the background. These may see
     A father figure, a guide, and one of the heroes of my life
   </p>
 
-  <!-- Photograph -->
-  <div style="width:100%; max-width:750px; margin:20px auto;">
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8db3f9fb8d4ef96bc980cbb72e81bb085d361b20/images/thulaba.jpg"
-         alt="Thulaba, one of the greatest influences on my life"
-         style="width:100%; height:auto; border-radius:8px; display:block;">
-  </div>
+<!-- Gap Div for better mobile view -->
+<div style="height:20px;"></div>
 
-<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+<!-- Photograph -->
+<div style="width:100%; max-width:750px; margin:20px auto; padding:0 15px; box-sizing:border-box;">
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8db3f9fb8d4ef96bc980cbb72e81bb085d361b20/images/thulaba.jpg"
+       alt="Thulaba, one of the greatest influences on my life"
+       style="width:100%; height:auto; border-radius:8px; display:block;">
+</div>
+
+<div style="padding:0 15px; box-sizing:border-box; max-width:100%;">
+
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8; word-wrap:normal; overflow-wrap:normal; white-space:normal; max-width:100%;">
     There are people whose influence on our lives cannot be adequately described by a formal relationship. They may not be our parents by birth, but they can nevertheless become parental figures in the ways that truly matter. For me, he is one of those people.
 </p>
 
-<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8; word-wrap:normal; overflow-wrap:normal; white-space:normal; max-width:100%;">
     I call him <strong>Thulaba</strong>. He is my mother's sister's husband, but to me, he has always been much more than simply a relative. He is one of the real heroes behind my journey into academia and one of the people who taught me to value learning and intellectual life.
 </p>
 
-<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8; word-wrap:normal; overflow-wrap:normal; white-space:normal; max-width:100%;">
     He taught me so many things about life, about people, about responsibility, perseverance, and most importantly, about <strong>karma</strong>. He taught me to respect work for its own sake, to do things sincerely, and to keep moving forward without constantly measuring everything by what I would receive in return.
 </p>
 
-<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8; word-wrap:normal; overflow-wrap:normal; white-space:normal; max-width:100%;">
     His influence also played an important role in helping me discover and eventually love academia. He helped me see education not merely as a means of earning a living, but as a way of thinking, questioning, learning, and contributing something meaningful to the world.
 </p>
 
-<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8; word-wrap:normal; overflow-wrap:normal; white-space:normal; max-width:100%;">
     Sometimes I wonder how different my life might have been without his guidance. Perhaps I would be writing an entirely different story today. I might have been sharing stories of being a taxi driver instead. And honestly, that would have been another story altogether.
 </p>
 
-<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8; word-wrap:normal; overflow-wrap:normal; white-space:normal; max-width:100%;">
     There is dignity in every honest profession, and I do not say this to compare one life with another. I say it because life can take us in directions we never anticipate. I was fortunate to have someone who helped me recognise a path that eventually led me toward mathematics and academia, a world that I now genuinely love.
 </p>
 
-<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8; word-wrap:normal; overflow-wrap:normal; white-space:normal; max-width:100%;">
     When I look at this photograph, I see much more than a family member. I see someone whose advice, values, and presence quietly stand behind many of the chapters I have written here.
 </p>
 
-<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8; word-wrap:normal; overflow-wrap:normal; white-space:normal; max-width:100%;">
     My degrees, my research, my teaching, my writing, and whatever I may accomplish in the future carry my name, but the journey behind them belongs to many people. Thulaba is one of those people who helped shape that journey long before I fully understood where it was taking me.
 </p>
 
-<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8; word-wrap:normal; overflow-wrap:normal; white-space:normal; max-width:100%;">
     If I have learnt to love academia, to respect honest work, and to continue doing my <em>karma</em> with sincerity, without constantly asking what I will receive in return, then a significant part of that lesson came from him. For that, I will always remain deeply grateful.
 </p>
 
-<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8; margin-bottom:0;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; line-height:1.8; word-wrap:normal; overflow-wrap:normal; white-space:normal; max-width:100%; margin-bottom:0;">
     And perhaps there is one more reason this photograph feels particularly meaningful to me now. As I have grown older and moved deeper into academia, I have sometimes found myself recognising the same qualities I learnt from Thulaba in people I meet along my own academic journey. In particular, I see something of him in <strong>Subhajit Sir</strong>—in the way he approaches mathematics, responsibility, guidance, and the growth of those around him. It is a strange and beautiful feeling to realise that the values someone once quietly planted in you can later help you recognise the same qualities in someone else.
 </p>
 
-<p style="font-family: 'Georgia', serif; color:#e8f5e8;">
+<p style="font-family: 'Georgia', serif; color:#e8f5e8; word-wrap:normal; overflow-wrap:normal; white-space:normal; max-width:100%;">
     The above photograph was taken on the occasion of his retirement as a teacher from the very same school where I had my own schooling.
 </p>
+
 </div>
+<!-- End of padding container -->
