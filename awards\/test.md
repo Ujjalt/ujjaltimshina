@@ -25,7 +25,7 @@ author_profile: true
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8; font-family:Georgia, serif;">
-  <strong> Dean’s List of Distinguished Teaching Assistants</strong> — Recognized as a Distinguished Teaching Assistant and presented with the Distinguished TA Award on 8 September 2026 at the Annual Foundation Day Ceremony of Indraprastha Institute of Information Technology, Delhi, in recognition of contributions as a Teaching Assistant during the academic year 2025–26.
+  <strong> Dean’s List of Distinguished Teaching Assistants Award</strong> — Recognized as a Distinguished Teaching Assistant and presented with the Distinguished TA Award on 8 September 2026 at the Annual Foundation Day Ceremony of Indraprastha Institute of Information Technology, Delhi, in recognition of contributions as a Teaching Assistant during the academic year 2025–26.
 
 
 <div style="display:flex; overflow-x:auto; gap:12px; margin-top:18px; padding-bottom:8px; scroll-snap-type:x mandatory; -webkit-overflow-scrolling:touch;">
