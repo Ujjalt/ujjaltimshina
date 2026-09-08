@@ -28,26 +28,26 @@ author_profile: true
   <strong>Distinguished TA Award</strong> — Recognized as a Distinguished Teaching Assistant and presented with the Distinguished TA Award on 8 September 2026 at the Annual Foundation Day Ceremony of Indraprastha Institute of Information Technology, Delhi, in recognition of contributions as a Teaching Assistant during the academic year 2025–26.
 
 
-
-  <div style="display:flex; overflow-x:auto; gap:12px; margin-top:18px; padding-bottom:8px; scroll-snap-type:x mandatory; -webkit-overflow-scrolling:touch;">
-
+<div style="display:flex; overflow-x:auto; gap:12px; margin-top:18px; padding-bottom:8px; scroll-snap-type:x mandatory; -webkit-overflow-scrolling:touch;">
 
 <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/0be174811375737b54521df14c836bfd8538540e/images/TA-1.jpeg"
-     alt="Teaching Assistant Award"
-     style="width:300px; max-width:85%; height:auto; border-radius:6px; flex-shrink:0; scroll-snap-align:center;">
+    alt="Teaching Assistant Award"
+    style="width:300px; height:300px; object-fit:cover; border-radius:6px; flex-shrink:0; scroll-snap-align:center;">
 
 <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/0be174811375737b54521df14c836bfd8538540e/images/TA-2.jpeg"
-     alt="Distinguished Teaching Assistant"
-     style="width:300px; max-width:85%; height:auto; border-radius:6px; flex-shrink:0; scroll-snap-align:center;">
+    alt="Distinguished Teaching Assistant"
+    style="width:300px; height:300px; object-fit:cover; border-radius:6px; flex-shrink:0; scroll-snap-align:center;">
 
 <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/0be174811375737b54521df14c836bfd8538540e/images/TA-3.jpeg"
-     alt="Distinguished TA Award Ceremony"
-     style="width:300px; max-width:85%; height:auto; border-radius:6px; flex-shrink:0; scroll-snap-align:center;">
-      <div style="text-align:center; margin-top:15px;">
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ffe893312e923d4124affcc02a636d621484867d/images/Foundation.jpg"
-         alt="Distinguished TA Award"
-         style="width:400px; max-width:100%; height:auto; border-radius:6px;">
-  </div>
+    alt="Distinguished TA Award Ceremony"
+    style="width:300px; height:300px; object-fit:cover; border-radius:6px; flex-shrink:0; scroll-snap-align:center;">
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ffe893312e923d4124affcc02a636d621484867d/images/Foundation.jpg"
+    alt="Distinguished TA Award"
+    style="width:300px; height:300px; object-fit:cover; border-radius:6px; flex-shrink:0; scroll-snap-align:center;">
+
+</div>
+
 
   </div>
 </div>
