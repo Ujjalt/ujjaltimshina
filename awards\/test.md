@@ -20,7 +20,7 @@ author_profile: true
 
 <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; margin-top:30px; margin-bottom:20px; text-align:center;">
   <strong style="font-size:24px;">
-   Academic Honors
+    Academic Honors
   </strong>
 </div>
 
@@ -32,8 +32,24 @@ author_profile: true
          alt="Distinguished TA Award"
          style="width:400px; max-width:100%; height:auto; border-radius:6px;">
   </div>
-</div>
 
+  <div style="display:flex; overflow-x:auto; gap:12px; margin-top:18px; padding-bottom:8px; scroll-snap-type:x mandatory; -webkit-overflow-scrolling:touch;">
+
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/0be174811375737b54521df14c836bfd8538540e/images/TA-1.jpeg"
+     alt="Teaching Assistant Award"
+     style="width:300px; max-width:85%; height:auto; border-radius:6px; flex-shrink:0; scroll-snap-align:center;">
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/0be174811375737b54521df14c836bfd8538540e/images/TA-2.jpeg"
+     alt="Distinguished Teaching Assistant"
+     style="width:300px; max-width:85%; height:auto; border-radius:6px; flex-shrink:0; scroll-snap-align:center;">
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/0be174811375737b54521df14c836bfd8538540e/images/TA-3.jpeg"
+     alt="Distinguished TA Award Ceremony"
+     style="width:300px; max-width:85%; height:auto; border-radius:6px; flex-shrink:0; scroll-snap-align:center;">
+
+  </div>
+</div>
 
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8; font-family:Georgia, serif;">
