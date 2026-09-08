@@ -47,7 +47,7 @@ author_profile: true
     style="width:300px; height:300px; object-fit:cover; border-radius:6px; flex-shrink:0; scroll-snap-align:center;">
 
 </div>
-</div>
+
 
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8; font-family:Georgia, serif;">
