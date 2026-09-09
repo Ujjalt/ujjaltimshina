@@ -25,7 +25,7 @@ author_profile: true
 </div>
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8; font-family:Georgia, serif;">
-  <strong>Dean's List of Distinguished Teaching Assistants Award</strong> — Placed on the Dean's List for Distinguished Teaching Assistant. This recognition is awarded for outstanding performance and dedication as a Teaching Assistant for the courses MTH204: Math IV (Sec A) and MTH100: Maths I (Sec A), based on nominations and votes from faculty members during the academic year 2025–2026. The award was presented on 8 September 2026 at the Annual Foundation Day Ceremony of Indraprastha Institute of Information Technology, Delhi.
+  <strong>Dean's List of Distinguished Teaching Assistants Award</strong> — Placed on the Dean's List for Distinguished Teaching Assistant. This recognition is awarded for outstanding performance and dedication as a Teaching Assistant for the courses MTH204: ODE/PDEs (Sec A) and MTH100: Linear Algebra (Sec A), based on nominations and votes from faculty members during the academic year 2025–2026. The award was presented on 8 September 2026 at the Annual Foundation Day Ceremony of Indraprastha Institute of Information Technology, Delhi.
 </div>
 
  <div style="display:flex; overflow-x:auto; gap:12px; margin-top:18px; padding-bottom:8px; scroll-snap-type:x mandatory; -webkit-overflow-scrolling:touch;">
