@@ -30,6 +30,10 @@ author_profile: true
 
  <div style="display:flex; overflow-x:auto; gap:12px; margin-top:18px; padding-bottom:8px; scroll-snap-type:x mandatory; -webkit-overflow-scrolling:touch;">
 
+ <img src="https://github.com/Ujjalt/ujjaltimshina/blob/6774e18035015b4559e6098b4a945403723a26c5/images/Just%20a%20Memory.jpg"
+    alt="Distinguished TA Award"
+    style="width:300px; height:300px; object-fit:cover; border-radius:6px; flex-shrink:0; scroll-snap-align:center;">
+
 <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/0be174811375737b54521df14c836bfd8538540e/images/TA-1.jpeg"
     alt="Teaching Assistant Award"
     style="width:300px; height:300px; object-fit:cover; border-radius:6px; flex-shrink:0; scroll-snap-align:center;">
@@ -47,6 +51,8 @@ author_profile: true
     style="width:300px; height:300px; object-fit:cover; border-radius:6px; flex-shrink:0; scroll-snap-align:center;">
 
 </div>
+
+
 
 
 
