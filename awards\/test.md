@@ -29,6 +29,7 @@ author_profile: true
 </div>
 
  <div style="display:flex; overflow-x:auto; gap:12px; margin-top:18px; padding-bottom:8px; scroll-snap-type:x mandatory; -webkit-overflow-scrolling:touch;">
+   
 <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/6774e18035015b4559e6098b4a945403723a26c5/images/Just%20a%20Memory.jpg"
      alt="Distinguished TA Award"
      style="width:300px; height:300px; object-fit:cover; border-radius:6px;">
