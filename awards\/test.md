@@ -91,7 +91,6 @@ author_profile: true
   </strong>
 </div>
 
-
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:20px; color:#e8f5e8; font-family:Georgia, serif;">
   <strong>DST INSPIRE Doctoral Fellowship</strong> — Department of Science and Technology, Government of India (2024).
 </div>
@@ -126,11 +125,10 @@ author_profile: true
   <strong>Certificate of Merit</strong> — Awarded by the Cipla Foundation for outstanding academic performance in Classes 10 and 12.
 </div>
 
-
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family:Georgia, serif; line-height:1.6;">
 
-  <strong>First Prize — School Essay Competition (2015)</strong><br>
-  Tikallal Niroula Senior Secondary School
+<strong>First Prize — School Essay Competition (2015)</strong><br>
+Tikallal Niroula Senior Secondary School
 
   <p>
     I am including this small school-level recognition because, for me, it meant much
@@ -149,34 +147,34 @@ author_profile: true
     Haha. It sounds ridiculous now, but at that time, it gave me something I desperately
     needed: a little hope.
   </p>
-<p>
-  I still do not know who an “excellent student” is and who is “dumb.” I have never
-  been very comfortable with putting people into those categories. What I have come
-  to understand much more clearly is the difference between
-  <strong style="color:#e8f5e8;">honesty, a sense of responsibility, and dishonesty.</strong>
-  Perhaps that small victory did not prove that I was talented or intelligent, but it
-  taught me something more important. I showed up, I did my part honestly, and I took
-  responsibility for what I had written. That little moment gave me confidence, and
-  perhaps that was all the hope I needed at the time. As I often remind myself,
-  <strong style="color:#e8f5e8;">no mind is so dark that it cannot radiate light.</strong>
-</p>
 
- <p style="margin-bottom:0;">
-  Something funny came back to me today. It is 14 August as I write this, and tomorrow
-  is 15 August. I suddenly remembered that the result was announced on
-  <strong style="color:#e8f5e8;">15 August 2015</strong>. Eleven years later, I am
-  smiling at the memory of that boy who entered a competition, found out that he was
-  the only participant, and proudly came first. It was a very small victory, but
-  perhaps I needed that little bit of <strong style="color:#e8f5e8;">fake hope</strong>
-  more than I knew at the time. Of course, it was never really the victory that
-  mattered; it was the <strong style="color:#e8f5e8;">hope</strong> it gave me.
-  I am not here simply to earn victories anyway. Things have come along the way,
-  and that little moment has now simply become a memory—one that I still smile
-  about eleven years later.
-</p>
+  <p>
+    I still do not know who an “excellent student” is and who is “dumb.” I have never
+    been very comfortable with putting people into those categories. What I have
+    come to understand much more clearly is the difference between
+    <strong style="color:#e8f5e8;">honesty, a sense of responsibility, and dishonesty.</strong>
+    Perhaps that small victory did not prove that I was talented or intelligent, but it
+    taught me something more important. I showed up, I did my part honestly, and I took
+    responsibility for what I had written. That little moment gave me confidence, and
+    perhaps that was all the hope I needed at the time. As I often remind myself,
+    <strong style="color:#e8f5e8;">no mind is so dark that it cannot radiate light.</strong>
+  </p>
+
+  <p style="margin-bottom:0;">
+    Something funny came back to me today. It is 14 August as I write this, and tomorrow
+    is 15 August. I suddenly remembered that the result was announced on
+    <strong style="color:#e8f5e8;">15 August 2015</strong>. Eleven years later, I am
+    smiling at the memory of that boy who entered a competition, found out that he was
+    the only participant, and proudly came first. It was a very small victory, but
+    perhaps I needed that little bit of <strong style="color:#e8f5e8;">fake hope</strong>
+    more than I knew at the time. Of course, it was never really the victory that
+    mattered; it was the <strong style="color:#e8f5e8;">hope</strong> it gave me.
+    I am not here simply to earn victories anyway. Things have come along the way,
+    and that little moment has now simply become a memory—one that I still smile
+    about eleven years later.
+  </p>
 
 </div>
-<!-- Mom -->
 
 <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; line-height:1.6; margin-bottom:30px;">
 
@@ -186,50 +184,52 @@ author_profile: true
 
   <div style="text-align:center; margin:20px 0 25px 0;">
 
-   <div style="font-family:Georgia, serif; font-size:24px; font-style:italic; font-weight:bold; color:#e8f5e8; margin-bottom:12px;">
-      A Hero of My Life
-    </div>
 
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5bc8d17aec4d243430bfb4f7ce8d94dc99f448e7/images/Mom.jpg"
-         alt="My Mom"
-         style="width:180px; height:auto; border:2px solid #e8f5e8; border-radius:8px; padding:3px; display:inline-block;">
+<div style="font-family:Georgia, serif; font-size:24px; font-style:italic; font-weight:bold; color:#e8f5e8; margin-bottom:12px;">
+  A Hero of My Life
+</div>
+
+<img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5bc8d17aec4d243430bfb4f7ce8d94dc99f448e7/images/Mom.jpg"
+     alt="My Mom"
+     style="width:180px; height:auto; border:2px solid #e8f5e8; border-radius:8px; padding:3px; display:inline-block;">
+
 
   </div>
 
- <p>
-  I am the first person in my family to pursue formal academic education to this
-  extent, and I know that this journey was possible because of her. She worked
-  incredibly hard, made sacrifices, and gave me the support and trust I needed to
-  continue walking a path that was not always familiar to our family. I chose my path,
-  but <strong style="color:#e8f5e8;">she gave me the trust to walk it.</strong>
-  She believed in me even when there was no certainty about where the road would lead.
-  Much of what I have become academically is therefore not mine alone; it carries the
-  strength, sacrifices, and faith of my mother.
-</p>
+  <p>
+    I am the first person in my family to pursue formal academic education to this
+    extent, and I know that this journey was possible because of her. She worked
+    incredibly hard, made sacrifices, and gave me the support and trust I needed to
+    continue walking a path that was not always familiar to our family. I chose my path,
+    but <strong style="color:#e8f5e8;">she gave me the trust to walk it.</strong>
+    She believed in me even when there was no certainty about where the road would lead.
+    Much of what I have become academically is therefore not mine alone; it carries the
+    strength, sacrifices, and faith of my mother.
+  </p>
 
-<p>
-  I can show you the notebook from my first year of undergraduate studies. I used to
-  copy and paste from Gallian's book because, honestly, I understood almost nothing
-  at the time. I still have that notebook, and my mother has kept it so carefully
-  all these years. 😊 I can still find most of my old school books if I search for
-  them properly. They have all been kept so carefully. I think that says something
-  about the value we have always placed on education, not as something to be thrown
-  away once an exam is over, but as something worth preserving and remembering.
-</p>
+  <p>
+    I can show you the notebook from my first year of undergraduate studies. I used to
+    copy and paste from Gallian's book because, honestly, I understood almost nothing
+    at the time. I still have that notebook, and my mother has kept it so carefully all
+    these years. 😊 I can still find most of my old school books if I search for them properly.
+    They have all been kept so carefully. I think that says something about the value we
+    have always placed on education, not as something to be thrown away once an exam is
+    over, but as something worth preserving and remembering.
+  </p>
 
-<p>
-  <strong style="color:#e8f5e8;">I carry a lot of responsibility for her.</strong>
-  Whatever I achieve in life, I want it to bring her some of the comfort and happiness
-  she deserves after everything she has done for me.
-</p>
+  <p>
+    <strong style="color:#e8f5e8;">I carry a lot of responsibility for her.</strong>
+    Whatever I achieve in life, I want it to bring her some of the comfort and happiness
+    she deserves after everything she has done for me.
+  </p>
 
-<p>
-  Whatever so-called recognition comes to me along the way, I know that it is not
-  something I have earned entirely on my own. It carries a little of her sacrifices,
-  her faith, and the trust she placed in me. The recognition may come and go, but
-  <strong style="color:#e8f5e8;">what she gave me will remain far more valuable
-  than any recognition ever could.</strong>
-</p>
+  <p>
+    Whatever so-called recognition comes to me along the way, I know that it is not
+    something I have earned entirely on my own. It carries a little of her sacrifices,
+    her faith, and the trust she placed in me. The recognition may come and go, but
+    <strong style="color:#e8f5e8;">what she gave me will remain far more valuable
+    than any recognition ever could.</strong>
+  </p>
 
   <p style="margin-bottom:0;">
     And whenever you find yourself in Sikkim, you are always welcome. I would be happy
@@ -243,5 +243,3 @@ author_profile: true
 </div>
 
 <hr style="border:0; height:2px; background-color:#0e2e0e; margin-top:30px;">
-
-
