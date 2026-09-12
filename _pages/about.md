@@ -49,14 +49,7 @@ redirect_from:
   color: #b9d6b4;
   text-align: center;
 ">
-Truth is rarely seen at a single scale. margin-top:8px;
-  font-family: Georgia, serif;
-  font-size: 0.95rem;
-  font-style: italic;
-  color: #b9d6b4;
-  text-align: center;
-">
-  Truth is rarely seen at a single scale.
+Truth is rarely seen at a single scale.
 </div>
 
 <div style="
