@@ -199,9 +199,6 @@ classes: wide
   <img src="https://github.com/Ujjalt/ujjaltimshina/blob/c7e381086c04879fbdad813a8b5905ffa1ef3bc4/images/TD-3.jpg?raw=true"
        alt="Teachers' Day 3"
        style="width:100%; max-width:650px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0; height:auto; display:block;" />
-  <img src="https://github.com/Ujjalt/ujjaltimshina/blob/c7e381086c04879fbdad813a8b5905ffa1ef3bc4/images/TD-4.jpg?raw=true"
-       alt="Teachers' Day 4"
-       style="width:100%; max-width:650px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0; height:auto; display:block;" />
   <img src="https://github.com/Ujjalt/ujjaltimshina/blob/c7e381086c04879fbdad813a8b5905ffa1ef3bc4/images/TD-5.jpg?raw=true"
        alt="Teachers' Day 5"
        style="width:100%; max-width:650px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0; height:auto; display:block;" />
