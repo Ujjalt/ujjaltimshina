@@ -40,6 +40,7 @@ redirect_from:
   No mind is so dark that it cannot radiate light.
 </div>
 
+
 <div style="
   margin-top:8px;
   font-family: Georgia, serif;
@@ -51,9 +52,9 @@ redirect_from:
 Truth is rarely seen at a single scale. 
   
 Don't dare to bother me. I'm writing the emotions of a book—a book that will rewrite thoughts long accepted by this so-called world. A world so different, so greedy, that its decay is almost beyond imagination. Humanity is not moving forward; it is slowly exhausting itself. And one day, there may be nothing left to exhaust. There are several things in pen and paper for so called humanity. So many things have been written in the name of humanity, yet all of it exists only in pen and paper. What is written is beautiful; what is lived is often painfully different. Be careful, therefore, with the words you inherit from this world. Most were written for their own sake, not for the future, and certainly not for you.
- 
 </div>
 </div>
+
 
 
 <div align="center" style="margin: 10px 0 25px 0;">
