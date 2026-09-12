@@ -51,6 +51,19 @@ redirect_from:
 Truth is rarely seen at a single scale. 
 </div>
 
+<div style="
+  margin-top:8px;
+  font-family: Georgia, serif;
+  font-size: 0.95rem;
+  font-style: italic;
+  color: #b9d6b4;
+  text-align: center;
+  
+Don't dare to bother me. I'm writing the emotions of a book—a book that will rewrite thoughts long accepted by this so-called world. A world so different, so greedy, that its decay is almost beyond imagination. Humanity is not moving forward; it is slowly exhausting itself. And one day, there may be nothing left to exhaust.
+</div>
+
+
+
 <div align="center" style="margin: 10px 0 25px 0;">
   <a href="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ff5289b4d96068b11d56f0009fa9d58ba12f1686/images/Mountain.jpg" target="_blank">
     <img
