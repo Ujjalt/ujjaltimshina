@@ -91,7 +91,7 @@ Don't dare to bother me. I'm writing the emotions of a book—a book that will r
     <em>"Even without language, the world follows its own internal mathematics, and I'm trying to understand a fraction of it. Analysis appeals to me as a form of structured thought and I always think of and honour the ancestors who felt time for the first time irrespective of the fact that time was already there, watching them, feel it"</em>
   </div>
 
-</div>
+
 
 
 <div style="margin-top: 14px; background:#f7f2e7; padding:16px 20px; border-left:6px solid #8c6d3a; border-radius:6px; font-family:Georgia, serif; font-size:15.5px; color:#1a3d1a;">
@@ -105,6 +105,7 @@ Don't dare to bother me. I'm writing the emotions of a book—a book that will r
       — Robert P. Langlands, in <em>Mathematicians: An Outer View of the Inner World</em>, p 142
     </footer>
   </blockquote>
+</div>
 
   <p style="font-family: Georgia, serif; color: #1a3d1a;">Paul Halmos once said: <strong><span style="color: #1a3d1a;">"The only way to learn mathematics is to do mathematics."</span></strong></p>
 
