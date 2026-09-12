@@ -79,7 +79,7 @@ I do not want to inherit beautiful words merely because they have survived for g
 
 I am not trying to stand above this contradiction.
 
-I am trying to see who I'm as you're here to know about me.
+I am trying to see myself, as you're here to know about me.
 </div>
 </div>
 
