@@ -50,6 +50,24 @@ redirect_from:
   text-align: center;
 ">
 Truth is rarely seen at a single scale. 
+
+I'm writing the emotions of a book—a book that may rewrite thoughts long accepted by this so-called world.
+
+The world is beautiful. It is me who is not always beautiful. I am greedy. I have desires, attachments, prejudices, and walls of my own. I have created differences where perhaps there were none, and I have participated in the very things I question. Yet I still say that I value people. Perhaps that is my greatest contradiction: I can recognize the worth of another human being while carrying within myself the same selfishness that keeps us apart.
+
+So much has been written in the name of humanity, but much of humanity seems to exist only in pen and paper. Words are easy when they cost nothing. Compassion is beautiful when it remains an idea. Equality is admirable when it does not ask us to surrender our privilege. We have written beautiful things about how human beings should live, while repeatedly proving how differently we choose to live.
+
+Perhaps the hardest truth is not that humanity does not know what is right. We know. We have known for centuries. We have written it, taught it, preached it, and built entire philosophies around it. The harder truth is that knowing does not make us better. Sometimes we understand goodness perfectly and still choose ourselves.
+
+And I cannot place myself outside this reality. I am not writing as someone who has understood humanity. I am writing as someone who is still trying to understand himself. I question the greed around me while discovering greed within me. I question the differences between people while realizing how many differences I have created myself. I speak of humanity while still learning how to be human.
+
+Perhaps that is why I am writing.
+
+Not because I have found the answer, but because I have become suspicious of the answers that were handed to me.
+
+I do not want to inherit beautiful words merely because they have survived for generations. I want to know what remains of them when they are taken away from paper and placed into an ordinary human life.
+
+I am not trying to stand above this contradiction.
 </div>
 </div>
 
