@@ -105,7 +105,6 @@ Don't dare to bother me. I'm writing the emotions of a book—a book that will r
       — Robert P. Langlands, in <em>Mathematicians: An Outer View of the Inner World</em>, p 142
     </footer>
   </blockquote>
-</div>
 
   <p style="font-family: Georgia, serif; color: #1a3d1a;">Paul Halmos once said: <strong><span style="color: #1a3d1a;">"The only way to learn mathematics is to do mathematics."</span></strong></p>
 
