@@ -51,7 +51,7 @@ redirect_from:
 Truth is rarely seen at a single scale. 
 Don't dare to bother me. I'm writing the emotions of a book—a book that will rewrite thoughts long accepted by this so-called world. A world so different, so greedy, that its decay is almost beyond imagination. Humanity is not moving forward; it is slowly exhausting itself. And one day, there may be nothing left to exhaust.
 </div>
-
+</div>
 
 
 <div align="center" style="margin: 10px 0 25px 0;">
