@@ -61,7 +61,7 @@ Truth is rarely seen at a single scale.
   color: #b9d6b4;
   text-align: center;
 ">
-Don't dare to bother me. I'm writing the emotions of a book—a book that may rewrite thoughts long accepted by this so-called world.
+ I'm writing the emotions of a book—a book that may rewrite thoughts long accepted by this so-called world.
 
 The world is beautiful. It is me who is not always beautiful. I am greedy. I have desires, attachments, prejudices, and walls of my own. I have created differences where perhaps there were none, and I have participated in the very things I question. Yet I still say that I value people. Perhaps that is my greatest contradiction: I can recognize the worth of another human being while carrying within myself the same selfishness that keeps us apart.
 
