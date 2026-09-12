@@ -79,7 +79,7 @@ I do not want to inherit beautiful words merely because they have survived for g
 
 I am not trying to stand above this contradiction.
 
-I am trying to see how deeply I am buried inside it.
+I am trying to see who I'm, just who I'm .
 </div>
 </div>
 
