@@ -160,6 +160,36 @@ classes: wide
 
 <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; line-height:1.8;">
 
+
+<!-- Professor Rahul Roy Section -->
+
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family:'Georgia',serif;">
+
+  <h3 style="font-family:'Georgia',serif; color:#e8f5e8; margin-top:0;">Professor Rahul Roy — Measure Theory and Probability</h3>
+
+  <p style="margin-top:-5px; color:#e8f5e8; font-family:'Georgia',serif;">
+    <strong style="color:#e8f5e8;">Date:</strong> 19th September 2026, 6:00 PM
+  </p>
+
+  <div style="text-align:center; margin:15px 0;">
+    <img src="https://github.com/Ujjalt/ujjaltimshina/blob/ced60dc51741f8deb67be3e73826798a46546d88/images/Prof%20Roy.png?raw=true"
+         alt="Professor Rahul Roy"
+         style="width:100%; max-width:85%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15); height:auto;">
+  </div>
+
+  <p style="font-family:'Georgia',serif; color:#e8f5e8; line-height:1.8; margin-top:10px;">
+    We are currently taking Measure Theory with <strong style="color:#e8f5e8;">Professor Rahul Roy</strong> at IIIT-Delhi, and I have been thoroughly enjoying being part of the course as an unofficial TA for the undergraduate students. Some of the PhD students are also attending the course, which makes the classroom especially interesting.
+    <br><br>
+    I see a remarkable sense of perfection in Sir's teaching. The precision with which he develops definitions and proofs, and the depth with which he approaches even seemingly simple ideas, make his lectures a pleasure to attend. Sir spent more than three decades at the <strong style="color:#e8f5e8;">Indian Statistical Institute, Delhi</strong>, before retiring from ISI and joining IIIT-Delhi as a Visiting Professor. He is one of the leading mathematicians in the country, with an extraordinary depth of mathematics.
+    <br><br>
+    This photograph was taken during one of our online tutorial sessions. We normally have all our classes offline, but on this particular day there was a change in the timetable, so Sir decided to conduct the tutorial online. It was a small change from our usual routine, but it gave me this memorable picture.
+    <br><br>
+    I am enjoying the course not only because of the mathematics, but also because it gives me an opportunity to learn from someone with such a deep understanding of the subject. While helping the undergraduate students, I also get to revisit the foundations of measure theory myself. It is a wonderful experience to be learning together with students from different stages of their mathematical journey.
+  </p>
+
+</div>
+
+
   <h3 style="font-family:Georgia, serif; color:#e8f5e8; text-align:center; margin:5px auto 15px auto;">
     Teachers' Day Celebration – Department of Mathematics
   </h3>
@@ -222,7 +252,7 @@ classes: wide
          alt="Enjoying"
          style="width:100%; max-width:650px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0; height:auto; display:block;" />
 
-    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d217dff067038c61c61e5dcf60de1930ed1488a7/images/Ram-1.jpeg"
+   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d217dff067038c61c61e5dcf60de1930ed1488a7/images/Ram-1.jpeg"
          alt="Ram"
          style="width:100%; max-width:650px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0; height:auto; display:block;" />
   </div>
