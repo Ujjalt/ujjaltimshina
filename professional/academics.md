@@ -29,6 +29,18 @@ author_profile: true
          width="700"
          style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.25);" />
   </div>
+
+  <div align="center" style="margin-top:18px;">
+    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/287255e7fbed1ec0b4e414d18c1be9a3475128b8/images/Q1.jpeg"
+         width="700"
+         style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.25);" />
+  </div>
+
+  <div align="center" style="margin-top:18px;">
+    <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/287255e7fbed1ec0b4e414d18c1be9a3475128b8/images/Q.3.jpeg"
+         width="700"
+         style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.25);" />
+  </div>
 </div>
 
   <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color: #e8f5e8;">
