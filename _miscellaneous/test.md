@@ -161,6 +161,55 @@ classes: wide
 <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; line-height:1.8;">
 
 
+<!-- Nehru Place Lunch Section -->
+
+  <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family:'Georgia',serif;">
+
+<h3 style="font-family:'Georgia',serif; color:#e8f5e8; margin-top:0;">
+  Nehru Place, New Delhi, India
+</h3>
+
+<p align="center">
+  <strong style="font-family:'Georgia',serif; color:#e8f5e8;">20th September 2026</strong>
+</p>
+
+<p style="font-family:'Georgia',serif; color:#e8f5e8; line-height:1.8;">
+  Today was one of those simple days that quietly turn into good memories. We went to Nehru Place, a lively food court connected to the Nehru Place Metro Station, for lunch with <strong>Satish sir</strong> and <strong>Subhajit sir</strong>. The place brought together a variety of food options and gave us a relaxed setting to sit together, eat, and spend some time away from our usual department routine.
+  <br><br>
+  The lunch was actually a small gathering that Satish sir and Subhajit sir had planned after we celebrated <strong>Teachers' Day in the department</strong>. As far as I can remember, it was probably the first time we had celebrated Teachers' Day together in the department in such a way, which made the idea of getting together afterwards feel even more special.
+  <br><br>
+  Satish sir took us for lunch, and what could have been just another Sunday turned into a few relaxed hours of conversations, food, laughter, and stories. There was nothing particularly elaborate about the plan, and perhaps that was what made it feel so warm. We were simply a small group of students and teachers sharing a meal outside the department, without the usual academic setting between us.
+  <br><br>
+  These are the kinds of moments that often stay with us. PhD life can become so centred around mathematics, deadlines, seminars, and research problems that we sometimes forget how meaningful it is to simply sit together and talk. Today's lunch at Nehru Place was a small reminder of that.
+</p>
+
+<!-- Swipeable Nehru Place Image Gallery -->
+<div style="width:100%; max-width:750px; margin:0 auto 30px auto;">
+  <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; gap:20px; padding:5px 0 15px 0; scrollbar-width:thin; -webkit-overflow-scrolling:touch;">
+    <!-- Photograph 1 -->
+    <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/4b05b378776ebc7c663eb5b765d1c59039f85106/images/W1.jpeg"
+           alt="Lunch at Nehru Place Photograph 1"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15); height:auto;">
+    </div>
+   <!-- Photograph 2 -->
+    <div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/4b05b378776ebc7c663eb5b765d1c59039f85106/images/W-2.jpeg"
+           alt="Lunch at Nehru Place Photograph 2"
+           style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15); height:auto;">
+    </div>
+
+  </div>
+
+  <!-- Swipe Indicator -->
+  <p style="font-family:Georgia, serif; font-size:0.9em; color:#777; text-align:center; margin:5px 0 25px 0;">
+    ← Swipe or scroll sideways to view the other photograph →
+  </p>
+</div>
+  </div>
+
+
+
 <!-- Professor Rahul Roy Section -->
 
 <div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family:'Georgia',serif;">
