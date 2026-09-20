@@ -268,6 +268,11 @@ classes: wide
 
 <!-- Teachers' Day Images -->
 <div align="center" style="max-width:100%; padding:0 15px; box-sizing:border-box;">
+
+   <img src="https://github.com/Ujjalt/ujjaltimshina/blob/37ef29bc8d9b2b6b92cc35b5f1c4ff1dfe50f008/images/TD-4.jpg?raw=true"
+       alt="Teachers' Day 4"
+       style="width:100%; max-width:650px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0; height:auto; display:block;" />
+</div>
   <img src="https://github.com/Ujjalt/ujjaltimshina/blob/c7e381086c04879fbdad813a8b5905ffa1ef3bc4/images/TD-1.jpg?raw=true"
        alt="Teachers' Day 1"
        style="width:100%; max-width:650px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0; height:auto; display:block;" />
