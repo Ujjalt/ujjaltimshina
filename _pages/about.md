@@ -28,7 +28,8 @@ redirect_from:
     />
   </a>
 
-  <div style="
+
+<div style="
   margin-top:18px;
   font-family: Georgia, serif;
   font-size: 1.35rem;
@@ -37,10 +38,8 @@ redirect_from:
   letter-spacing: 0.4px;
   text-align: center;
 ">
-  No mind is so dark that it cannot radiate light.
+  Before the Question Dies
 </div>
-
-
 
 <div style="
   margin-top:8px;
@@ -66,47 +65,31 @@ redirect_from:
 </div>
 
 <div style="
-  background:#0e2e0e;
-  padding:18px 22px;
-  border-radius:8px;
-  color:#e8f5e8;
-  font-family:Georgia, serif;
-  font-size:22px;
-  font-weight:bold;
-  margin-bottom:20px;
-  text-align:center;
+  margin: 0 auto;
+  max-width: 850px;
+  font-family: Georgia, serif;
+  font-size: 16px;
+  line-height: 1.8;
+  color: #d8ecd2;
+  text-align: center;
 ">
-  Before the Question Dies
-</div>
 
 <div style="
-  background:#0e2e0e;
-  padding:18px 22px;
-  border-radius:8px;
-  color:#e8f5e8;
-  font-family:Georgia, serif;
-  font-size:16px;
-  margin-bottom:20px;
+  margin: 0 auto;
+  max-width: 850px;
+  font-family: Georgia, serif;
+  font-size: 16px;
+  line-height: 1.8;
+  color: #d8ecd2;
+  text-align: center;
 ">
 
-A child asks, “Why is the sky so far?” We smile at the question and call it curiosity. We admire the courage of a child who does not yet know which questions are supposed to be asked.
-
-Years later, we ask questions too, but now they come with fear. “Is this useful?” “Has this been done before?” “Will it get published?” “Will anyone care?” Slowly, we learn to judge our ideas before giving them enough space to breathe.
-
-We stop asking the questions that might make us look foolish. We hide strange ideas before someone calls them silly. Perhaps that is how curiosity dies, not with a loud “No,” but with a quiet, “That’s a silly question.”
-
-I often wonder how many discoveries began as embarrassing thoughts. How many beautiful ideas were abandoned because someone was afraid of being wrong?
-
-An idea does not need to be right when it is born. Sometimes, it only needs a little space to grow.
-
-So let the child ask. Let the student wonder. Let the researcher be wrong. Not every question needs an immediate answer, and not every thought needs to become a paper.
-
-Before asking whether an idea is useful, perhaps we should first allow it to become an idea.
-
-Because sometimes, the question everyone laughs at today becomes the doorway to something nobody imagined yesterday.
+A child asks, “Why is the sky so far?” We smile and call it curiosity. Years later, we ask the same question, but now we are careful. We write it on paper, choose better words, add references, dress it in mathematics, and present it formally. Suddenly, the question appears more serious. But did the question change? Perhaps we have become too good at judging ideas by the way they are dressed. A question written in a notebook may sound foolish. The same question, written in a paper by someone respected, may sound profound. Sometimes we judge the person, the language, the format, or the room before we judge the idea itself. This is where curiosity quietly begins to die.
+We become afraid to ask questions that sound simple. We learn to hide confusion behind complicated words. We start asking, “Is this publishable?” before asking, “Is this worth thinking about?” Of course, an idea must eventually face criticism, proof, evidence, and failure. But perhaps it should first be allowed to exist. Let the question be simple. Let the first attempt be wrong. Let the idea look unfinished. Because sometimes, what looks like a foolish question is only a serious question that has not yet learned how to dress.
 
 </div>
 </div>
+
 
 
 <div align="center" style="margin: 10px 0 25px 0;">
