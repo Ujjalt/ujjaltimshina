@@ -30,18 +30,6 @@ redirect_from:
 
 
 <div style="
-  margin-top:18px;
-  font-family: Georgia, serif;
-  font-size: 1.35rem;
-  font-weight: bold;
-  color: #d8ecd2;
-  letter-spacing: 0.4px;
-  text-align: center;
-">
-  Before the Question Dies
-</div>
-
-<div style="
   margin-top:8px;
   font-family: Georgia, serif;
   font-size: 0.95rem;
