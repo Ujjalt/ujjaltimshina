@@ -61,27 +61,7 @@ redirect_from:
   color: #d8ecd2;
   text-align: center;
 ">
-
-<div style="
-  margin: 0 auto;
-  max-width: 850px;
-  font-family: Georgia, serif;
-  font-size: 16px;
-  line-height: 1.8;
-  color: #d8ecd2;
-  text-align: center;
-">
-
-
-<div style="
-  margin: 0 auto;
-  max-width: 850px;
-  font-family: Georgia, serif;
-  font-size: 16px;
-  line-height: 1.8;
-  color: #d8ecd2;
-  text-align: center;
-">
+  
 
 <div style="
   margin: 0 auto;
@@ -99,8 +79,7 @@ Before the Question Dies
 There are no stupid questions but just the stupid answers.
 </div>
 </div>
-
-
+</div>
 
 <div align="center" style="margin: 10px 0 25px 0;">
   <a href="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ff5289b4d96068b11d56f0009fa9d58ba12f1686/images/Mountain.jpg" target="_blank">
