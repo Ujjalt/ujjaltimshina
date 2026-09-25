@@ -41,7 +41,6 @@ redirect_from:
 </div>
 
 
-Yes, there are two syntax errors in what you pasted: the extra `</div>` and the missing `<div style="`. Here is the **properly corrected GitHub/Jekyll version**:
 
 <div style="
   margin-top:8px;
