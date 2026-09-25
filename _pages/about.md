@@ -106,6 +106,7 @@ Before asking whether an idea is useful, perhaps we should first allow it to bec
 Because sometimes, the question everyone laughs at today becomes the doorway to something nobody imagined yesterday.
 
 </div>
+</div>
 
 
 <div align="center" style="margin: 10px 0 25px 0;">
