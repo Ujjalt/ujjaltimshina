@@ -104,7 +104,7 @@ this been done before?” “Will it get published?” “Will anyone care?” S
 before someone calls them silly. Perhaps that is how curiosity dies, not with a loud “No”,
 but with a quiet, “That’s a silly question.” I often wonder how many discoveries began as embarrassing thoughts. How many
 beautiful ideas were abandoned because someone was afraid of being wrong? An idea does not need to be right when it is born. Sometimes, it only needs a little space to grow. So let the child ask. Let the student wonder. Let the researcher be wrong. Not every
-question needs an immediate answer, and not every thought needs to become a paper. Before asking whether an idea is useful, perhaps we should first allow it to become an Because sometimes, the question everyone laughs at today becomes the doorway to
+question needs an immediate answer, and not every thought needs to become a paper. Before asking whether an idea is useful, perhaps we should first allow it to become an idea. Because sometimes, the question everyone laughs at today becomes the doorway to
 something nobody imagined yesterday.
 </div>
 </div>
