@@ -307,6 +307,70 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
 
 </div>
 
+
+<div style="
+    background:#0e2e0e;
+    color:#e8f5e8;
+    padding:18px 20px;
+    border-radius:8px;
+    font-family:Georgia, serif;
+    font-size:15px;
+    line-height:1.6;
+    margin-bottom:10px;
+  ">
+
+  <div style="
+      font-size:21px;
+      font-weight:bold;
+      color:#e8f5e8;
+      margin-bottom:12px;
+      text-align:center;
+    ">
+   Again Before the Question Dies
+  </div>
+
+  <div style="
+      font-style:italic;
+      color:#b9d6b4;
+      font-size:16px;
+      padding:4px 12px;
+      margin-bottom:14px;
+      text-align:center;
+    ">
+    “There are no stupid questions, only stupid answers.”
+  </div>
+
+  <p>A child asks, “Why is the sky so far?” We smile at the question and call it curiosity.
+  We admire the courage of a child who does not yet know which questions are supposed to be asked.</p>
+
+  <p>Years later, we ask questions too, but now they come with fear.</p>
+
+  <p style="color:#b9d6b4; padding-left:14px;">
+    “Is this useful?”<br>
+    “Has this been done before?”<br>
+    “Will it get published?”<br>
+    “Will anyone care?”
+  </p>
+
+  <p>Slowly, we learn to judge our ideas before giving them enough space to breathe.</p>
+
+  <p>We stop asking the questions that might make us look foolish. We hide strange ideas before someone calls them silly. Perhaps that is how curiosity dies, not with a loud “No”, but with a quiet, “That’s a silly question.”</p>
+
+  <p>I often wonder how many discoveries began as embarrassing thoughts. How many beautiful ideas were abandoned because someone was afraid of being wrong?</p>
+
+  <p>An idea does not need to be right when it is born. Sometimes, it only needs a little space to grow.</p>
+
+  <p>So let the child ask. Let the student wonder. Let the researcher be wrong. Not every question needs an immediate answer, and not every thought needs to become a paper.</p>
+
+  <p>Before asking whether an idea is useful, perhaps we should first allow it to become an idea.</p>
+
+  <p>Because sometimes, the question everyone laughs at today becomes the doorway to something nobody imagined yesterday.</p>
+
+</div>
+
+
+
+
   <hr style="width:60%; margin:24px auto; border:none; border-top:1px solid #b8cdb8;">
 
   <p style="margin:0; font-family:Georgia, serif; font-weight:bold; color:#2f4f2f; font-size:1.05em;">
