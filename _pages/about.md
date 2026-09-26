@@ -288,9 +288,7 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
 
   <!-- Swipe Indicator -->
 
-  <p style="font-family:Georgia, serif; font-size:0.9em; color:#777; text-align:center; margin:5px 0 25px 0;">
-    ← Swipe or scroll sideways to view the edited version →
-  </p>
+
 
   <!-- Description -->
 
