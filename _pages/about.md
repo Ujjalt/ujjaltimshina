@@ -62,7 +62,6 @@ redirect_from:
   text-align: center;
 ">
   
-
 <div style="
   margin: 0 auto;
   max-width: 850px;
@@ -72,16 +71,37 @@ redirect_from:
   color: #d8ecd2;
   text-align: center;
 ">
-<div style="background:#0e2e0e; color:#e8f5e8; padding:22px 24px; border-radius:8px; font-family:Georgia, serif; font-size:16px; line-height:1.7; margin-bottom:12px; text-align:center;">
-  <div style="font-size:22px; font-weight:bold; color:#e8f5e8; margin-bottom:18px;">
-    Before the Question Dies
+  <div style="
+    background:#0e2e0e;
+    color:#e8f5e8;
+    padding:22px 24px;
+    border-radius:8px;
+    font-family:Georgia, serif;
+    font-size:16px;
+    line-height:1.7;
+    margin-bottom:12px;
+    text-align:center;
+  ">
+    <div style="
+      font-size:22px;
+      font-weight:bold;
+      color:#e8f5e8;
+      margin-bottom:18px;
+    ">
+      Before the Question Dies
+    </div>
+    <div style="
+      font-style:italic;
+      color:#b9d6b4;
+      font-size:17px;
+      padding:8px 20px;
+    ">
+      “There are no stupid questions, only stupid answers.”
+    </div>
   </div>
+</div>
+</div>
 
-  <div style="font-style:italic; color:#b9d6b4; font-size:17px; padding:8px 20px;">
-    “There are no stupid questions, only stupid answers.”
-  </div>
-</div>
-</div>
 
 
 <div align="center" style="margin: 10px 0 25px 0;">
