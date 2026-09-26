@@ -282,11 +282,6 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
 </div>
 
 <!-- Edited Dark Version -->
-<div style="flex:0 0 100%; scroll-snap-align:center; display:flex; justify-content:center;">
-  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/1546be94fd12fe918c28379f20ab132f41966c47/images/IMG_7800.png"
-       alt="Moon over IIIT Delhi Campus - Edited Dark Version"
-       style="display:block; width:100%; max-width:650px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-</div>
 
 
   </div>
@@ -301,7 +296,7 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
 
   <p style="font-family:Georgia, serif; font-size:1.08em; color:#2f4f2f; line-height:1.8; text-align:justify; margin:0 auto; max-width:700px;">
     <em>
-      What began as an ordinary daytime photograph became an attempt to capture the campus in a different light. Through careful editing, I transformed the original photograph into a darker, moonlit composition, revealing a quieter and more contemplative side of the place I have come to know so well. Beyond its architecture and classrooms, IIIT Delhi has shaped me in countless ways—academically, professionally, and personally. Every corner of this campus carries memories of learning, growth, and inspiration. The editing was not intended to change the essence of the photograph, but rather to bring out another mood and perspective of a place that has become an important part of my journey.
+      What began as an ordinary daytime photograph became an attempt to capture the campus in a different light. Beyond its architecture and classrooms, IIIT Delhi has shaped me in countless ways—academically, professionally, and personally. Every corner of this campus carries memories of learning, growth, and inspiration. The editing was not intended to change the essence of the photograph, but rather to bring out another mood and perspective of a place that has become an important part of my journey.
     </em>
   </p>
 
