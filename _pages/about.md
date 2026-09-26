@@ -294,7 +294,7 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
 
   <p style="font-family:Georgia, serif; font-size:1.08em; color:#2f4f2f; line-height:1.8; text-align:justify; margin:0 auto; max-width:700px;">
     <em>
-      What began as an ordinary daytime photograph became an attempt to capture the campus in a different light. Beyond its architecture and classrooms, IIIT Delhi has shaped me in countless ways—academically, professionally, and personally. Every corner of this campus carries memories of learning, growth, and inspiration. The editing was not intended to change the essence of the photograph, but rather to bring out another mood and perspective of a place that has become an important part of my journey.
+      What began as an ordinary daytime photograph became an attempt to capture the campus in a different light. Beyond its architecture and classrooms, IIIT Delhi has shaped me in countless ways—academically, professionally, and personally. Every corner of this campus carries memories of learning, growth, and inspiration.
     </em>
   </p>
 
