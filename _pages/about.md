@@ -307,7 +307,6 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
 
 </div>
 
-
 <div style="
     background:#0e2e0e;
     color:#e8f5e8;
@@ -316,17 +315,15 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
     font-family:Georgia, serif;
     font-size:15px;
     line-height:1.6;
-    margin-bottom:10px;
+    text-align:center;
   ">
 
   <div style="
       font-size:21px;
       font-weight:bold;
-      color:#e8f5e8;
       margin-bottom:12px;
-      text-align:center;
     ">
-   Again Before the Question Dies
+    Before the Question Dies
   </div>
 
   <div style="
@@ -334,40 +331,34 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
       color:#b9d6b4;
       font-size:16px;
       padding:4px 12px;
-      margin-bottom:14px;
-      text-align:center;
     ">
-    “There are no stupid questions, only stupid answers.”
+    “Again There are no stupid questions, only stupid answers.”
   </div>
 
-  <p>A child asks, “Why is the sky so far?” We smile at the question and call it curiosity.
-  We admire the courage of a child who does not yet know which questions are supposed to be asked.</p>
+  <div style="margin-top:16px;">
 
-  <p>Years later, we ask questions too, but now they come with fear.</p>
+   <p>A child asks, “Why is the sky so far?”<br>
+    We call it curiosity.</p>
 
-  <p style="color:#b9d6b4; padding-left:14px;">
-    “Is this useful?”<br>
-    “Has this been done before?”<br>
-    “Will it get published?”<br>
-    “Will anyone care?”
-  </p>
+   <p>Years later, we ask,<br>
+    “Is it useful?”<br>
+    “Has it been done before?”<br>
+    “Will anyone care?”</p>
 
-  <p>Slowly, we learn to judge our ideas before giving them enough space to breathe.</p>
+  <p>And somewhere between<br>
+    <i>curiosity</i> and <i>approval</i>,<br>
+    we learn to silence ourselves.</p>
 
-  <p>We stop asking the questions that might make us look foolish. We hide strange ideas before someone calls them silly. Perhaps that is how curiosity dies, not with a loud “No”, but with a quiet, “That’s a silly question.”</p>
+   <p>Perhaps curiosity does not die<br>
+    when we stop asking questions.</p>
 
-  <p>I often wonder how many discoveries began as embarrassing thoughts. How many beautiful ideas were abandoned because someone was afraid of being wrong?</p>
+   <p style="color:#b9d6b4; font-size:17px;">
+      It dies when we become afraid<br>
+      of asking the wrong one.
+    </p>
 
-  <p>An idea does not need to be right when it is born. Sometimes, it only needs a little space to grow.</p>
-
-  <p>So let the child ask. Let the student wonder. Let the researcher be wrong. Not every question needs an immediate answer, and not every thought needs to become a paper.</p>
-
-  <p>Before asking whether an idea is useful, perhaps we should first allow it to become an idea.</p>
-
-  <p>Because sometimes, the question everyone laughs at today becomes the doorway to something nobody imagined yesterday.</p>
-
+  </div>
 </div>
-
 
 
 
