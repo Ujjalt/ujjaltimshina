@@ -81,6 +81,7 @@ redirect_from:
     “There are no stupid questions, only stupid answers.”
   </div>
 </div>
+</div>
 
 
 <div align="center" style="margin: 10px 0 25px 0;">
