@@ -332,7 +332,7 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
       font-size:16px;
       padding:4px 12px;
     ">
-    “Again There are no stupid questions, only stupid answers.”
+    “Again there are no stupid questions, only stupid answers.”
   </div>
 
   <div style="margin-top:16px;">
