@@ -332,6 +332,18 @@ classes: wide
   </p>
 
   <!-- RAM Additional Images -->
+
+  <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/b8917a11986561b5c808bbc0109781044e60d4a3/images/UT-2.JPG"
+        alt="UT Session 2"
+        style="width:100%; max-width:650px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0; height:auto; display:block;" />
+
+   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/b8917a11986561b5c808bbc0109781044e60d4a3/images/UT-3.JPG"
+        alt="UT Session 3"
+        style="width:100%; max-width:650px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0; height:auto; display:block;" />
+
+   <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/b8917a11986561b5c808bbc0109781044e60d4a3/images/UT1.JPG"
+        alt="UT Session 1"
+        style="width:100%; max-width:650px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:18px 0; height:auto; display:block;" />
   <div align="center">
     <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/d217dff067038c61c61e5dcf60de1930ed1488a7/images/RAM-2.jpeg"
          alt="RAM Session 2"
