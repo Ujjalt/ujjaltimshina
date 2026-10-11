@@ -324,31 +324,48 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
       font-size:16px;
       padding:4px 12px;
     ">
-    “Again there are no stupid questions, only stupid answers.”
-  </div>
+  <p>In the younger years, the question came freely:<br>
+<i>"Why is the sky so far?"</i></p>
 
-  <div style="margin-top:16px;">
+<p>And the answer came just as freely:<br>
+<i>"Because it wants to watch over you."</i><br>
+<i>"Because if it were closer, it would be a roof."</i><br>
+<i>"Because God stretched it like a tent."</i></p>
 
-   <p>A child asks, “Why is the sky so far?”<br>
-    We call it curiosity.</p>
+<p>No one checked the answer.<br>
+No one marked it wrong.<br>
+No one asked who had said it first.</p>
 
-   <p>Years later, we ask,<br>
-    “Is it useful?”<br>
-    “Has it been done before?”<br>
-    “Will anyone care?”</p>
+<p>Then, one day, in a room with rows of desks,<br>
+the same question appeared—<br>
+printed, numbered, carrying marks.</p>
 
-  <p>And somewhere between<br>
-    <i>curiosity</i> and <i>approval</i>,<br>
-    we learn to silence ourselves.</p>
+<p><i>"Why is the sky so far?"</i></p>
 
-   <p>Perhaps curiosity does not die<br>
-    when we stop asking questions.</p>
+<p>And the child wrote what he had always known:<br>
+<i>"Because it wants to watch over us."</i></p>
 
-   <p style="color:#b9d6b4; font-size:17px;">
-      It dies when we become afraid<br>
-      of asking the wrong one.
-    </p>
+<p>The paper came back.<br>
+Red ink.<br>
+<i>Incorrect.</i></p>
 
+<p>The correct answer was:<br>
+<i>"Due to atmospheric scattering of blue light<br>
+and the curvature of the Earth."</i></p>
+
+<p>The child looked at the sky that evening.<br>
+It was still far.<br>
+It had not moved.</p>
+
+<p>But something in him had.</p>
+
+<p>He had learned a new question—<br>
+not <i>"Why is the sky so far?"</i><br>
+but <i>"What will they accept?"</i></p>
+
+<p>And that, quietly,<br>
+was the day curiosity<br>
+learned to wear a uniform.</p>
   </div>
 </div>
 
