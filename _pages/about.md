@@ -96,13 +96,26 @@ redirect_from:
       font-size:17px;
       padding:8px 20px;
     ">
-      “There are no stupid questions, only stupid answers.”
-    </div>
-  </div>
-</div>
-</div>
 </div>
 
+
+<p><strong>The Ladder That Leans Against Nothing</strong></p>
+
+<p>
+They told me<br>
+knowledge is a ladder,<br>
+and I believed them<br>
+for a long time.<br>
+And I climbed.<br>
+Quietly at first,<br>
+then louder,<br>
+because I learned<br>
+that quiet<br>
+is mistaken<br>
+for empty.
+</p>
+
+</div>
 
 
 <div align="center" style="margin: 10px 0 25px 0;">
