@@ -102,7 +102,10 @@ redirect_from:
 <p><strong> There is a Ladder That Leans Against Nothing</strong></p>
 
 </div>
-
+</div>
+</div>
+</div>
+</div>
 
 <div align="center" style="margin: 10px 0 25px 0;">
   <a href="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/ff5289b4d96068b11d56f0009fa9d58ba12f1686/images/Mountain.jpg" target="_blank">
