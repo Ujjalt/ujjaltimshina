@@ -101,25 +101,6 @@ redirect_from:
 
 <p><strong> There is a Ladder That Leans Against Nothing</strong></p>
 
-<p>
-They told me<br>
-knowledge is a ladder,<br>
-and I believed them<br>
-for a long time.<br>
-And I climbed.<br>
-Quietly at first,<br>
-then louder,<br>
-because I learned<br>
-that quiet<br>
-is mistaken<br>
-for empty.
-</p>
-<p>
-The higher I went,<br>
-the more I noticed<br>
-the hands.
-</p>
-
 </div>
 
 
