@@ -120,16 +120,6 @@ the more I noticed<br>
 the hands.
 </p>
 
-<p>
-Some were<br>
-holding me up.<br>
-Most were<br>
-holding someone down—<br>
-a foot,<br>
-a shoulder,<br>
-a throat....(to be continued in the blog post)
-</p>
-
 </div>
 
 
