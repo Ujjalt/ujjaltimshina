@@ -114,6 +114,21 @@ that quiet<br>
 is mistaken<br>
 for empty.
 </p>
+<p>
+The higher I went,<br>
+the more I noticed<br>
+the hands.
+</p>
+
+<p>
+Some were<br>
+holding me up.<br>
+Most were<br>
+holding someone down—<br>
+a foot,<br>
+a shoulder,<br>
+a throat.
+</p>
 
 </div>
 
