@@ -99,7 +99,7 @@ redirect_from:
 </div>
 
 
-<p><strong>The Ladder That Leans Against Nothing</strong></p>
+<p><strong> There is a Ladder That Leans Against Nothing</strong></p>
 
 <p>
 They told me<br>
@@ -127,7 +127,7 @@ Most were<br>
 holding someone down—<br>
 a foot,<br>
 a shoulder,<br>
-a throat.
+a throat....(to be continued in the blog post)
 </p>
 
 </div>
