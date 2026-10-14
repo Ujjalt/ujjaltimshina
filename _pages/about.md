@@ -26,7 +26,7 @@ redirect_from:
       height="380"
       style="border-radius:50%; object-fit:cover;"
     />
-  </a>
+  </a> 
 
 
 <div style="
