@@ -315,9 +315,7 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
        alt="Monk"
        style="width:150px; height:auto; border:2px solid #2f4f2f; border-radius:8px; padding:3px; display:inline-block;">
   <div style="margin-top:8px; font-style:italic; color:#555;">
-    Merely an unofficial monk, firm in conviction  "In the end:
-    no depth below,
-    no roof above."
+ Merely an unofficial monk, firm in the conviction that, in the end, there is no depth below and no roof above.
 </div>
 
 
