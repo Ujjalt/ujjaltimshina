@@ -157,8 +157,53 @@ classes: wide
 
 
 
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family:Georgia, serif;">
 
+  <h3 style="font-family:'Georgia',serif; color:#e8f5e8; margin-top:0; text-align:center;">
+    A Little Gesture, A Lasting Happiness
+  </h3>
 
+  <p align="center">
+    <strong style="font-family:'Georgia',serif; color:#e8f5e8;">17th October 2026</strong>
+  </p>
+
+  <p style="margin:0; color:#e8f5e8; font-family:Georgia,serif; line-height:1.8;">
+    Dr. Vinay Nair, Secretary and co-founder of Raising a Mathematician Foundation (RAM), is passionate about mathematics education, nurturing curiosity, and helping students develop their mathematical thinking. His work also reflects a deep interest in the history of mathematics and the place of India in its development.
+    <br><br>
+    Today, I received a small gift from him as a token of appreciation. It might seem like a simple gesture, but for me, it meant something far more than that. For the first time in my life, someone had sent me a gift of this kind, and I cannot quite describe the happiness it brought me. It was a feeling that came straight from the heart.
+    <br><br>
+    When I began taking sessions with Raising a Mathematician Foundation, I never did so with any expectation of receiving something in return. In a way, I was trying to reclaim some of the time I felt I had lost during my younger years by doing something I genuinely enjoy: sharing mathematics, learning along the way, and helping young minds discover the beauty of the subject.
+    <br><br>
+    I never expected appreciation in this form. I was simply happy to be there, teaching and learning, perhaps giving others a little of what I wish I had experienced more of myself. And then came this thoughtful gesture, making an ordinary day unexpectedly special.
+    <br><br>
+    Some gifts are valuable because of what they contain; others, because of what they make us feel. This one will always remain special to me, not merely for the gift itself, but for the warmth, kindness, and happiness attached to it. Sometimes, it takes just one small gesture to remind us that even the things we do without expecting anything in return can touch someone else's heart, too.
+  </p>
+</div>
+
+<!-- Swipeable Diwali Gift Photos -->
+<div style="width:100%; max-width:750px; margin:0 auto 30px auto;">
+
+  <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; scrollbar-width:thin; -webkit-overflow-scrolling:touch;">
+    <!-- Image 1 -->
+    <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/514e2e121be96007e771717df329dce73af91afc/images/Dipawali%20F-2.jpeg"
+           alt="A thoughtful gift from Dr. Vinay Nair"
+           style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+    <!-- Image 2 -->
+    <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/514e2e121be96007e771717df329dce73af91afc/images/Dipawali%20G1.jpeg"
+           alt="A small token of appreciation"
+           style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+
+  </div>
+
+  <p style="font-family:Georgia,serif; font-size:0.9em; color:#777; text-align:center; margin:8px 0 15px 0;">
+    ← Swipe or scroll sideways to view the other photograph →
+  </p>
+
+</div>
 
 
 
