@@ -228,7 +228,7 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
 <hr style="border:0; border-top:1px solid #b8cee8; margin:18px 0;">
 
 
-<p style="font-family: Georgia, serif; color: #1a3d1a;">Apart from my primary research in mathematics, I would still like to return to that childhood curiosity after completing my PhD. I hope to rebuild my basic knowledge of physics and, with the mathematical maturity I will have developed by then, study quantum physics and the theory of relativity more seriously. There is something deeply satisfying to me about the possibility of coming back to a subject I once wanted to study, but this time with the language and perspective that mathematics has given me.</p>
+<p style="font-family: Georgia, serif; color: #1a3d1a;">Apart from my research in mathematics, I love writing, spending time with my own thoughts, and occasionally escaping into the hills for a long solo drive. There is something deeply peaceful about driving through winding mountain roads with music playing softly in the background, especially as the sun begins to set or when the rain settles over the hills. These are the moments when I feel most at ease, with no particular destination in mind and no urgency to arrive. Just the road, the mountains, a little music, and the freedom to be with my thoughts.</p>
 
 
 
