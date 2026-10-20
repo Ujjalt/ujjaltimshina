@@ -251,34 +251,51 @@ Alwar was not quite the trip we had planned. In many ways, that was precisely wh
 
 <!-- Swipeable Alwar Trip Photographs -->
 <div style="width:100%; max-width:750px; margin:0 auto 18px;">
+
   <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; scrollbar-width:thin; -webkit-overflow-scrolling:touch;">
-    <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-1.jpeg" alt="Alwar trip photograph 1" style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:8px;">
+  <!-- Image 1 -->
+    <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <div style="width:85%; height:320px; display:flex; justify-content:center; align-items:center;">
+        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-1.jpeg" alt="Alwar trip photograph 1" style="width:100%; height:100%; object-fit:contain; border-radius:8px;">
+      </div>
     </div>
-
-  <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar%20-2.jpeg" alt="Alwar trip photograph 2" style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:8px;">
+    <!-- Image 2 -->
+    <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <div style="width:85%; height:320px; display:flex; justify-content:center; align-items:center;">
+        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar%20-2.jpeg" alt="Alwar trip photograph 2" style="width:100%; height:100%; object-fit:contain; border-radius:8px;">
+      </div>
     </div>
-
-  <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-3.jpeg" alt="Alwar trip photograph 3" style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:8px;">
+    <!-- Image 3 -->
+    <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <div style="width:85%; height:320px; display:flex; justify-content:center; align-items:center;">
+        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-3.jpeg" alt="Alwar trip photograph 3" style="width:100%; height:100%; object-fit:contain; border-radius:8px;">
+      </div>
     </div>
-    <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-4.jpeg" alt="Alwar trip photograph 4" style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:8px;">
+   <!-- Image 4 -->
+    <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <div style="width:85%; height:320px; display:flex; justify-content:center; align-items:center;">
+        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-4.jpeg" alt="Alwar trip photograph 4" style="width:100%; height:100%; object-fit:contain; border-radius:8px;">
+      </div>
     </div>
-
-  <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-5.jpeg" alt="Alwar trip photograph 5" style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:8px;">
+   <!-- Image 5 -->
+    <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <div style="width:85%; height:320px; display:flex; justify-content:center; align-items:center;">
+        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-5.jpeg" alt="Alwar trip photograph 5" style="width:100%; height:100%; object-fit:contain; border-radius:8px;">
+      </div>
     </div>
-
-  <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-6.jpeg" alt="Alwar trip photograph 6" style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:8px;">
+   <!-- Image 6 -->
+    <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <div style="width:85%; height:320px; display:flex; justify-content:center; align-items:center;">
+        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-6.jpeg" alt="Alwar trip photograph 6" style="width:100%; height:100%; object-fit:contain; border-radius:8px;">
+      </div>
     </div>
 
   </div>
+
   <p style="font-family:Georgia,serif; font-size:0.85em; color:#b9d6b4; text-align:center; margin:5px 0 0;">
     ← Swipe or scroll sideways to view the photographs →
   </p>
+
 </div>
 
 
