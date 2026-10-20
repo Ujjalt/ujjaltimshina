@@ -212,6 +212,74 @@ classes: wide
 <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; line-height:1.8;">
 
 
+<h3 style="font-family:'Georgia',serif; color:#e8f5e8; margin-top:0;">Alwar, Rajasthan — A Weekend of Unexpected Adventures</h3>
+
+<p align="center" style="margin:4px 0 10px;">
+  <strong style="font-family:'Georgia',serif; color:#e8f5e8;">17th–18th October 2026</strong>
+</p>
+
+<!-- Personal Note -->
+<div style="background:#0e2e0e; padding:12px 16px; border-radius:8px; margin-bottom:10px; color:#e8f5e8; font-family:Georgia,serif;">
+<p style="margin:0; line-height:1.65; color:#e8f5e8; font-family:Georgia,serif;">
+Some trips are planned around destinations; others become memorable because of everything that happens along the way. Our little weekend escape to Alwar, Rajasthan, with my friend Satya, turned out to be the latter.
+
+We started planning around 2:00 PM on Saturday. By 6:00 PM, we had left campus and reached Kashmere Gate ISBT, looking for a bus to Alwar. There were none. After searching for nearly half an hour, we decided to head towards <a href="https://www.google.com/search?kgmid=%2Fm%2F02qnd2c" style="color:#b9d6b4;">Dhaula Kuan</a>, but finding a bus there was no easier. After another fifteen minutes, someone told us about a bus that would take us part of the way towards Alwar. We boarded it, uncertain about how the rest of the journey would unfold.
+
+At around 11:00 PM, we reached Sheetal Toll Plaza. We sat at the junction towards Alwar for another half an hour, gradually losing hope. I was already considering a backup plan: finding a village nearby where we could spend the night. Just when we were about to give up, a vehicle finally came along that could take us to Alwar. The driver seemed determined to avoid paying the toll and drove along the rough roads in the process. It was an unusual ride, but reaching Alwar was all that mattered.
+
+We arrived around 1:00 AM. The city was asleep, and the streets were almost empty, except for a stray dog that frightened me more than I would like to admit. Our hotel was about two kilometres away, so we decided to walk. I had my share of fears about robberies and deserted roads, but Satya and I kept encouraging each other as we walked along the empty highway, with only a few vehicles passing by. Sometimes, having someone beside you makes an uncertain journey feel a little less uncertain.
+
+The hotel staff had fallen asleep, but we somehow managed to get inside. We ordered a pizza, which fortunately arrived around 2:00 AM. After the exhausting journey, that late-night meal felt like a small victory. We finally slept, only to wake up at 7:40 AM despite setting the alarm for 7:00 AM.
+
+Our first destination was Alwar City Palace, also known as Vinay Vilas Mahal. Unfortunately, it was closed when we arrived, and it was quite far from our hotel. We consoled ourselves with some delicious kachoris before looking for transport to our next destination. After a little more searching, we found a bus and continued towards Siliserh Lake.
+
+The lake was farther away than we had expected, and the journey took us towards a place that seemed to receive relatively few visitors. Langurs and monkeys were common sights along the way. When we arrived, however, the spot looked more like a dumping ground than the lake we had imagined. We were disheartened and were already thinking about returning when the auto driver told us that we needed to walk a little farther inside because vehicles were not permitted beyond that point.
+
+So, we walked. The road ahead was nearly empty, the surroundings unfamiliar, and the thought of crocodiles in the lake made the place feel even more mysterious. Yet, I found myself enjoying the quiet walk. Away from traffic and crowds, an empty road can sometimes be more appealing than a popular destination.
+
+Our main destination was still waiting for us: Sariska Tiger Reserve. We had to keep an eye on the time, and the thought of missing the safari made us restless. There was a boating facility at the lake, but the price seemed too high, especially since the boats appeared to be intended for groups. Once again, luck came to our rescue. A group of around ten boys from Delhi arrived, and the boat they were considering had a capacity of twelve. We spoke to them, joined their group, and finally managed to go boating together. What had seemed too expensive moments earlier suddenly became possible. We enjoyed the ride, grateful for another unexpected turn in our favour.
+
+After that, we hurried towards Sariska. There was no readily available return cab, and we asked several people for a lift, but nobody could help us. Eventually, we found an auto that took us part of the way. We then waited for a public bus, which, as we discovered, was usually packed with passengers. We finally reached Sariska Tiger Reserve around 2:00 PM, with entry closing at 2:30 PM. After all the uncertainty, waiting, and repeated changes of plan, we had made it.
+
+We went on a jungle safari, accompanied by a driver and guide who searched through the forest in the hope of spotting a tiger. We looked around eagerly, waiting for that unforgettable sight. But the tiger remained elusive, and we did not see one that day.
+
+Still, the journey had already given us plenty to remember: the buses that never arrived, the late-night ride, the empty highways, the fear that gradually gave way to laughter, the unexpected boat ride, and the many small moments when things worked out just in time. Perhaps the best part of travelling is not always reaching the destination or seeing everything we hoped to see. Sometimes, it is discovering how much a day can hold when we simply keep going.
+
+Alwar was not quite the trip we had planned. In many ways, that was precisely what made it ours.
+</p>
+</div>
+
+<!-- Swipeable Alwar Trip Photographs -->
+<div style="width:100%; max-width:750px; margin:0 auto 18px;">
+  <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; scrollbar-width:thin; -webkit-overflow-scrolling:touch;">
+    <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-1.jpeg" alt="Alwar trip photograph 1" style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:8px;">
+    </div>
+
+  <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar%20-2.jpeg" alt="Alwar trip photograph 2" style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:8px;">
+    </div>
+
+  <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-3.jpeg" alt="Alwar trip photograph 3" style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:8px;">
+    </div>
+    <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-4.jpeg" alt="Alwar trip photograph 4" style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:8px;">
+    </div>
+
+  <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-5.jpeg" alt="Alwar trip photograph 5" style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:8px;">
+    </div>
+
+  <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-6.jpeg" alt="Alwar trip photograph 6" style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:8px;">
+    </div>
+
+  </div>
+  <p style="font-family:Georgia,serif; font-size:0.85em; color:#b9d6b4; text-align:center; margin:5px 0 0;">
+    ← Swipe or scroll sideways to view the photographs →
+  </p>
+</div>
 
 
 <h3 style="font-family:'Georgia',serif; color:#e8f5e8; margin-top:0;">
@@ -240,37 +308,59 @@ classes: wide
 
 <!-- Swipeable Talk Photographs -->
 
-<div style="width:100%; max-width:750px; margin:0 auto 30px auto;">
+<div style="width:100%; max-width:750px; margin:0 auto 15px auto;">
 
   <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; scrollbar-width:thin; -webkit-overflow-scrolling:touch;">
+
     <!-- Image 1 -->
-    <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/9f60b8ff273b428494bcb56b2f4aeb44a46c4c00/images/Lei%20Zhang%201.png"
-           alt="Prof. John McCarthy's talk"
-           style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+   <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-1.jpeg"
+           alt="Alwar trip photograph 1"
+           style="width:85%; height:320px; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
-   <!-- Image 2 -->
-    <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/9f60b8ff273b428494bcb56b2f4aeb44a46c4c00/images/Lei-222.png"
-           alt="Moments from the mathematics talk"
-           style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+
+    <!-- Image 2 -->
+  <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar%20-2.jpeg"
+           alt="Alwar trip photograph 2"
+           style="width:85%; height:320px; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
+
     <!-- Image 3 -->
-    <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/9f60b8ff273b428494bcb56b2f4aeb44a46c4c00/images/Lei.png"
-           alt="Another moment from the talk"
-           style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+   <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-3.jpeg"
+           alt="Alwar trip photograph 3"
+           style="width:85%; height:320px; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+
+    <!-- Image 4 -->
+   <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-4.jpeg"
+           alt="Alwar trip photograph 4"
+           style="width:85%; height:320px; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+
+    <!-- Image 5 -->
+   <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-5.jpeg"
+           alt="Alwar trip photograph 5"
+           style="width:85%; height:320px; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+
+    <!-- Image 6 -->
+  <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-6.jpeg"
+           alt="Alwar trip photograph 6"
+           style="width:85%; height:320px; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
 
   </div>
 
-  <!-- Swipe Indicator -->
-  <p style="font-family:Georgia, serif; font-size:0.9em; color:#777; text-align:center; margin:8px 0 15px 0;">
-    ← Swipe or scroll sideways to view the other photographs →
+  <p style="font-family:Georgia,serif; font-size:0.85em; color:#b9d6b4; text-align:center; margin:5px 0 0;">
+    ← Swipe or scroll sideways to view the photographs →
   </p>
+
 </div>
-
-
 
 
 
