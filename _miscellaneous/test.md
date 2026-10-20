@@ -299,6 +299,7 @@ Alwar was not quite the trip we had planned. In many ways, that was precisely wh
 </div>
 
 
+
 <h3 style="font-family:'Georgia',serif; color:#e8f5e8; margin-top:0;">
   The Lei Zhang Entropy Theorem and the Krzyż Conjecture
 </h3>
@@ -308,9 +309,8 @@ Alwar was not quite the trip we had planned. In many ways, that was precisely wh
 </p>
 
 <!-- Personal Note -->
-
-<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family:Georgia, serif;">
-  <p style="margin: 0; color:#e8f5e8; font-family:Georgia, serif; line-height:1.8;">
+<div style="background:#0e2e0e; padding:15px 20px; border-radius:8px; margin-bottom:12px; color:#e8f5e8; font-family:Georgia,serif;">
+  <p style="margin:0; color:#e8f5e8; font-family:Georgia,serif; line-height:1.8;">
     A wonderful talk by <b>Prof. John McCarthy</b> on <i>The Lei Zhang Entropy Theorem and the Krzyż Conjecture</i>.
     <br><br>
     This was the first talk I attended by Prof. McCarthy, whose work is well known in functional analysis and complex analysis. Having previously read the second chapter of his book <i>Pick Interpolation Problems and Hilbert Function Spaces</i>, it felt particularly special to attend his talk and listen to him speak about mathematics.
@@ -324,60 +324,38 @@ Alwar was not quite the trip we had planned. In many ways, that was precisely wh
 </div>
 
 <!-- Swipeable Talk Photographs -->
-
 <div style="width:100%; max-width:750px; margin:0 auto 15px auto;">
 
   <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; scrollbar-width:thin; -webkit-overflow-scrolling:touch;">
 
     <!-- Image 1 -->
-   <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-1.jpeg"
-           alt="Alwar trip photograph 1"
-           style="width:85%; height:320px; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+  <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/9f60b8ff273b428494bcb56b2f4aeb44a46c4c00/images/Lei%20Zhang%201.png"
+           alt="Prof. John McCarthy's talk"
+           style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
-
-    <!-- Image 2 -->
-  <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar%20-2.jpeg"
-           alt="Alwar trip photograph 2"
-           style="width:85%; height:320px; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+   <!-- Image 2 -->
+    <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/9f60b8ff273b428494bcb56b2f4aeb44a46c4c00/images/Lei-222.png"
+           alt="Moments from the mathematics talk"
+           style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
-
     <!-- Image 3 -->
-   <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-3.jpeg"
-           alt="Alwar trip photograph 3"
-           style="width:85%; height:320px; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-    </div>
-
-    <!-- Image 4 -->
-   <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-4.jpeg"
-           alt="Alwar trip photograph 4"
-           style="width:85%; height:320px; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-    </div>
-
-    <!-- Image 5 -->
-   <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-5.jpeg"
-           alt="Alwar trip photograph 5"
-           style="width:85%; height:320px; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-    </div>
-
-    <!-- Image 6 -->
-  <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/5c7caf661948b3840f40a2ba2325eedd835fd45b/images/Alwar-6.jpeg"
-           alt="Alwar trip photograph 6"
-           style="width:85%; height:320px; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    <div style="min-width:100%; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/9f60b8ff273b428494bcb56b2f4aeb44a46c4c00/images/Lei.png"
+           alt="Another moment from the talk"
+           style="width:auto; height:320px; max-width:85%; object-fit:contain; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
 
   </div>
 
-  <p style="font-family:Georgia,serif; font-size:0.85em; color:#b9d6b4; text-align:center; margin:5px 0 0;">
-    ← Swipe or scroll sideways to view the photographs →
+  <!-- Swipe Indicator -->
+  <p style="font-family:Georgia,serif; font-size:0.9em; color:#777; text-align:center; margin:8px 0 15px 0;">
+    ← Swipe or scroll sideways to view the other photographs →
   </p>
 
 </div>
+
 
 
 
