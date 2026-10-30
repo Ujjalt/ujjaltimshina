@@ -328,4 +328,18 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
     color:#d8ecd2;
   ">
   </div>
+  <div style="
+  margin-top:8px;
+  font-family: Georgia, serif;
+  font-size: 0.95rem;
+  font-style: italic;
+  color: #b9d6b4;
+  text-align: center;
+">
+  “We live on an island surrounded by a sea of ignorance. As our island of knowledge grows, so does the shore of our ignorance.”
+  <br>
+  <span style="font-style: normal; font-size: 0.85rem;">
+    — John Archibald Wheeler
+  </span>
+</div>
 </div>
