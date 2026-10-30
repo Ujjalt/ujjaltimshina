@@ -49,7 +49,7 @@ redirect_from:
   color: #b9d6b4;
   text-align: center;
 ">
-  Truth is rarely seen at a single scale.
+  Truth is rarely seen at a single scale. Regardless of its magnitude, a truth is best understood when conveyed by someone who has experienced it firsthand.
 </div>
 
 <div style="
