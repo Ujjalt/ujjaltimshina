@@ -49,7 +49,7 @@ redirect_from:
   color: #b9d6b4;
   text-align: center;
 ">
-  Truth is rarely seen at a single scale. Regardless of its magnitude, a truth is best understood when conveyed by someone who has experienced it firsthand.
+  Truth is rarely seen at a single scale. Regardless of its magnitude, the pursuit of truth is best guided by those who have walked the path, for their experience can illuminate the way for others.
 </div>
 
 <div style="
