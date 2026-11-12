@@ -253,6 +253,102 @@ I suppose that is one of the little joys of travelling. Sometimes, the best memo
 
 
 
+<div style="
+  background: #0e2e0e;
+  color: #e8f5e8;
+  padding: 22px;
+  border-radius: 12px;
+  font-family: Georgia, serif;
+  font-size: 16px;
+  line-height: 1.8;
+  margin: 20px 0;
+">
+
+  <h3 style="color: #e8f5e8; text-align: center; font-weight: normal;">
+    Dasain in Delhi
+  </h3>
+
+  <p style="text-align: center; color: #b9d6b4; font-size: 0.9rem; font-style: italic;">
+    21 October 2026
+  </p>
+
+  <p>
+    Festivals have a peculiar way of bringing people closer, especially when you are far away from home. On 21 October 2026, we decided to celebrate Dasain (Dussehra) in Delhi, away from the familiar hills, families, and traditions of home.
+  </p>
+
+  <p>
+    We were three PhD students at IIIT Delhi, brought together by a common connection to the hills. Roji and I are from Sikkim, while Sherap is from Darjeeling. Sherap, if I remember correctly, works in the area of quantum physics, while Roji works on <i>Collision Avoidance and Maneuver Planning for Satellites in Space</i>. Three different research journeys, but one shared desire to celebrate our festival together.
+  </p>
+
+  <p>
+    We decided to spend the day around Safdarjung, trying to recreate a little piece of home in the middle of Delhi. There was food, conversation, laughter, and, of course, an attempt at making traditional festive dishes.
+  </p>
+
+  <p>
+    Our <i>sel roti</i> did not turn out quite as properly as we had hoped, but that hardly mattered. The rest of the food was lovely, and the momos at Pema's Fast Food deserve a special mention. They were particularly good!
+  </p>
+
+  <p>
+    Perhaps the food was not entirely perfect, and the celebration was nothing elaborate, but there was something beautiful about spending Dasain with people who share a little of the same homeland. Sometimes, when you are away from home, it is not the grand celebrations you miss the most; it is the people, the familiar flavours, and the feeling of belonging.
+  </p>
+
+  <p style="text-align: center; font-style: italic; color: #b9d6b4;">
+    A little piece of Sikkim and Darjeeling, right here in Delhi.
+  </p>
+
+  <div style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
+    flex-wrap: wrap;
+    margin: 24px 0 10px 0;
+  ">
+
+   <a href="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/69dc19722f14b6fd7e52d442679e1f127c4e0042/images/Dasai.png" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/69dc19722f14b6fd7e52d442679e1f127c4e0042/images/Dasai.png"
+        alt="Dasain celebration in Delhi"
+        style="
+          width: 100%;
+          max-width: 340px;
+          height: 300px;
+          object-fit: cover;
+          border-radius: 10px;
+          display: block;
+        "
+      />
+    </a>
+
+   <a href="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/69dc19722f14b6fd7e52d442679e1f127c4e0042/images/Dasai-2.jpeg" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/69dc19722f14b6fd7e52d442679e1f127c4e0042/images/Dasai-2.jpeg"
+        alt="Friends celebrating Dasain"
+        style="
+          width: 100%;
+          max-width: 340px;
+          height: 300px;
+          object-fit: cover;
+          border-radius: 10px;
+          display: block;
+        "
+      />
+    </a>
+
+  </div>
+
+  <p style="
+    text-align: center;
+    font-size: 0.85rem;
+    font-style: italic;
+    color: #b9d6b4;
+    margin-top: 12px;
+  ">
+    Dasain, 21 October 2026 · Safdarjung, New Delhi
+  </p>
+
+</div>
+
 
 
 
