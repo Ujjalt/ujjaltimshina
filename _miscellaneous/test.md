@@ -213,6 +213,101 @@ I have a few rather peculiar little joys, too. I love the sound of a pen gliding
 
 <div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; line-height:1.8;">
 
+<h3 style="font-family:'Georgia',serif; color:#e8f5e8; margin-top:0;">An Uncertain Trip to Mussoorie — When Lansdowne Took a Different Turn</h3>
+
+<p align="center" style="margin:4px 0 10px;">
+  <strong style="font-family:'Georgia',serif; color:#e8f5e8;">6th–8th November 2026</strong>
+</p>
+
+<!-- Personal Note -->
+<div style="background:#0e2e0e; padding:12px 16px; border-radius:8px; margin-bottom:10px; color:#e8f5e8; font-family:Georgia,serif;">
+<p style="margin:0; line-height:1.65; color:#e8f5e8; font-family:Georgia,serif;">
+
+Some trips begin with a destination in mind, while others begin with absolutely no certainty about where we will end up. This little adventure to Mussoorie with my PhD colleague and friend Subhankar was certainly one of the latter. Our original plan was to visit Lansdowne, but, as it turned out, the mountains had a different destination waiting for us.
+
+We planned the trip once again on Friday morning. The idea was simple: visit Lansdowne over the weekend and return with a few memories. After finishing our work, we had an early dinner in the mess at around 7:30 PM and headed towards Kashmere Gate ISBT.
+
+However, the first surprise was waiting for us there. We couldn't find a direct bus to Kotdwar, the usual gateway for travelling towards Lansdowne. Kashmere Gate ISBT was unusually crowded, with people travelling in almost every direction. Perhaps the Diwali rush had something to do with it, although I am not entirely sure. Finding a suitable bus in that crowd was becoming increasingly difficult.
+
+After searching for a while, we came across a bus to Dehradun. Without giving it much thought, we decided to board it. And just like that, Lansdowne was out of the picture, and Mussoorie had entered our plans!
+
+We reached Dehradun at around 1:30 AM on Saturday. After the overnight journey, we decided to take some rest for a few hours before continuing towards the hills. In the morning, we headed towards the railway station area, where we found a bus going to Mussoorie.
+
+The journey from Dehradun to Mussoorie took approximately one hour and twenty minutes. It was one of the most peaceful stretches of road I had travelled on in a while. The winding roads, the surrounding mountains, and the gradual change in the landscape made the journey itself enjoyable.
+
+I must say, I really liked Dehradun. The city has a beautiful setting, surrounded by mountains, and there is something particularly charming about its valley-like landscape. Even though we were only passing through, I found myself appreciating the place quite a lot.
+
+Once we reached Mussoorie, we started exploring. Our first stop was Dalai Hills. The place offered beautiful views, and the atmosphere was quite refreshing. There is something about being surrounded by mountains that makes even an ordinary walk feel special. We spent some time enjoying the surroundings before moving towards our next destination.
+
+Next came Kempty Falls. It was certainly a beautiful natural spot, although the amount of commercialisation around it was hard to ignore. The place was quite crowded, with shops, visitors, and various activities around the waterfall. Nevertheless, the waterfall itself was worth seeing.
+
+We also visited a temple whose name, unfortunately, I cannot recall now. What I do remember quite clearly, though, is the magnificent view from there. Sometimes, the name of a place fades from memory, but the view stays with you.
+
+And then came Company Garden, which, honestly, was probably the biggest disappointment of the day. We did not particularly enjoy the place, and it was quite different from what we had expected. The only thing we genuinely appreciated there was the food! Perhaps that was the highlight of our visit to Company Garden.
+
+After exploring Mussoorie, we returned to Delhi on Saturday night. It was quite a packed day, especially considering that we had started our journey the previous evening and had barely slept properly.
+
+But there was one thing that made this trip particularly memorable for me. Subhankar was seeing the hills for the first time. I was curious to know what he thought about the entire experience. And after reaching Delhi, his review was absolutely priceless:
+
+"Kahan aa gaya yaar, itni achchi hawa khaakar!"
+
+I couldn't help laughing. Perhaps that was the most honest review of Mussoorie one could give!
+
+Looking back, it is amusing how a trip planned for Lansdowne ended up taking us to Mussoorie. We had no elaborate itinerary, no carefully arranged transport, and certainly no certainty about where we would spend the night. Yet, somehow, everything worked out.
+
+I suppose that is one of the little joys of travelling. Sometimes, the best memories come from plans that never quite go according to plan. And perhaps an uncertain journey, with the right company, is not such a bad idea after all.
+
+</p>
+</div>
+
+<!-- Swipeable Mussoorie Trip Photographs -->
+<div style="width:100%; max-width:750px; margin:0 auto 18px;">
+
+  <div style="width:100%; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; scrollbar-width:thin; -webkit-overflow-scrolling:touch;">
+  <!-- Image 1 -->
+    <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <div style="width:85%; height:320px; display:flex; justify-content:center; align-items:center;">
+        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8aabc516764b093f370f0e8ac87def7e13f5a7b0/images/Mussoorie-001.jpeg" alt="Mussoorie trip photograph 1" style="width:100%; height:100%; object-fit:contain; border-radius:8px;">
+      </div>
+    </div>
+    <!-- Image 2 -->
+    <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <div style="width:85%; height:320px; display:flex; justify-content:center; align-items:center;">
+        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8aabc516764b093f370f0e8ac87def7e13f5a7b0/images/Mussoorie-1.jpeg" alt="Mussoorie trip photograph 2" style="width:100%; height:100%; object-fit:contain; border-radius:8px;">
+      </div>
+    </div>
+    <!-- Image 3 -->
+    <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <div style="width:85%; height:320px; display:flex; justify-content:center; align-items:center;">
+        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8aabc516764b093f370f0e8ac87def7e13f5a7b0/images/Mussoorie-2.jpeg" alt="Mussoorie trip photograph 3" style="width:100%; height:100%; object-fit:contain; border-radius:8px;">
+      </div>
+    </div>
+    <!-- Image 4 -->
+    <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <div style="width:85%; height:320px; display:flex; justify-content:center; align-items:center;">
+        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8aabc516764b093f370f0e8ac87def7e13f5a7b0/images/Mussoorie-3.jpeg" alt="Mussoorie trip photograph 4" style="width:100%; height:100%; object-fit:contain; border-radius:8px;">
+      </div>
+    </div>
+    <!-- Image 5 -->
+    <div style="min-width:100%; height:320px; scroll-snap-align:center; display:flex; justify-content:center; align-items:center;">
+      <div style="width:85%; height:320px; display:flex; justify-content:center; align-items:center;">
+        <img src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/8aabc516764b093f370f0e8ac87def7e13f5a7b0/images/Mussoorie-4.jpeg" alt="Mussoorie trip photograph 5" style="width:100%; height:100%; object-fit:contain; border-radius:8px;">
+      </div>
+    </div>
+
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+<hr style="border-color:#2e5e2e; margin:25px 0;">
+
+<div style="background:#0e2e0e; padding:18px 22px; border-radius:8px; color:#e8f5e8; font-family:Georgia, serif; font-size:16px; line-height:1.8;">
+
 
 <h3 style="font-family:'Georgia',serif; color:#e8f5e8; margin-top:0;">Alwar, Rajasthan — A Weekend of Unexpected Adventures</h3>
 
