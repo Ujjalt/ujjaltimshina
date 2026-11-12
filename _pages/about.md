@@ -343,3 +343,13 @@ I have completed doctoral-level coursework in Reproducing Kernel Hilbert Spaces 
   </span>
 </div>
 </div>
+<div align="center" style="margin: 25px 0 15px 0;">
+  <a href="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/07b7d3b4b0b35a4b08d08837c1c4fd0920a2cbac/images/Best.jpg" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Ujjalt/ujjaltimshina/07b7d3b4b0b35a4b08d08837c1c4fd0920a2cbac/images/Best.jpg"
+      alt="A recent favourite moment"
+      width="380"
+      style="max-width: 90%; height: auto; border-radius: 12px; display: block; margin: auto;"
+    />
+  </a>
+</div>
