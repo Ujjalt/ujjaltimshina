@@ -189,7 +189,7 @@ The journey from Dehradun to Mussoorie took approximately one hour and twenty mi
 
 I must say, I really liked Dehradun. The city has a beautiful setting, surrounded by mountains, and there is something particularly charming about its valley-like landscape. Even though we were only passing through, I found myself appreciating the place quite a lot.
 
-Once we reached Mussoorie, we started exploring. Our first stop was Dalai Hills. The place offered beautiful views, and the atmosphere was quite refreshing. There is something about being surrounded by mountains that makes even an ordinary walk feel special. We spent some time enjoying the surroundings before moving towards our next destination.
+Once we reached Mussoorie, we started exploring. The place I admired the most was the Dalai Hills. The place offered beautiful views, and the atmosphere was quite refreshing. There is something about being surrounded by mountains that makes even an ordinary walk feel special. We spent some time enjoying the surroundings before moving towards our next destination.
 
 Next came Kempty Falls. It was certainly a beautiful natural spot, although the amount of commercialisation around it was hard to ignore. The place was quite crowded, with shops, visitors, and various activities around the waterfall. Nevertheless, the waterfall itself was worth seeing.
 
